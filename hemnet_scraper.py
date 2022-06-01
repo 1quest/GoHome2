@@ -4,6 +4,8 @@ from datetime import datetime
 import csv
 import json
 from config import ScraperConfig
+from selenium import webdriver
+from requests_html import HTMLSession
 
 API_KEY = ScraperConfig.GOOGLE_MAPS_API_KEY
 
@@ -42,17 +44,30 @@ class SlutPriserScraper:
             url = self.base_url
             if page > 1:
                 url += "&page=%d" % page
-
+            # More DOokie
+            # driver = webdriver.Firefox()
+            sessions = HTMLSession()
+            response = sessions.get(url)
             print("Fetching from URL", url)
-            response = get(url)
+            # response = get(url)
+            # End of DOokiE
             soup = BeautifulSoup(response.text, 'html.parser')
 
+            # ME TESTING SHIT
+            test = soup.findAll(
+                'div', attrs={'class': 'sold-property-listing'})
+            # print(str(soup))
+            # MY SHIT ENDS HERE
+
             for property_row in soup.findAll('div', attrs={'class': 'sold-property-listing'}):
+                print("FOUND A LISTING")
+                print(str(property_row))
+                print("FOUND A LISTING 2")
+                print(str(property_row.a))
                 listing = {}
                 property_link = property_row.a['href']
 
                 try:
-
                     location_div = property_row.find(
                         'div', attrs={'class': 'sold-property-listing__location'})
                     street_address = location_div.h2.findAll(
@@ -61,13 +76,13 @@ class SlutPriserScraper:
                     region = location.split(',')[-1].replace('\n', '').replace('\t', '').replace(
                         'Bostadsrättslägenhet', '').replace('\xa0', '').strip().replace('Bostadsrätt', '').replace(' ', '')
 
-                    ## Location normalization
+                    # Location normalization
                     normalized = False
 
                     for norm_loc in self.norm_locations:
                         if norm_loc in location:
                             location = norm_loc
-                            #print("Normalized location to", norm_loc)
+                            # print("Normalized location to", norm_loc)
                             normalized = True
                             break
 
@@ -177,7 +192,7 @@ class SlutPriserScraper:
                     print("Exception occurred", e)
                     print("Continuing with next listing...")
                     continue
-
+                print("APPENDING A LISTING")
                 self.listings.append(dict(listing))
 
     @staticmethod
@@ -208,7 +223,8 @@ class SlutPriserScraper:
     def to_csv(self):
         now = datetime.now()
         dt_string = now. strftime("%Y%m%d")
-        csv_filepath = f"csv/{dt_string}-housingprices.csv"
+        csv_filepath = "csv/AAAA-housingprices.csv"
+        print("WAGAWAGA"+str(len(self.listings)))
         keys = self.listings[0].keys()
 
         with open(csv_filepath, 'w') as output_file:
