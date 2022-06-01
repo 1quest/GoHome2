@@ -11,9 +11,9 @@ def Booli_ScrapeObjects(page, object_info):
             info[1] = info[1].strip(" kr/m²")
             info[2] = info[2].strip(" kr/mån")
             object_info.append(info)
-        try
-        info.insert(0, "https://www.booli.se" + links[j]["href"])
-#           FETCHING ADDRESS, # ROOMS AND M2
+        try:
+            info.insert(0, "https://www.booli.se" + links[j]["href"])
+# FETCHING ADDRESS, # ROOMS AND M2
         request_apartment = requests.get(info[0])
         soup_apartment = BeautifulSoup(request_apartment.text, 'lxml')
         address = soup_apartment.findAll('span',

@@ -1,4 +1,16 @@
 # MAIN ------
+import pyodbc
+# Connect function
+
+
+def mssql_connect(server, database, driver):
+    cnxn = pyodbc.connect('DRIVER='+driver
+                          + ';SERVER='+server
+                          + ';DATABASE='+database
+                          + ';Trusted_Connection=yes')
+    cursor = cnxn.cursor()
+    return cnxn, cursor
+
 
 # SQL INPUT PARAMETERS
 pyodbc.pooling = False
@@ -7,7 +19,7 @@ database = 'Booli'
 username = 'senek'
 password = 'senek'
 driver = '{ODBC Driver 13 for SQL Server}'
-cursor = mssql_connect(server, database, username, password, driver)
+cnxn, cursor = mssql_connect(server, database, username, password, driver)
 data = result.values.tolist()
 for i, item in enumerate(data):
     insert_query = "IF NOT EXISTS ( \
@@ -16,8 +28,7 @@ for i, item in enumerate(data):
     FROM \
     [Booli].[UpcomingSales] \
     WHERE \
-    [Link] = '" + str(item[0]) + "' AND
-    [DateInserted] = '"
+    [Link] = '" + str(item[0]) + " ' AND    [DateInserted] = '"
     + str(date.today()) + "') \
     BEGIN \
     INSERT INTO [Booli].[UpcomingSales] \
@@ -30,7 +41,8 @@ for i, item in enumerate(data):
         "," + str(item[6]) + \
         ",'" + str(item[7]) + \
         "','" + str(date.today()) + "') \
-    END"cursor.execute(insert_query)
+    END"
+    cursor.execute(insert_query)
 # Cleanup
 cnxn.commit()
 cursor.close()

@@ -1,3 +1,6 @@
+import BeautifulSoup
+
+
 def Booli_findNumberOfPagesData(url):
     request = requests.get(url)
     soup = BeautifulSoup(request.text, 'lxml')
@@ -11,6 +14,5 @@ def Booli_findNumberOfPagesData(url):
         numberOfObjects = 0
         numberOfPages = int(np.ceil(numberOfObjects/numberOfObjectsPerPage))
 
-
-return numberOfPages, numberOfObjectsPerPage
+        return numberOfPages, numberOfObjectsPerPage
 #   Loop through regions
