@@ -5,13 +5,12 @@ import csv
 import json
 from config import ScraperConfig
 from requests_html import HTMLSession
-import re
 
 API_KEY = ScraperConfig.GOOGLE_MAPS_API_KEY
 
 # Hemnet search result page will only show 50 pages.
 # Attempting to access page 51 or higher will return an error
-MAX_NUM_OF_PAGES = 2  # 50
+MAX_NUM_OF_PAGES = 50
 
 
 class SlutPriserScraper:
@@ -55,7 +54,6 @@ class SlutPriserScraper:
 
             for property_row in soup.findAll('li', attrs={'class': 'sold-results__normal-hit'}):
                 listing = {}
-                property_link = property_row.a['href']
 
                 # ME TESTING SHIT
                 # test = soup.findAll(
@@ -63,7 +61,7 @@ class SlutPriserScraper:
                 # print(str(test[1].a['href']))
                 location_div = property_row.find(
                     'div', attrs={'class': 'sold-property-listing__location'})
-                #street_address = location_div.h2.findAll(
+                # street_address = location_div.h2.findAll(
                 # 'span', attrs={'class': 'sold-property-listing__heading qa-selling-price-title'})[0].text
                 # print("2222 --- IM RIGHT HERE BBY")
                 # print(location_div.h2.text)
@@ -153,9 +151,6 @@ class SlutPriserScraper:
                         continue
 
                     # Fetch the initial price from property page
-                    listing_webpage = get(property_link)
-                    listing_soup = BeautifulSoup(
-                        listing_webpage.text, 'html.parser')
 
                     percentage_change = str(property_row.find(
                         'div', attrs={'class': 'sold-property-listing__price-change-and-price-per-m2'}).div.text)
@@ -210,7 +205,7 @@ class SlutPriserScraper:
     def to_csv(self):
         now = datetime.now()
         dt_string = now. strftime("%Y%m%d")
-        csv_filepath = "./csv/AAAA-housingprices.csv"
+        csv_filepath = "./csv/Hemnet-" + dt_string + ".csv"
         print("WAGAWAGA number of listings: "+str(len(self.listings)))
         keys = self.listings[0].keys()
 
