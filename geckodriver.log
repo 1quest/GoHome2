@@ -42,3 +42,10 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 DevTools listening on ws://localhost:58459/devtools/browser/6c09ff96-6f25-4625-b144-37ee3100167b
 Read port: 34611
 1654113545188	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1654120072075	Marionette	INFO	Stopped listening on port 35197
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1654120075476	Marionette	INFO	Stopped listening on port 34611
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.

@@ -4,14 +4,14 @@ from datetime import datetime
 import csv
 import json
 from config import ScraperConfig
-from selenium import webdriver
 from requests_html import HTMLSession
+import re
 
 API_KEY = ScraperConfig.GOOGLE_MAPS_API_KEY
 
 # Hemnet search result page will only show 50 pages.
 # Attempting to access page 51 or higher will return an error
-MAX_NUM_OF_PAGES = 50
+MAX_NUM_OF_PAGES = 2  # 50
 
 
 class SlutPriserScraper:
@@ -53,29 +53,34 @@ class SlutPriserScraper:
             # End of DOokiE
             soup = BeautifulSoup(response.text, 'html.parser')
 
-            # ME TESTING SHIT
-            test = soup.findAll(
-                'div', attrs={'class': 'sold-property-listing'})
-            # print(str(soup))
-            # MY SHIT ENDS HERE
-
-            for property_row in soup.findAll('div', attrs={'class': 'sold-property-listing'}):
-                print("FOUND A LISTING")
-                print(str(property_row))
-                print("FOUND A LISTING 2")
-                print(str(property_row.a))
+            for property_row in soup.findAll('li', attrs={'class': 'sold-results__normal-hit'}):
                 listing = {}
                 property_link = property_row.a['href']
 
+                # ME TESTING SHIT
+                # test = soup.findAll(
+                #     'li', attrs={'class': 'sold-results__normal-hit'})
+                # print(str(test[1].a['href']))
+                location_div = property_row.find(
+                    'div', attrs={'class': 'sold-property-listing__location'})
+                #street_address = location_div.h2.findAll(
+                # 'span', attrs={'class': 'sold-property-listing__heading qa-selling-price-title'})[0].text
+                # print("2222 --- IM RIGHT HERE BBY")
+                # print(location_div.h2.text)
+                # MY SHIT ENDS HERE
                 try:
                     location_div = property_row.find(
                         'div', attrs={'class': 'sold-property-listing__location'})
-                    street_address = location_div.h2.findAll(
-                        'span', attrs={'class': 'item-result-meta-attribute-is-bold item-link'})[0].text
+
+                    # print(location_div)
+                    street_address = location_div.h2.text.strip()  # .findAll(
+                    # 'span', attrs={'class': 'sold-property-listing__heading qa-selling-price-title'})[0].text
+
+                    # print(
+                    # re.sub(r"[\n\t\s]*", "", location_div.div.text.replace('Lägenhet', '').strip()))
                     location = location_div.div.text.strip()
                     region = location.split(',')[-1].replace('\n', '').replace('\t', '').replace(
                         'Bostadsrättslägenhet', '').replace('\xa0', '').strip().replace('Bostadsrätt', '').replace(' ', '')
-
                     # Location normalization
                     normalized = False
 
@@ -89,7 +94,6 @@ class SlutPriserScraper:
                     if not normalized:
                         location = location.split(',')[0].replace('\n', '').replace('\t', '').replace('Bostadsrättslägenhet', '').replace('\xa0', '').strip(
                         ).replace('Bostadsrätt', '').replace('Andelibostadsförening', '').replace(' ', '').split('/')[0].split('-')[0].split('\\')[0]
-
                     listing['region'] = region
                     listing['location'] = location
 
@@ -106,11 +110,11 @@ class SlutPriserScraper:
                         print(
                             "Skipping property as region or location parameter not found")
                         continue
-
                     size_div = property_row.find(
                         'div', attrs={'class': 'sold-property-listing__size'})
-                    size_and_rooms = size_div.div.find(
-                        'div', attrs={'class': 'sold-property-listing__subheading'}).text
+
+                    size_and_rooms = size_div.div.text  # find(
+                    # 'div', attrs={'class': 'sold-property-listing__subheading sold-property-listing__area'}).text
                     size_and_rooms = size_and_rooms.replace(
                         '\n', '').replace('\t', '').replace(' ', '')
                     if size_and_rooms[-6] == ",":
@@ -125,8 +129,8 @@ class SlutPriserScraper:
                         print("Skipping property as num_of_rooms parameter not found")
                         continue
 
-                    fee = size_div.div.find(
-                        'div', attrs={'class': 'sold-property-listing__fee'}).text
+                    fee = size_div.div.text  # find(
+                    # 'div', attrs = {'class': 'sold-property-listing__fee'}).text
                     fee = fee.replace('\n', '').replace('\t', '').replace(
                         ' ', '').split('kr')[0].replace('\xa0', '')
                     listing['fee'] = fee
@@ -137,7 +141,7 @@ class SlutPriserScraper:
 
                     final_price_div = property_row.find(
                         'div', attrs={'class': 'sold-property-listing__price'})
-                    final_price = final_price_div.div.span.text
+                    final_price = final_price_div.div.text
                     final_price = final_price.replace('\n', '').replace('\t', '').replace(
                         ' ', '').split('kr')[0].split('Slutpris')[-1].replace('\xa0', '')
                     listing['final_price'] = final_price
@@ -152,15 +156,16 @@ class SlutPriserScraper:
                         listing_webpage.text, 'html.parser')
 
                     price_stats = listing_soup.find(
-                        'dl', attrs={'class': 'sold-property__price-stats'})
+                        'dl', attrs={'class': 'sold-property-listing__price-change'})
 
+                    print("1111 --- IM RIGHT HERE BBY")
+                    print(str(listing_soup.find(
+                        'div', attrs={'class': 'sold-property-listing__subheading'})))
                     for dt, dd in zip(price_stats.findAll('dt'), price_stats.findAll('dd')):
                         if "Begärt" in dt.text:
                             initial_price = dd.text
-
                     initial_price = initial_price.replace('\n', '').replace(
                         '\t', '').replace(' ', '').replace('\xa0', '').replace('kr', '')
-
                     if not initial_price:
                         print(
                             "Skipping property as initial_price parameter not found")
@@ -171,6 +176,7 @@ class SlutPriserScraper:
                     attributes = listing_soup.find(
                         'dl', attrs={'class': 'sold-property__attributes'})
 
+                    print("2222 --- IM RIGHT HERE BBY")
                     for dt, dd in zip(attributes.findAll('dt'), attributes.findAll('dd')):
                         if "Bygg" in dt.text:
                             year_built = dd.text.split('-')[0]
@@ -223,8 +229,8 @@ class SlutPriserScraper:
     def to_csv(self):
         now = datetime.now()
         dt_string = now. strftime("%Y%m%d")
-        csv_filepath = "csv/AAAA-housingprices.csv"
-        print("WAGAWAGA"+str(len(self.listings)))
+        csv_filepath = "./csv/AAAA-housingprices.csv"
+        print("WAGAWAGA number of listings: "+str(len(self.listings)))
         keys = self.listings[0].keys()
 
         with open(csv_filepath, 'w') as output_file:
