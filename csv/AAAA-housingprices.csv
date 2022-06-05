@@ -1,101 +1,101 @@
 region,location,street_address,num_of_rooms,size,fee,final_price,initial_price
-Stockholmskommun,Bromma,Gustav III:s väg 76,3,83 ,83m²3rum,5100000,4811320
-Sundbybergskommun,LägenhetLägenhetUrsvik,Boplatsvägen 2,4,85 ,85m²4rum,4635000,4291666
-Stockholmskommun,LägenhetLägenhetHägersten,Klubbacken 39,2,51 ,51m²2rum,3300000,2796610
-Stockholmskommun,Södermalm,"Åsögatan 191, 1 tr",1,36 ,36m²1rum,3550000,2958333
-Stockholmskommun,LägenhetLägenhetSkärmarbrink,Thunbergsgatan 35,3,68 ,68m²3rum,5300000,4491525
-Solnakommun,LägenhetLägenhetHuvudsta,"Göran Perssons Väg 3, vån 2",3,83 ,83m²3rum,4200000,4491525
-Stockholmskommun,LägenhetLägenhetAnnedal,"Krakel Spektakels Gata 2, 4 tr",4,123 ,123m²4rum,6995000,6995000
-Sollentunakommun,LägenhetLägenhetRotebro,Vasavägen 84A,3,76 ,76m²3rum,2300000,2149532
-Stockholmskommun,LägenhetLägenhetAspudden,"Jarl Kulles gata 3, vån 2 av 5",2.5,63 ,"63m²2,5rum",4730000,4077586
-Stockholmskommun,LägenhetLägenhetFruängen,Fruängsgatan 39,4,108.7 ,"108,7m²4rum",6075000,5955882
-Stockholmskommun,LägenhetLägenhetMinneberg,Svartviksslingan 73,2.5,63.5 ,"63,5m²2,5rum",5260000,4495726
-Stockholmskommun,Vasastan,Sveavägen 89,1,40.5 ,"40,5m²1rum",3800000,2992125
-Stockholmskommun,LägenhetLägenhetÅrsta,Gullmarsvägen 81,2,54 ,54m²2rum,3650000,3201754
-Stockholmskommun,Östermalm,"Melodislingan 18, 4 tr",2,44 ,44m²2rum,5200000,5098039
-Stockholmskommun,LägenhetLägenhetBagarmossen,Emågatan 12,4,75 ,75m²4rum,4500000,4500000
-Nackakommun,LägenhetLägenhetOrminge,Betsövägen 8,2,54 ,54m²2rum,2160000,2160000
-Stockholmskommun,Hässelby,Aprikosgatan 82,2,57.5 ,"57,5m²2rum",2050000,1898148
-Solnakommun,Råsunda,"Gustafsvägen 12, 2 tr",3,65 ,65m²3rum,4175000,3976190
-Solnakommun,LägenhetLägenhetNäckrosen,Näckrosvägen 28,2,53 ,53m²2rum,3600000,3000000
-Nackakommun,LägenhetLägenhetÖstraOrminge,Storholmsvägen 50,6,115.5 ,"115,5m²6rum",4800000,4705882
-Solnakommun,LägenhetLägenhetSolna,"Fridensborgsvägen 113, egen uteplats!",1.5,31 ,"31m²1,5rum",2200000,2075471
-Sundbybergskommun,LägenhetLägenhetCentralaSundbyberg,Tulegatan 6E,1.5,37 ,"37m²1,5rum",2750000,2291666
-Stockholmskommun,Kungsholmen,"Wennerbergsgatan 6b, 6tr",2,49 ,49m²2rum,3875000,3799019
-Stockholmskommun,LägenhetLägenhetÖrbySlott,Tosterövägen 9,3,69.5 ,"69,5m²3rum",3350000,2791666
-Nackakommun,LägenhetLägenhetNacka,"Trillans väg 47, 2tr",4,94.5 ,"94,5m²4rum",4600000,3898305
-Stockholmskommun,Södermalm,"Mosebacke torg 8 A, 2 tr",5,101 ,101m²5rum,12500000,12500000
-Nackakommun,LägenhetLägenhetFinntorp,"Becksjudarvägen 33, 2tr",2,52 ,52m²2rum,2650000,2500000
-Stockholmskommun,LägenhetLägenhetRiksby,Mattvägen 7,3,72 ,72m²3rum,4400000,4313725
-Nackakommun,LägenhetLägenhetKvarnholmen,Mjölnarvägen 22,3.5,111.5 ,"111,5m²3,5rum",8500000,8500000
-Stockholmskommun,LägenhetLägenhetHökarängen,"Pepparvägen 62, 3 tr",4,91 ,91m²4rum,4740000,4194690
-Stockholmskommun,LägenhetLägenhetBandhagen,"Fågelstavägen 20, vån 3 av 3",2,55.5 ,"55,5m²2rum",2600000,2166666
-Stockholmskommun,LägenhetLägenhetHögdalen,Stenkvistavägen 12,2,49.5 ,"49,5m²2rum",2700000,2700000
-Stockholmskommun,Vasastan,Tre Liljor 5,2,37 ,37m²2rum,4100000,3980582
-Stockholmskommun,LägenhetLägenhetLiljeholmskajen,Sjöviksbacken 5,3,84 ,84m²3rum,6350000,5772727
-Stockholmskommun,Hässelby,Medsolsbacken 17 (Vån 1),4,100 ,100m²4rum,3450000,3254716
-Stockholmskommun,LägenhetLägenhetVästertorp,Piruettvägen 4 - UNDERHAND,2,63 ,63m²2rum,3750000,3254716
-Stockholmskommun,LägenhetLägenhetGloben,Bildhuggarvägen 15,2,39 ,39m²2rum,2860000,2486956
-Nackakommun,LägenhetLägenhetSaltsjöbadenLjuskärrsberget,Ljuskärrsvägen 63,3.5,78 ,"78m²3,5rum",3200000,3200000
-Stockholmskommun,LägenhetLägenhetGubbängen,Bordsvägen 27,1,41 ,41m²1rum,2410000,2190909
-Solnakommun,Hagastaden,Fogdevreten 6,2,55 ,55m²2rum,3150000,2739130
-Stockholmskommun,Södermalm,"Lundagatan 36E, 2tr",2,36 ,36m²2rum,3495000,3495000
-Stockholmskommun,Vasastan,"Upplandsgatan 28, 5 tr",5,125.5 ,"125,5m²5rum",13500000,13500000
-Stockholmskommun,LägenhetLägenhetÄlvsjö,Långsjövägen 58,2,45 ,45m²2rum,2800000,2393162
-Stockholmskommun,Kungsholmen,"Primusgatan 94, 3 tr",2,56 ,56m²2rum,5100000,5000000
-Stockholmskommun,LägenhetLägenhetEnskede,"Sofielundsvägen 12, 2 tr",2,53.5 ,"53,5m²2rum",3510000,3000000
-Stockholmskommun,LägenhetLägenhetHusby,Stavangergatan 50,3,76 ,76m²3rum,1800000,1500000
-Stockholmskommun,Bromma,Bergslagsvägen 43,1,40 ,40m²1rum,2325000,2094594
-Stockholmskommun,LägenhetLägenhetSpångaSolhem,Bennebolsgatan 40 ACCEPTERAT PRIS!,1.5,39.5 ,"39,5m²1,5rum",1825000,1771844
-Stockholmskommun,Midsommarkransen,Midsommarvägen 9,2,42 ,42m²2rum,2600000,2500000
-Stockholmskommun,Södermalm,"Tobaksspinnargatan 1, 2 tr",1,40 ,40m²1rum,3500000,3500000
-Stockholmskommun,Kungsholmen,"Sankt Göransgatan 85, vån 7",3,83 ,83m²3rum,11250000,9533898
-Stockholmskommun,LägenhetLägenhetHammarbyhöjden,"Garagevägen 15, 3 tr",3,78 ,78m²3rum,5550000,5000000
-Stockholmskommun,LägenhetLägenhetHagsätra,Porlabacken 47,1,28 ,28m²1rum,1600000,1391304
-Stockholmskommun,LägenhetLägenhetHägerstensåsen,Inteckningsvägen 17 i,2.5,65 ,"65m²2,5rum",3010000,2594827
-Nackakommun,LägenhetLägenhetSaltsjöbaden,Ljuskärrsvägen 8,2,44.5 ,"44,5m²2rum",2000000,1801801
-Stockholmskommun,Bromma,Ibsengatan 52,3,68 ,68m²3rum,3350000,3160377
-Stockholmskommun,LägenhetLägenhetEkhagen,Ekhagsvägen 2,2,64 ,64m²2rum,4300000,4215686
-Sollentunakommun,LägenhetLägenhetTureberg,Bagarbyvägen 18,4,85 ,85m²4rum,2600000,2500000
-Stockholmskommun,LägenhetLägenhetJohannesfred,Ståltrådsvägen 44,2,43.5 ,"43,5m²2rum",2300000,2300000
-Sundbybergskommun,LägenhetLägenhetSundbyberg,Forskningsringen 85A,2,61 ,61m²2rum,3350000,3190476
-Stockholmskommun,LägenhetLägenhetGröndal,"Sannadalsvägen 28, 2 / 2tr",2,45 ,45m²2rum,3650000,3650000
-Sollentunakommun,LägenhetLägenhetHelenelund,Stupvägen 13,4,90 ,90m²4rum,4030000,3766355
-Stockholmskommun,LägenhetLägenhetGullmarsplan,Grafikvägen 32,3,68 ,68m²3rum,4400000,4230769
-Solnakommun,LägenhetLägenhetFrösunda,"Signalistgatan 16, 3 tr",3,75 ,75m²3rum,5220000,4833333
-Stockholmskommun,LägenhetLägenhetSkärholmen,Ekholmsvägen 303,2,52 ,52m²2rum,2320000,1982905
-Stockholmskommun,LägenhetLägenhetFruängen,Ellen keys gata 24,1,36 ,36m²1rum,2200000,1746031
-Solnakommun,LägenhetLägenhetGamlaFilmstaden,Mauritz stillers väg 3,2,60 ,60m²2rum,3650000,3509615
-Sollentunakommun,LägenhetLägenhetEdsängen,Sörmlandsvägen 8,3,76 ,76m²3rum,3400000,3207547
-Stockholmskommun,LägenhetLägenhetAspudden,Hövdingagatan 29,1,35 ,35m²1rum,2600000,2385321
-Solnakommun,LägenhetLägenhetBergshamra,Björnstigen 125,2,58 ,58m²2rum,3410000,2991228
-Sollentunakommun,LägenhetLägenhetRotebro,Timotejvägen 11,3,73.5 ,"73,5m²3rum",2250000,2142857
-Stockholmskommun,LägenhetLägenhetLiljeholmskajen,Buteljgatan 24,2,46 ,46m²2rum,3600000,3600000
-Stockholmskommun,LägenhetLägenhetGullmarsplan,Grafikvägen 16,2,51 ,51m²2rum,3090000,2783783
-Solnakommun,LägenhetLägenhetBergshamra,Bergshamra Allé 99,3,90 ,90m²3rum,6200000,5210084
-Sollentunakommun,LägenhetLägenhetEdsberg,Ribbings Väg 12A,3.5,70 ,"70m²3,5rum",2300000,2190476
-Stockholmskommun,LägenhetLägenhetFarsta,Lingvägen 217,3,80 ,80m²3rum,3900000,2190476
-Stockholmskommun,LägenhetLägenhetJohanneshov,Sten Bergmans väg 13,4,113 ,113m²4rum,8300000,2190476
-Nackakommun,Sickla,Atlasvägen 61,4,90.5 ,"90,5m²4rum",6400000,6336633
-Stockholmskommun,Vasastan,"Tomtebogatan 22, 2 tr",3,80 ,80m²3rum,8875000,8787128
-Stockholmskommun,LägenhetLägenhetBandhagen,Skebokvarnsvägen 376,1,33 ,33m²1rum,1810000,1547008
-Stockholmskommun,Södermalm,Hornsgatan 55A,2,53 ,53m²2rum,5500000,4910714
-Stockholmskommun,Östermalm,Valhallavägen 148F,2,46 ,46m²2rum,4920000,4871287
-Stockholmskommun,Södermalm,Tavastgatan 23,2,40.9+7.9 ,"40,9+7,9m²2rum",5500000,5188679
-Solnakommun,LägenhetLägenhetHuvudsta,"Bygatan 33, 5 tr",4,112 ,112m²4rum,6000000,5504587
-Stockholmskommun,LägenhetLägenhetBagarmossen,"Svartågatan 74, 2tr",1.5,38 ,"38m²1,5rum",2250000,1973684
-Stockholmskommun,Södermalm,Assessorsgatan 18F,2,64 ,64m²2rum,5250000,5000000
-Solnakommun,LägenhetLägenhetArenastaden,"Evenemangsgatan 24, Vån 18",2,45 ,45m²2rum,3300000,2999999
-Stockholmskommun,LägenhetLägenhetKistagård,"Hanstavägen 94, Vån 3",2,59.5 ,"59,5m²2rum",2510000,2201754
-Solnakommun,LägenhetLägenhetHuvudsta,Jungfrudansen 16,2,64 ,64m²2rum,3600000,3302752
-Stockholmskommun,LägenhetLägenhetNorraDjurgårdsstaden,"Labradorgatan 26, 1tr",3,89.5 ,"89,5m²3rum",12250000,10745614
-Stockholmskommun,Vasastan,Klara Östra Kyrkogata 8F,3,73 ,73m²3rum,7500000,7009345
-Solnakommun,LägenhetLägenhetBergshamra,Mårdstigen 3 - Accepterat pris!,4,74.5 ,"74,5m²4rum",4000000,3921568
-Stockholmskommun,LägenhetLägenhetVästertorp,Skidvägen 16,4,82 ,82m²4rum,5000000,4310344
-Stockholmskommun,Kungsholmen,"Rålambsvägen 8C, 3tr",3,77.5 ,"77,5m²3rum",6100000,5980392
-Stockholmskommun,Södermalm,Götgatan 96A,2,35 ,35m²2rum,3725000,3449074
-Stockholmskommun,LägenhetLägenhetBjörkhagen,Lyckebyvägen 16,2,53 ,53m²2rum,4000000,3449074
-Stockholmskommun,LägenhetLägenhetÅrsta,Svärdlångsvägen 25,5,146.5 ,"146,5m²5rum",8350000,7522522
-Sollentunakommun,LägenhetLägenhetEdsberg,Kruthornsvägen 36,1.5,37 ,"37m²1,5rum",1650000,1499999
-Nackakommun,LägenhetLägenhetSALTSJÖ,Semaforvägen 51,4,102 ,102m²4rum,7425000,7004716
-Stockholmskommun,Bromma,Elias Lönnrots väg 21,2,59 ,59m²2rum,2900000,2500000
+Stockholmskommun,Bromma,Gustav III:s väg 76,3,83 ,2424,5100000,4811320
+Sundbybergskommun,LägenhetLägenhetUrsvik,Boplatsvägen 2,4,85 ,4725,4635000,4291666
+Stockholmskommun,LägenhetLägenhetHägersten,Klubbacken 39,2,51 ,2862,3300000,2796610
+Stockholmskommun,Södermalm,"Åsögatan 191, 1 tr",1,36 ,1921,3550000,2958333
+Stockholmskommun,LägenhetLägenhetSkärmarbrink,Thunbergsgatan 35,3,68 ,4466,5300000,4491525
+Solnakommun,LägenhetLägenhetHuvudsta,"Göran Perssons Väg 3, vån 2",3,83 ,4839,4200000,4491525
+Stockholmskommun,LägenhetLägenhetAnnedal,"Krakel Spektakels Gata 2, 4 tr",4,123 ,5463,6995000,6995000
+Sollentunakommun,LägenhetLägenhetRotebro,Vasavägen 84A,3,76 ,4293,2300000,2149532
+Stockholmskommun,LägenhetLägenhetAspudden,"Jarl Kulles gata 3, vån 2 av 5",2.5,63 ,3493,4730000,4077586
+Stockholmskommun,LägenhetLägenhetFruängen,Fruängsgatan 39,4,108.7 ,5280,6075000,5955882
+Stockholmskommun,LägenhetLägenhetMinneberg,Svartviksslingan 73,2.5,63.5 ,3472,5260000,4495726
+Stockholmskommun,Vasastan,Sveavägen 89,1,40.5 ,2020,3800000,2992125
+Stockholmskommun,LägenhetLägenhetÅrsta,Gullmarsvägen 81,2,54 ,3113,3650000,3201754
+Stockholmskommun,Östermalm,"Melodislingan 18, 4 tr",2,44 ,3503,5200000,5098039
+Stockholmskommun,LägenhetLägenhetBagarmossen,Emågatan 12,4,75 ,4501,4500000,4500000
+Nackakommun,LägenhetLägenhetOrminge,Betsövägen 8,2,54 ,3498,2160000,2160000
+Stockholmskommun,Hässelby,Aprikosgatan 82,2,57.5 ,4652,2050000,1898148
+Solnakommun,Råsunda,"Gustafsvägen 12, 2 tr",3,65 ,2862,4175000,3976190
+Solnakommun,LägenhetLägenhetNäckrosen,Näckrosvägen 28,2,53 ,3332,3600000,3000000
+Nackakommun,LägenhetLägenhetÖstraOrminge,Storholmsvägen 50,6,115.5 ,6489,4800000,4705882
+Solnakommun,LägenhetLägenhetSolna,"Fridensborgsvägen 113, egen uteplats!",1.5,31 ,2232,2200000,2075471
+Sundbybergskommun,LägenhetLägenhetCentralaSundbyberg,Tulegatan 6E,1.5,37 ,2017,2750000,2291666
+Stockholmskommun,Kungsholmen,"Wennerbergsgatan 6b, 6tr",2,49 ,2460,3875000,3799019
+Stockholmskommun,LägenhetLägenhetÖrbySlott,Tosterövägen 9,3,69.5 ,3741,3350000,2791666
+Nackakommun,LägenhetLägenhetNacka,"Trillans väg 47, 2tr",4,94.5 ,5894,4600000,3898305
+Stockholmskommun,Södermalm,"Mosebacke torg 8 A, 2 tr",5,101 ,5668,12500000,12500000
+Nackakommun,LägenhetLägenhetFinntorp,"Becksjudarvägen 33, 2tr",2,52 ,3015,2650000,2500000
+Stockholmskommun,LägenhetLägenhetRiksby,Mattvägen 7,3,72 ,4485,4400000,4313725
+Nackakommun,LägenhetLägenhetKvarnholmen,Mjölnarvägen 22,3.5,111.5 ,3901,8500000,8500000
+Stockholmskommun,LägenhetLägenhetHökarängen,"Pepparvägen 62, 3 tr",4,91 ,5460,4740000,4194690
+Stockholmskommun,LägenhetLägenhetBandhagen,"Fågelstavägen 20, vån 3 av 3",2,55.5 ,3510,2600000,2166666
+Stockholmskommun,LägenhetLägenhetHögdalen,Stenkvistavägen 12,2,49.5 ,3152,2700000,2700000
+Stockholmskommun,Vasastan,Tre Liljor 5,2,37 ,1854,4100000,3980582
+Stockholmskommun,LägenhetLägenhetLiljeholmskajen,Sjöviksbacken 5,3,84 ,4482,6350000,5772727
+Stockholmskommun,Hässelby,Medsolsbacken 17 (Vån 1),4,100 ,5610,3450000,3254716
+Stockholmskommun,LägenhetLägenhetVästertorp,Piruettvägen 4 - UNDERHAND,2,63 ,3866,3750000,3254716
+Stockholmskommun,LägenhetLägenhetGloben,Bildhuggarvägen 15,2,39 ,2778,2860000,2486956
+Nackakommun,LägenhetLägenhetSaltsjöbadenLjuskärrsberget,Ljuskärrsvägen 63,3.5,78 ,3944,3200000,3200000
+Stockholmskommun,LägenhetLägenhetGubbängen,Bordsvägen 27,1,41 ,2239,2410000,2190909
+Solnakommun,Hagastaden,Fogdevreten 6,2,55 ,3477,3150000,2739130
+Stockholmskommun,Södermalm,"Lundagatan 36E, 2tr",2,36 ,1846,3495000,3495000
+Stockholmskommun,Vasastan,"Upplandsgatan 28, 5 tr",5,125.5 ,6222,13500000,13500000
+Stockholmskommun,LägenhetLägenhetÄlvsjö,Långsjövägen 58,2,45 ,3204,2800000,2393162
+Stockholmskommun,Kungsholmen,"Primusgatan 94, 3 tr",2,56 ,3233,5100000,5000000
+Stockholmskommun,LägenhetLägenhetEnskede,"Sofielundsvägen 12, 2 tr",2,53.5 ,3011,3510000,3000000
+Stockholmskommun,LägenhetLägenhetHusby,Stavangergatan 50,3,76 ,5674,1800000,1500000
+Stockholmskommun,Bromma,Bergslagsvägen 43,1,40 ,2646,2325000,2094594
+Stockholmskommun,LägenhetLägenhetSpångaSolhem,Bennebolsgatan 40 ACCEPTERAT PRIS!,1.5,39.5 ,3061,1825000,1771844
+Stockholmskommun,Midsommarkransen,Midsommarvägen 9,2,42 ,3046,2600000,2500000
+Stockholmskommun,Södermalm,"Tobaksspinnargatan 1, 2 tr",1,40 ,2497,3500000,3500000
+Stockholmskommun,Kungsholmen,"Sankt Göransgatan 85, vån 7",3,83 ,4495,11250000,9533898
+Stockholmskommun,LägenhetLägenhetHammarbyhöjden,"Garagevägen 15, 3 tr",3,78 ,4335,5550000,5000000
+Stockholmskommun,LägenhetLägenhetHagsätra,Porlabacken 47,1,28 ,2043,1600000,1391304
+Stockholmskommun,LägenhetLägenhetHägerstensåsen,Inteckningsvägen 17 i,2.5,65 ,4937,3010000,2594827
+Nackakommun,LägenhetLägenhetSaltsjöbaden,Ljuskärrsvägen 8,2,44.5 ,2709,2000000,1801801
+Stockholmskommun,Bromma,Ibsengatan 52,3,68 ,3438,3350000,3160377
+Stockholmskommun,LägenhetLägenhetEkhagen,Ekhagsvägen 2,2,64 ,2329,4300000,4215686
+Sollentunakommun,LägenhetLägenhetTureberg,Bagarbyvägen 18,4,85 ,4169,2600000,2500000
+Stockholmskommun,LägenhetLägenhetJohannesfred,Ståltrådsvägen 44,2,43.5 ,2575,2300000,2300000
+Sundbybergskommun,LägenhetLägenhetSundbyberg,Forskningsringen 85A,2,61 ,3879,3350000,3190476
+Stockholmskommun,LägenhetLägenhetGröndal,"Sannadalsvägen 28, 2 / 2tr",2,45 ,3012,3650000,3650000
+Sollentunakommun,LägenhetLägenhetHelenelund,Stupvägen 13,4,90 ,3952,4030000,3766355
+Stockholmskommun,LägenhetLägenhetGullmarsplan,Grafikvägen 32,3,68 ,3881,4400000,4230769
+Solnakommun,LägenhetLägenhetFrösunda,"Signalistgatan 16, 3 tr",3,75 ,4163,5220000,4833333
+Stockholmskommun,LägenhetLägenhetSkärholmen,Ekholmsvägen 303,2,52 ,-,2320000,1982905
+Stockholmskommun,LägenhetLägenhetFruängen,Ellen keys gata 24,1,36 ,3310,2200000,1746031
+Solnakommun,LägenhetLägenhetGamlaFilmstaden,Mauritz stillers väg 3,2,60 ,3663,3650000,3509615
+Sollentunakommun,LägenhetLägenhetEdsängen,Sörmlandsvägen 8,3,76 ,4226,3400000,3207547
+Stockholmskommun,LägenhetLägenhetAspudden,Hövdingagatan 29,1,35 ,2236,2600000,2385321
+Solnakommun,LägenhetLägenhetBergshamra,Björnstigen 125,2,58 ,2167,3410000,2991228
+Sollentunakommun,LägenhetLägenhetRotebro,Timotejvägen 11,3,73.5 ,4692,2250000,2142857
+Stockholmskommun,LägenhetLägenhetLiljeholmskajen,Buteljgatan 24,2,46 ,2633,3600000,3600000
+Stockholmskommun,LägenhetLägenhetGullmarsplan,Grafikvägen 16,2,51 ,2898,3090000,2783783
+Solnakommun,LägenhetLägenhetBergshamra,Bergshamra Allé 99,3,90 ,4571,6200000,5210084
+Sollentunakommun,LägenhetLägenhetEdsberg,Ribbings Väg 12A,3.5,70 ,4105,2300000,2190476
+Stockholmskommun,LägenhetLägenhetFarsta,Lingvägen 217,3,80 ,4064,3900000,2190476
+Stockholmskommun,LägenhetLägenhetJohanneshov,Sten Bergmans väg 13,4,113 ,6328,8300000,2190476
+Nackakommun,Sickla,Atlasvägen 61,4,90.5 ,4314,6400000,6336633
+Stockholmskommun,Vasastan,"Tomtebogatan 22, 2 tr",3,80 ,3101,8875000,8787128
+Stockholmskommun,LägenhetLägenhetBandhagen,Skebokvarnsvägen 376,1,33 ,2471,1810000,1547008
+Stockholmskommun,Södermalm,Hornsgatan 55A,2,53 ,2194,5500000,4910714
+Stockholmskommun,Östermalm,Valhallavägen 148F,2,46 ,1951,4920000,4871287
+Stockholmskommun,Södermalm,Tavastgatan 23,2,40.9+7.9 ,2052,5500000,5188679
+Solnakommun,LägenhetLägenhetHuvudsta,"Bygatan 33, 5 tr",4,112 ,5434,6000000,5504587
+Stockholmskommun,LägenhetLägenhetBagarmossen,"Svartågatan 74, 2tr",1.5,38 ,3050,2250000,1973684
+Stockholmskommun,Södermalm,Assessorsgatan 18F,2,64 ,2352,5250000,5000000
+Solnakommun,LägenhetLägenhetArenastaden,"Evenemangsgatan 24, Vån 18",2,45 ,1822,3300000,2999999
+Stockholmskommun,LägenhetLägenhetKistagård,"Hanstavägen 94, Vån 3",2,59.5 ,3144,2510000,2201754
+Solnakommun,LägenhetLägenhetHuvudsta,Jungfrudansen 16,2,64 ,3335,3600000,3302752
+Stockholmskommun,LägenhetLägenhetNorraDjurgårdsstaden,"Labradorgatan 26, 1tr",3,89.5 ,4094,12250000,10745614
+Stockholmskommun,Vasastan,Klara Östra Kyrkogata 8F,3,73 ,747,7500000,7009345
+Solnakommun,LägenhetLägenhetBergshamra,Mårdstigen 3 - Accepterat pris!,4,74.5 ,4695,4000000,3921568
+Stockholmskommun,LägenhetLägenhetVästertorp,Skidvägen 16,4,82 ,4772,5000000,4310344
+Stockholmskommun,Kungsholmen,"Rålambsvägen 8C, 3tr",3,77.5 ,4354,6100000,5980392
+Stockholmskommun,Södermalm,Götgatan 96A,2,35 ,1026,3725000,3449074
+Stockholmskommun,LägenhetLägenhetBjörkhagen,Lyckebyvägen 16,2,53 ,3204,4000000,3449074
+Stockholmskommun,LägenhetLägenhetÅrsta,Svärdlångsvägen 25,5,146.5 ,7602,8350000,7522522
+Sollentunakommun,LägenhetLägenhetEdsberg,Kruthornsvägen 36,1.5,37 ,2322,1650000,1499999
+Nackakommun,LägenhetLägenhetSALTSJÖ,Semaforvägen 51,4,102 ,5190,7425000,7004716
+Stockholmskommun,Bromma,Elias Lönnrots väg 21,2,59 ,3058,2900000,2500000

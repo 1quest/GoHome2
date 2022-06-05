@@ -113,8 +113,7 @@ class SlutPriserScraper:
                     size_div = property_row.find(
                         'div', attrs={'class': 'sold-property-listing__size'})
 
-                    size_and_rooms = size_div.div.text  # find(
-                    # 'div', attrs={'class': 'sold-property-listing__subheading sold-property-listing__area'}).text
+                    size_and_rooms = size_div.div.text
                     size_and_rooms = size_and_rooms.replace(
                         '\n', '').replace('\t', '').replace(' ', '')
                     if size_and_rooms[-6] == ",":
@@ -128,11 +127,14 @@ class SlutPriserScraper:
                     if not num_of_rooms or not size:
                         print("Skipping property as num_of_rooms parameter not found")
                         continue
-
-                    fee = size_div.div.text  # find(
-                    # 'div', attrs = {'class': 'sold-property-listing__fee'}).text
-                    fee = fee.replace('\n', '').replace('\t', '').replace(
-                        ' ', '').split('kr')[0].replace('\xa0', '')
+                    fee = property_row.find(
+                        'div', attrs={'class': 'sold-property-listing__fee'})
+                    if hasattr(fee, 'text'):
+                        fee = fee.text
+                        fee = fee.replace('\n', '').replace('\t', '').replace(
+                            ' ', '').replace('kr/mån', '').replace('\xa0', '')
+                    else:
+                        fee = '-'
                     listing['fee'] = fee
 
                     if not fee:
