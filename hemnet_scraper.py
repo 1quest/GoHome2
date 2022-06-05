@@ -155,41 +155,20 @@ class SlutPriserScraper:
                     listing_soup = BeautifulSoup(
                         listing_webpage.text, 'html.parser')
 
-                    price_stats = listing_soup.find(
-                        'dl', attrs={'class': 'sold-property-listing__price-change'})
-
-                    print("1111 --- IM RIGHT HERE BBY")
-                    print(str(listing_soup.find(
-                        'div', attrs={'class': 'sold-property-listing__subheading'})))
-                    for dt, dd in zip(price_stats.findAll('dt'), price_stats.findAll('dd')):
-                        if "Begärt" in dt.text:
-                            initial_price = dd.text
-                    initial_price = initial_price.replace('\n', '').replace(
-                        '\t', '').replace(' ', '').replace('\xa0', '').replace('kr', '')
+                    percentage_change = str(property_row.find(
+                        'div', attrs={'class': 'sold-property-listing__price-change-and-price-per-m2'}).div.text)
+                    if "%" in percentage_change:
+                        initial_price = percentage_change
+                        initial_price = initial_price.replace('\n', '').replace(
+                            '\t', '').replace(' ', '').replace('\xa0', '').replace('%', '').replace('±', '').replace('-', '').replace('+', '')
+                        initial_price = int(
+                            int(final_price)/(1+int(initial_price)/100))
                     if not initial_price:
                         print(
                             "Skipping property as initial_price parameter not found")
                         continue
 
                     listing['initial_price'] = initial_price
-
-                    attributes = listing_soup.find(
-                        'dl', attrs={'class': 'sold-property__attributes'})
-
-                    print("2222 --- IM RIGHT HERE BBY")
-                    for dt, dd in zip(attributes.findAll('dt'), attributes.findAll('dd')):
-                        if "Bygg" in dt.text:
-                            year_built = dd.text.split('-')[0]
-                        elif "Drift" in dt.text:
-                            mgmt_cost = dd.text.split('kr')[0].replace(
-                                ' ', '').replace('\xa0', '')
-
-                    if not year_built or not mgmt_cost:
-                        print(
-                            "Skipping property as year_built or mgmt_cost parameter not found")
-                        continue
-
-                    listing['year_built'] = year_built
 
                 except ValueError as ve:
                     print(ve)
