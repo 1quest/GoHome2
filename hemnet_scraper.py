@@ -76,7 +76,7 @@ class SlutPriserScraper:
 
                     # print(
                     # re.sub(r"[\n\t\s]*", "", location_div.div.text.replace('Lägenhet', '').strip()))
-                    location = location_div.div.text.strip()
+                    location = location_div.div.text.strip().replace('Lägenhet', '')
                     region = location.split(',')[-1].replace('\n', '').replace('\t', '').replace(
                         'Bostadsrättslägenhet', '').replace('\xa0', '').strip().replace('Bostadsrätt', '').replace(' ', '')
                     # Location normalization
@@ -91,7 +91,7 @@ class SlutPriserScraper:
 
                     if not normalized:
                         location = location.split(',')[0].replace('\n', '').replace('\t', '').replace('Bostadsrättslägenhet', '').replace('\xa0', '').strip(
-                        ).replace('Bostadsrätt', '').replace('Andelibostadsförening', '').replace(' ', '').split('/')[0].split('-')[0].split('\\')[0]
+                        ).replace('Bostadsrätt', '').replace('Andelibostadsförening', '').replace(' ', '').split('/')[0].split('-')[0].split('\\')[0].replace('Lägenhet', '')
                     listing['region'] = region
                     listing['location'] = location
 
@@ -119,8 +119,11 @@ class SlutPriserScraper:
                     else:
                         num_of_rooms = size_and_rooms[-5]
                     listing['num_of_rooms'] = num_of_rooms
-                    size = size_and_rooms.split('m')[0].replace(',', '.')
-                    listing['size'] = size
+                    size = size_and_rooms.split('m²')[0].split('+')[0].replace(
+                        ',', '.').replace(' ', '')
+                    print(len(size))
+                    print(size)
+                    listing['size'] = float(size)
 
                     if not num_of_rooms or not size:
                         print("Skipping property as num_of_rooms parameter not found")
@@ -174,7 +177,7 @@ class SlutPriserScraper:
                     print("Exception occurred", e)
                     print("Continuing with next listing...")
                     continue
-                print("APPENDING A LISTING")
+                # print("APPENDING A LISTING")
                 self.listings.append(dict(listing))
 
     @staticmethod

@@ -1,0 +1,18 @@
+{% extends 'base.html' %}
+
+{% block content %}
+    <h1>{% block title %} Welcome to Hemnets data {% endblock %}</h1>
+    <div class="row">
+
+     <div class="col-md-6">
+       <h2>Picture 1</h2>
+       <img src="/plot.png" alt="my plot" style="width:100%">
+     </div>
+
+     <div class="col-md-6">
+       <h2>Picture 2</h2>
+       <img src="/plot_scatter.png" alt="my plot" style="width:100%">
+     </div>
+
+    </div>
+{% endblock %}

@@ -1,0 +1,2501 @@
+region,location,street_address,num_of_rooms,size,fee,final_price,initial_price
+Stockholmskommun,Bromma,Gustav III:s väg 76,3,83.0,2424,5100000,4811320
+Sundbybergskommun,Ursvik,Boplatsvägen 2,4,85.0,4725,4635000,4291666
+Stockholmskommun,Hägersten,Klubbacken 39,2,51.0,2862,3300000,2796610
+Stockholmskommun,Södermalm,"Åsögatan 191, 1 tr",1,36.0,1921,3550000,2958333
+Stockholmskommun,Skärmarbrink,Thunbergsgatan 35,3,68.0,4466,5300000,4491525
+Stockholmskommun,Södermalm,Urvädersgränd 6C Ö.G,2,39.0,1367,4300000,3805309
+Solnakommun,Huvudsta,"Göran Perssons Väg 3, vån 2",3,83.0,4839,4200000,3805309
+Stockholmskommun,HammarbySjöstad,"Virkesvägen 9G, HÖGST UPP!",2,57.5,3257,5000000,4587155
+Stockholmskommun,Hornstull,Långholmsgatan 13,1,25.0,1446,2480000,2455445
+Stockholmskommun,Annedal,"Krakel Spektakels Gata 2, 4 tr",4,123.0,5463,6995000,6995000
+Sollentunakommun,Rotebro,Vasavägen 84A,3,76.0,4293,2300000,2149532
+Stockholmskommun,Aspudden,"Jarl Kulles gata 3, vån 2 av 5",2.5,63.0,3493,4730000,4077586
+Stockholmskommun,GamlaEnskede,Nynäsvägen 313,1,45.5,2843,3200000,2500000
+Stockholmskommun,Fruängen,Fruängsgatan 39,4,108.7,5280,6075000,5955882
+Stockholmskommun,Minneberg,Svartviksslingan 73,2.5,63.5,3472,5260000,4495726
+Stockholmskommun,Vasastan,Sveavägen 89,1,40.5,2020,3800000,2992125
+Stockholmskommun,ÖrbySlott,Gimmerstavägen 10,1,22.4,1469,1500000,1293103
+Stockholmskommun,Årsta,Gullmarsvägen 81,2,54.0,3113,3650000,3201754
+Stockholmskommun,Östermalm,"Melodislingan 18, 4 tr",2,44.0,3503,5200000,5098039
+Stockholmskommun,Bagarmossen,Emågatan 12,4,75.0,4501,4500000,4500000
+Nackakommun,Orminge,Betsövägen 8,2,54.0,3498,2160000,2160000
+Stockholmskommun,Hässelby,Aprikosgatan 82,2,57.5,4652,2050000,1898148
+Solnakommun,Råsunda,"Gustafsvägen 12, 2 tr",3,65.0,2862,4175000,3976190
+Solnakommun,Näckrosen,Näckrosvägen 28,2,53.0,3332,3600000,3000000
+Nackakommun,ÖstraOrminge,Storholmsvägen 50,6,115.5,6489,4800000,4705882
+Solnakommun,Solna,"Fridensborgsvägen 113, egen uteplats!",1.5,31.0,2232,2200000,2075471
+Sundbybergskommun,CentralaSundbyberg,Tulegatan 6E,1.5,37.0,2017,2750000,2291666
+Stockholmskommun,Kungsholmen,"Wennerbergsgatan 6b, 6tr",2,49.0,2460,3875000,3799019
+Stockholmskommun,ÖrbySlott,Tosterövägen 9,3,69.5,3741,3350000,2791666
+Nackakommun,Nacka,"Trillans väg 47, 2tr",4,94.5,5894,4600000,3898305
+Stockholmskommun,Södermalm,"Mosebacke torg 8 A, 2 tr",5,101.0,5668,12500000,12500000
+Nackakommun,Finntorp,"Becksjudarvägen 33, 2tr",2,52.0,3015,2650000,2500000
+Stockholmskommun,Riksby,Mattvägen 7,3,72.0,4485,4400000,4313725
+Nackakommun,Kvarnholmen,Mjölnarvägen 22,3.5,111.5,3901,8500000,8500000
+Stockholmskommun,Hökarängen,"Pepparvägen 62, 3 tr",4,91.0,5460,4740000,4194690
+Stockholmskommun,Bandhagen,"Fågelstavägen 20, vån 3 av 3",2,55.5,3510,2600000,2166666
+Stockholmskommun,Högdalen,Stenkvistavägen 12,2,49.5,3152,2700000,2700000
+Stockholmskommun,Vasastan,Tre Liljor 5,2,37.0,1854,4100000,3980582
+Stockholmskommun,Liljeholmskajen,Sjöviksbacken 5,3,84.0,4482,6350000,5772727
+Stockholmskommun,Hässelby,Medsolsbacken 17 (Vån 1),4,100.0,5610,3450000,3254716
+Stockholmskommun,Västertorp,Piruettvägen 4 - UNDERHAND,2,63.0,3866,3750000,3254716
+Stockholmskommun,Globen,Bildhuggarvägen 15,2,39.0,2778,2860000,2486956
+Nackakommun,SaltsjöbadenLjuskärrsberget,Ljuskärrsvägen 63,3.5,78.0,3944,3200000,3200000
+Stockholmskommun,Gubbängen,Bordsvägen 27,1,41.0,2239,2410000,2190909
+Solnakommun,Hagastaden,Fogdevreten 6,2,55.0,3477,3150000,2739130
+Stockholmskommun,Södermalm,"Lundagatan 36E, 2tr",2,36.0,1846,3495000,3495000
+Stockholmskommun,Vasastan,"Upplandsgatan 28, 5 tr",5,125.5,6222,13500000,13500000
+Stockholmskommun,Älvsjö,Långsjövägen 58,2,45.0,3204,2800000,2393162
+Stockholmskommun,Kungsholmen,"Primusgatan 94, 3 tr",2,56.0,3233,5100000,5000000
+Stockholmskommun,Enskede,"Sofielundsvägen 12, 2 tr",2,53.5,3011,3510000,3000000
+Stockholmskommun,Husby,Stavangergatan 50,3,76.0,5674,1800000,1500000
+Stockholmskommun,Bromma,Bergslagsvägen 43,1,40.0,2646,2325000,2094594
+Stockholmskommun,SpångaSolhem,Bennebolsgatan 40 ACCEPTERAT PRIS!,1.5,39.5,3061,1825000,1771844
+Stockholmskommun,Midsommarkransen,Midsommarvägen 9,2,42.0,3046,2600000,2500000
+Stockholmskommun,Södermalm,"Tobaksspinnargatan 1, 2 tr",1,40.0,2497,3500000,3500000
+Stockholmskommun,Kungsholmen,"Sankt Göransgatan 85, vån 7",3,83.0,4495,11250000,9533898
+Stockholmskommun,Hammarbyhöjden,"Garagevägen 15, 3 tr",3,78.0,4335,5550000,5000000
+Stockholmskommun,Hagsätra,Porlabacken 47,1,28.0,2043,1600000,1391304
+Stockholmskommun,Hägerstensåsen,Inteckningsvägen 17 i,2.5,65.0,4937,3010000,2594827
+Nackakommun,Saltsjöbaden,Ljuskärrsvägen 8,2,44.5,2709,2000000,1801801
+Stockholmskommun,Bromma,Ibsengatan 52,3,68.0,3438,3350000,3160377
+Stockholmskommun,Ekhagen,Ekhagsvägen 2,2,64.0,2329,4300000,4215686
+Sollentunakommun,Tureberg,Bagarbyvägen 18,4,85.0,4169,2600000,2500000
+Stockholmskommun,Johannesfred,Ståltrådsvägen 44,2,43.5,2575,2300000,2300000
+Sundbybergskommun,Sundbyberg,Forskningsringen 85A,2,61.0,3879,3350000,3190476
+Stockholmskommun,Gröndal,"Sannadalsvägen 28, 2 / 2tr",2,45.0,3012,3650000,3650000
+Sollentunakommun,Helenelund,Stupvägen 13,4,90.0,3952,4030000,3766355
+Stockholmskommun,Gullmarsplan,Grafikvägen 32,3,68.0,3881,4400000,4230769
+Solnakommun,Frösunda,"Signalistgatan 16, 3 tr",3,75.0,4163,5220000,4833333
+Stockholmskommun,Skärholmen,Ekholmsvägen 303,2,52.0,-,2320000,1982905
+Stockholmskommun,Fruängen,Ellen keys gata 24,1,36.0,3310,2200000,1746031
+Solnakommun,GamlaFilmstaden,Mauritz stillers väg 3,2,60.0,3663,3650000,3509615
+Sollentunakommun,Edsängen,Sörmlandsvägen 8,3,76.0,4226,3400000,3207547
+Stockholmskommun,Aspudden,Hövdingagatan 29,1,35.0,2236,2600000,2385321
+Solnakommun,Bergshamra,Björnstigen 125,2,58.0,2167,3410000,2991228
+Sollentunakommun,Rotebro,Timotejvägen 11,3,73.5,4692,2250000,2142857
+Stockholmskommun,Liljeholmskajen,Buteljgatan 24,2,46.0,2633,3600000,3600000
+Stockholmskommun,Gullmarsplan,Grafikvägen 16,2,51.0,2898,3090000,2783783
+Solnakommun,Bergshamra,Bergshamra Allé 99,3,90.0,4571,6200000,5210084
+Sollentunakommun,Edsberg,Ribbings Väg 12A,3.5,70.0,4105,2300000,2190476
+Stockholmskommun,Farsta,Lingvägen 217,3,80.0,4064,3900000,2190476
+Stockholmskommun,Johanneshov,Sten Bergmans väg 13,4,113.0,6328,8300000,2190476
+Nackakommun,Sickla,Atlasvägen 61,4,90.5,4314,6400000,6336633
+Stockholmskommun,Vasastan,"Tomtebogatan 22, 2 tr",3,80.0,3101,8875000,8787128
+Stockholmskommun,Bandhagen,Skebokvarnsvägen 376,1,33.0,2471,1810000,1547008
+Stockholmskommun,Södermalm,Hornsgatan 55A,2,53.0,2194,5500000,4910714
+Stockholmskommun,Östermalm,Valhallavägen 148F,2,46.0,1951,4920000,4871287
+Stockholmskommun,Södermalm,Tavastgatan 23,2,40.9,2052,5500000,5188679
+Solnakommun,Huvudsta,"Bygatan 33, 5 tr",4,112.0,5434,6000000,5504587
+Stockholmskommun,Bagarmossen,"Svartågatan 74, 2tr",1.5,38.0,3050,2250000,1973684
+Stockholmskommun,Södermalm,Assessorsgatan 18F,2,64.0,2352,5250000,5000000
+Solnakommun,Arenastaden,"Evenemangsgatan 24, Vån 18",2,45.0,1822,3300000,2999999
+Stockholmskommun,Kistagård,"Hanstavägen 94, Vån 3",2,59.5,3144,2510000,2201754
+Solnakommun,Huvudsta,Jungfrudansen 16,2,64.0,3335,3600000,3302752
+Stockholmskommun,NorraDjurgårdsstaden,"Labradorgatan 26, 1tr",3,89.5,4094,12250000,10745614
+Stockholmskommun,Vasastan,Klara Östra Kyrkogata 8F,3,73.0,747,7500000,7009345
+Solnakommun,Bergshamra,Mårdstigen 3 - Accepterat pris!,4,74.5,4695,4000000,3921568
+Stockholmskommun,Västertorp,Skidvägen 16,4,82.0,4772,5000000,4310344
+Stockholmskommun,Kungsholmen,"Rålambsvägen 8C, 3tr",3,77.5,4354,6100000,5980392
+Stockholmskommun,Södermalm,Götgatan 96A,2,35.0,1026,3725000,3449074
+Stockholmskommun,Björkhagen,Lyckebyvägen 16,2,53.0,3204,4000000,3449074
+Stockholmskommun,Årsta,Svärdlångsvägen 25,5,146.5,7602,8350000,7522522
+Sollentunakommun,Edsberg,Kruthornsvägen 36,1.5,37.0,2322,1650000,1499999
+Nackakommun,SALTSJÖ,Semaforvägen 51,4,102.0,5190,7425000,7004716
+Stockholmskommun,Bromma,Elias Lönnrots väg 21,2,59.0,3058,2900000,2500000
+Stockholmskommun,Sveakvarteren,Melodislingan 50,2,55.5,4598,5400000,4909090
+Stockholmskommun,Beckomberga,Alabastervägen 5,3,74.0,4489,3820000,3504587
+Stockholmskommun,Enskededalen,"Bersågränd 8, 2tr",2,64.0,2734,3050000,2798165
+Stockholmskommun,HammarbySjöstad,"Sjöfartsgatan 15, 4 tr",3,62.5,3554,5325000,5169902
+Stockholmskommun,Kungsholmen,"Svarvargatan 3, 1tr",3,72.0,3266,6750000,6367924
+Stockholmskommun,HammarbySjöstad,Sickla kanalgata 51,3,77.0,4629,6250000,6127450
+Stockholmskommun,Fruängen,Fredrika Bremers gata 15,2,66.0,5183,2350000,2098214
+Stockholmskommun,Vasastan,"Birger Jarlsgatan 97A, 3 tr",2,63.0,2619,6300000,2098214
+Stockholmskommun,Kungsholmen,"Runiusgatan 7, 2tr",2,38.0,1703,3050000,2798165
+Stockholmskommun,Bromma,Säterivägen 21,1,30.0,2161,1995000,1995000
+Stockholmskommun,Björkhagen,Svalövsvägen 10,2,58.0,2649,3700000,3490566
+Stockholmskommun,Hornsbergsstrand,"Lindhagensgatan 149, 3tr",2,68.0,3424,7000000,7000000
+Stockholmskommun,Hässelby,Sällhetsvägen 58,4,81.0,3157,3970000,3970000
+Stockholmskommun,Sätra,Kungssätravägen 30- Renoverings chans,3,86.0,2440,2400000,2400000
+Nackakommun,Tollare,Tollareslingan 7,6,156.0,6940,12000000,11428571
+Solnakommun,Järvastaden,Fridensborgsvägen 117,1.5,40.0,2622,2312000,2244660
+Nackakommun,Nacka,"Tre kronors väg 43, 2tr",3,69.0,3988,4625000,4490291
+Stockholmskommun,Årsta,"Hjälmarsvägen 24 A, 5 tr, seniorboende 55+",2,59.0,4195,3420000,3288461
+Stockholmskommun,Årsta,Borensvägen 34,2,43.0,2908,2375000,2375000
+Nackakommun,Nacka,Henriksdalsringen 39,3,81.0,5222,4400000,3999999
+Stockholmskommun,Vasastan,"Tomtebogatan 46, 3,5 tr",2,33.0,1783,4250000,4009433
+Stockholmskommun,Nockeby,Grönviksvägen 179B,5,115.0,5029,12800000,11962616
+Stockholmskommun,Hägerstensåsen,"Lotterivägen 12, vån 2",2,56.0,3408,3570000,3000000
+Stockholmskommun,Östermalm,Valhallavägen 14,2,65.0,2453,7860000,7415094
+Stockholmskommun,Kungsholmen,"Norr Mälarstrand 68, 6tr",2.5,86.0,3291,10600000,10495049
+Stockholmskommun,Fruängen,Ellen Keys gata 95,1.5,36.0,2201,2415000,2195454
+Stockholmskommun,Bromma,Björkbacksvägen 34,3,64.0,5280,2875000,2846534
+Stockholmskommun,Östermalm,Nybrogatan  73A,3,80.0,1716,10250000,10049019
+Stockholmskommun,Bromma,Holbergsgatan 90,2,49.0,3124,2500000,2500000
+Stockholmskommun,Östermalm,Surbrunnsgatan 16,4,97.0,5065,12150000,11462264
+Stockholmskommun,Solberga,"Sandalmakarbacken 3, vån 1",3,88.0,3543,3450000,3000000
+Stockholmskommun,Södermalm,"Tegelviksgatan 47, 3 tr",3,90.0,5272,7300000,7087378
+Stockholmskommun,Bromma,"Beckomberga ängsväg 4, vån 4 / 4",3,72.0,4033,4050000,3749999
+Stockholmskommun,Fruängen,Elsa Borgs Gata 33,2,59.0,3590,3350000,3350000
+Stockholmskommun,Södermalm,"Åsögatan 102, Vån 6",2,48.0,2476,5700000,5089285
+Stockholmskommun,Bromma,Mössebergsvägen 30,3,57.0,3251,4150000,5089285
+Stockholmskommun,Södermalm,Fatburs Brunnsgata 11,4,86.0,4989,7250000,6904761
+Nackakommun,Nacka,Kantatvägen 25,3,76.0,5371,3350000,2887931
+Stockholmskommun,Bromma,Kinnekullevägen 30A,2,35.0,2505,2610000,2289473
+Stockholmskommun,Hammarbysjöstad,"Fartygsgatan 6, 2tr",2,55.5,3733,4300000,2289473
+Stockholmskommun,Vällingby,Multrågatan 19,4,84.8,5361,2750000,2750000
+Nackakommun,VästraOrminge,Utövägen 14,3,93.0,5565,3100000,2649572
+Stockholmskommun,Katarina,Mariagränd 1,2,33.0,744,3810000,3463636
+Stockholmskommun,Katarina,"Östgötagatan 53, 3 tr",2,46.0,1129,4650000,4514563
+Solnakommun,Frösunda,"Gustav III:s Boulevard 19, Etagelägenhet",4,89.0,5509,5945000,5886138
+Stockholmskommun,Enskededalen,Grusåsgränd 10,3,103.0,5113,5100000,4678899
+Stockholmskommun,NorraDjurgårdsstaden,"Fågelhundsgatan 20, 5 / 5 Tr!",4,119.0,6213,16450000,4678899
+Stockholmskommun,Farsta,"Hammarögatan 26, 2 tr",4,93.0,5446,4555000,4678899
+Stockholmskommun,Vällingby,Jämtlandsgatan 97 (Vån 8),2,66.0,3483,3320000,2886956
+Stockholmskommun,Hornstull,"Hornstulls Strand 1, 2tr",3,76.0,3749,9000000,2886956
+Stockholmskommun,Stureby,"Skönviksvägen 296, 3 tr",1,32.4,2239,2330000,1894308
+Stockholmskommun,Kista,"Langelandsgatan 14, 1 tr",3,77.0,3956,2870000,2786407
+Stockholmskommun,Ormkärr,Fjugestagränd 4,3,60.0,3729,2300000,2000000
+Nackakommun,Jarlaberg,Fyrspannsvägen 46,3,75.0,5114,3495000,3495000
+Stockholmskommun,Fredhäll,Runiusgatan 9,2,47.0,2019,3300000,3495000
+Stockholmskommun,Aspudden,Typografvägen 2 högst upp,2.5,42.0,2692,3450000,2948717
+Stockholmskommun,Bromma,Drottningholmsvägen 256,3,77.0,4518,5000000,4807692
+Stockholmskommun,Vasastaden,"Sonja Kovalevskys Gata 8, 7 tr",3,60.5,2841,6700000,6261682
+Stockholmskommun,Bromma,"Brålunden 18, 2 tr",2.5,63.0,2602,4770000,4008403
+Stockholmskommun,Södermalm,Metargatan 9,2,31.0,2067,3160000,2953271
+Stockholmskommun,Husby,"Stavangergatan 46, våning 2",4,91.0,6063,2420000,2283018
+Stockholmskommun,Mariehäll,Klintbacken 2,5,105.0,5262,6200000,6019417
+Stockholmskommun,RågsvedHögdalenHagsätra,Bjursätragatan 6 - ACCEPTERAT PRIS!,2,32.0,2099,1650000,1650000
+Stockholmskommun,Enskede,Dalgränd 52,3,87.0,5420,3495000,3495000
+Solnakommun,Råsunda,"Lilla gatan 4A, 4tr",1.5,48.0,3341,2700000,2647058
+Stockholmskommun,Midsommarkransen,"Tellusborgsvägen 33, vån 2",2,53.0,2546,3610000,3342592
+Nackakommun,Orminge,Skarpövägen 21,3,81.0,4454,2310000,2287128
+Stockholmskommun,Spånga,"Bärkingeplan 17, 1 tr",4,109.0,6668,2200000,2095238
+Stockholmskommun,Södermalm,Katarina Bangata 67,1,28.0,1578,2450000,2450000
+Stockholmskommun,Vasastan,"Sonja Kovalevskys Gata 11, ACCEPTERAT PRIS",2,63.0,3150,6395000,6395000
+Sollentunakommun,Edsberg,Kruthornsvägen 56B,3,74.0,4489,2100000,2058823
+Nackakommun,Sickla,Atlasvägen 41,3,64.0,2947,4700000,3983050
+Stockholmskommun,Björkhagen,Skanörvägen 10,5,111.0,6577,8425000,7200854
+Stockholmskommun,Björkhagen,Båstadsvägen 2,2,56.0,3229,4400000,3358778
+Stockholmskommun,Östermalm,Sandhamnsgatan 39,2.5,75.0,4772,6500000,6250000
+Stockholmskommun,Vasastan,"Vikingagatan 45, 3tr",3,88.0,4268,8600000,8514851
+Stockholmskommun,Liljeholmen,"Nybohovsgränd 13, 3 / 3tr",4,80.0,3688,5200000,4684684
+Sundbybergskommun,CentralaSundbyberg,Ängsstigen 20,2,47.0,3373,2525000,2295454
+Stockholmskommun,Gröndal,"Ekensbergsvägen 118, 2tr",3,66.0,3683,4840000,4000000
+Stockholmskommun,Vasastan,"Ynglingagatan 27, 2,5tr.",2,57.0,2625,6320000,5906542
+Sundbybergskommun,Rissne,Bergshöjden 4,1,28.7,1609,1645000,1645000
+Stockholmskommun,Östermalm,Brantingsgatan 22,1.5,32.0,1879,3050000,2798165
+Stockholmskommun,Liljeholmskajen,Nybodaringen 47,2,56.0,4941,3300000,2999999
+Solnakommun,Råsunda,Södra Långgatan 34,2,44.8,1560,2900000,2500000
+Stockholmskommun,Bromma,Alpvägen 14,3,80.0,5119,4700000,4476190
+Stockholmskommun,Hammarbyhöjden,Hasselquistvägen 7,2,50.0,2994,3400000,3238095
+Stockholmskommun,Bromma,Hoburgsstigen 12,2,46.0,2651,2795000,2795000
+Stockholmskommun,Gubbängen,"Knektvägen 15, 4 tr",1,25.0,1559,2075000,1995192
+Stockholmskommun,Liljeholmskajen,Sjöviksbacken 49,4,91.0,5061,7400000,6491228
+Stockholmskommun,Södermalm,"Bjurholmsgatan 37, 1 tr (vån 2)",1,40.0,2037,3350000,3350000
+Stockholmskommun,Vällingby,"Jämtlandsgatan 107, Vån 2 (11024 / 1104) Fönsterbröstningshöjd 1,5 m",2,66.0,3483,3080000,2588235
+Stockholmskommun,Vasastan,"Robert Almströmsgatan 4, 1tr",2,44.0,2349,5125000,4701834
+Stockholmskommun,Kungsholmen,"Kungsklippan 22, 3tr",2,33.0,2823,3503333,2994301
+Stockholmskommun,Södermalm,Helgalunden 1,2.5,58.0,3895,5670000,4930434
+Stockholmskommun,Vasastan,"Karlbergsvägen 43A, 2tr",2,41.3,1511,4630000,4209090
+Stockholmskommun,Husby,Stavangergatan 20,3,76.0,4909,2160000,1894736
+Stockholmskommun,Farsta,Larsbodavägen 110,2,56.0,3911,2570000,2177966
+Stockholmskommun,Hjorthagen,"Älvkarleövägen 18, 3 tr",2,44.2,3050,3700000,3162393
+Stockholmskommun,Hammarbyhöjden,"Finn Malmgrens väg 61, 3 tr",2,47.0,3880,3150000,2837837
+Stockholmskommun,Vasastan,Karlbergsvägen 23,1,25.0,944,2750000,2644230
+Stockholmskommun,Kungsholmen,"Svarvargatan 14, 1 tr",4,109.0,3701,11450000,11116504
+Sollentunakommun,Edsberg,"Flintlåsvägen 13, bv",2,61.5,3494,1925000,1905940
+Sollentunakommun,Edsberg,Viltstigen 4,1,35.0,2621,1700000,1700000
+Sundbybergskommun,CentralaSundbyberg,Vintergatan 3A,3,74.0,3523,6500000,6500000
+Stockholmskommun,Midsommarkransen,"Responsgatan 5, vån 1",3,61.0,3617,5170000,4237704
+Stockholmskommun,NorraÄngby,Björketorpsvägen 11,2,57.0,3568,2430000,2250000
+Solnakommun,Råsunda,Edvin Adolphsons väg 12,3,70.5,4650,5850000,5318181
+Stockholmskommun,Högdalen,Skebokvarnsvägen 308,2,38.0,2339,2130000,1901785
+Stockholmskommun,Vasastaden,Hälsingegatan 61,1.5,35.0,2175,5500000,5140186
+Stockholmskommun,Östermalm,"Studentbacken 1, 8 tr",2,45.0,2488,4375000,4247572
+Stockholmskommun,Södermalm,"Götgatan 101A, 4 / 4 tr ÖG",2,35.0,1597,3800000,3584905
+Stockholmskommun,Södermalm,"Bondegatan 46, 5 tr",1,32.0,1836,3500000,3181818
+Stockholmskommun,Hässelby,Medsolsbacken 17,4,101.0,5635,4000000,3181818
+Solnakommun,VästraSkogen,"Infanterigatan 11, 8 tr",2,56.5,2982,2950000,2500000
+Stockholmskommun,Blackeberg,"Karen Blixens Gata 5, vån 8 - ACCEPTERAT PRIS!",2,50.0,3088,2650000,2623762
+Stockholmskommun,Bandhagen,Trollesundsvägen 165,2,61.5,3572,2400000,2068965
+Stockholmskommun,Husby,"Stavangergatan 22, våning 3",3,80.0,5525,2225000,1986607
+Stockholmskommun,Östermalm,"Storskärsgatan 6, 3tr",1.5,36.0,1388,3650000,2991803
+Stockholmskommun,Kungsholmen,"Alströmergatan 32D, 2tr",1,28.0,1534,2850000,2688679
+Stockholmskommun,Vasastan,Holländargatan 9A,1,32.0,1795,4050000,3584070
+Stockholmskommun,Kista,Borgarfjordsgatan 21B,2,52.0,3420,2600000,2600000
+Nackakommun,Saltängen,Beckasinvägen 43B,2,50.0,2906,2750000,2600000
+Nackakommun,Saltsjöbaden,Fidravägen 49,3,72.0,4129,2270000,2247524
+Stockholmskommun,Bromma,Bårdgränd 8,2,43.0,2007,2470000,2185840
+Stockholmskommun,Kungsholmen,"Sysslomansgatan 22, Vån 1, Mot Gård",2,33.0,2030,3150000,2971698
+Stockholmskommun,Birkastan,Norrbackagatan 5A,2,42.0,1507,4800000,4403669
+Stockholmskommun,Beckomberga,Beckomberga Allé 16,3,80.0,4845,4600000,4000000
+Stockholmskommun,Birkastan,Robert Almströmsgatan 7,3,80.0,3394,9500000,8189655
+Stockholmskommun,Östermalm,Riddargatan 51 A,3,92.0,3337,20030000,18896226
+Stockholmskommun,Årsta,Bolmensvägen 35,2,41.0,2998,2900000,18896226
+Stockholmskommun,Mariehäll,Kratsbodavägen 36,1,23.0,1716,2050000,1752136
+Nackakommun,Saltängen,Ugglevägen 15A,3,73.5,5306,2350000,2079646
+Stockholmskommun,Hägersten,Utkiksbacken 23,4,81.0,4667,6425000,6177884
+Stockholmskommun,Rågsved,Bjursätragatan 33 1tr,2,42.0,2784,1920000,1900990
+Stockholmskommun,LillaEssingen,"Primusgatan 82, 1tr",2,50.5,3330,4000000,4000000
+Stockholmskommun,Johannesfred,"Ståltrådsvägen, 16",2,57.0,2806,3075000,2847222
+Stockholmskommun,Stureby,Tussmötevägen 134B,2,51.0,3422,3300000,2999999
+Stockholmskommun,Vasastan,"Karlbergsvägen 53A, ög",3,68.0,2723,8300000,7904761
+Nackakommun,Tollare,"Tollare Ängsväg 24, 4tr",3,64.5,3660,4150000,3807339
+Stockholmskommun,Vällingby,Abiskovägen 30,1,42.0,2281,1630000,1567307
+Stockholmskommun,Farsta,Ölmevägen 14,2,64.0,3414,2430000,2189189
+Nackakommun,Alphyddan,"Alphyddevägen 43, -2tr",2,44.2,2605,2900000,2500000
+Nackakommun,Nacka,Winborgs väg 7,3,58.0,3384,4500000,3982300
+Stockholmskommun,Vasastan,Surbrunnsgatan 37,1,28.0,1416,3620000,3094017
+Stockholmskommun,Johannesfred,Ståltrådsvägen 20,2,46.0,2310,2750000,2391304
+Stockholmskommun,Vasastan,Tulegatan 5 B,2,62.0,4018,7150000,6809523
+Stockholmskommun,Högdalen,"Önskehemsgatan 10, 1tr",2,59.0,3513,2095000,2095000
+Stockholmskommun,Vasastan,"Tulegatan 42, 3 tr",2.5,49.0,2291,4750000,4750000
+Stockholmskommun,Midsommarkransen,"Dansbanevägen 20, 2 tr",3,60.0,3214,3400000,3400000
+Stockholmskommun,Ålsten,Ålstensgatan 25A,3,84.0,4941,8600000,7288135
+Solnakommun,Arenastaden,"Evenemangsgatan 40, vån 18",3,69.0,3739,5600000,5283018
+Stockholmskommun,Gamla Stan,Ankargränd 2,3,71.0,1692,8550000,7916666
+Stockholmskommun,Farsta,Lysviksgatan 59c,4,88.0,4442,4150000,2985611
+Stockholmskommun,Farsta,"Grumsgatan 3, 3 tr",3,75.0,4282,3500000,2777777
+Sundbybergskommun,CentralaSundbyberg,Eliegatan 13,3,68.5,2736,4250000,4207920
+Nackakommun,Tollare,Tollare Strand 1,2,54.5,2967,4000000,4000000
+Stockholmskommun,Liljeholmskajen,Sjöviksvägen 128,3,88.0,4434,10000000,8264462
+Stockholmskommun,Östermalm,Sandhamnsgatan 13,2,37.0,2833,3750000,3504672
+Stockholmskommun,Farsta,"Hammarögatan 26, 4 tr",1,34.0,2398,2150000,2150000
+Stockholmskommun,Kungsholmen,Celsiusgatan 8,1,27.5,1381,3050000,2500000
+Stockholmskommun,Katarina,Åsögatan 98,1,27.0,1876,2750000,2750000
+Stockholmskommun,Farsta,"Hammarögatan 26, 3 tr",4,93.0,5446,4650000,4650000
+Stockholmskommun,NorraDjurgårdsstaden,Jaktgatan 33 våning 4 av 4,1,35.0,1896,3325000,3259803
+Stockholmskommun,Högalid,Högalidsgatan 38D,2,45.0,1851,4800000,4403669
+Stockholmskommun,NorrMälarstrand,"Sven Rinmans gata 3, 5tr",4.5,111.0,6393,14600000,14600000
+Stockholmskommun,Hägerstensåsen,Inteckningsvägen 60,2,43.0,2996,2970000,2200000
+Sundbybergskommun,Hallonbergen,"Bergshöjden 30, Accepterat pris!",3,82.1,4605,2700000,2621359
+Stockholmskommun,Hagsätra,"Hallsbergsgatan 22, 1tr",2,49.0,3429,2020000,1870370
+Stockholmskommun,Kungsholmen,"Rålambshovsleden 44, vån 8",3,84.0,4550,9250000,7773109
+Stockholmskommun,Södermalm,"Anders Reimers väg 10, 3 tr",1,30.0,2056,3170000,2686440
+Stockholmskommun,Midsommarkransen,"Tellusborgsvägen 79, vån 2",2,44.0,2590,3410000,2865546
+Stockholmskommun,Liljeholmskajen,Sjöviksbacken 5,4,99.0,5107,11300000,10462962
+Stockholmskommun,Bredäng,Järnbärarvägen 2,4,102.0,5160,3900000,3482142
+Sollentunakommun,Tureberg,Turebergs allé 24,1.5,44.0,2750,2350000,2259615
+Stockholmskommun,Bromma,Grindstuvägen 28,4,102.0,5017,8000000,8000000
+Stockholmskommun,Älvsjö,"Kabelverksgatan 32, vån 10",4,95.0,4944,6300000,5833333
+Solnakommun,Frösunda,Pomonagatan 1,4,106.1,4630,5995000,5995000
+Nackakommun,Orminge,Ormingeringen 60C,2,60.0,3836,2200000,1999999
+Stockholmskommun,Hammarbyhöjden,Mariestadsvägen 25,3,66.0,4720,5750000,4492187
+Nackakommun,Ektorp,Tranvägen 4,5,114.5,4749,5550000,5495049
+Solnakommun,Råsunda,Näckrosvägen 35,2,56.5,3351,4000000,3603603
+Nackakommun,Ektorp,"Edinsvägen 3, 9 tr",1,28.0,1902,2000000,1754385
+Stockholmskommun,HammarbySjöstad,"Henriksdalsallén 31, 2tr",4,102.5,4229,8000000,7476635
+Stockholmskommun,Södermalm,"Tjustgatan 4, vån 5",2,32.0,2791,3230000,2990740
+Solnakommun,Råsunda,Vasavägen 6,2,59.0,3669,3420000,3081081
+Sollentunakommun,Häggvik,Sollentunavägen 297,1,35.0,2085,2075000,1995192
+Nackakommun,Ektorp,Gamla Landsvägen 13,4,106.8,6362,5250000,5198019
+Stockholmskommun,Hammarbyhöjden,Malmövägen 30,2,51.0,3482,4200000,3500000
+Stockholmskommun,Västertorp,"Slalomvägen 34, 3tr",2,54.0,3044,3200000,2500000
+Stockholmskommun,Sköndal,Bagarfruvägen 91,4,81.5,5410,4250000,3601694
+Stockholmskommun,Spånga,Elinsborgsbacken 42,3,81.0,5723,2000000,1886792
+Stockholmskommun,Gröndal,"Fregattvägen 76, 1tr",2,53.0,3691,3800000,3392857
+Stockholmskommun,Norrmalm,"Drottninggatan 73A, vån 3",3,93.0,1517,13425000,13033980
+Nackakommun,Tollare,Tollarevägen 24,3,75.0,3844,4700000,4476190
+Stockholmskommun,Södermalm,Fjällgatan 20,3,88.0,4690,12000000,11764705
+Stockholmskommun,Enskededalen,Täppgränd 103,3,88.0,4090,4100000,3980582
+Sundbybergskommun,CentralaSundbyberg,Mariagatan 4C,2,64.0,3297,4600000,4509803
+Stockholmskommun,Södermalm,Katarina Bangata 67,3,86.0,4278,8600000,7288135
+Stockholmskommun,Södermalm,"Vickergatan 15, 3 tr",2,35.5,2038,3100000,2952380
+Stockholmskommun,Årsta,Årstavägen 131,3,66.0,4725,4550000,2952380
+Stockholmskommun,Vasastan,Surbrunnsgatan 19,1,24.0,1349,2750000,2644230
+Stockholmskommun,Kungsholmen,"Kungsbro Strand 21, 3 tr",2,51.0,4022,4880000,4831683
+Stockholmskommun,Traneberg,Nipfjällsvägen 10,3,75.0,3219,5250000,4906542
+Stockholmskommun,Hagsätra,Vedevågslingan 34,4,86.6,4865,2400000,2086956
+Stockholmskommun,Hässelby,Astrakangatan 102,2,60.0,3962,1900000,1696428
+Stockholmskommun,Bagarmossen,"Rusthållarvägen 67, 2tr",3,75.0,4188,4000000,3773584
+Nackakommun,Finnberget,"Finnbergsvägen 56, 3 / 3 tr",2,52.0,2987,2895000,2895000
+Stockholmskommun,Sundby,Johannelundsvägen 26,2,57.0,3220,2150000,1990740
+Stockholmskommun,Kungsholmen,"Lindhagensterrassen 19, vån 10",2,59.5,2506,5450000,1990740
+Solnakommun,Frösunda,"Gustav III:s Boulevard 49, 3 tr",5,139.7,6599,7500000,7500000
+Sollentunakommun,Kärrdal,"Lomvägen 52, markplan",3,83.0,4623,3100000,2952380
+Stockholmskommun,Hammarbyhöjden,"Finn Malmgrens väg 52, 2 tr",2,45.0,3235,3320000,2593750
+Stockholmskommun,Fredhäll,Ernst Ahlgrens Väg 5,2,38.0,2025,3200000,3200000
+Stockholmskommun,Telefonplan,"Tångvägen 40, vån 2 - ACCEPTERAT PRIS",3,58.0,3514,3300000,3300000
+Stockholmskommun,Vasastaden,"Roslagsgatan 29A, 4 tr Gårdshus",2,53.0,3266,5475000,5475000
+Stockholmskommun,Östermalm,"Sandelsgatan 42, 2tr",3,96.0,4305,10500000,10500000
+Stockholmskommun,Södermalm,Ringvägen 138,1,39.0,2416,3000000,2803738
+Stockholmskommun,Södermalm,"Svartensgatan 28, 4 tr",3,76.0,3868,11000000,9243697
+Stockholmskommun,Akalla,Sveaborgsgatan 7,3,73.0,4528,1900000,1809523
+Stockholmskommun,Vårberg,Fjärdholmsgränd 9A,2,68.0,3699,2070000,1800000
+Solnakommun,Råsunda,"Ryttargatan 10, 3 tr",1.5,38.0,1978,2900000,2843137
+Stockholmskommun,Kungsholmen,"Strålgatan 12, 3 TR",2,43.0,2189,3300000,3203883
+Stockholmskommun,Södermalm,Renstiernas gata 14A  /  Tjärhovsgatan 48,3,71.5,2802,8650000,6503759
+Solnakommun,Råsunda,"Vintervägen 41, Vån 9 / 10",3,70.5,4220,4700000,4607843
+Stockholmskommun,Södermalm,Renstiernas gata 27,2,39.0,-,4000000,3603603
+Stockholmskommun,Södermalm,"Tantogatan 31, vån 5.",3,94.0,3854,7000020,6481500
+Stockholmskommun,Vasastan,"Surbrunnsgatan 59, 6 tr",3,65.0,3087,6675000,6013513
+Stockholmskommun,Birkastan,"Tomtebogatan 42, 5 tr",4,93.0,3719,12500000,11792452
+Stockholmskommun,Östermalm,Karlavägen 82,1,39.0,1496,4800000,3200000
+Stockholmskommun,Hammarbyhöjden,Mariestadsvägen 1,2,47.5,3785,3630000,3184210
+Stockholmskommun,Bromma,Beckomberga ängsväg 49,4,92.0,5231,5600000,5490196
+Stockholmskommun,Västertorp,"Slalomvägen 26, 3tr",1,42.0,2368,2410000,1991735
+Solnakommun,Huvudsta,"Jungfrudansen 8, bv",2,64.0,3335,3460000,2746031
+Stockholmskommun,Södermalm,"Ringvägen 157, 5 tr",1.5,38.0,2138,3910000,3400000
+Stockholmskommun,Kista,"Helsingörsgatan 21, 2tr",3,81.0,4112,2752000,2596226
+Nackakommun,Jarlaberg,Fyrspannsvägen 42,2.5,58.0,3860,2650000,2500000
+Stockholmskommun,Fruängen,Eva Bonniers gata 8,2,59.0,3302,2700000,2500000
+Stockholmskommun,Atlas,"Atlasgatan 16, 3 tr",1,27.0,1549,3100000,2500000
+Stockholmskommun,Hammarbyhöjden,Kalmgatan 19,2,38.0,2100,2650000,2345132
+Stockholmskommun,Kungsholmen,"Svarvargatan 18, 4 tr",4,107.0,3442,10220000,10220000
+Stockholmskommun,HammarbySjöstad,"Sickla Kanalgata 4, 4tr",4,84.0,3607,7500000,6944444
+Stockholmskommun,HornsbergsStrand,"Hornsbergs Strand 43, Vån 3",3,83.0,3970,8325000,8161764
+Stockholmskommun,Gärdet,"Öregrundsgatan 15, 7 tr",4,99.5,4060,10000000,9009009
+Stockholmskommun,Vällingby,Multrågatan 112,2.5,62.0,4295,1970000,1790909
+Stockholmskommun,Södermalm,"Assessorsgatan 18 E, 3 tr",3,89.0,3320,10050000,8170731
+Sollentunakommun,SollentunaTureberg,Vänortsstråket 51C,3,87.0,4180,2900000,2660550
+Stockholmskommun,Södermalm,"Högalidsgatan 50B, 1 tr ö.g - Accepterat pris!",1,38.0,1897,3500000,3398058
+Nackakommun,Nacka,Mjölnarvägen 22,2,46.0,2094,3800000,3398058
+Stockholmskommun,Långbro,Blackensvägen 3B,3,74.6,3420,3750000,3504672
+Stockholmskommun,Katarina,Folkungagatan 61,1,38.0,1429,3700000,3363636
+Stockholmskommun,Vasastan,"Tomtebogatan 44, 4tr",2.5,57.0,2557,6600000,5999999
+Stockholmskommun,Östermalm,Valhallavägen 102,4,111.0,4026,13500000,12980769
+Stockholmskommun,Södermalm,Tavastgatan 46,4,94.0,3759,10450000,8931623
+Stockholmskommun,Älvsjö,Prästgårdsgränd 12,2,63.0,3265,2800000,2592592
+Nackakommun,Kvarnholmen,"Kvarngränd 9, 8tr - Accepterat pris!",3,86.0,4479,7100000,6761904
+Stockholmskommun,Östermalm,Skeppargatan 20b,3,85.0,3541,10500000,9459459
+Stockholmskommun,Årsta,"Slätbaksvägen 13, 2 tr",2,44.5,3147,2900000,9459459
+Stockholmskommun,Bandhagen,Fågelstavägen 8,4,78.0,4707,3400000,3207547
+Stockholmskommun,Södermalm,"Bjurholmsplan 17, 2,5tr",2.5,49.0,2102,5175000,4500000
+Stockholmskommun,Kungsholmen,"Alströmergatan 11, 4 tr",2,62.0,2679,6100000,5980392
+Stockholmskommun,Traneberg,Mössebergsvägen 17,1,25.0,1622,2350000,1793893
+Stockholmskommun,Vasastan,"Observatoriegatan 12A, Gårdshus",2,62.0,2047,7900000,7181818
+Stockholmskommun,Årsta,"Siljansvägen 80, 7,5 tr",3,66.5,4644,4500000,4368932
+Stockholmskommun,Bromma,Mattvägen 5,4,84.0,5068,5425000,4977064
+Stockholmskommun,Björkhagen,Ystadsvägen 117,2,50.0,3429,2775000,2642857
+Stockholmskommun,Östermalm,Styrmansgatan 5,4,179.0,8033,27500000,26960784
+Stockholmskommun,Kungsholmen,"Sankt Göransgatan 153, 4tr",1,24.5,1282,2450000,2401960
+Stockholmskommun,Älvsjö,Sandalettgatan 7,4,94.0,5029,5850000,5571428
+Stockholmskommun,Enskede,"Bordsvägen 50, 2 tr",3,68.0,3812,4100000,3504273
+Stockholmskommun,Årsta,Svärdlångsvägen 45,1,24.0,2491,1950000,1875000
+Stockholmskommun,Kungsholmen,Kungsholms strand 143,2,46.0,1958,4800000,4705882
+Nackakommun,Nacka,"Henriksdalsringen 119, 2tr",1,40.0,2185,2140000,2000000
+Solnakommun,Järvastaden,Dammtorps Allé 12,2,48.0,2746,2850000,2688679
+Stockholmskommun,Vällingby,Vittangigatan 49 (Renoveringsobjekt),3,69.0,4422,2300000,2190476
+Stockholmskommun,Årsta,Borensvägen 60,2,51.0,2779,3650000,2991803
+Stockholmskommun,Hornstull,"Heleneborgsgatan 7 C, 3 tr",2,37.0,1818,4200000,3962264
+Stockholmskommun,Skärmarbrink,Pelargatan 7,3,60.0,3036,4200000,3684210
+Stockholmskommun,Hagastaden,Sonja Kovalevskys Gata 4,4,89.0,4067,11700000,10540540
+Stockholmskommun,Älvsjö,"Solberga Hagväg 14, 1 tr",2,63.0,3046,2925000,10540540
+Stockholmskommun,Bromma,Holbergsgatan 22,2,54.0,2440,2710000,2486238
+Sollentunakommun,Tureberg,Turebergs Allé 7,3,84.0,5295,4330000,3765217
+Stockholmskommun,Vasastan,"Hälsingegatan 12, 2tr, ög",2,51.0,2601,6975000,6012931
+Stockholmskommun,Västertorp,Skidskyttevägen 4,3.5,81.0,4791,4395000,4395000
+Stockholmskommun,Södermalm,Ringvägen 155C (Gårdshus!),2,52.0,2664,5700000,4789915
+Stockholmskommun,Gröndal,Storsegelvägen 8,3,80.0,4333,7000000,6481481
+Stockholmskommun,Vasastan,"Markvardsgatan 11, 3 tr",3,70.0,1747,8100000,7714285
+Stockholmskommun,Vasastan,Vulcanusgatan 3,2.5,62.0,3663,7200000,7714285
+Stockholmskommun,Vasastan,Tomtebogatan 20,2.5,51.0,2023,6900000,6509433
+Solnakommun,Huvudsta,Ingentingsgatan 3,2.5,58.0,2550,2860000,2803921
+Stockholmskommun,Östermalm,Rindögatan 10,1,28.0,1650,2825000,2640186
+Solnakommun,Huvudsta,Jungfrudansen 6,3,87.0,4534,5300000,4491525
+Solnakommun,Huvudsta,"Jonstorpsvägen 20, vån 5 / 5!",3,81.0,4881,4500000,4285714
+Solnakommun,Råsunda,"Råsundavägen 154, 3tr",3,85.0,4197,5700000,5700000
+Stockholmskommun,Vasastan,"Torsgatan 7, 6tr",1.5,38.5,2252,3900000,3482142
+Stockholmskommun,Sköndal,Sköndalsvägen 110,2,42.5,2369,2200000,1692307
+Stockholmskommun,Midsommarkransen,"Responsgatan 12, vån 6",3,54.0,3384,3475000,3188073
+Stockholmskommun,Blåsut,Vingavägen 8,4,94.0,5328,5900000,5784313
+Stockholmskommun,Bromma,Annedalsvägen 26,2,48.5,2964,2980000,2785046
+Stockholmskommun,Bromma,Kapplandsvägen 6,3,73.0,4336,3500000,3500000
+Stockholmskommun,Kungsholmen,"Hornsbergs Strand 85, Vån 6",3,90.0,4293,9950000,9950000
+Stockholmskommun,Vasastan,Tomtebogatan 22,2,33.0,1754,4100000,3904761
+Solnakommun,Huvudsta,"Lundagatan 1B, 7 / 7 tr!",4,91.5,5406,6800000,6601941
+Stockholmskommun,Årsta,Sköntorpsvägen 124,2,58.5,3543,3200000,2962962
+Stockholmskommun,Husby,Stavangergatan 28,3,76.0,4909,1700000,1491228
+Stockholmskommun,Högalid,Zinkens Väg 59,4,95.0,3809,12050000,9198473
+Solnakommun,Järva,Dammtorps Allé 17,4,87.0,4087,5430000,5271844
+Stockholmskommun,Södermalm,"Åsögatan 176, 5 tr - Accepterat pris!",1.5,32.0,1877,3600000,3495145
+Stockholmskommun,Kungsholmen,"Polhemsgatan 6, vån 4",2,50.0,2149,6100000,5495495
+Nackakommun,Saltängen,Beckasinvägen 30,2,57.5,3384,2775000,2617924
+Stockholmskommun,HammarbySjöstad,Korphoppsgatan 21,3,77.0,3967,6300000,6000000
+Sundbybergskommun,CentralaSundbyberg,Svalgränd 4,3,76.0,3980,4300000,3981481
+Stockholmskommun,Björkhagen,"Ronnebyvägen 28, 3tr",2,57.0,3446,4200000,3652173
+Stockholmskommun,Södermalm,"Ludvigsbergsgatan 19, 6 tr",3,81.0,3171,9600000,9230769
+Stockholmskommun,Telefonplan,"Tivolivägen 9, 3 / 3 tr",2,49.0,2513,2810000,2381355
+Stockholmskommun,Hammarbyhöjden,Tidaholmsvägen 32,1,32.0,2300,2010000,1896226
+Stockholmskommun,Södermalm,Timmermansgatan 9,3,56.0,3248,6500000,5603448
+Stockholmskommun,Farsta,Gunnarskogsgatan 14,4,105.0,5469,4500000,3781512
+Stockholmskommun,Vasastan,"Wallingatan 31, 2tr",4,131.0,5514,21400000,19454545
+Stockholmskommun,Södermalm,Bergsunds strand 36,2,41.0,1997,4500000,3846153
+Stockholmskommun,Hökarängen,"Saltvägen 24, 3 tr",3,68.0,4409,3030000,2504132
+Sundbybergskommun,CentralaSundbyberg,Franstorpsvägen 13,1.5,35.4,1324,2525000,2195652
+Stockholmskommun,Kungsholmen,Eknäsvägen 8 A,2,47.0,3015,3850000,2195652
+Stockholmskommun,Södermalm,Ringvägen 54,2,53.0,2322,4500000,4500000
+Stockholmskommun,Midsommarkransen,Svandammsvägen 17A,2,31.0,2169,2900000,2396694
+Sundbybergskommun,Ursvik,Forskningsringen 80,3,71.0,3969,3650000,3288288
+Stockholmskommun,Kungsholmen,Sankt Göransgatan 62,2,32.0,1560,3400000,2982456
+Stockholmskommun,Kungsholmen,"Bergsgatan 29, 3 tr",1.5,37.0,1696,3900000,3679245
+Stockholmskommun,Vasastan,"Medevigatan 8, 2tr",2,35.0,2416,3900000,3861386
+Nackakommun,Tollare,"Tollareslingan 7, 2 tr",4,73.0,3247,6000000,6000000
+Stockholmskommun,NedreGärdet,"Starrängsringen 65, 1 tr",4,82.0,2424,10050000,8516949
+Stockholmskommun,Kungsholmen,Igeldammsgatan 34,1,16.0,798,2200000,8516949
+Solnakommun,Skytteholm,Nybodagatan 7,4,99.0,4536,7000000,6481481
+Sollentunakommun,Tegelhagen,Skogstorpsvägen 134,4,96.0,5478,4875000,4779411
+Stockholmskommun,Hammarbyhöjden,"Vänersborgsvägen 17, 2tr",3,67.0,3950,4420000,4779411
+Stockholmskommun,Södermalm,"Brännkyrkagatan 92, 2,5 tr",1.5,28.0,1946,2950000,2783018
+Stockholmskommun,Gärdet,"Östhammarsgatan 77, 3 tr",2,39.7,2549,3450000,3000000
+Stockholmskommun,Gröndal,Gröndalsvägen 198,3,68.0,2640,5400000,3000000
+Stockholmskommun,StoraEssingen,Vänskapsvägen 40,2,42.0,2647,3100000,2952380
+Stockholmskommun,Årsta,Siljansvägen 38,2,44.5,3217,2825000,2500000
+Solnakommun,HagaNorra,"Råsundavägen 24, 5 tr",3,86.0,4629,5225000,4707207
+Nackakommun,Saltsjöbaden,Skyttevägen 15B,5,95.0,4539,6650000,6273584
+Stockholmskommun,Stockholm,Maria Prästgårdsgata 1A,2,80.0,3712,8550000,8300970
+Sundbybergskommun,CentralaSundbyberg,Tallgatan 15,2,56.0,2967,3550000,2983193
+Stockholmskommun,Gullmarsplan,Gullmarsvägen 12,2,53.0,3571,3700000,3457943
+Nackakommun,Tollare,"Tollareslingan 24, 7 tr",3,87.0,4481,6800000,6800000
+Stockholmskommun,Bromma,Alviksvägen 30,2,50.0,1142,4695000,4695000
+Stockholmskommun,Fruängen,Doktor Widerströms gata 60,2,56.0,3252,2600000,2385321
+Solnakommun,Frösunda,Gustav III:s Boulevard 167,2,59.5,3195,3550000,3550000
+Stockholmskommun,Vasastan,"Gävlegatan 36B, 11 tr",2,35.1,2090,4325000,3861607
+Nackakommun,Sickla,"Sickla Allé 21, 3 tr",3,102.0,6003,10350000,9951923
+Stockholmskommun,Södermalm,Högbergsgatan 81B,1,35.0,2098,3660000,3155172
+Solnakommun,Råsunda,Ekensbergsvägen 97,2,38.8,2663,2650000,2598039
+Solnakommun,Råsunda,Vasavägen 7,3,75.0,3507,6210000,5008064
+Stockholmskommun,Hökarängen,Pepparvägen 41,1,37.5,2879,2300000,1796875
+Stockholmskommun,Kungsholmen,Wennerbergsgatan 6A,2,47.0,2260,3850000,3701923
+Stockholmskommun,Johanneshov,Sofielundsplan 51,3,57.0,3090,3700000,3592233
+Stockholmskommun,Vasastan,Dalagatan 78A,1.5,47.0,1886,4600000,4509803
+Solnakommun,Huvudsta,Bygatan 39,2,64.2,3247,3700000,3592233
+Stockholmskommun,Midsommarkransen,Responsgatan 14,1,33.0,2068,2600000,2600000
+Stockholmskommun,Vasastan,"Sankt Eriksgatan 118, 3 tr",2,60.0,4220,5750000,5750000
+Stockholmskommun,Älvsjö,Blackensvägen 1A,1,42.2,2974,2100000,5750000
+Stockholmskommun,Abrahamsberg,Spannvägen 26,2,38.5,2590,2850000,5750000
+Stockholmskommun,Annedal,"Dartanjangs Gata 62, 3 tr",4,96.0,5185,5750000,5528846
+Stockholmskommun,Ulvsunda,Granbacken 20,1,25.0,1922,1950000,1695652
+Stockholmskommun,GamlaÖstberga,"Stamgatan 63, vån 7",5,95.0,6984,3400000,3400000
+Stockholmskommun,Vasastan,Luntmakargatan 93,4.5,105.0,3941,15000000,14285714
+Stockholmskommun,Vasastan,Vikingagatan 14b,1,31.0,1295,3725000,3688118
+Stockholmskommun,Bromma,Elias Lönnrots väg 19,2,59.0,3058,2850000,2590909
+Stockholmskommun,HammarbySjöstad,"Midskeppsgatan 16, 1 tr Nytt pris",4,89.0,4369,6350000,6225490
+Stockholmskommun,Nockebyhov,"Nockeby Backe 6, Vån 6 / 6",2,54.0,3346,3500000,2991452
+Stockholmskommun,Södermalm,"Rosenlundsgatan 24, 1 tr",2,39.0,2137,4170000,3504201
+Stockholmskommun,Långsjö,Långsjövägen 56,4,68.0,3197,4310000,3848214
+Stockholmskommun,Mariehäll,"Alpvägen 16, 4 / 4 tr",2.5,61.0,4174,3750000,3205128
+Stockholmskommun,Vasastan,Falugatan 22,2,37.0,2454,4250000,3794642
+Nackakommun,Nacka,"Mjölnarvägen 20A, 3tr",3,90.5,3423,8100000,8019801
+Stockholmskommun,Vasastan,Observatoriegatan 21 A,3,82.0,3477,9500000,8962264
+Stockholmskommun,Kungsholmen,"Fleminggatan 49,  3 tr",2,54.0,1680,5400000,5346534
+Stockholmskommun,Vasastan,"Birger Jarlsgatan 104D, 2 tr",1.5,35.0,2649,3800000,3486238
+Nackakommun,Saltsjöbaden,Svartkärrsvägen 16,4,120.6,5954,5300000,5300000
+Stockholmskommun,Enskede,"Skönviksvägen 289, 3tr",2,54.0,3545,2800000,2592592
+Stockholmskommun,Hässelby,Aprikosgatan 90 vån 6,3,75.0,5623,2600000,2592592
+Stockholmskommun,Nybodahöjden,Nybodaringen 39,2,41.0,3769,2500000,2100840
+Stockholmskommun,Årsta,"Rämensvägen 27A, 4tr",2,35.0,2295,2700000,2288135
+Stockholmskommun,Hässelby,Aprikosgatan 29 (Våning 2),3,73.0,4651,2700000,2596153
+Sollentunakommun,Tureberg,Blåklockevägen 11,2,44.0,2860,2300000,2090909
+Sundbybergskommun,Rissne,"Valkyriavägen 7 , Accepterat pris!",3,77.0,4476,2150000,1954545
+Stockholmskommun,Hornstull,"Varvsgatan 6, 5+6 tr Vindsetage",3,78.0,3396,11500000,1954545
+Stockholmskommun,Sköndal,Kubbegatan 10,1,37.0,2081,2050000,1846846
+Stockholmskommun,Liljeholmskajen,Sjöviksvägen 29,2,54.0,2925,4600000,4509803
+Nackakommun,Nacka,Bageribacken 2,5,133.5,5907,9995000,9995000
+Stockholmskommun,HammarbySjöstad,"Rorgängargatan 15A, 5tr",3,66.0,3324,5300000,4862385
+Stockholmskommun,Kärrtorp,Fyrskeppsvägen 36,2,62.0,3875,3600000,2950819
+Nackakommun,Ektorp,Ektorpsvägen 9,1,32.0,1442,2050000,1694214
+Stockholmskommun,Södermalm,Tjärhovsgatan 19,2,53.0,1090,5450000,5190476
+Nackakommun,ÄltaGård,Björnmossvägen 92,4,82.8,4992,5275000,5190476
+Stockholmskommun,Fruängen,Elin Wägners gata 37,2,55.0,3484,2850000,2688679
+Solnakommun,Karolinska,Fogdevreten 10 - Accepterat pris!,1,34.0,2150,2200000,2200000
+Stockholmskommun,Telefonplan,"Tvingvägen 32, 1 tr",3,63.0,3792,3425000,2200000
+Stockholmskommun,Kungsholmen,Grubbens Gata 9,4,88.0,4067,8100000,7641509
+Stockholmskommun,Solberga,Mockasinvägen 28,3,88.0,4633,3740000,3196581
+Stockholmskommun,Råcksta,Multrågatan 17,1,44.0,2847,2100000,1794871
+Stockholmskommun,Sköndal,Kubbegatan 47,4,89.5,4637,4450000,1794871
+Nackakommun,VästraOrminge,Edövägen 18B,1,44.0,3186,1830000,1694444
+Stockholmskommun,Tensta,Tenstavägen 10,4,96.0,6195,2100000,2000000
+Solnakommun,Råsunda,Råsundavägen 121A,3,85.0,4137,6750000,6750000
+Stockholmskommun,Södermalm,Tideliusgatan 65,1,33.0,1741,2700000,2596153
+Stockholmskommun,Enskede,"Hållövägen 17, 2tr",2,42.0,2240,3020000,2990099
+Stockholmskommun,Östermalm,"Studentbacken 34, 3tr",3,76.5,4575,6900000,6764705
+Stockholmskommun,Hammarbyhöjden,"Per Lindeströms väg 115, 3 tr",3,57.0,3680,3500000,2991452
+Stockholmskommun,Skärholmen,Äspholmsvägen 3,3,81.0,3275,2920000,2495726
+Stockholmskommun,Vällingby,Abiskovägen 6,3,76.0,3777,2650000,2387387
+Nackakommun,Marinstaden,"Marinstadsvägen 5, 7tr",3,120.0,5959,12200000,11844660
+Stockholmskommun,Vasastan,"Döbelnsgatan 53, 3tr",3,88.0,2661,12250000,11448598
+Stockholmskommun,Södermalm,"Tegelviksgatan 38, föreningen äger marken",3,86.5,4815,7550000,11448598
+Stockholmskommun,Akallahöjden,"Pargasgatan 11, 1tr",3,80.0,4536,2400000,2201834
+Stockholmskommun,Östermalm,Rindögatan 26,2,29.0,1961,3850000,3499999
+Stockholmskommun,Kärrtorp,Fyrskeppsvägen 42,1,30.0,1906,2100000,2000000
+Stockholmskommun,Midsommarkransen,Cedergrensvägen 4,3,78.0,4704,8100000,2000000
+Sollentunakommun,Edsberg,"Kruthornsvägen 26, 3tr",3,66.0,3968,2250000,2142857
+Stockholmskommun,Södermalm,Kocksgatan 40,2,37.0,2296,3475000,3440594
+Stockholmskommun,Hammarbyhöjden,"Paternostervägen 40, 1 tr",4,85.0,4344,6100000,5980392
+Sollentunakommun,Sjöberg,Sidensvansvägen 83,2,35.0,2272,1850000,1745283
+Stockholmskommun,Akalla,"Sibeliusgången 36, 7 tr",3,80.9,4857,1890000,1890000
+Stockholmskommun,Farsta,"Glavagatan 25, 2 tr",4,92.0,5845,4220000,4220000
+Nackakommun,Kvarnholmen,Kvarnholmsvägen 80,2,55.0,2645,4275000,3995327
+Solnakommun,CentralaSolna,"Blomgatan 6, 3tr",2,43.0,1796,3200000,2882882
+Stockholmskommun,Kungsholmen,"Kungsholms kyrkoplan 4, 2tr",2,50.0,2338,5150000,5049019
+Stockholmskommun,Kista,Köpenhamnsgatan 28,3,81.0,3667,2475000,2379807
+Stockholmskommun,Stureby,"Bäckaskiftsvägen 76, 3 tr",2,57.0,2727,2970000,2495798
+Stockholmskommun,Kungsholmen,"Kungsholms Strand 141, 3tr",2,41.0,1745,4155000,3995192
+Stockholmskommun,NorrMälarstrand,"Norr Mälarstrand 94, högst upp",3,80.0,4204,9900000,9900000
+Solnakommun,Bergshamra,Rådjursstigen 22,1,44.0,1875,2525000,2404761
+Stockholmskommun,Vasastan,"Torsplan 8, våning 8",3,77.0,4516,9650000,2404761
+Stockholmskommun,Enskede,"Nynäsvägen 369, 1,5 tr",2,65.0,4317,3750000,3712871
+Stockholmskommun,Södermalm,"Ljustergränd 1, 4 tr.",4,102.0,3958,9500000,8962264
+Stockholmskommun,Reimersholme,Reimersholmsgatan 39,5,123.5,7710,10200000,10000000
+Stockholmskommun,Vasastaden,Norrtullsgatan 36,3,48.0,2638,4600000,4000000
+Stockholmskommun,Vårberg,Båtholmsbacken 6,2,65.0,3193,2020000,1787610
+Stockholmskommun,Vasastan,"Dalagatan 86H, 2tr",2,37.0,2204,4075000,3808411
+Stockholmskommun,Telefonplan,"Pingstvägen 34, 3 tr",1,22.0,1654,2150000,1902654
+Stockholmskommun,Kungsholmen,"Atterbomsvägen 60, vån 5 / 5",3,66.0,3136,6300000,1902654
+Stockholmskommun,Kungsholmen,Stagneliusvägen 26,1,22.0,1607,2300000,2300000
+Nackakommun,Finntorp,"Gamla Värmdövägen 2, 8tr",3,82.0,3639,4450000,3938053
+Stockholmskommun,Högdalen,Trollesundsvägen 149,1,37.5,2242,2200000,1896551
+Stockholmskommun,Kungsholmen,"Polhemsgatan 18, 6tr",2,54.0,3391,6400000,6153846
+Stockholmskommun,Årsta,"Långhalsvägen 9, 2 tr",2,44.9,2860,2880000,2482758
+Stockholmskommun,Sköndal,Dalbobranten 27,3,73.0,4074,3300000,2482758
+Stockholmskommun,Bromma,"Kinnekullevägen 24, 2tr",3,48.0,2806,3850000,3347826
+Stockholmskommun,Vällingby,"Råcksta gårdsväg 23, Vån 6",2,47.0,3224,2360000,2000000
+Stockholmskommun,Bromma,"Gustavslundsvägen 165, 4 tr",3,64.0,3489,5000000,4807692
+Stockholmskommun,Södermalm,Åsögatan 168,3,70.0,3623,7750000,6739130
+Solnakommun,Huvudsta,Krysshammarvägen 30,3,81.6,4251,3450000,3450000
+Stockholmskommun,Årsta,Ymsenvägen 1,3,66.0,3227,5500000,3450000
+Stockholmskommun,Farsta,Molkomsbacken 33,3,63.0,3126,2800000,2295081
+Nackakommun,Nacka,Sickla industriväg 14,2,52.0,3063,4800000,2295081
+Stockholmskommun,Vasastan,Upplandsgatan 39,2,40.0,2007,5400000,5000000
+Sundbybergskommun,Rissne,Lavettvägen 34,3,80.0,4329,3100000,5000000
+Stockholmskommun,Vasastan,"Hälsingegatan 10A, 3tr",2,43.0,2180,4675000,4675000
+Solnakommun,Huvudsta,Jungfrudansen 5,1.5,42.0,2372,2500000,2155172
+Stockholmskommun,HammarbySjöstad,"Virkesvägen 17c, pl 4",1,33.0,1779,2650000,2387387
+Stockholmskommun,Gamlastan,Skomakargatan 32,2,89.0,1540,10750000,10141509
+Solnakommun,Hagalund,"Kyrkbacken 5, 3tr",2,64.0,4323,2800000,2499999
+Stockholmskommun,Vårberg,Vårbergsvägen 193a,1,19.0,959,1360000,1142857
+Stockholmskommun,Kungsholmen,"Drottningholmsvägen 53, vån 10",3,77.5,3420,7700000,6874999
+Stockholmskommun,Ärvinge,Jellingegränd 7,3,75.0,5475,2000000,1904761
+Stockholmskommun,Farsta,Molkomsbacken 15,3,55.0,1832,2840000,2000000
+Solnakommun,GamlaHuvudsta,"Lundagatan 6A, vån 2 - ACCEPTERAT PRIS!",2,51.0,2731,3100000,3100000
+Sundbybergskommun,Duvbo,Granlidsvägen 21,3,76.0,3950,4600000,4299065
+Stockholmskommun,Östermalm,Engelbrektsgatan 33,2,61.0,2711,8325000,8004807
+Stockholmskommun,Vasastan,"Hagagatan 46A, 3 tr gårdshus",2,57.0,2632,6400000,6153846
+Stockholmskommun,Fagersjö,Gräsandsvägen 23,4,87.0,3334,3100000,2605042
+Stockholmskommun,Hägersten,Hökmossevägen 27,2,44.0,3080,2600000,2605042
+Stockholmskommun,Gubbängen,Rubanksgränd 4,4,85.0,5781,5375000,4479166
+Stockholmskommun,Södermalm,Katarina Bangata 42,1,27.0,885,3300000,2640000
+Stockholmskommun,Hammarbyhöjden,Johan Printz Väg 12,2,37.0,2106,2450000,2401960
+Stockholmskommun,Östermalm,Värtavägen 33,3,73.0,3043,8600000,8431372
+Nackakommun,Kvarnholmen,Makaronigränd 5,3,86.0,4649,6175000,5513392
+Stockholmskommun,Kungsholmen,"Norr Mälarstrand 90, 5tr",2,41.0,2351,5100000,4857142
+Stockholmskommun,Kungsholmen,"Kungsholms Strand 171, 6 tr",2,55.0,2834,6275000,5976190
+Stockholmskommun,Södermalm,"Fatburs Kvarngata 17, 2tr",3,62.0,4007,5400000,5000000
+Stockholmskommun,Gärdet,"Östhammarsgatan 72 A ,EP",1,24.0,1535,2700000,2500000
+Stockholmskommun,Hammarbyhöjden,Karlsborgsvägen 11,2,41.0,2713,3020000,2495867
+Stockholmskommun,Hagsätra,Frövigatan 2,3,77.0,4431,2510000,2201754
+Stockholmskommun,Vasastan,Tulegatan 42,2,57.0,2652,5550000,5000000
+Stockholmskommun,Älvsjö,Tussmötevägen 300,2,64.5,4124,2950000,2587719
+Solnakommun,Råsunda,"Gränsgatan 28, 5 tr - ACCEPTERAT PRIS! -",1.5,36.0,2010,3100000,3100000
+Stockholmskommun,Årsta,"Siljansvägen 44, 2tr",2,44.5,3126,2600000,2500000
+Stockholmskommun,Sofia,Åsögatan 161,2.5,69.0,1935,7250000,6971153
+Solnakommun,Huvudsta,"Storgatan 76B, vån 5",2,54.0,3738,3500000,2991452
+Stockholmskommun,Enskededalen,Dalgränd 66,4,102.0,6198,4375000,4247572
+Stockholmskommun,Södermalm,Tideliusgränd 5,5,135.0,6293,18400000,4247572
+Stockholmskommun,Spånga,"Skäftingebacken 38, 1tr",4,81.0,5723,2150000,1954545
+Sundbybergskommun,Sundbyberg,Gamla Enköpingsvägen 182,2,49.0,2855,2300000,2149532
+Stockholmskommun,Hägerstensåsen,"Inteckningsvägen 85, 2tr",2,53.0,2833,3200000,2807017
+Sundbybergskommun,SundbybergCentrum,Löfströms allé 2B,3,80.0,4333,6700000,5775862
+Stockholmskommun,Södermalm,"Östgötagatan 48A, 5tr",2,38.0,1492,3500000,3500000
+Stockholmskommun,Fruängen,Ellen Keys Gata 24,4,145.0,10699,4495000,4495000
+Stockholmskommun,Midsommarkransen,"Radiusbacken 6, vån 3",2,55.0,3143,3940000,3396551
+Stockholmskommun,Telefonplan,Tångvägen 28,2,45.0,2865,2750000,2291666
+Stockholmskommun,Johanneshov,"Skulptörvägen 1, HÖGST UPP!",2,54.0,3075,3870000,3486486
+Stockholmskommun,Telefonplan,"Mobilgatan 5, vån 4 / 5",3,86.0,4759,5700000,5229357
+Stockholmskommun,Bagarmossen,"Stångåvägen 8, 2tr",4,85.0,5427,6100000,5922330
+Stockholmskommun,Farsta,"Larsbodavägen 53,8tr",6,151.0,8236,7150000,5000000
+Nackakommun,Saltsjöqvarn,Bageribacken 8,4,92.5,4463,7750000,7242990
+Nackakommun,Ektorp,"Ugglevägen 1B, 2 tr",2,53.0,4423,2345000,2254807
+Stockholmskommun,Hammarbyhöjden,"Wahlbergsgatan 15, 3 tr",2,38.0,2362,3050000,2652173
+Stockholmskommun,Bromma,Klädesvägen 20,2,44.0,2564,2550000,2550000
+Sundbybergskommun,Lötsjöhöjden,"Fredsgränd 15, vån 3",2,64.5,3587,4750000,4279279
+Stockholmskommun,Bromma,Rörläggarvägen 17,3,75.0,4332,4550000,3991228
+Stockholmskommun,Vällingby,"Jämtlandsgatan 99, Vån 4 (13041 / 1301)",2,66.0,3483,3150000,3150000
+Stockholmskommun,Södermalm,Ljusterögatan 3,3,76.0,4579,7150000,6499999
+Stockholmskommun,Hägerstensåsen,"Bäckvägen 169, 1tr",1,36.0,1875,2500000,2000000
+Nackakommun,Sickla,Sickla Allé 65 1tr,3,92.0,5575,6500000,6018518
+Stockholmskommun,Vällingby,"Råcksta Gårdsväg 28, Vån 2 (51203 / 1203)",3,75.0,4087,3520000,3520000
+Solnakommun,Järvastaden,Järva skjutbaneväg 50,3,79.0,4046,4700000,4700000
+Stockholmskommun,Kungsholmen,"Sankt Eriksgatan 43, vindsvåning",3,111.0,3407,15500000,15048543
+Stockholmskommun,Södermalm,Nätgränd 3,3,79.0,4601,7675000,7675000
+Nackakommun,VästraOrminge,Ormingeringen 77,1.5,37.0,2780,1850000,1697247
+Sollentunakommun,Tureberg,Vänortsstråket 55A,3,87.3,3889,2630000,2603960
+Sundbybergskommun,CentralaSundbyberg,Tulegatan 20,3,74.0,4297,5450000,4780701
+Stockholmskommun,Östermalm,"Nybrogatan 83, 5 tr",2,62.0,2904,8750000,8578431
+Stockholmskommun,Bromma,Karlsbodavägen 49,1.5,35.0,2478,2400000,2086956
+Stockholmskommun,Telefonplan,Cirkusvägen 10,2,57.0,2774,2850000,2499999
+Sollentunakommun,Tureberg,Turebergs allé 22,2,55.0,3438,2700000,2389380
+Stockholmskommun,Bromma,Klädesvägen 32,1,34.0,1927,2450000,1991869
+Stockholmskommun,Enskededalen,Sockenvägen 493,2,53.0,4500,2775000,2500000
+Stockholmskommun,Katarina,"Tjurbergsgatan 36, 2tr",2,38.0,2171,4070000,3508620
+Stockholmskommun,Mariehäll,Klintbacken 8 ACCEPTERAT PRIS,2,50.0,2703,2795000,2795000
+Sollentunakommun,Edsängen,Frestavägen 20,3,79.0,4608,3875000,2795000
+Sundbybergskommun,CentralaSundbyberg,Tulegatan 73,2,55.0,3205,3550000,3198198
+Stockholmskommun,Södermalm,"Folkungagatan 51, 5 tr",3,75.0,3947,8150000,7212389
+Stockholmskommun,Årsta,Borensvägen 13,2,45.0,2464,2825000,2173076
+Stockholmskommun,Gärdet,Furusundsgatan 16,3,57.0,2286,6000000,5504587
+Solnakommun,Vireberg,"Virebergsvägen 24, 7 tr",4,82.0,3704,5600000,4912280
+Stockholmskommun,Vasastan,"Hälsingegatan 3, 1tr",4,110.0,3651,15275000,14547619
+Stockholmskommun,Kungsholmen,"Runiusgatan 5, 1tr",2,47.0,2089,3450000,3194444
+Stockholmskommun,Midsommarkransen,Cedergrensvägen 35,2,51.0,2981,3750000,3205128
+Sollentunakommun,Tureberg,Malmvägen 16C,4,93.4,3518,3035000,3004950
+Stockholmskommun,Akalla,"Sibeliusgången 26, Accepterat pris!",3,71.0,2948,2200000,2156862
+Stockholmskommun,Årsta,Långhalsvägen 24,3,55.0,3404,3650000,2156862
+Stockholmskommun,Blåsut,Fyrvaktarkroken 61,4,93.0,4632,6800000,6476190
+Stockholmskommun,Kungsholmen,"Lars Forssells gata 22, 3 tr",5,115.5,4444,11995000,11995000
+Sundbybergskommun,Järvastaden,Brukshundsvägen 28,2,44.0,2512,2650000,2500000
+Stockholmskommun,Gröndal,Utkiksbacken 30,2,52.0,3101,5300000,4491525
+Nackakommun,Neglinge,Sturevägen 1C,2,59.0,3540,2495000,2495000
+Stockholmskommun,Årsta,"Årstavägen 7, vån. 5 / 5",2,54.0,3398,3550000,3256880
+Stockholmskommun,riksby,Vadmalsvägen 16,2,53.5,3038,3060000,2593220
+Stockholmskommun,Hammarbysjöstad,Fendergatan 6,2,55.0,3330,4100000,3867924
+Stockholmskommun,Vällingby,Rabattvägen 42 - Uteplats,2,59.5,4117,2300000,2000000
+Solnakommun,Bergshamra,"Ripstigen 6, 5tr",3,76.0,4219,4200000,4000000
+Stockholmskommun,GamlaÖstberga,"Stamgatan 2, vån 2",3,78.0,5390,2600000,4000000
+Stockholmskommun,Maria,"Hornsgatan 49, 5 tr",2,55.0,2316,5700000,4956521
+Sollentunakommun,Tureberg,Engelbrekts Väg 67,3,68.9,4692,3700000,3363636
+Stockholmskommun,Globen,Skulptörvägen 16,3,84.0,4846,6200000,5585585
+Stockholmskommun,Hägerstensåsen,Förskottsvägen 7,3,56.0,3500,3600000,3185840
+Sundbybergskommun,Hallonbergen,Lötsjövägen 11,1,15.0,815,1195000,1106481
+Sundbybergskommun,CentralaSundbyberg,Spinnerigatan 5A,4,94.0,5092,7000000,6796116
+Stockholmskommun,Skärmarbrink,Palandergatan 23,2,40.0,2644,2600000,2300884
+Stockholmskommun,Östermalm,Storskärsgatan 4,1.5,39.0,1796,4100000,3942307
+Stockholmskommun,Spånga,"Enevägen 34, Vån 2",1,35.0,2593,1500000,1388888
+Stockholmskommun,Vasastan,"Markvardsgatan 10, 3 tr",3,92.0,3439,12000000,11009174
+Stockholmskommun,Södermalm,"Rosenlundsgatan 20, 2 tr",1.5,31.0,1846,3300000,2796610
+Stockholmskommun,Skarpnäck,Skarpnäcks Allé 62A,3,80.0,5336,2585000,2308035
+Sundbybergskommun,Brotorp,Brogatan 18,2,42.0,2585,2600000,2280701
+Stockholmskommun,Vasastan,Atlasgatan 11,2.5,72.0,2995,7760000,7683168
+Stockholmskommun,Södermalm,Götgatan 44A,2,64.0,1795,6650000,5937499
+Solnakommun,Huvudsta,Bangatan 1F,3,73.0,3877,3400000,3400000
+Stockholmskommun,HammarbySjöstad,Vävar Johans gata 11,3,67.0,4586,4870000,4728155
+Stockholmskommun,Södermalm,"Tantogatan 47, vån 12",2,42.5,2097,3700000,3592233
+Solnakommun,Järva,Fridensborgsvägen 31,2,64.0,3501,3600000,3600000
+Stockholmskommun,Kungsholmen,"Lidnersgatan 2, 2 tr",2,48.0,3739,4375000,4166666
+Solnakommun,Karolinska,Karolinska vägen 11,4,74.0,4618,8300000,8300000
+Solnakommun,Huvudsta,Epistelvägen 7,2,47.5,2718,3230000,2858407
+Stockholmskommun,Södermalm,"Heleneborgsgatan 36A, 3tr",1.5,40.0,2583,3850000,3437499
+Stockholmskommun,Kungsholmen,"Stenshällsvägen 5, El ingår",1,18.0,1175,2080000,2080000
+Stockholmskommun,Bromma,Klädesvägen 42,2,58.0,3287,3850000,2080000
+Stockholmskommun,Liljeholmen,"Sjöviksbacken 18, 5tr",2,45.0,2818,3815000,3499999
+Solnakommun,SolnaCSkytteholm,Framnäsbacken 14 lgh. 6,1,40.0,2233,3250000,3499999
+Solnakommun,SolnaCSkytteholm,Framnäsbacken 14 lgh. 5,5,107.0,5974,4750000,3499999
+Stockholmskommun,Traneberg,Kinnekullevägen 41,1,39.0,3834,2700000,2389380
+Stockholmskommun,Södermalm,Heleneborgsgatan 27,2,64.0,3374,6500000,6372549
+Stockholmskommun,GamlaÖstberga,"Stamgatan 50,2 tr",5,95.0,6787,3300000,2999999
+Stockholmskommun,Skarpnäck,Vinggatan 14,2,63.5,4009,2550000,2276785
+Stockholmskommun,Gröndal,"Storsegelvägen 12, 2tr",2,51.0,2763,4150000,3990384
+Solnakommun,Råsunda,Sommarvägen 6,3.5,70.0,3918,5340000,4487394
+Nackakommun,Saltsjöqvarn,Västra Finnbodavägen 9D,2.5,67.0,2621,6200000,6200000
+Stockholmskommun,Blackeberg,Drachmannsgatan 24,3,67.0,4340,3500000,3181818
+Stockholmskommun,Fredhäll,"Runiusgatan 5, 1 tr",2,38.0,1633,3200000,2990654
+Stockholmskommun,Kungsholmen,Lustgårdsgatan 4,3,66.0,3443,5800000,5471698
+Stockholmskommun,Liljeholmen,"Nybohovsgränd 11, 1tr",4,87.0,4011,5810000,5008620
+Stockholmskommun,Vasastan,Wallingatan 14A,2,57.0,2001,5200000,5000000
+Stockholmskommun,Gröndal,"Bryggvägen 14, vån 4",1.5,35.0,1980,3115000,2492000
+Sollentunakommun,CentralaSollentuna,Sofielundsvägen 1A,2,62.9,3706,3110000,3079207
+Sundbybergskommun,Rissne,Rissneleden 165 - VÅN 2,3,82.5,4269,4000000,3703703
+Stockholmskommun,Östermalm,"Sandhamnsgatan 23, 3tr",1,24.0,480,2920000,2495726
+Stockholmskommun,Södermalm,"Grindsgatan 52, 3tr - ACCEPTERAT PRIS",3,81.5,3881,6300000,6116504
+Stockholmskommun,Kista,"Sorögatan 17, SV",2,68.0,4079,1995000,1995000
+Stockholmskommun,Hammarbyhöjden,Garagevägen 9,4,82.0,4382,6100000,5495495
+Stockholmskommun,HammarbySjöstad,"Babordsgatan 7, vån 4 / 4",3,72.0,4194,7725000,6717391
+Stockholmskommun,HammarbySjöstad,Kölnagatan 14,4,92.0,5170,9050000,8960396
+Stockholmskommun,FarstaStrand,"Ekshäradsgatan 83, vån 8 av 9",3,66.0,4160,3250000,3250000
+Solnakommun,Järvastaden,Fridensborgsvägen 25,2,70.0,3600,3950000,3950000
+Stockholmskommun,Vasastan,Tegnérgatan 51A,2,42.0,844,5100000,5000000
+Solnakommun,Ritorp,Enköpingsvägen 19B,2,57.7,2789,2900000,2761904
+Stockholmskommun,Björkhagen,Karlskronavägen 23,5,107.0,6451,9300000,8532110
+Solnakommun,BergshamraSödra,"Gamla vägen 9, 3 tr",3,84.0,3145,5400000,5000000
+Stockholmskommun,Årsta,"Orrfjärdsgränd 6, högst upp!",4,91.5,5797,6750000,6308411
+Stockholmskommun,Vällingby,"Funäsgatan 6, Vån 13 (2131 / 2205)",2,45.0,2385,2800000,2295081
+Stockholmskommun,Sandsborg,Kyrkogårdsvägen 55,1,40.0,2228,2685000,2397321
+Solnakommun,SolnaCSkytteholm,Framnäsbacken 14,7,147.0,8208,8000000,8000000
+Stockholmskommun,Södermalm,"Heleneborgsgatan 48, 1 tr",3,60.0,2548,6000000,5504587
+Stockholmskommun,Högdalen,Harpsundsvägen 61,3,67.0,3512,2950000,2587719
+Nackakommun,Finnberget,Finnbergsvägen 50,3,58.0,3285,5100000,4678899
+Stockholmskommun,Vasastan,Idungatan 8,2,62.0,2485,10000000,10000000
+Solnakommun,Råsunda,"Solnavägen 110, våning 4",2,61.0,3386,4650000,4189189
+Stockholmskommun,Högalid,Heleneborgsgatan 20,1.5,42.0,2483,4530000,3905172
+Stockholmskommun,Södermalm,"Skånegatan 105 A, 5 tr",1,28.0,1911,3230000,2784482
+Stockholmskommun,Södermalm,"Fatburs Brunnsgata 16, 6 tr.",2,66.0,3604,5500000,5500000
+Stockholmskommun,Årsta,"Siljansvägen 3, 2 tr",2,56.5,4051,3600000,3564356
+Stockholmskommun,Riksby,"Synålsvägen 5, vån 2",3,60.0,3123,3200000,2857142
+Stockholmskommun,Ulvsunda,"Björkbacksvägen 61, vån 2",3,77.0,4169,4300000,2857142
+Stockholmskommun,Nockebyhov,Nockeby Backe 6,2,48.0,3119,3225000,2756410
+Stockholmskommun,Vasastan,Wallingatan 11,1,28.0,1942,4025000,3411016
+Stockholmskommun,Östermalm,Sibyllegatan 21,4,133.0,5323,21000000,20000000
+Stockholmskommun,Johannesfred,Tackjärnsvägen 11,2,59.0,3012,4325000,4282178
+Nackakommun,Saltsjöbaden,Torben Gruts väg 1,2,70.0,3375,6450000,6201923
+Stockholmskommun,Vasastan,Rörstrandsgatan 15,2,40.0,2159,5450000,5000000
+Stockholmskommun,HammarbySjöstad,"Sickla kanalgata 10, 3tr",2,69.5,4587,5950000,5509259
+Stockholmskommun,Kungsholmen,Pipersgatan 5 A,5,130.0,5156,17500000,16990291
+Stockholmskommun,Högdalen,"Harpsundsvägen 89, 3tr",2,65.0,3729,2600000,2000000
+Stockholmskommun,Hjorthagen,Dianavägen 31,3.5,86.0,2843,7800000,7500000
+Stockholmskommun,Fredhäll,"Messeniusgatan 6, 1 tr",3,46.0,3055,3800000,3689320
+Stockholmskommun,Beckomberga,Beckomberga Allé 25 Accepterat pris!,4,100.5,4652,5600000,5490196
+Stockholmskommun,Vällingby,Vittangigatan 20 (Vån 6),2,58.0,3526,2275000,1995614
+Stockholmskommun,Fridhemsplan,"Svarvargatan 10, 3 tr",2,37.0,1782,4150000,3487394
+Stockholmskommun,Högalid,Lundagatan 44B,2,36.5,1890,3820000,3350877
+Stockholmskommun,Östermalm,Rindögatan 14,1,25.0,1715,2950000,2500000
+Stockholmskommun,Farsta,"Hammarögatan 26, 5 tr",4,93.0,5446,4700000,4234234
+Stockholmskommun,Midsommarkransen,Vårgatan 3B,4,108.0,5879,9700000,8981481
+Stockholmskommun,Akalla,"Saimagatan 11, 4 tr",3,73.0,4078,2000000,1886792
+Stockholmskommun,Maria,Kattgränd 6,3,68.0,2944,7300000,7019230
+Stockholmskommun,GamlaEnskede,Skogsvägen 1,3,49.0,3039,5250000,4449152
+Solnakommun,Råsunda,"Virebergsvägen 16, Vån 6 / 6!",2,51.0,3338,3450000,3000000
+Solnakommun,Råsunda,Råsundavägen 134,1,28.0,2325,2550000,2500000
+Stockholmskommun,Kungsholmen,"Polhemsgatan 18B, gårdshus",2,54.0,3218,5200000,5000000
+Solnakommun,Skytteholm,"Nybodagatan 3, vån 3",5,114.2,4680,6350000,5381355
+Stockholmskommun,Gröndal,"Grenljusbacken 21, 8tr",3,73.0,3116,6010000,5366071
+Stockholmskommun,Kungsholmen,"Nordenflychtsvägen 64, vån 2",3,70.0,2155,5950000,5891089
+Stockholmskommun,Årsta,Storsjövägen 61,3,57.0,3136,3950000,3405172
+Stockholmskommun,Aspudden,Erik Segersälls Väg 18,2,52.0,3600,4960000,4468468
+Stockholmskommun,Midsommarkransen,"Midsommarvägen 31, 2 tr",2.5,54.0,2660,4050000,3491379
+Stockholmskommun,Södermalm,"Lundagatan 40B, 4 tr",2,41.5,2104,4200000,3749999
+Stockholmskommun,Bromma,Ibsengatan 80,2,54.0,2730,2400000,2307692
+Stockholmskommun,Sätra,Kungssätravägen 25C,3,70.7,5380,2495000,2495000
+Stockholmskommun,Vasastan,Tomtebogatan 23,3,96.0,2767,12125000,12004950
+Solnakommun,VästraSkogen,Epistelvägen 1B 10tr,3,82.0,4442,5800000,5370370
+Solnakommun,Huvudsta,"Huvudstagatan 33, 4 tr",3,77.0,4681,5530000,4893805
+Sundbybergskommun,Rissne,Lavettvägen 32,3,85.0,4589,2950000,2706422
+Stockholmskommun,Hagsätra,Lillhagsvägen 6,3,69.0,4665,2450000,2289719
+Solnakommun,Huvudsta,Polhemsgatan 3,2,70.0,3142,3250000,2981651
+Stockholmskommun,Vasastan,"Norrtullsgatan 16E, 5tr",3,80.0,2643,7500000,7281553
+Stockholmskommun,Bromma,Dartanjangs Gata 46,3,81.0,4585,4900000,4495412
+Stockholmskommun,Hammarbyhöjden,Tidaholmsvägen 27,2.5,58.0,2309,3950000,3691588
+Stockholmskommun,HammarbySjöstad,"Korphoppsgatan 22, 4 tr",3,68.0,4497,4900000,4757281
+Stockholmskommun,Södermalm,Färgargårdstorget 62,4,108.5,5120,8550000,7990654
+Solnakommun,Frösunda,Gustav lll:s Boulevard 145,3,85.0,4997,5450000,5000000
+Stockholmskommun,Bromma,Beckomberga ängsväg 49,3,76.0,4515,4730000,3845528
+Nackakommun,Kvarnholmen,Siloplatsen 8,2,54.0,3355,4400000,3999999
+Stockholmskommun,Stureby,Skönviksvägen 297,3,59.0,3695,3350000,2791666
+Stockholmskommun,Vasastan,"Hagagatan 16A, 4 tr",3,55.0,2883,6800000,6476190
+Stockholmskommun,Enskededalen,Täppgränd 14,4,97.0,5310,5000000,6476190
+Sundbybergskommun,LillaAlby,Högklintavägen 20,2,42.0,2721,3050000,2699115
+Stockholmskommun,Gröndal,Fregattvägen 44,2,56.0,3774,3800000,3193277
+Stockholmskommun,Östermalm,"Skeppargatan 75, 1tr",1,24.0,1292,2830000,2398305
+Solnakommun,Råsunda,Åsvägen 5,3,73.0,4171,5650000,5000000
+Stockholmskommun,Kungsholmen,"Hjalmar Söderbergs Väg 2, 3tr",2,48.0,2995,4450000,4009009
+Sundbybergskommun,CentralaSundbyberg,Fågelsången 3,2,38.0,2235,2720000,2495412
+Solnakommun,Huvudsta,Infanterigatan 27,3,80.5,4017,4330000,3491935
+Stockholmskommun,Kungsholmen,"Gambrinusgatan 4, 3 tr",2,53.0,3266,6000000,6000000
+Stockholmskommun,Bromma,Styresman Sanders väg 6,3,70.0,4272,4100000,3693693
+Stockholmskommun,Bromma,"Lämmelgränd 5, Accepterat pris!",2,58.0,3250,4200000,4117647
+Solnakommun,Bergshamra,Rådjursstigen 18,1,39.0,1984,2400000,2352941
+Stockholmskommun,Skarpnäck,Gondolgatan 9,3,71.0,4246,3250000,2600000
+Solnakommun,Frösunda,"Anders Lundströms Gata 12, 2 tr",1.5,55.8,3139,3520000,2983050
+Stockholmskommun,Hjorthagen,Lanforsvägen 29,2,44.2,3050,3000000,2803738
+Stockholmskommun,Kungsholmen,"Drottningholmsvägen 72, 2 tr",2,38.0,1974,3570000,3245454
+Stockholmskommun,Björkhagen,Understensvägen 107,2,58.5,3894,6250000,4496402
+Stockholmskommun,Liljeholmskajen,"Fredsborgsgatan 8, 5 / 6 tr",3,88.0,3601,7250000,7107843
+Stockholmskommun,Södermalm,Lorensbergsgatan 1A,2.5,69.0,3204,7200000,6857142
+Solnakommun,Huvudsta,Arvid Tydéns allé 24,3,63.0,3142,4230000,3810810
+Stockholmskommun,Kungsholmen,"Primusgatan 52, 10 tr",2,63.5,3725,5800000,5686274
+Nackakommun,Sickla,Sickla allé 13E,2,47.5,2429,3700000,3189655
+Stockholmskommun,Kista,"Kista Alléväg 9, plan 0 (3-1001)",3,79.9,4258,3300000,3300000
+Nackakommun,Finntorp,Finntorpsvägen 9,3,73.0,4139,4300000,3706896
+Stockholmskommun,Farsta,"Ågesta broväg 62, 4tr",2,58.0,3477,2960000,2487394
+Stockholmskommun,Sätra,Hållsätrabacken 30,1,39.0,2723,1495000,1495000
+Stockholmskommun,Östbergahöjden,Fageredsgränd 8,2.5,71.0,4108,2365000,2092920
+Stockholmskommun,Kungsholmen,"Kristinebergs slottsväg 7, 4 tr",2,58.0,3317,5160000,4914285
+Stockholmskommun,Kungsholmen,"Sysslomansgatan 24, 8tr",1,24.0,1230,2900000,2685185
+Stockholmskommun,City,"Vattugatan 13, 8 tr",3,96.0,5225,8150000,7761904
+Stockholmskommun,HammarbySjöstad,"Lugnets Allé 36, pl 7",3,82.0,3293,7150000,7009803
+Stockholmskommun,SpångaKyrka,Svinningegränd 19,3,83.5,5602,1760000,1599999
+Stockholmskommun,Bromma,Granbacken 9 1tr,2,46.5,3548,2800000,2456140
+Solnakommun,Bergshamra,Åbergssons Väg 11,2.5,63.0,3047,4285000,3483739
+Stockholmskommun,Midsommarkransen,Cedergrensvägen 22,2,35.0,2235,2775000,2392241
+Stockholmskommun,Gärdet,"Rindögatan 17, 9 tr",3,68.0,3906,8150000,7836538
+Stockholmskommun,Vasastan,"Vanadisvägen 31B, 1tr",2,53.0,2414,5875000,4978813
+Stockholmskommun,NorraDjurgårdsstaden,"Fagningsgatan 5, 6tr",3,79.0,4596,9200000,8000000
+Stockholmskommun,Hägerstensåsen,Bokbindarvägen 51,2,50.0,3182,3500000,2845528
+Solnakommun,Arenastaden,"Evenemangsgatan 18, 15tr",2,43.0,1731,3500000,3500000
+Stockholmskommun,Vasastan,"Torsgatan 41, 5 tr",3,88.0,3046,11030000,9936936
+Stockholmskommun,Kista,"Helsingörsgatan 30, 2tr",2,47.5,3712,2000000,1886792
+Stockholmskommun,Kungsholmen,"Lindhagensgatan 139B, 7tr",2,67.5,2759,6300000,6237623
+Stockholmskommun,Globen,Gullmarsvägen 8,2,50.0,2700,3000000,2803738
+Solnakommun,Arenastaden,Evenemangsgatan 14,2,57.0,2657,3750000,3409090
+Nackakommun,NackaForum,"Kantatvägen 19, 1tr",3,84.5,5929,3800000,3193277
+Stockholmskommun,Kungsholmen,"Eknäsvägen 4A, högst upp!",2,49.0,2953,4225000,3673913
+Stockholmskommun,Axelsberg,"Stjernströms Väg 5, vån 3",3,61.9,3856,4690000,3908333
+Stockholmskommun,Bromma,"Mariehällsvägen 4, 4 tr.",2,49.0,3389,3450000,3000000
+Stockholmskommun,Liljeholmskajen,Vingårdsgatan 46,3,110.0,4866,10900000,10000000
+Stockholmskommun,Midsommarkransen,Responsgatan 14,2,53.0,3321,3400000,2982456
+Nackakommun,Finnberget,Finnbergsvägen 68,3,90.0,4953,5202000,5001923
+Nackakommun,FinnbodaHamn,Kvarnholmsvägen 39D,2,50.0,3465,3570000,3500000
+Sundbybergskommun,Duvbo,Björkhagsvägen 14,2,60.0,3626,3650000,3509615
+Stockholmskommun,Södermalm,Bohusgatan 47,4,87.0,4585,6600000,6226415
+Solnakommun,SolnaCentrum,"Klippgatan 8B, 5tr",3,75.5,2771,4375000,3977272
+Solnakommun,Bergshamra,Rådjursstigen 42,4,101.5,3708,5685000,4986842
+Stockholmskommun,Midsommarkransen,"Svandammsvägen 31C, vån 2 - Accepterat pris!",2,64.0,4093,4050000,3932038
+Stockholmskommun,CentralaÅrsta,Svärdlångsvägen 54,3,67.0,3640,3925000,3504464
+Stockholmskommun,Kungsholmen,Fleminggatan 36C våning 6 / 6!,2,62.0,2370,5800000,5471698
+Sundbybergskommun,Ursvik,Oxenstiernas Allé 31,4,92.3,4995,4430000,3990990
+Stockholmskommun,Gröndal,Ekensbergsvägen 80,2,28.0,3143,2200000,1896551
+Stockholmskommun,Södermalm,Östgötagatan 89,2,37.0,1711,3300000,3300000
+Stockholmskommun,Södermalm,Gotlandsgatan 76 B,1,39.0,1466,3700000,3457943
+Stockholmskommun,Högdalen,Stenkvistavägen 6,1,39.0,2737,2225000,1986607
+Sundbybergskommun,Rissne,Mjölnerbacken 75,4,94.0,4516,3500000,1986607
+Stockholmskommun,Kungsholmen,Sysslomansgatan 8,2,48.0,2379,4650000,4266055
+Sundbybergskommun,CentralaSundbyberg,Tulegatan 18,2,49.0,2765,4275000,4266055
+Stockholmskommun,Hässelby,Mirabellbacken 20,3,76.0,4679,2810000,2097014
+Stockholmskommun,Kungsholmen,"Frödingsvägen 1, 2 tr.",2,43.0,2262,3980000,3940594
+Stockholmskommun,Södermalm,Helgalunden 5,2,58.0,4339,5500000,4782608
+Stockholmskommun,Kungsholmen,Essinge Brogata 27,1,26.5,1545,2500000,2000000
+Sundbybergskommun,Rissne,Lavettvägen 34,4,97.0,5409,3500000,3333333
+Sollentunakommun,Rotsunda,"Annerovägen 14, 2tr",3,91.6,5586,3450000,3194444
+Solnakommun,Råsunda,Lövgatan 68,2,60.0,2321,3550000,2983193
+Sollentunakommun,Viby,Lillies Väg 98,4,94.5,4423,4375000,4206730
+Sundbybergskommun,CentralaSundbyberg,"Rosengatan 8, 3 tr",2,45.0,2868,3600000,3185840
+Stockholmskommun,Högdalen,Trollesundsvägen 173,3,78.5,4522,3500000,3097345
+Solnakommun,HagaNorra,Nordstjärnegatan 2,4,131.6,5873,8375000,7683486
+Sundbybergskommun,Sundbyberg,Gamla Enköpingsvägen 152,1,34.5,2410,2000000,2000000
+Stockholmskommun,Södermalm,"Kocksgatan 36, 4 tr",2,30.4,1863,3560000,3178571
+Stockholmskommun,Midsommarkransen,Tegelbruksvägen 40,2,56.0,4087,4900000,4188034
+Stockholmskommun,Sköndal,Spritsvägen 11,2,42.0,2600,2200000,2200000
+Stockholmskommun,Kungsholmen,"Garvargatan 20, 5 / 5 tr",2,34.0,2088,4250000,4009433
+Stockholmskommun,Kista,Imatragatan 250,2,47.0,3189,1700000,1491228
+Stockholmskommun,Årsta,Kolsnarsvägen 7,2,42.7,2547,3050000,2479674
+Stockholmskommun,Östermalm,Banérgatan 31,3,87.0,4899,14500000,12500000
+Nackakommun,Ekudden,"Ekuddsvägen 27, 7tr",2,66.0,3915,4800000,4485981
+Stockholmskommun,Johannesfred,Ståltrådsvägen 54,2,60.0,2910,3630000,3000000
+Stockholmskommun,Årsta,"Årstavägen 133, 1 tr",3,58.0,4272,3350000,2991071
+Stockholmskommun,Gärdet,Rindögatan 25,2,38.0,1514,4200000,3749999
+Nackakommun,Orminge,"Utövägen 22, 2tr",4,90.0,5667,3600000,3749999
+Stockholmskommun,Vasastan,"Vanadisvägen 34, 2,5 tr",5.5,149.0,4441,15200000,15049504
+Stockholmskommun,Liljeholmen,"Liljeholmsgränd 6, 5 tr",2,49.0,2448,4050000,4009900
+Stockholmskommun,Hammarbyhöjden,Finn Malmgrens Väg 2B,2,60.0,3902,4100000,3504273
+Stockholmskommun,Vasastan,Surbrunnsgatan 43B,2,48.0,2614,6200000,5740740
+Nackakommun,Skogalund,"Per Hallströms Väg 10, 3tr",3,71.0,4584,2900000,2685185
+Stockholmskommun,Åkeslund,Stopvägen 22,4,77.0,4515,5200000,5000000
+Stockholmskommun,Hägerstensåsen,Bokbindarvägen 51,2,50.0,3182,3200000,2807017
+Stockholmskommun,Kungsholmen,Igeldammsgatan 20,1,37.0,1825,3650000,3543689
+Stockholmskommun,Östermalm,Linnégatan 39A,3,66.0,2964,9250000,8894230
+Stockholmskommun,Årsta,"Malgomajvägen 6, 3 tr",2,57.0,4091,3500000,2777777
+Stockholmskommun,Aspudden,Husabyvägen 39,3,69.0,4313,5450000,5240384
+Stockholmskommun,Kungsholmen,"Sankt Eriksgatan 1, 1 tr",3,84.0,4097,9430000,8495495
+Stockholmskommun,Södermalm,Bjurholmsplan 23,2,34.0,2374,3830000,3389380
+Stockholmskommun,Vällingby,Abiskovägen 14,3,75.0,3671,2300000,2300000
+Stockholmskommun,Södermalm,"Högbergsgatan 18 / Roddargatan 8, 1 tr",2,49.0,1808,4750000,4398148
+Stockholmskommun,Vasastan,Kungstensgatan 53A,2,30.0,2005,3700000,3394495
+Stockholmskommun,Vasastan,Dalagatan 78C,2,52.0,2089,7100000,6761904
+Nackakommun,Orminge,Ormingeringen 58B,4,91.0,-,3050000,6761904
+Solnakommun,Råsunda,Gränsgatan 26,1.5,36.0,2010,2450000,2289719
+Stockholmskommun,Liljeholmskajen,"Sjöviksvägen 140, 9tr",2,49.0,3253,4150000,3990384
+Nackakommun,Nacka,Garverigränd 1,4,97.5,5812,7900000,3990384
+Stockholmskommun,Södermalm,Magnus Ladulåsgatan 21,3,66.0,3174,5790000,4991379
+Stockholmskommun,Hagsätra,Vintrosagatan 50 3tr,3,73.0,3830,3085000,2187943
+Stockholmskommun,Kungsholmen,"Kungsklippan 5, 1tr",2,46.0,2038,4700000,4607843
+Stockholmskommun,Solhem,Logvägen 79,1,42.5,2624,1750000,1699029
+Stockholmskommun,Södermalm,Götgatan 118,4,93.0,3968,8300000,1699029
+Stockholmskommun,Årsta,Kolsnarsvägen 21,2.5,54.2,3323,3660000,3155172
+Nackakommun,Nacka,"Fingerörtsvägen 3, 4 tr",3.5,84.0,5378,5000000,5000000
+Stockholmskommun,Hornstull,Folkskolegatan 3,2,55.0,3027,5700000,5000000
+Stockholmskommun,Vasastan,"Torsgatan 58, 1,5 tr.",2,41.0,2991,4200000,4000000
+Stockholmskommun,Älvsjö,"Kabelverksgatan 20, vån 7 av 7",2,44.0,2856,3050000,2798165
+Stockholmskommun,Liljeholmskajen,Hildebergsvägen 24,1.5,38.0,2970,2690000,2401785
+Stockholmskommun,Västertorp,Stöttingsgränd 16,2,59.0,3225,3200000,2807017
+Stockholmskommun,SöderbergaAllé,"Söderberga Allé 32, 1tr",4,104.0,7000,3395000,3395000
+Stockholmskommun,Vårberg,Gränsholmsbacken 8,3,65.0,3353,2200000,1946902
+Stockholmskommun,Hornstull,Slipgatan 14,1.5,39.0,2367,3300000,2999999
+Stockholmskommun,Hornstull,Lignagatan 4,3,75.0,3565,6510000,6200000
+Stockholmskommun,Stureby,"Bastuhagsvägen 10,",1,19.0,1030,1650000,1650000
+Stockholmskommun,Älvsjö,Tvååkersgränd 1,3,82.0,5280,3500000,1650000
+Stockholmskommun,Årsta,"Siljansvägen 74, 2,5tr",3,74.0,4906,4225000,3300781
+Stockholmskommun,Sköndal,"Kubbegatan 4, 3tr",2,53.0,2779,2450000,2247706
+Stockholmskommun,Bandhagen,Gillerbacken 28,2,69.0,3990,900000,687022
+Stockholmskommun,Vasastaden,Tegnérgatan 55D - Två terrasser,2,41.0,2769,7150000,6499999
+Stockholmskommun,Södermalm,"Katarina Bangata 31 A, 4 tr ö.g.",2,69.0,2265,7625000,6517094
+Solnakommun,Huvudsta,Lundagatan 11,2,62.0,3037,3100000,2743362
+Stockholmskommun,Bromma,Dartanjangs Gata 60,3,76.0,4374,3900000,3900000
+Nackakommun,VästraOrminge,Ormingeringen 73,1.5,37.0,2979,1805000,1702830
+Stockholmskommun,Kista,"Langelandsgatan 53, 3tr",3,76.5,5052,2450000,2450000
+Stockholmskommun,Kungsholmen,"Gjutargatan 12, vån 3",1,24.0,1225,2720000,2495412
+Sollentunakommun,Häggvik,Ugglevägen 7,4,84.0,4865,3495000,3495000
+Sundbybergskommun,Rissne,Rissneleden 159 - VÅN6,3.5,82.5,4269,4480000,3584000
+Nackakommun,Sickla,Gillevägen 3,1,26.5,1773,2150000,1902654
+Stockholmskommun,Fredhäll,"Vitalisvägen 7, 1,5 tr",1.5,40.0,2114,3300000,3142857
+Stockholmskommun,Hägersten,"Klubbacken 18, 3 tr",2,43.0,2225,3000000,2608695
+Stockholmskommun,Södermalm,"Tavastgatan 5, 1tr - Accepterat pris!",2,44.0,2838,4700000,4700000
+Sollentunakommun,Häggvik,Sollentunavägen 307,2,45.0,2681,2770000,2742574
+Sundbybergskommun,CentralaSundbyberg,Albygatan 120,2,42.5,2674,2600000,2241379
+Stockholmskommun,Telefonplan,Bäckvägen 79,2,38.0,3198,2750000,2291666
+Stockholmskommun,Hökarängen,"Pepparvägen 45, 3 av 3 tr",2,47.0,3438,2600000,2000000
+Stockholmskommun,Vasastan,"Västmannagatan 29, 3 tr",3,76.0,2775,9275000,8918269
+Stockholmskommun,Södermalm,Bondegatan 51,3,70.0,3633,7000000,5982905
+Stockholmskommun,Älvsjöbadet,Lillhagsvägen 18,3.5,71.0,5089,2900000,2000000
+Sundbybergskommun,CentralaSundbyberg,Hamngatan 31A,3,79.0,3864,6050000,6050000
+Sollentunakommun,Tureberg,Blåklockevägen 11,3,72.0,4680,3000000,3000000
+Stockholmskommun,Kungsholmen,"Kungsklippan 12, 5 tr",1,31.0,2690,3100000,2897196
+Stockholmskommun,Södermalm,Katarina Bangata 69,3,85.0,4278,7650000,7650000
+Nackakommun,NackaStrand,Augustendalsvägen 27,1,33.0,2075,2450000,2401960
+Stockholmskommun,Södermalm,"Klippgatan 21, 5 trp",2,50.0,3468,5230000,4508620
+Stockholmskommun,Södermalm,Krukmakargatan 26,2,53.0,2821,5180000,4980769
+Stockholmskommun,Bredäng,Ålgrytevägen 29,1.5,30.5,2092,2050000,1898148
+Sundbybergskommun,CentralaSundbyberg,"Tulegatan 5, 2 tr",2,56.0,3162,3900000,3305084
+Sundbybergskommun,CentralaSundbyberg,"Tulegatan 18, Vån 14 / 15",2,49.0,2690,4520000,4000000
+Stockholmskommun,Traneberg,Porfyrvägen 9,2,41.0,3042,3060000,2756756
+Stockholmskommun,Kungsholmen,"Kungsklippan 20, 4tr",1,27.0,2391,2900000,2500000
+Stockholmskommun,Gröndal,"Ekensbergsvägen 126, 1tr",3,58.0,3236,4000000,3508771
+Solnakommun,VästraSkogen,"Tecknarvägen 7, vån 6 av 6",3,65.5,3848,5100000,5000000
+Sundbybergskommun,CentralaSundbyberg,Fredsgatan 17,2,44.0,2368,3300000,2796610
+Sundbybergskommun,Ursvik,Oxenstiernas Allé 22,4,98.0,5685,4200000,3888888
+Stockholmskommun,Södermalm,Gotlandsgatan 60,2,33.0,1651,3730000,3300884
+Sollentunakommun,Silverdal,Silverdalsvägen 31,2.5,62.0,2733,2850000,2688679
+Stockholmskommun,Kungsholmen,Kellgrensgatan 10,3,78.5,4525,7500000,7009345
+Sollentunakommun,Häggvik,Klasrovägen 31,2,54.9,3214,2650000,2650000
+Solnakommun,Råsunda,Uppfartsvägen 8,1.5,38.0,2822,2850000,2499999
+Stockholmskommun,Gröndal,"Sannadalsvägen 14, 2 / 2tr",3,63.0,3833,5150000,5150000
+Stockholmskommun,Kungsholmen,"Jaktvarvsplan 3, 2tr",2,30.0,1715,3300000,2894736
+Nackakommun,Sickla,Atlasvägen 39,1.5,37.0,1405,3050000,2242647
+Stockholmskommun,Kungsholmen,Mitisgatan 4,3,73.5,3765,8300000,7980769
+Stockholmskommun,Bromma,Fredrikslundsvägen 45,2,48.0,2938,3150000,2739130
+Stockholmskommun,Gröndal,"Fågelsångsvägen 13, vån 10",2,52.0,2683,4510000,3696721
+Stockholmskommun,Kungsholmen,"Lidnersgatan 12A, 4 tr",2,39.5,3071,3700000,3303571
+Sollentunakommun,Tegelhagen,Skogstorpsvägen 152 1 tr,3,76.0,4611,4000000,3773584
+Stockholmskommun,Hammarbyhöjden,Lidköpingsvägen 49,2,48.0,3719,3500000,2991452
+Stockholmskommun,Abrahamsberg,Registervägen 18,2,45.0,2057,2600000,2300884
+Stockholmskommun,Kungsholmen,"Ehrensvärdsgatan 4, 1½ tr",2,43.0,1605,4150000,3990384
+Stockholmskommun,Hammarbyhöjden,Finngrundsvägen 5,2,60.5,3078,4450000,4009009
+Stockholmskommun,Midsommarkransen,"Tellusborgsvägen 92, vån 3",1.5,36.0,2045,2750000,2696078
+Stockholmskommun,Skärholmen,Falkholmsgränd 29,3,83.5,5928,2300000,2000000
+Stockholmskommun,Hägerstenshamnen,Selmedalsringen 8,3,85.0,5030,5650000,5000000
+Stockholmskommun,Kungsholmen,Essinge Brogata 39,2,31.0,2446,2900000,2396694
+Stockholmskommun,Östermalm,"Kungstensgatan 3, 4 tr",4,117.0,4715,17400000,16893203
+Stockholmskommun,Akalla,Sibeliusgången 50,2,45.4,2945,1650000,1650000
+Stockholmskommun,Hammarbyhöjden,Johan Printz väg 10,2,37.0,2136,2800000,2393162
+Stockholmskommun,Gamla Stan,Skinnarviksringen 2,1,24.0,1869,3065000,2452000
+Stockholmskommun,Liljeholmskajen,"Ekfatsgatan 1, 3tr",4,105.0,5112,11300000,10761904
+Solnakommun,Skytteholm,Ankdammsgatan 25,3,92.0,4380,4550000,3500000
+Stockholmskommun,Östermalm,Ängskärsgatan 3,2.5,61.0,3071,6500000,6372549
+Stockholmskommun,Birkastan,Tomtebogatan 17,4,112.0,3717,11000000,10185185
+Stockholmskommun,Norrmalm,"Olof Palmes gata 12, Accepterat pris",2,39.0,1877,4150000,4150000
+Stockholmskommun,Örnsberg,Gösta Ekmans väg 17,5,122.0,6759,8500000,7522123
+Stockholmskommun,NedreGärdet,De Geersgatan 16,3,78.0,3949,11050000,11050000
+Stockholmskommun,Spånga,Bärkingeplan 13,2,69.0,4355,1400000,992907
+Stockholmskommun,Vasastan,Holländargatan 40,2,65.0,2762,7850000,6946902
+Stockholmskommun,Midsommarkransen,Fastlagsvägen 56A,3,95.0,4921,6800000,6296296
+Nackakommun,Kvarnholmen,Mjölnarvägen 6A,4,104.0,5180,10500000,10096153
+Stockholmskommun,Östermalm,Artillerigatan 65,2,51.0,2823,5600000,5333333
+Stockholmskommun,Östermalm,"Brahegatan 19, 4 tr",3,56.0,2106,7800000,7647058
+Nackakommun,Neglinge,Sturevägen 12,4,78.0,4400,3195000,3195000
+Stockholmskommun,Kungsholmen,"Wargentinsgatan 5 B, 4 tr",2,40.0,2257,4750000,3991596
+Stockholmskommun,Östermalm,Skeppargatan 70,3,115.0,8896,11500000,10360360
+Stockholmskommun,Liljeholmskajen,Sjöviksvägen 25,2,59.0,3088,4850000,4008264
+Stockholmskommun,Spånga,Bennebolsgatan 40 (Våning 3),4,97.0,5868,3770000,3696078
+Stockholmskommun,Älvsjö,Trumslagargatan 22,1.5,28.0,1859,1950000,3696078
+Stockholmskommun,HammarbySjöstad,Hammarby allé 127,2,42.0,2536,3400000,2982456
+Stockholmskommun,Bredäng,Odd fellowvägen 38,2,64.7,3716,3600000,3600000
+Nackakommun,Skogalundsklippan,"Skogalundsklippan 22, 1tr",4,86.5,5687,3800000,3486238
+Solnakommun,Frösunda,"Gustav III:s Boulevard 167, 3 tr",4,108.0,4954,6500000,6250000
+Solnakommun,Järvastaden,Fridensborgsvägen 27,2,62.0,3429,3650000,3379629
+Nackakommun,Tollare,"Tollare torg 4, 2 / 2 tr",4,93.0,4520,6000000,5714285
+Stockholmskommun,Sätra,"Kungssätravägen 18, vån 4 av 7",2,41.0,2683,2070000,1990384
+Stockholmskommun,Kungsholmen,Love almqvists väg 4A - Accepterat pris,2,37.5,3060,3200000,3200000
+Sundbybergskommun,Rissne,Kavallerivägen 2B,2,55.0,2979,2830000,2504424
+Stockholmskommun,Vasastan,Regeringsgatan 76,2,46.0,1156,5060000,4477876
+Stockholmskommun,Kungsholmen,Pontonjärgatan 45A,2,36.0,2176,3800000,3392857
+Solnakommun,SolnaCentrum,"Klippgatan 12C, vån 5",2,59.5,2584,3400000,3300970
+Stockholmskommun,Södermalm,"Folkungagatan 85 / Nytorgsgatan, 3 tr",3,87.0,3236,11410000,9276422
+Stockholmskommun,Södermalm,"Åsögatan 190, vån 5",1,31.0,1543,3950000,3291666
+Stockholmskommun,Högdalen,Skebokvarnsvägen 245,4,85.0,4991,3050000,2990196
+Nackakommun,Älta,Finserudsgränd 3D,3,59.0,3681,3000000,2803738
+Sundbybergskommun,Brotorp,Brogatan 6,3,79.5,4306,4500000,4205607
+Stockholmskommun,Kista,Kista alléväg 33,2,52.0,2429,2450000,2401960
+Solnakommun,Råsunda,Hasselstigen 8,2,55.0,2485,4050000,3681818
+Stockholmskommun,Kungsholmen,Bergsgatan 55,2.5,67.0,2443,7100000,6960784
+Stockholmskommun,Akalla,"Sibeliusgången 38, 7 tr",3.5,80.9,4857,2200000,1999999
+Stockholmskommun,HammarbySjöstad,"Korphoppsgatan 33, plan 5 & 6 (Högst upp)",6,150.0,9312,15000000,13043478
+Solnakommun,Råsunda,"Bollgatan 5, 4tr",4,99.0,1794,8200000,7522935
+Stockholmskommun,Telefonplan,"Mejselvägen 46, vån 3 av 3",1.5,32.0,3281,2250000,2250000
+Stockholmskommun,HammarbySjöstad,Sickla Kanalgata 77,3,74.0,5159,5025000,4975247
+Sundbybergskommun,Storskogen,Vintergatan 6,2,38.0,2719,2650000,2304347
+Stockholmskommun,Åkeshov,Snörmakarvägen 35A,2,56.0,2842,3700000,2304347
+Sollentunakommun,Kärrdal,Lomvägen 657,3,83.0,4546,2165000,2143564
+Stockholmskommun,Södermalm,"Slipgatan 14, 3tr, 2:a med balkong!",2,35.0,2440,3600000,3600000
+Solnakommun,HagaNorra,Hagavägen 10,3,99.0,4220,6500000,6018518
+Stockholmskommun,StoraEssingen,Segelbåtsvägen 14,4,104.5,6230,8250000,8009708
+Stockholmskommun,Kungsholmen,"Pontonjärgatan 34, 3tr",2,61.0,2717,6300000,5675675
+Stockholmskommun,Kungsholmen,"Grubbensringen 21, Etagelägenhet",3,103.0,7140,11500000,9829059
+Stockholmskommun,Akalla,"Sveaborgsgatan 6, 4 tr",4,87.2,5240,2400000,2307692
+Solnakommun,Järvastaden,"Järva Skjutbaneväg 39, 2 tr",2,53.0,3083,3250000,2981651
+Stockholmskommun,Gärdet,"Värtavägen 31, 2 tr",3,86.0,4768,9600000,8888888
+Stockholmskommun,HammarbySjöstad,Heliosgatan 16A,3,77.0,4069,6600000,6470588
+Stockholmskommun,Älvsjöbadet,Lillhagsvägen 24,3,69.0,5003,2700000,2093023
+Sollentunakommun,Edsberg,Viltstigen 8,2,54.5,3909,2550000,2339449
+Stockholmskommun,Spånga,Skäftingebacken 22 vån 6 / 6,4,94.0,6585,2400000,2285714
+Stockholmskommun,Spånga,Stadingeplan 7,4,109.0,6535,2200000,2095238
+Solnakommun,Huvudsta,Jonstorpsvägen 20,2,66.0,4049,2900000,2589285
+Stockholmskommun,Södermalm,Hornsgatan 33a,5,137.0,3518,17500000,15624999
+Stockholmskommun,Hammarbyhöjden,Nathorstvägen 38,2,64.0,4506,4400000,4400000
+Stockholmskommun,Vasastan,Rörstrandsgatan 2A,2,50.0,550,7000000,6249999
+Stockholmskommun,Mariatorget,Krukmakargatan 10 6tr,3,84.0,3607,7650000,6891891
+Stockholmskommun,Kungsholmen,Hjärnegatan 7,2,42.0,2526,5400000,4695652
+Nackakommun,Nacka,"Winborgs väg 7, 2 tr",2,69.0,4025,4800000,4485981
+Stockholmskommun,Kista,Langelandsgatan 41 - med möjlig uthyrningsdel!,5,100.0,6467,3350000,2500000
+Stockholmskommun,Spånga,Sotingeplan 36,4,111.5,5930,2375000,2199074
+Stockholmskommun,Vasastan,Rådmansgatan 75,4,95.0,4315,10200000,9902912
+Stockholmskommun,Södermalm,Bergsunds Strand 9,2,51.0,2614,6220000,5654545
+Stockholmskommun,Östermalm,"Grev Turegatan 69, 5TR",5,100.0,4202,18750000,18028846
+Stockholmskommun,Hornstull,Högalidsgatan 25,2,62.0,3434,5200000,5000000
+Stockholmskommun,HammarbySjöstad,Sickla Kanalgata 45,4,119.5,7032,12175000,11706730
+Stockholmskommun,Telefonplan,LM Ericssons väg 10D,2,56.0,2330,4700000,4311926
+Stockholmskommun,Liljeholmskajen,"Marieviksgatan 40, 5 tr",2,45.0,2571,3600000,3396226
+Solnakommun,Järvastaden,Fridensborgsvägen 155,2,67.0,3638,3800000,3392857
+Sundbybergskommun,SundbybergCentrum,Gränsgatan 1,1,35.0,2208,2700000,2195121
+Solnakommun,Hagalund,Kyrkbacken 6,1,18.5,1553,1550000,1462264
+Stockholmskommun,Stockholm,"Rindögatan 30, 5 av 5 tr",1,25.0,2066,2850000,2499999
+Solnakommun,Järvastaden,"Fridensborgsvägen 150, 4 tr",3,82.0,4169,4450000,4278846
+Sundbybergskommun,Hallonbergen,Lötsjövägen 47,2,68.8,3740,2175000,1995412
+Stockholmskommun,Östermalm,Gyllenstiernsgatan 3,2,39.0,1979,4100000,3504273
+Stockholmskommun,Kista,Vejlegatan 9,2,45.0,3662,1895000,1895000
+Sollentunakommun,Tureberg,Attundagränd 5 6 tr,3,66.0,4008,3500000,3398058
+Stockholmskommun,Kista,Hanstavägen 94 - Accepterat pris!,4,87.5,4597,3250000,3250000
+Solnakommun,Ulriksdal,"Slåttervägen 6, 4tr",3,79.0,4512,4350000,3990825
+Stockholmskommun,Grimsta,Kanngjutargränd 26,3,70.0,4458,2500000,2500000
+Stockholmskommun,Hässelby,Astrakangatan 4,2,42.0,2667,1650000,1650000
+Stockholmskommun,Globen,"Grafikvägen 32, 2 tr",1,27.0,2060,2375000,2305825
+Stockholmskommun,Enskede,"Bjulevägen 22, 1 tr",2,56.0,4514,2300000,2000000
+Stockholmskommun,Bromma,Klädesvägen 38 ACCEPTERAT PRIS 3 150 000 KR,2,50.0,2833,3150000,3150000
+Stockholmskommun,Vasastan,Döbelnsgatan 29,3,80.0,4788,12000000,9917355
+Stockholmskommun,Liljeholmen,"Liljeholmsvägen 12, Vån 3",2,41.0,2476,3500000,3097345
+Stockholmskommun,Akalla,Torneågatan 25,3,80.0,4697,2250000,1991150
+Stockholmskommun,Beckomberga,Bällstavägen 242 A,2,59.0,3571,2500000,2500000
+Stockholmskommun,Älvsjö,Prästgårdsgränd 8,2,63.0,3265,2915000,2602678
+Stockholmskommun,Östermalm,"Brahegatan 37, 2 tr",2,37.0,1743,5700000,5377358
+Stockholmskommun,Akalla,"Kaskögatan 22, 5 tr",3,75.9,4639,2250000,2102803
+Stockholmskommun,Kungsholmen,"Wivalliusgatan 32, 1 tr",2.5,64.5,4000,5225000,5072815
+Stockholmskommun,Gubbängen,Kistvägen 16,4,93.0,5920,4800000,4363636
+Stockholmskommun,Älvsjö,Slättåkragränd 15,3,83.0,4201,3140000,2595041
+Stockholmskommun,Abrahamsberg,Rörläggarvägen 16,3,60.0,3769,3500000,2966101
+Sollentunakommun,Viby,Soldatvägen 53,4,76.0,6219,2475000,2402912
+Solnakommun,Karolinska,Olof Af Acrels Väg 5,1.5,26.0,1858,2200000,1999999
+Stockholmskommun,Vasastaden,Upplandsgatan 51,4,128.0,3423,17500000,17500000
+Stockholmskommun,Kungsholmen,Gyllenborgsgatan 9,1.5,27.0,1467,2800000,2499999
+Stockholmskommun,Husby,"Stavangergatan 44, 1 tr",4,80.0,5397,2425000,2400990
+Solnakommun,Huvudsta,"Jungfrudansen 27, vån 3",3,87.0,4191,5360000,4581196
+Solnakommun,Hagalund,Hagalundsgatan 8,3,67.0,3551,2950000,2500000
+Stockholmskommun,Bromma,Dartanjangs Gata 48,2,52.0,3314,2850000,2590909
+Nackakommun,NackaStrand,Jakobsdalsvägen 23,3,67.0,3880,4050000,4009900
+Stockholmskommun,Årsta,"Rämensvägen 29B, vån 6 / 6",3,80.0,4042,6000000,5217391
+Sundbybergskommun,LillaAlby,Albygatan 127,2,64.0,3661,4150000,3608695
+Stockholmskommun,Kungsholmen,Alströmergatan 32U,2,35.0,1801,4060000,3608695
+Stockholmskommun,Högdalen,"Harpsundsvägen 53, gavel 4:a!",4,102.0,5347,4650000,3780487
+Stockholmskommun,Vasastan,Hagagatan 13,3,88.0,3757,10900000,10900000
+Stockholmskommun,Älvsjö,Prästgårdsgränd 9,3,77.0,3972,3700000,3189655
+Nackakommun,Nacka,Serenadvägen 1a,5,107.5,6272,5800000,5800000
+Stockholmskommun,Mälarhöjden,"Klubbacken 59, vån 4",2,50.0,3319,3600000,3000000
+Sundbybergskommun,Ör,Logdansvägen 36,3,89.0,4289,3000000,3000000
+Stockholmskommun,Vasasatan,Kungstensgatan 44,2,47.0,1201,4900000,4711538
+Stockholmskommun,Vasastan,"Hagagatan 18A, Gårdshus",2,38.0,1640,4000000,3809523
+Stockholmskommun,Östermalm,Nybrogatan 73A,3,61.0,1197,8300000,8137254
+Stockholmskommun,Vasastan,Frejgatan 19,3,87.0,2771,11200000,10467289
+Stockholmskommun,Gamlastan,Stora Nygatan 34,3,82.0,2367,9700000,9238095
+Stockholmskommun,Gärdet,Strindbergsgatan 38,3,85.0,4253,8250000,7932692
+Stockholmskommun,NorraDjurgårdsstaden,"Labradorgatan 4, 3 tr",4,98.8,2806,12600000,12600000
+Stockholmskommun,Vällingby,Multrågatan 25 (renoveringsobjekt),3,73.2,4720,2400000,12600000
+Stockholmskommun,Östermalm,Sandelsgatan 16,4,98.0,4600,10000000,9523809
+Stockholmskommun,Annedal,Tomtebobarnens Gata 5,2,64.5,3371,4000000,3508771
+Stockholmskommun,Kungsholmen,"Essinge Brogata 23, 2tr",1,26.0,1623,2475000,2190265
+Stockholmskommun,Vasastan,Sigtunagatan 13A,1,18.0,561,2620000,2298245
+Stockholmskommun,Sätra,Kungssätravägen 14,3,79.0,5231,2600000,2500000
+Stockholmskommun,Vasastan,Hagagatan 15F,3,77.0,3797,8500000,8018867
+Stockholmskommun,Vällingby,"Kirunagatan 30, Vån 1",3,63.0,3177,2375000,2199074
+Stockholmskommun,Aspudden,Blommensbergsvägen 186,2,58.0,3082,4550000,3888888
+Stockholmskommun,Beckomberga,Beckomberga Ängsväg 49,2,59.0,3727,3140000,2990476
+Stockholmskommun,Blåsut,Fyrvaktarkroken 10,2,64.0,3733,3900000,3362068
+Stockholmskommun,Södermalm,Maria Prästgårdsgata 19A,3,71.0,4714,7200000,6990291
+Nackakommun,Nacka,Sickla industriväg 14,2.5,64.5,3583,5300000,6990291
+Stockholmskommun,Södermalm,"Vindragarvägen 2, 2 tr",2,61.0,3493,6290000,5990476
+Stockholmskommun,Björkhagen,Karlskronavägen 6 A,4,91.0,5780,4900000,4495412
+Stockholmskommun,Bromma,Björnsonsgatan 58,2,44.0,2810,2000000,1834862
+Sundbybergskommun,Hallonbergen,Bergshöjden 36,3,82.1,4605,2400000,2400000
+Sollentunakommun,SollentunaKärrdal,Lomvägen 25D,2,60.0,4181,1650000,1650000
+Sundbybergskommun,Ör,Örsvängen 11,3,74.0,3806,3500000,1650000
+Stockholmskommun,Vasastan,Bråvallagatan 9B - Accepterat pris!,1.5,34.0,1931,3930000,3852941
+Stockholmskommun,Hägersten,Lotta Svärds Gränd 6,2,53.0,3225,3225000,2804347
+Stockholmskommun,Enskede,Gamla Tyresövägen 351C,2,50.0,2102,3900000,3196721
+Stockholmskommun,Kungsholmen,"Kungsholms Strand 101, 8 tr",4,106.0,6255,13300000,13300000
+Nackakommun,Älta,"Vinkelhaksvägen 7, 1 tr",3,81.0,4750,4200000,3500000
+Stockholmskommun,Bandhagen,Kallforsvägen 31,5,97.5,5632,4630000,3991379
+Stockholmskommun,Kungsholmen,Fridhemsgatan 10A,3,76.0,4182,6150000,5642201
+Stockholmskommun,Kungsholmen,Badstrandsvägen 6,7,183.0,7053,14500000,14500000
+Stockholmskommun,Gärdet,"Sehlstedtsgatan 3, 2 tr",2,39.0,2000,3900000,3482142
+Stockholmskommun,Traneberg,Hunnebergsvägen 5 - Accepterat pris!,1,36.0,2235,2750000,2750000
+Stockholmskommun,Bagarmossen,Kolbäcksgränd 30,3,70.0,4382,4950000,3991935
+Stockholmskommun,Östermalm,Valhallavägen 155,2.5,67.0,2667,6500000,6190476
+Stockholmskommun,Vasastan,"Regeringsgatan 78, 2tr",3,73.0,1727,8400000,8000000
+Stockholmskommun,Kungsholmen,"Stenkullavägen 48, etage",5,112.0,6536,10500000,10096153
+Stockholmskommun,Björkhagen,Skanörvägen 3,3,66.5,4047,5010000,4513513
+Stockholmskommun,Blåsut,Fyrvaktarkroken 30,4,99.0,6345,6260000,5796296
+Stockholmskommun,Årsta,Orrfjärdsgränd 20B,2,65.0,4178,4200000,3589743
+Stockholmskommun,Svedmyra,Brevvägen 9,2,47.0,2863,2620000,2403669
+Stockholmskommun,Kungsholmen,Essinge Brogata 22,2,45.0,3309,3150000,2787610
+Stockholmskommun,Södermalm,Bergsunds Strand 38,1.5,47.0,2232,4825000,3891129
+Stockholmskommun,Vällingby,"Skattegårdsvägen 69, 1tr",2,61.8,4038,2100000,2000000
+Solnakommun,VästraSkogen,"Johan Enbergs Väg 19, vån 7",2,68.0,3087,5620000,4803418
+Stockholmskommun,Kista,Sorögatan 23,3,81.5,4744,2265000,2097222
+Solnakommun,Råsunda,"Uppfartsvägen 5, 4 TR",1.5,38.0,2662,3000000,3000000
+Nackakommun,Björknäs,"Vintervägen 4A, 3 tr vind",3,80.0,4574,3900000,3482142
+Stockholmskommun,Bromma,"Dartanjangs Gata 48, vån 5",4,100.0,5393,5740000,5683168
+Nackakommun,Saltängen,Fasanvägen 31,3,67.5,4085,3350000,3221153
+Sollentunakommun,Helenelund,Stupvägen 71,3,78.0,4061,3340000,2982142
+Stockholmskommun,Riksby,Drottningholmsvägen 348,2,51.0,2969,2950000,2500000
+Solnakommun,Huvudsta,"Armégatan 11B, vån 7",2.5,62.0,3483,5000000,4807692
+Stockholmskommun,Midsommarkransen,"Radiusbacken 39, vån 10",2,48.0,3200,4000000,3448275
+Solnakommun,Råsunda,"Näckrosvägen 9, 2 tr",2,54.5,3253,3775000,3495370
+Stockholmskommun,Södermalm,"Ölandsgatan 49C, 2,5 tr gårdshus",3,100.0,4280,12050000,10478260
+Stockholmskommun,Bromma,Björnsonsgatan 118,2,59.0,3288,2500000,2403846
+Stockholmskommun,Hässelby,"Astrakangatan 93, 1tr",2,55.0,3685,1900000,1900000
+Stockholmskommun,Hägersten,Ellen Keys gata 57,1,29.0,1839,2100000,1891891
+Stockholmskommun,Kungsholmen,Inedalsgatan 5,1,43.5,806,4350000,3990825
+Stockholmskommun,Bromma,Klädesvägen 38,3,59.0,3343,3730000,3485981
+Sollentunakommun,SollentunaCentrum,Kung Agnes väg 24,5,113.0,4598,7650000,7216981
+Sollentunakommun,Häggvik,Flygarevägen 22D,1,20.0,1495,1850000,1697247
+Stockholmskommun,Vasastan,Rådmansgatan 80a,2,24.0,1237,2850000,2714285
+Stockholmskommun,Bromma,Runda vägen 24A,4,77.0,3564,6700000,2714285
+Nackakommun,Älta,Storkällans väg 1,2,64.0,4004,4580000,4089285
+Stockholmskommun,Svedmyra,"Jönåkersvägen 25, 3tr",2,56.0,3717,3000000,2654867
+Sundbybergskommun,CentralaSundbyberg,Tulegatan 72,2,40.0,2471,2825000,2500000
+Stockholmskommun,HammarbySjöstad,Hammarby allé 15,3,75.5,4278,6900000,6509433
+Solnakommun,VästraSkogen,"Johan Enbergs Väg 5, 2 tr",3,78.0,3689,4270000,3990654
+Stockholmskommun,Aspudden,Sigurd rings gata 12,3,68.0,4520,6750000,6428571
+Nackakommun,Ektorp,Frihetsvägen 47,5,109.0,5836,5650000,5330188
+Solnakommun,Bergshamra,Mårdstigen 10,2,33.5,1723,2500000,1984126
+Stockholmskommun,Södermalm,"Bergsundsgatan 13, 5tr",1,19.4,1428,2095000,2095000
+Stockholmskommun,Liljeholmskajen,"Liljeholmsvägen 12, 6tr",3,78.0,4709,6400000,5614035
+Stockholmskommun,Kungsholmen,"Polhemsgatan 18 B, 3 tr",2,53.0,3218,5250000,5198019
+Sundbybergskommun,Sundbyberg,"Hamngatan 26, 6 / 6tr",1.5,41.5,2760,3500000,2941176
+Stockholmskommun,Liljeholmskajen,Årgångsgatan 1,3,83.0,3966,8495000,8495000
+Stockholmskommun,Kungsholmen,Badstrandsvägen 20,1.5,49.0,2263,3600000,3428571
+Sundbybergskommun,CentralaSundbyberg,Prästgårdsgatan 2,4,96.0,3826,7500000,7211538
+Stockholmskommun,Södermalm,Verkstadsgatan 5,2,40.0,2185,4250000,3761061
+Stockholmskommun,Östermalm,Nybrogatan 45E,3,96.0,3426,13500000,12500000
+Stockholmskommun,Bredäng,"Ålgrytevägen 31, 4tr",2,50.0,3026,2600000,2203389
+Stockholmskommun,HammarbySjöstad,"Virkesvägen 5E, 4tr",2,54.0,2835,4700000,4159292
+Stockholmskommun,Södermalm,Flintbacken 2,1,29.5,1469,2350000,2259615
+Stockholmskommun,Södermalm,Ljusterögatan 5,2,51.0,3176,4320000,4235294
+Sundbybergskommun,StoraUrsvik,Forskningsringen 87A,4,83.5,4787,3350000,3101851
+Stockholmskommun,HammarbySjöstad,Hammarby Allé 5,2,53.0,3161,4900000,3101851
+Sundbybergskommun,Sundbyberg,Duvkullavägen 42a,2.5,63.0,2818,2600000,2385321
+Stockholmskommun,Liljeholmskajen,"Buteljgatan 30, 6 tr",2,54.0,2891,5700000,5700000
+Stockholmskommun,Kungsholmen,"Stagneliusvägen 43, 2tr",1,31.0,797,3100000,2792792
+Stockholmskommun,Vasastan,"Odengatan 37, 4tr",2,36.0,606,5050000,4279661
+Stockholmskommun,Södermalm,"Folkungagatan 112, 3 tr",3.5,86.0,3070,9700000,8508771
+Stockholmskommun,Kungsholmen,Grubbenstorget 5,4,85.0,6124,8540000,7981308
+Stockholmskommun,Kungsholmen,Runiusgatan 5,2,38.0,1633,3100000,2980769
+Stockholmskommun,Stockholm,"Tulegatan 32B, 3 tr",2,68.0,2677,7300000,7019230
+Stockholmskommun,Hjorthagen,"Ahlsellvägen 14, 2 tr",2,44.2,2943,3500000,2941176
+Stockholmskommun,Liljeholmskajen,"Vinodlargatan 2, 3tr",3,73.5,4095,6500000,6018518
+Stockholmskommun,Södermalm,"Heleneborgsgatan 7B, 2 tr",5,115.0,5744,16800000,11506849
+Stockholmskommun,Vasastan,Teknologgatan 9B,2,48.0,2318,5900000,5130434
+Solnakommun,Bergshamra,Mårdstigen 19,2,54.5,3400,3550000,5130434
+Stockholmskommun,Aspudden,"Hövdingagatan 3 A, vån 3",3,56.0,3704,5350000,3992537
+Stockholmskommun,Vasastan,Birger Jarlsgatan 115A,2,35.0,1795,3850000,3701923
+Nackakommun,Neglinge,"Sturevägen 12, 3tr",2,58.3,3325,2695000,2695000
+Stockholmskommun,Ormkärr,Olshammarsgatan 54 3tr,3,73.0,4814,2260000,2092592
+Sundbybergskommun,Sundbyberg,Starrbäcksgatan 20,3,70.0,3741,4500000,4500000
+Stockholmskommun,Vasastan,Birger Jarlsgatan 104 G,2,43.0,2912,5000000,4504504
+Stockholmskommun,Kungsholmen,Kellgrensgatan 14,3,81.0,4016,6100000,5980392
+Stockholmskommun,Vasastan,Robert Almströmsgatan 12,2,41.0,1982,5050000,4764150
+Stockholmskommun,Traneberg,Tranebergsvägen 103,2,53.5,3293,3900000,3451327
+Nackakommun,Nacka,"Kvarnholmsvägen 96, 8tr",3,85.0,4641,6800000,6601941
+Stockholmskommun,GamlaÖstberga,"Stamgatan 89, vån 5, hiss!",3,77.5,5482,3110000,2468253
+Stockholmskommun,Kungsholmen,"Alströmergatan 32 L, 3 tr",2,45.0,2335,4300000,3981481
+Stockholmskommun,Liljeholmskajen,"Oskarslundsbacken 13, Högt läge",3,85.0,4388,6350000,5990566
+Solnakommun,Järvastaden,"Honnörsgatan 5, 3 tr",3,68.0,3903,4150000,3990384
+Stockholmskommun,Hjorthagen,Dianavägen 9,1,29.0,1252,2850000,2499999
+Stockholmskommun,Årsta,Järnlundsvägen 12,2,55.0,3671,3325000,2794117
+Stockholmskommun,Vasastan,Stickelbärsvägen 10,2,46.0,2472,3875000,3762135
+Stockholmskommun,Östermalm,Olaus Petrigatan 2,4,94.0,3780,11000000,10476190
+Stockholmskommun,Hässelby,Maltesholmsvägen 160,2,61.0,3854,2200000,1896551
+Stockholmskommun,Bagarmossen,Svartågatan 49,2,55.0,3902,2725000,2500000
+Stockholmskommun,Årsta,Sandfjärdsgatan 132,2,59.5,4180,2850000,2850000
+Stockholmskommun,Fruängen,Doktor Widerströms Gata 48,4,83.0,5166,4450000,4198113
+Stockholmskommun,Midsommarkransen,Kyndelsmässogränd 17,2,42.0,3222,3100000,2695652
+Stockholmskommun,Östermalm,Sehlstedtsgatan 3,2.5,65.0,3334,5600000,5490196
+Stockholmskommun,Årsta,"Marviksvägen 10, 4tr",5,123.0,6983,9000000,7894736
+Stockholmskommun,NorraDjurgårdsstaden,"Bobergsgatan 12, 4Tr",2,59.5,3739,5650000,7894736
+Stockholmskommun,Älvsjö,Stamgatan 2,3,77.5,5482,2500000,2293577
+Solnakommun,Hagalund,Hagalundsgatan 20,3,79.0,4187,4050000,2293577
+Stockholmskommun,Årsta,"Hjälmarsvägen 24B, seniorboende 55+",2,59.0,4195,3750000,3504672
+Nackakommun,Saltängen,Beckasinvägen 38,4,82.5,4722,4800000,4210526
+Nackakommun,Tollare,"Tollare Ängsväg 24, högst upp!",1.5,40.0,3062,2350000,1991525
+Stockholmskommun,Östermalm,Sandhamnsgatan 39,2,64.0,4072,5600000,5600000
+Stockholmskommun,Liljeholmen,"Sjöviksvägen 144, 6tr",2,52.0,3591,4850000,4181034
+Stockholmskommun,Södermalm,"Kocksgatan 29, 1 tr",2,40.0,2262,4850000,3789062
+Solnakommun,Frösunda,Signalistgatan 16,3,75.0,4163,5200000,3789062
+Solnakommun,Råsunda,"Näckrosvägen 25, Vån 5 / 6!",2,56.5,3508,4245000,3790178
+Nackakommun,Sickla,"Sickla Strand 69, 2 tr",3,57.0,2717,4550000,3991228
+Sollentunakommun,Häggvik,Ugglevägen 7,2,62.0,3591,2800000,2745098
+Stockholmskommun,NorraDjurgårdsstaden,"Husarviksgatan 4, 3tr",4,114.0,5713,14450000,2745098
+Stockholmskommun,Bromma,Yllevägen 8,2,46.0,2939,2550000,2297297
+Stockholmskommun,Hjorthagen,"Krångedevägen 9, 3 tr",2,40.0,2847,3080000,2961538
+Stockholmskommun,Hagsätra,Axbergsgränd 17,3,73.0,4432,2270000,1991228
+Stockholmskommun,GamlaEnskede,Täppgränd 9,3,82.0,3115,4110000,3483050
+Solnakommun,SolnaCentrum,Klippgatan 16C,3,75.0,3855,4240000,3889908
+Stockholmskommun,Hässelby,Hässelby Torg 2,3,73.0,4304,2300000,2090909
+Nackakommun,Kvarnholmen,Magasinsgången 5,2,73.0,3877,6750000,6490384
+Solnakommun,Arenastaden,"Evenemangsgatan 24, våning 5",3,75.0,3036,4850000,4575471
+Stockholmskommun,Kungsholmen,Fleminggatan 101,3,81.0,3781,8500000,7943925
+Sundbybergskommun,Hallonbergen,Lötsjövägen 1A,2,62.5,2591,2400000,2201834
+Stockholmskommun,Kungsholmen,"Rålambsvägen 69, 4tr",3,55.0,3460,6000000,5000000
+Sundbybergskommun,Bällstaån,"Hamngatan 15 A, vån 3",3,64.0,3781,5600000,4999999
+Stockholmskommun,HammarbySjöstad,Virkesvägen 9J,4,121.5,6295,9500000,8962264
+Stockholmskommun,Södermalm,"Möregatan 7, 4 tr",1.5,30.0,2317,3100000,2743362
+Stockholmskommun,Vasastan,Döbelnsgatan 67B,1,35.0,1201,4250000,4009433
+Nackakommun,Alphyddan,"Alphyddevägen 8, 7 tr",4,96.0,5710,6100000,6100000
+Stockholmskommun,Södermalm,Metargatan 9,2,31.0,2067,3220000,2800000
+Sollentunakommun,Silverdal,Margreteborgsvägen 13,2,45.0,2733,2600000,2600000
+Stockholmskommun,Östermalm,"Sturegatan 29, 3tr",3,121.0,3025,16150000,15380952
+Stockholmskommun,Södermalm,"Hallandsgatan 46A, 3tr",1.5,43.0,2406,4050000,3491379
+Stockholmskommun,Skarpnäck,Fallskärmsgatan 1,2,64.7,4194,2300000,2000000
+Stockholmskommun,Mariehäll,Kratsbodavägen 25,5,112.0,4346,7520000,6016000
+Solnakommun,Råsunda,Östervägen 16A,2.5,59.0,2855,3900000,3482142
+Stockholmskommun,Bromma,"Tappvägen 31F, 4 tr.",2,39.0,2308,2900000,2589285
+Stockholmskommun,Södermalm,"Ploggatan 12, 3tr",2,45.0,2181,4840000,4481481
+Stockholmskommun,Liljeholmskajen,Hildebergsvägen 28,3,80.0,4793,6110000,5008196
+Solnakommun,Råsunda,Näckrosvägen 38,3,73.5,4471,5400000,4778761
+Solnakommun,Råsunda,Backvägen 8,4.5,91.0,4078,6550000,5900900
+Stockholmskommun,Akallahöjden,Pargasgatan 32,2,49.0,2885,1815000,1696261
+Stockholmskommun,Vasastan,"Frejgatan 22, 1tr",2,52.0,2136,5900000,5784313
+Solnakommun,GamlaFilmstaden,"Edvin Adolphsons väg 10, 1,5 tr",4,85.0,5388,7100000,6396396
+Stockholmskommun,Husby,"Lofotengatan 16, vån 5",2,52.0,4144,1660000,1394957
+Stockholmskommun,KistaGård,Kista alléväg 25,2,49.0,3196,2300000,2090909
+Stockholmskommun,Enskede,"Skebokvarnsvägen 376, 5tr",1,33.0,2471,1720000,1495652
+Nackakommun,Jarlaberg,Trillans väg 4,2,63.0,3950,2920000,2495726
+Stockholmskommun,Hammarbyhöjden,Mariestadsvägen 7,3,47.5,3785,3500000,2800000
+Sollentunakommun,Edsberg,Flintlåsvägen 38,1,35.0,2176,1550000,1490384
+Stockholmskommun,Liljeholmskajen,Sjöviksbacken 5,3,84.0,4482,8200000,7663551
+Stockholmskommun,Kungsholmen,Fleminggatan 93,2,53.0,2378,5950000,7663551
+Stockholmskommun,Kungsholmen,"Sankt Göransgatan 102, vån 7",3,85.0,4067,6850000,6782178
+Solnakommun,Arenastaden,"Evenemangsgatan 24, vån 10",2,39.0,1579,3210000,2891891
+Sollentunakommun,Edsberg,"Ribbings väg 12A, 2tr",3,70.0,4105,2200000,2200000
+Stockholmskommun,Farsta,"Hammarögatan 22, 4 tr",2,52.0,3441,2910000,2365853
+Sundbybergskommun,Brotorp,Brukshundsvägen 28,1,37.0,2112,2200000,2200000
+Solnakommun,Frösunda,"Anders Lundströms gata 10, 5 tr",5,116.8,5695,8600000,8514851
+Stockholmskommun,Farsta,"Hammarögatan 22, 3 tr",2,52.0,3441,2865000,2865000
+Sollentunakommun,Tureberg,Vänortsstråket 15,2,61.7,3391,2180000,1801652
+Stockholmskommun,Aspudden,Hägerstensvägen 126,3,75.0,2666,7350000,7205882
+Sundbybergskommun,Sundbyberg,Kavallerivägen 4a,1,38.0,2058,2350000,2350000
+Stockholmskommun,Kungsholmen,"Kungsklippan 11, 1 tr ög",1,31.0,2664,2850000,2499999
+Stockholmskommun,Kista,"Köpenhamnsgatan 28, 2 tr",3,81.0,3837,2550000,2297297
+Sundbybergskommun,Ursvik,Oxenstiernas allé 11,4,87.0,4001,4540000,3982456
+Stockholmskommun,Vasastan,"Gästrikegatan 20, 4 tr",1,33.5,1599,3910000,3460176
+Sundbybergskommun,Ursvik,Gamla Enköpingsvägen 156,2,52.0,2718,2400000,2285714
+Stockholmskommun,Fruängen,"Ada Nilssons Gata 13, 5tr",2,62.0,3393,3375000,2884615
+Stockholmskommun,HammarbySjöstad,"Babordsgatan 14, 2tr",4.5,98.5,5079,11500000,9126984
+Stockholmskommun,Vasastan,"Ninni Kronbergs Gata 16, 4tr - Accepterat pris",2,41.0,2481,4595000,4595000
+Solnakommun,Råsunda,"Uppfartsvägen 14, Skuldfri förening",1.5,45.0,1791,3350000,2991071
+Stockholmskommun,Vasastan,"Hälsingegatan 35, 2tr",1.5,38.0,2378,4700000,4476190
+Sollentunakommun,Tureberg,Industrivägen 4,2.5,64.0,3608,3050000,2990196
+Stockholmskommun,Bagarmossen,Emågatan 14,3,67.0,4087,3600000,3495145
+Stockholmskommun,NorraDjurgårdsstaden,"Drevergatan 1A, 6tr",3,82.5,3991,10700000,9727272
+Stockholmskommun,Spånga,"Erik tegels väg 13, 2tr",2,46.5,3066,1840000,1688073
+Stockholmskommun,Södermalm,Tegelviksgatan 79,4,88.0,4799,9000000,8737864
+Stockholmskommun,Fruängen,Doktor Widerströms gata 70,1,26.0,1726,1970000,1931372
+Sollentunakommun,Kärrdal,Lomvägen 617,1,29.0,2106,1495000,1495000
+Solnakommun,SolnaCentrum,Centralvägen 17,1,33.0,1307,2500000,2155172
+Stockholmskommun,Mälarhöjden,Klubbacken 16,2,54.0,2654,3500000,3301886
+Stockholmskommun,Södermalm,"Högalidsgatan 36B, 1 tr",1,38.0,2224,3650000,3288288
+Stockholmskommun,Södermalm,"Ringvägen 79, 3tr",2,43.5,1661,4500000,3750000
+Stockholmskommun,Bromma,Follingbogatan 16,3,84.5,4018,5250000,5250000
+Stockholmskommun,Kungsholmen,"John Ericssonsgatan 14, 3tr",2.5,76.0,3243,7700000,7475728
+Sundbybergskommun,LillaAlby,Högklintavägen 15,3,80.5,4294,5125000,4495614
+Stockholmskommun,Kristineberg,"Hjalmar Söderbergs väg 4, vån 5",4,92.0,4702,8250000,8009708
+Stockholmskommun,Hammarbyhöjden,"Falköpingsvägen 17, 2tr",2,49.0,3375,3600000,3000000
+Stockholmskommun,Traneberg,"Tranebergsvägen 39, vån 3 / 3",1,41.0,2236,3075000,2795454
+Stockholmskommun,Bromma,Mössebergsvägen 16 - Accepterat pris,2,56.0,3373,3800000,3800000
+Stockholmskommun,Östermalm,Skeppargatan 22,2,41.0,1674,5850000,5518867
+Stockholmskommun,NedreGärdet,Skeppargatan 75,3,74.0,3977,10000000,8264462
+Stockholmskommun,Midsommarkransen,Fastlagsvägen 56B,3.5,78.0,4121,5750000,5000000
+Stockholmskommun,Stureplan,Lästmakargatan 18,1,41.5,2338,6200000,5486725
+Stockholmskommun,Fruängen,Elin Wägners Gata 45,3,69.0,4267,3450000,3285714
+Stockholmskommun,LillaEssingen,"Strålgatan 8, 1tr",2,35.0,2439,2900000,2788461
+Stockholmskommun,Midsommarkransen,Fastlagsvägen 46,2,67.0,3628,4150000,3990384
+Stockholmskommun,Kungsholmen,"Sysslomansgatan 8, 7 tr",1,26.0,1372,3010000,2687499
+Stockholmskommun,Beckomberga,Follingbogatan 18 - ACCEPTERAT PRIS!,1,23.0,2611,1500000,1500000
+Stockholmskommun,Örbyslott,Vibyholmsvägen 27 2tr,3,74.0,4110,3810000,3401785
+Stockholmskommun,Hägerstensåsen,"Terrängvägen 14, vån 2",1,28.0,1418,2650000,2190082
+Stockholmskommun,Hammarbyhöjden,Wahlbergsgatan 12,2,28.0,1689,2435000,1995901
+Stockholmskommun,Ulvsunda,Tallbacksvägen 7,2,42.0,3150,2600000,2096774
+Stockholmskommun,Solberga,"Spikskogatan 16, vån 4.",4,94.0,5029,6000000,5714285
+Nackakommun,Saltsjöbaden,Svartkärrsvägen 18,3,86.3,4487,3250000,3250000
+Nackakommun,Boo,Ormingeringen 26B,3,91.0,5584,3600000,3250000
+Stockholmskommun,Södermalm,"Maria Skolgata 77B, VÅN4",4,118.0,5535,13625000,11449579
+Stockholmskommun,Södermalm,Åsögatan 128,2,56.0,2782,6850000,6008771
+Nackakommun,Kvarnholmen,Mjölnarvägen 16,3,76.0,4864,5750000,5476190
+Sundbybergskommun,CentralaSundbyberg,Ursviksvägen 15,2,54.5,3394,3950000,3495575
+Stockholmskommun,Vällingby,Bättringsvägen 6 (Vån 1),4,100.5,7239,3250000,2754237
+Stockholmskommun,Aspudden,Hägerstensvägen 139,1,32.0,2084,2850000,2394957
+Stockholmskommun,Sofia,Nackagatan 25,2,77.0,4548,5150000,4951923
+Stockholmskommun,Östermalm,Grevgatan 57,1,36.0,1650,4150000,4108910
+Stockholmskommun,Nybodahöjden,Nybodaringen 65,4,90.5,6520,6260000,5396551
+Stockholmskommun,Vasastan,Birger Jarlsgatan 104J,1,21.0,1497,2760000,2400000
+Stockholmskommun,Hornstull,"Folkskolegatan 12, 5 tr",1,22.0,1762,3030000,2504132
+Sundbybergskommun,Ör,Logdansvägen 38,1,48.0,2413,1820000,1700934
+Solnakommun,Råsunda,Vintervägen 26,1,22.0,1240,2275000,1791338
+Stockholmskommun,Hammarbyhöjden,Kalmgatan 35,3,86.0,4156,6300000,6000000
+Solnakommun,VästraSkogen,Trubadurvägen 3,2,65.0,3521,4400000,4190476
+Stockholmskommun,Spånga,Johannelundsvägen 43,4,80.0,5151,4250000,3483606
+Stockholmskommun,Enskededalen,Dalgränd 4,2,68.0,2291,4000000,3483606
+Stockholmskommun,Mariatorget,"Maria Prästgårdsgata 15 B, 2 tr",3,85.0,3675,10600000,8983050
+Stockholmskommun,Bandhagen,"Kallforsvägen 34, 3 tr",2,56.0,3538,2810000,2178294
+Stockholmskommun,Vasastan,Hälsingehöjden 3,2,63.0,3185,7600000,6972477
+Stockholmskommun,Hjorthagen,"Artemisgatan 5B, 2 tr",3,77.0,3727,6700000,6261682
+Stockholmskommun,Stureby,"Götaforsvägen 21, 2 tr",2,55.0,3663,2675000,2388392
+Stockholmskommun,Fruängen,"Lina Sandells plan 2, vån 2",1,25.0,2107,1950000,1756756
+Stockholmskommun,Hjorthagen,Wenströmsvägen 7,3,60.7,3821,4500000,4500000
+Stockholmskommun,Södermalm,Östgötagatan 32,2,67.0,2372,6650000,6650000
+Sundbybergskommun,CentralaSundbyberg,"Ågatan 24, vån 6",3,75.0,3500,6000000,5309734
+Stockholmskommun,Södermalm,"Lundagatan 44B, 2 tr",1,27.0,1481,2600000,2500000
+Stockholmskommun,GamlaEnskede,"Nynäsvägen 323, 2 tr",1,39.1,2110,2700000,2250000
+Stockholmskommun,Bromma,Runda vägen 22A,3,65.0,2952,5650000,5000000
+Sundbybergskommun,CentralaSundbyberg,"Tulegatan 71, 2tr",3,74.0,3962,4800000,4615384
+Stockholmskommun,Östberga,Älvsåkersgränd 33,3,71.0,4291,2510000,2091666
+Stockholmskommun,Äppelviken,Herman Ygbergs Väg 6,3,61.0,4032,5700000,4913793
+Stockholmskommun,Kista,Heklagatan 83H,1,31.4,2013,1770000,1500000
+Stockholmskommun,Björkhagen,Båstadsvägen 19,4,81.5,5227,6050000,5000000
+Stockholmskommun,HammarbySjöstad,"Båtklubbsgatan 15, 4tr",4,109.0,4575,10000000,9009009
+Stockholmskommun,Kista,"Kastrupgatan 9, 4 tr",2,45.0,2964,1800000,1592920
+Stockholmskommun,Farsta,"Russinvägen 4A, 6 tr",3,75.0,4135,4200000,3387096
+Stockholmskommun,Sköndal,"Bagarfruvägen 93, 3tr",3,68.5,4651,3500000,3387096
+Stockholmskommun,Hammarbyhöjden,Boråsvägen 18,2,45.0,2262,3360000,2800000
+Solnakommun,Frösunda,"Gustav III:s Boulevard 72, 3 tr",4,102.0,5028,6600000,5999999
+Stockholmskommun,Bromma,Drottningholmsvägen 282,1,30.0,1994,2250000,1991150
+Stockholmskommun,Södermalm,Ringvägen 155,1.5,33.0,1943,3700000,2960000
+Stockholmskommun,Älvsjö,Stamgatan 36,3,69.5,4958,2600000,2241379
+Stockholmskommun,Vasastan,Birkagatan 16C,2,46.0,2264,4000000,4000000
+Stockholmskommun,Vasastan,"Dalagatan 45, 5tr",2,65.0,3143,6650000,6519607
+Stockholmskommun,HammarbySjöstad,"Fredriksdalsgatan 1, 3 tr",2,63.0,3586,5297000,5193137
+Stockholmskommun,Kungsholmen,Fleminggatan 40A,4,85.0,3911,8000000,7476635
+Stockholmskommun,Kungsholmen,Bergsgatan 51,3,92.0,3599,10800000,10800000
+Stockholmskommun,Bromma,Stopvägen 104,3,70.0,2926,5400000,4909090
+Nackakommun,Neglinge,Sturevägen 8A,1.5,37.0,2532,1825000,1806930
+Stockholmskommun,Södermalm,"Slipgatan 12, 3 tr",1,23.0,1531,2900000,2457627
+Stockholmskommun,Odenplan,Rådmansgatan 77,2,44.0,1799,5800000,5000000
+Stockholmskommun,Farsta,Larsbodavägen 72,5,101.0,5628,5000000,4504504
+Stockholmskommun,Hammarbyhöjden,Alingsåsvägen 45,2,43.0,2807,3450000,2760000
+Stockholmskommun,Bandhagen,"Skebokvarnsvägen 321,3 tr",2,58.0,3678,2200000,1999999
+Stockholmskommun,Vasastan,Regeringsgatan 78,1,31.0,796,4000000,2985074
+Solnakommun,Rudviken,Solgatan 34,1,45.0,2394,2750000,2500000
+Stockholmskommun,Östermalm,Brantingsgatan 32,2,60.0,3532,5550000,5388349
+Solnakommun,Huvudsta,Storgatan 50,3,72.4,3432,4360000,3858407
+Stockholmskommun,Östermalm,"Rindögatan 48, 3tr",2,61.0,2973,6900000,6000000
+Stockholmskommun,Södermalm,Bondegatan 50,1.5,43.0,1639,3900000,3861386
+Stockholmskommun,Gubbängen,Majrovägen 21,2,49.5,4026,3125000,2281021
+Stockholmskommun,Birkastan,Birkagatan 21B,2,72.0,1957,8900000,7672413
+Stockholmskommun,Kungsholmen,Sven Rinmans gata 4,1,30.0,1880,3350000,2887931
+Sundbybergskommun,CentralaSundbyberg,Starrbäcksgatan 8,1,35.0,1855,2800000,2295081
+Stockholmskommun,Östermalm,"Smedsbacksgatan 20, 1tr",2,38.0,2867,3550000,3287037
+Stockholmskommun,Södermalm,Högbergsgatan 66A,2,52.0,3019,5775000,5500000
+Stockholmskommun,Telefonplan,"Tångvägen 30, 3tr",2,45.0,2865,2780000,2241935
+Stockholmskommun,Bromma,Kinnekullevägen 53,2.5,56.0,2712,4300000,3944954
+Solnakommun,Rudviken,Solgatan 28,5,120.0,6385,7500000,6000000
+Stockholmskommun,Kungsholmen,"Kungsholmsgatan 18, Vindslägenhet",2,48.0,2577,5825000,5295454
+Stockholmskommun,Rådhusparken,Bergsgatan 29,1.5,44.0,2017,4600000,4181818
+Stockholmskommun,Kungsholmen,"Kungsklippan 5, våning 5 / 6",2,48.0,2179,5500000,4181818
+Stockholmskommun,Midsommarkransen,Tellusborgsvägen 94,2,43.0,2555,3100000,3100000
+Stockholmskommun,Bromma,Bergslagsvägen 27,1.5,38.0,2568,2520000,2250000
+Stockholmskommun,Södermalm,Ludvigsbergsgatan 41,1,31.0,1207,3300000,2796610
+Stockholmskommun,Vasastan,"Vanadisplan 6, 4tr",2,36.0,1415,4200000,3684210
+Solnakommun,Råsunda,"Råsundavägen 72, 3 tr",4,86.0,4157,6145000,5742990
+Stockholmskommun,Kista,"Helsingörsgatan 22, bv",2,45.0,3155,1850000,1796116
+Stockholmskommun,Älvsjö,Turingevägen 47,3,66.0,4345,3100000,2695652
+Sundbybergskommun,Sundbyberg,Vintergatan 2D,1,35.0,1935,3100000,3100000
+Solnakommun,Skytteholm,Nybodagatan 4,2,65.0,3234,3200000,2689075
+Stockholmskommun,Johanneshov,Konstgjutarvägen 12,1,25.0,1964,1920000,1655172
+Stockholmskommun,Södermalm,Duvnäsgatan 1,2.5,64.0,2382,7100000,6283185
+Solnakommun,GamlaFilmstaden,Viktor Sjöströms väg 9,3,79.0,5083,6250000,5482456
+Stockholmskommun,Älvsjö,Morupsgränd 25,3,83.0,4428,2700000,5482456
+Sundbybergskommun,Ursvik,Forskningsringen 80,2,35.0,2623,2200000,1981981
+Nackakommun,Ektorp,Edinsvägen 10,1,29.5,2413,1800000,1800000
+Nackakommun,VästraOrminge,Ornövägen 26,1.5,37.0,2536,1610000,1533333
+Stockholmskommun,Södermalm,"Hornsgatan 29F, 2 tr. ö.g.",2,68.0,2920,7500000,7500000
+Stockholmskommun,City,"Holländargatan 9A, 5tr",2.5,70.0,3928,8400000,7241379
+Stockholmskommun,Kungsholmen,"Primusgatan 96, 4 tr",2,50.0,2936,4700000,4476190
+Stockholmskommun,Svedmyra,"Selebovägen 11, 1 tr",2,58.0,3193,2920000,2393442
+Stockholmskommun,Kista,Borgarfjordsgatan 5,2,59.0,3896,2350000,1991525
+Stockholmskommun,Hammarbyhöjden,Kalmgatan 26,3,74.0,4428,4995000,4995000
+Stockholmskommun,Södermalm,Tideliusgatan 13,1,30.0,830,3075000,2650862
+Solnakommun,Råsunda,"Gustafsvägen 10, 2tr",3,64.3,2817,4100000,3980582
+Sundbybergskommun,CentralaSundbyberg,Ursviksvägen 8,1,35.0,1889,2575000,2200854
+Stockholmskommun,Vasastan,Roslagsgatan 35,3,74.0,3475,8900000,8811881
+Stockholmskommun,Vasastan,"Tomtebogatan 48A, 5tr Fri utsikt",4,105.0,4044,12400000,12038834
+Stockholmskommun,Enskede,Lingvägen 101,2,60.0,2665,3100000,2440944
+Stockholmskommun,Bromma,Tranebergsvägen 57,2,43.0,2539,3300000,2750000
+Solnakommun,Råsunda,Algatan 7,2.5,63.5,4204,3850000,3407079
+Sundbybergskommun,CentralaSundbyberg,"Vintergatan 15B, BV",2,48.0,2850,3450000,3194444
+Sundbybergskommun,CentralaSundbyberg,Tallgatan 12,2,60.0,3450,3750000,3504672
+Stockholmskommun,Sköndal,"Sköndalsvägen 106, 6tr",2,60.5,3085,2550000,2256637
+Stockholmskommun,Telefonplan,Huvudfabriksgatan 4,3,79.0,4664,6000000,5263157
+Stockholmskommun,Södermalm,"Södermannagatan 31, 4 tr",3.5,76.0,2873,9020000,7516666
+Stockholmskommun,Vasastan,Västmannagatan 71B - Accepterat pris!,2,63.0,2211,6950000,6813725
+Stockholmskommun,Kungsholmen,Bergsgatan 51,1.5,31.0,885,3550000,3550000
+Stockholmskommun,Gröndal,"Gröndalsvägen 186, vån 2",3,81.0,3146,6600000,6600000
+Stockholmskommun,Södermalm,"Åsögatan 137, 1,5 tr",2,60.0,2646,6800000,6017699
+Stockholmskommun,Kristineberg,Lidnersgatan 4,2,43.0,3290,4150000,3705357
+Stockholmskommun,Hagsätra,Göksholmsbacken 20,3,69.5,4748,2850000,2499999
+Stockholmskommun,Aspudden,Vapengatan 18,2,44.0,2986,3875000,3202479
+Stockholmskommun,Hammarbyhöjden,Lidköpingsvägen 9,4,72.0,4720,5000000,5000000
+Stockholmskommun,Kungsholmen,"Sysslomansgatan 14, 3 tr",3,73.0,893,7900000,7383177
+Stockholmskommun,HammarbySjöstad,Sickla kanalgata 6,3,61.0,2768,5330000,4981308
+Stockholmskommun,Vasastan,Västmannagatan 97,1,23.0,1380,2850000,2590909
+Stockholmskommun,Kungsholmen,"Hantverkargatan 56, 4tr",3.5,90.0,4536,9400000,9126213
+Stockholmskommun,Södermalm,Vindragarvägen 12,1,20.0,1110,2475000,1995967
+Stockholmskommun,Vasastan,"Atlasgatan 3, 4tr",1,30.0,1323,3200000,2990654
+Stockholmskommun,Kista,Sibeliusgången 28,1,49.0,1935,1600000,2990654
+Solnakommun,Råsunda,"Uppfartsvägen 8, Vån 4",1,36.0,2552,2700000,2389380
+Stockholmskommun,Midsommarkransen,Svandammsvägen 17B,2,44.0,3078,3450000,2593984
+Stockholmskommun,Kungsholmen,"Sankt Eriksgatan 10, våning 4",1.5,49.0,1620,5050000,2593984
+Stockholmskommun,Södermalm,Kocksgatan 20 A,1.5,44.0,1942,4400000,4400000
+Stockholmskommun,Södermalm,"Borgargatan 18, 3tr",1,26.0,1483,2850000,2298387
+Sundbybergskommun,Sundbyberg,Oxenstiernas allé 19,2,39.0,2507,2370000,1991596
+Stockholmskommun,Vällingby,"Östersundsgatan 2, Vån 2 (21021 / 1101)",4,91.0,4806,3900000,3482142
+Stockholmskommun,Bromma,Brålunden 21,2,39.0,2330,2750000,2200000
+Stockholmskommun,Älvsjö,Kabelverksgatan 32,2,50.0,3076,3400000,2982456
+Stockholmskommun,Kungsholmen,"Industrigatan 10, 3 tr",2,42.0,2481,4500000,3982300
+Stockholmskommun,Kungsholmen,Essinge Brogata 19,2,42.0,2451,3200000,3137254
+Stockholmskommun,Liseberg,"Annebodavägen 66, vån 2",3,79.5,5278,2900000,2283464
+Stockholmskommun,Fruängen,Elsa Borgs Gata 33,2,72.0,4397,3410000,2795081
+Stockholmskommun,Södermalm,"Åsögatan 185, 3tr",2.5,48.0,2445,5580000,4810344
+Stockholmskommun,Liljeholmen,Liljeholmsvägen 10,2,52.0,2477,4650000,4514563
+Stockholmskommun,Kungsholmen,"Ola Hanssonsgatan 3, 2 tr",1,28.0,1902,2700000,2500000
+Stockholmskommun,Östermalm,Linnégatan 51,2,56.0,1150,6350000,5934579
+Stockholmskommun,NedreGärdet,"Sandelsgatan 35, 7 tr",2,70.0,4396,9000000,8737864
+Stockholmskommun,Årsta,"Hjälmarsvägen 31, 3 tr",3,54.2,3323,3400000,2881355
+Stockholmskommun,Stureby,Skönviksvägen 329,2,57.0,3622,2775000,2545871
+Stockholmskommun,LillaEssingen,"Primusgatan 58, 8tr",4,125.0,7297,12300000,12058823
+Stockholmskommun,Kungsholmen,"Igeldammsgatan 24, 2 tr",5,121.0,3388,10350000,10247524
+Solnakommun,Råsunda,Ryttargatan 1A,2.5,70.0,1225,6200000,5740740
+Stockholmskommun,Vällingby,Rabattvägen 38,3,68.0,4746,3020000,2696428
+Nackakommun,Ekudden,"Ekuddsvägen 6, 4tr",2,64.0,2983,3800000,3486238
+Stockholmskommun,Högdalen,Sjösabrinken 9,4,85.0,4876,3050000,2877358
+Stockholmskommun,Hammarbyhöjden,Finn Malmgrens Väg 37,2,53.0,4192,3525000,2987288
+Stockholmskommun,Vasastan,Roslagsgatan 23,2,57.0,2410,7050000,5974576
+Stockholmskommun,Årsta,Årstavägen 4,1,35.0,2462,2750000,2254098
+Stockholmskommun,Vasastan,Norrtullsgatan 22,5,155.0,3935,21700000,20865384
+Stockholmskommun,Mariehäll,"Kratsbodavägen 55, 2 tr",2,53.0,2550,3300000,2844827
+Nackakommun,Nacka,"Finnboda Varvsväg 10A, 7 tr",4,84.0,4967,7050000,6409090
+Stockholmskommun,Södermalm,"Ölandsgatan 48, 4 tr",2,53.0,1966,6600000,5500000
+Stockholmskommun,Kungsholmen,"Sankt Eriksgatan 23, 5 tr",2,90.0,2178,8825000,8485576
+Stockholmskommun,Södermalm,"Anders Reimers väg 4, 2 tr",1,22.0,1732,2725000,2500000
+Stockholmskommun,Årsta,Bråviksvägen 6,4,68.0,4955,4500000,3750000
+Stockholmskommun,Vasastan,Rådmansgatan 80 B,2,38.0,2016,4920000,4392857
+Sollentunakommun,Helenelund,Pilvägen 84,3,78.0,4585,3100000,2792792
+Solnakommun,Ulriksdal,Banmästargatan 10,2,49.0,2655,3300000,2999999
+Stockholmskommun,Hagsätra,Vedevågslingan 25,1,43.8,2992,1950000,1695652
+Stockholmskommun,Hammarbyhöjden,Åstorpsringen 15,4,79.0,4674,5050000,4391304
+Stockholmskommun,Hässelby,"Liljeörnsgränd 3, vån 2",3,83.0,5266,2830000,4391304
+Stockholmskommun,Vasastan,"Torsgatan 50, 1,5tr",2,60.0,1832,5925000,5589622
+Stockholmskommun,Fridhemsplan,Gjutargatan 4A 3tr,1,36.0,1234,3750000,3605769
+Stockholmskommun,Hornstull,"Bergsundsgatan 12, 4 tr",1.5,37.5,2307,3975000,3486842
+Stockholmskommun,NorraDjurgårdsstaden,"Jaktgatan 33, 2Tr",1,31.0,1797,3000000,3000000
+Stockholmskommun,Kungsholmen,Runiusgatan 3,2.5,77.0,3505,5400000,5294117
+Stockholmskommun,Liljeholmen,"Sjöviksvägen 140, vån 13",4,100.0,5487,9750000,9750000
+Stockholmskommun,Skarpnäck,"Skarpnäcks Allé 62, 3tr",4,90.0,5991,4150000,3487394
+Solnakommun,Huvudsta,Släggbacken 3,4,109.0,5711,5670000,4973684
+Stockholmskommun,Vasastan,"Emmy Rappes Gata 3, vån 10",2,40.4,2381,4450000,4405940
+Stockholmskommun,Kista,Borgarfjordsgatan 21B,2,52.0,3420,2460000,2388349
+Solnakommun,Huvudsta,Wiboms väg 6. Vån 10 / 10,4,103.0,5684,6000000,5504587
+Sundbybergskommun,Rissne,Rissneleden 165,3.5,82.0,4269,4525000,3709016
+Stockholmskommun,Liljeholmskajen,Sjöviksvägen 45,3,76.5,4264,6250000,5580357
+Stockholmskommun,Södermalm,Högbergsgatan 76B,2,52.0,2061,4885000,4697115
+Stockholmskommun,Östermalm,"Banérgatan 29A, högst upp ö.g.",2,47.0,742,7100000,6826923
+Sundbybergskommun,Sundbyberg,Lavettvägen 42,2,66.9,3812,2350000,2259615
+Stockholmskommun,Bromma,Snörmakarvägen 35D,2,56.0,2842,3700000,2983870
+Sundbybergskommun,Rissne,Rissneleden 163,1.5,39.5,2397,2100000,2100000
+Solnakommun,SolnaCentrum,"Centrumslingan 47, 6tr",2,59.0,2991,3800000,3689320
+Stockholmskommun,Södermalm,"Högalidsgatan 38D, Gårdshus",2,49.0,1960,5630000,4504000
+Nackakommun,Jarlaberg,Fyrspannsvägen 49,2,63.0,4379,3250000,3186274
+Stockholmskommun,Bromma,"Damastvägen 6A, 2 tr",2,41.0,2396,2800000,2258064
+Stockholmskommun,Liljeholmskajen,"Sjöviksvägen 76, 6tr",2,62.0,3623,5400000,4778761
+Sollentunakommun,Rotebro,Vasavägen 120A,3,70.0,3862,2530000,2200000
+Stockholmskommun,Kungsholmen,"Industrigatan 14, 5 tr",1,36.0,2372,3300000,3203883
+Solnakommun,Frösunda,"Nämndemansgatan 19, 2 tr",2,53.0,3180,3550000,3198198
+Nackakommun,VästraOrminge,Ormingeringen 51B,1.5,45.0,3039,1825000,1689814
+Stockholmskommun,Vasastan,"Västmannagatan 71B, 3tr",1,35.0,1177,4600000,4000000
+Solnakommun,VästraSkogen,"Infanterigatan 9, Vån 8",2,56.5,2982,3360000,2604651
+Stockholmskommun,Kungsholmen,Essingestråket 34,3,63.0,2393,5460000,5009174
+Stockholmskommun,Vasastan,"Herkulesgatan 24, 10 tr",2,47.0,3003,4500000,3879310
+Stockholmskommun,FarstaStrand,"Glavagatan 31, 5tr",2,46.0,3534,2300000,1755725
+Sundbybergskommun,Brotorp,Brotorps allé 6,2,50.0,2802,2900000,1755725
+Stockholmskommun,Vasastan,"Norrbackagatan 17, 4tr",3,78.0,3389,10800000,10000000
+Stockholmskommun,Bandhagen,"Harpsundsvägen 135, vån 3 / 3",1,45.5,2647,2275000,1880165
+Sundbybergskommun,LillaUrsvik,Ursviksvägen 111A,1,38.0,2595,2150000,2150000
+Sundbybergskommun,CentralaSundbyberg,Järnvägsgatan 28,4,94.0,3921,7750000,6981981
+Stockholmskommun,Södermalm,"Högbergsgatan 62 E, 4 tr",4,110.0,4970,13500000,13235294
+Stockholmskommun,Kungsholmen,"Fredhällsgatan 9, 2,5tr",2,43.0,2544,4050000,3584070
+Solnakommun,Råsunda,"Hasselstigen 4, 3,5 tr",2,58.0,3548,3900000,3482142
+Stockholmskommun,Kungsholmen,"Igeldammsgatan 22D, 3 tr",2,59.0,3718,7100000,6016949
+Sollentunakommun,Tureberg,Malmvägen 16B,3,76.0,2844,2650000,2500000
+Nackakommun,Kvarnholmen,Tre kronors väg 33,3,72.0,4110,7050000,6467889
+Stockholmskommun,Kungsholmen,Kungsbro Strand 19,1,22.5,2059,2900000,2301587
+Stockholmskommun,Södermalm,"Ringvägen 86, vån 2",2,38.0,1780,3825000,3384955
+Solnakommun,Arenastaden,"Evenemangsgatan 30, 12 tr",4,83.0,4275,5850000,5416666
+Stockholmskommun,Vasastan,"Drottninggatan 81B, 4tr",2.5,74.0,2239,7300000,6886792
+Stockholmskommun,Kungsholmen,"Alströmergatan 32 O, 3tr",2,45.0,2335,4650000,4305555
+Stockholmskommun,Ekhagen,Ekhagsvägen 9,4,93.0,5279,7700000,7475728
+Stockholmskommun,Älvsjö,"Älvsjö stationsgata 14, uteplats",1,39.0,2693,2500000,2100840
+Stockholmskommun,Vällingby,Mörsilsgatan 24,4,94.0,4706,4650000,4305555
+Stockholmskommun,Fruängen,Jenny linds gata 11,2,57.0,3120,2950000,2500000
+Stockholmskommun,Vasastan,"Dalagatan 41, 3,5 TR",3,91.0,4438,11650000,9471544
+Sollentunakommun,Rotsunda,Skeppargränd 14,3,82.5,5610,2875000,2791262
+Stockholmskommun,Husby,Lofotengatan 28,3,65.0,4608,1750000,1750000
+Stockholmskommun,Vasastaden,Nina einhorns gata 4,2,47.0,2917,5100000,5100000
+Sollentunakommun,Rotebro,Allévägen 4M,2,46.0,2358,2350000,1991525
+Stockholmskommun,Hammarbyhöjden,"Olaus Magnus väg 44, 2 tr",2,39.0,3142,2700000,2454545
+Stockholmskommun,Hagsätra,Frövigatan 6,2,53.0,3050,2100000,1891891
+Solnakommun,Järva,Fridensborgsvägen 113,4,95.0,4784,6300000,6300000
+Solnakommun,Rudviken,"Blomgatan 16, Vån 6 / 7!",3,71.0,2873,5300000,4380165
+Solnakommun,GamlaFilmstaden,"Edvin Adolphsons väg 8, 2 tr",2,39.0,3049,3220000,2705882
+Stockholmskommun,Södermalm,Ringvägen 83,2.5,61.0,2959,5100000,4766355
+Stockholmskommun,Ekhagen,Torphagsvägen 14,2,46.5,2605,3450000,3415841
+Stockholmskommun,Södermalm,Katarina västra kyrkogata 10,2,60.0,3119,6400000,6153846
+Nackakommun,SödraLännersta,Spanarvägen 16C,5,122.0,4150,6700000,6568627
+Stockholmskommun,HammarbySjöstad,Båtbyggargatan 34,2,60.0,4240,4375000,3977272
+Stockholmskommun,Årsta,Sköntorpsvägen 96,2,43.0,2215,2760000,2486486
+Nackakommun,Björknäs,Värmdövägen 629,1,39.0,2461,1995000,1995000
+Stockholmskommun,Midsommarkransen,"Bäckvägen 77, 1tr",2,44.5,3523,3300000,2894736
+Solnakommun,GamlaHuvudsta,"Huvudstagatan 12, VINDSVÅNING!",4,137.7,5451,9400000,8867924
+Stockholmskommun,Södermalm,"Helgagatan 36G, 1 tr",1.5,29.0,1631,3625000,2900000
+Stockholmskommun,Spånga,"Almbygatan 10, 13 tr",2,40.0,2333,1795000,1795000
+Stockholmskommun,Vasastan,"Hagagatan 20, 2 tr",2,55.0,2037,7000000,6194690
+Sollentunakommun,Tureberg,Attundagränd 5,2,44.0,2819,2610000,2193277
+Sollentunakommun,SollentunaCentrum,Sollentunavägen 140,2,72.0,3514,3850000,2193277
+Stockholmskommun,Vasastan,Döbelnsgatan 43,1,36.0,1387,4140000,4099009
+Stockholmskommun,Bromma,Kamomillagatan 3,3,84.0,4617,5100000,4678899
+Stockholmskommun,Hägerstensåsen,"Stavgränd 18, 1tr",2,59.0,3193,3620000,2784615
+Stockholmskommun,Gröndal,Ekensbergsvägen 23,3,68.0,2561,5055000,4513392
+Stockholmskommun,Vasastan,"Frejgatan 45, 5 tr",3,66.0,3410,8000000,7619047
+Stockholmskommun,HammarbySjöstad,"Sickla Kanalgata 52, pl 4",3,72.5,4141,6850000,6008771
+Stockholmskommun,Vasastan,Rödabergsgatan 9B,3,75.0,3756,7500000,7211538
+Stockholmskommun,HammarbySjöstad,Båtbyggargatan 23,2,50.0,2920,5000000,4950495
+Stockholmskommun,Vasastan,Surbrunnsgatan 57,2,48.0,2212,4700000,4700000
+Nackakommun,Orminge,"Skarpövägen 35, 1tr",2,61.0,4615,2170000,1990825
+Stockholmskommun,Annedal,Krakel Spektakels Gata 1,2,52.0,3044,3350000,2887931
+Stockholmskommun,Kungsholmen,"Baltzar von Platens gata 5, 3tr",1,36.5,2061,3600000,3600000
+Stockholmskommun,Årsta,Slätbaksvägen 48,3,71.7,3907,5050000,4391304
+Stockholmskommun,Bromma,Bergslagsvägen 43,1,40.0,2653,2300000,2190476
+Stockholmskommun,Vällingby,Kirunagatan 56,4,85.0,4246,3600000,2903225
+Stockholmskommun,Bromma,Kratsbodavägen 50A,2,49.0,3014,3050000,2798165
+Stockholmskommun,FarstaStand,Ekshäradsgatan 89,3,66.0,4096,3250000,2801724
+Stockholmskommun,Abrahamsberg,Gustav Iii:s Väg 37,4,83.0,4576,6350000,2801724
+Stockholmskommun,Telefonplan,"Arvodesvägen 7, vån 2",2,47.0,2752,3000000,3000000
+Stockholmskommun,Bredäng,Järnbärarvägen 4,3,82.0,4204,2850000,2794117
+Stockholmskommun,Östermalm,Narvavägen 20A,2,62.0,2773,9250000,8726415
+Stockholmskommun,Södermalm,Brännkyrkagatan 92,1.5,34.0,2395,3530000,2941666
+Stockholmskommun,LillaEssingen,"Primusgatan 53, vån 8",3,91.5,4746,7650000,7149532
+Stockholmskommun,Vasastan,Frejgatan 15,2,68.0,2200,7500000,7009345
+Stockholmskommun,Kungsholmen,"Creutzgatan 13, 2 tr",3,71.0,3649,6675000,6238317
+Stockholmskommun,Johannesfred,Tackjärnsvägen 12,2,55.0,2714,4400000,3793103
+Sollentunakommun,Häggvik,Fridshyddevägen 11,2,65.0,3403,3700000,3303571
+Stockholmskommun,Vasastan,Norrbackagatan 30,2,50.0,1593,5350000,5245098
+Stockholmskommun,Östermalm,"Strindbergsgatan 37, 4 tr",1.5,31.0,1809,3750000,3750000
+Stockholmskommun,Abrahamsberg,Abrahamsbergsvägen 35,2,40.0,2063,2880000,2851485
+Stockholmskommun,Globen,Bildhuggarvägen 11,2,39.0,2778,3120000,2600000
+Stockholmskommun,Aspudden,Schlytersvägen 59,3,83.0,2951,7600000,6178861
+Stockholmskommun,Farsta,Farstavägen 104,2,63.0,5005,2400000,2086956
+Nackakommun,Saltängen,Beckasinvägen 39,1,39.0,2621,2200000,1896551
+Stockholmskommun,Årsta,Eklångsvägen 42,2,53.8,3234,3700000,3700000
+Stockholmskommun,Akalla,"Kotkagatan 15, 2 tr",4,93.0,5132,2130000,2088235
+Stockholmskommun,Fruängen,"Eva Bonniers Gata 2, 5 tr",3,72.0,3904,4050000,3648648
+Solnakommun,Råsunda,"Råsundavägen 162, 5tr",1,18.0,1324,1925000,1799065
+Stockholmskommun,Vällingby,Funäsgatan 8,2,51.0,2637,2700000,2596153
+Stockholmskommun,Hässelby,Aprikosgatan 19D,3,73.5,3948,3650000,3288288
+Stockholmskommun,Kungsholmen,Fridhemsgatan 62,2,49.0,1898,5450000,4909909
+Stockholmskommun,Akalla,"Sibeliusgången 58, 2tr",4,87.0,5141,2500000,2403846
+Stockholmskommun,Gärdet,"Öregrundsgatan 7, 4 tr",3,66.0,2544,5925000,5866336
+Stockholmskommun,Rågsved,"Bjursätragatan 103, 3tr",4,90.0,5168,2080000,2080000
+Stockholmskommun,Gubbängen,Kistvägen 15,3,53.0,2998,3350000,2991071
+Stockholmskommun,Stureby,Bäckaskiftsvägen 25,2,34.0,1780,2650000,2387387
+Stockholmskommun,Bromma,Majvägen 20,4,135.0,5749,15490000,15490000
+Sundbybergskommun,CentralaSundbyberg,"Tulegatan 5, 4tr",2,56.0,3162,4200000,3387096
+Stockholmskommun,Bredäng.,Ålgrytebacken,4,75.0,4490,3400000,3400000
+Stockholmskommun,Bredäng.,Ålgrytebacken,1,33.0,2013,2260000,2260000
+Stockholmskommun,Kungsholmen,"Alströmergatan 8A, Gårdshus",3,63.0,2612,6410000,5990654
+Stockholmskommun,Svedmyra,Brevvägen 7,2,42.0,2437,2930000,2289062
+Solnakommun,Järvastaden,Fridensborgsvägen 117,1,40.0,2622,2500000,2500000
+Stockholmskommun,Hagsätra,Axbergsgränd 3,2,61.0,3586,2200000,1692307
+Stockholmskommun,Älvsjöstaden,Kabelverksgatan 42,3,80.0,-,5110000,5110000
+Stockholmskommun,Kista,Ringstedsgatan 54,3,77.0,4832,2750000,2500000
+Stockholmskommun,Annedal,"Krakel Spektakels Gata 2, 5 tr",5,128.5,5636,7600000,7524752
+Nackakommun,Skuru,Barnhemsvägen 11,3,72.0,4070,4075000,3606194
+Sollentunakommun,Kärrdal,Lomvägen 41,2,66.5,3027,2300000,2254901
+Stockholmskommun,Vällingby,Jämtlandsgatan 74,1,24.0,1375,1470000,1400000
+Stockholmskommun,Kungsholmen,"Lidnersplan 8, 4tr",2,51.0,3419,5750000,5088495
+Stockholmskommun,HammarbySjöstad,Redargatan 8,3,78.0,4573,6100000,5809523
+Stockholmskommun,Midsommarkransen,"Tellusborgsvägen 90, vån 6 / 6",1,30.0,1704,3000000,2400000
+Stockholmskommun,Vasastan,"Roslagsgatan 59, 3tr",1,29.0,1646,3720000,2952380
+Stockholmskommun,Kungsholmen,Pontonjärgatan 33,1,24.0,1143,2850000,2394957
+Stockholmskommun,Bredäng.,Ålgrytebacken,1,33.0,2013,2350000,2350000
+Stockholmskommun,HammarbySjöstad,Lumaparksvägen 3,3,75.0,4337,7200000,2350000
+Stockholmskommun,Fruängen,Hanna Paulis gata 5,4,85.0,4741,4700000,4392523
+Stockholmskommun,Bromma,Herman ygbergs väg 4,1,31.5,2227,2950000,2286821
+Stockholmskommun,Årsta,Slätbaksvägen 39,2,42.5,2324,3110000,2448818
+Nackakommun,Finntorp,"Becksjudarvägen 39, högst upp!",1.5,40.0,2670,2800000,2258064
+Stockholmskommun,Vasastan,Nina einhorns gata 1,3,81.0,3714,9200000,9200000
+Stockholmskommun,Vasastan,Karlbergsvägen 27C,1,45.0,1851,4100000,3980582
+Solnakommun,Järvastaden,Fridensborgsvägen 127,1.5,45.0,3060,2700000,2389380
+Stockholmskommun,Farsta,Larsbodavägen 57A,3,69.0,3770,3100000,2743362
+Stockholmskommun,Kungsholmen,Alströmergatan 32F,1,35.0,1801,3630000,3000000
+Stockholmskommun,Kista,Helsingörsgatan 50,3,83.5,5290,2800000,2745098
+Sundbybergskommun,Storskogen,Fågelsången 2B,2,51.0,2368,3900000,3786407
+Stockholmskommun,Vällingby,Vittangigatan 35,4,87.0,4976,3400000,3786407
+Solnakommun,VästraSkogen,Epistelvägen 1B,3,82.0,4442,5000000,4587155
+Stockholmskommun,Bredäng.,Ålgrytebacken,3,77.0,4613,5995000,5995000
+Sundbybergskommun,CentralaSundbyberg,Vattugatan 12,2,55.0,3610,3395000,3395000
+Stockholmskommun,Östermalm,Melodislingan 14,3,111.0,6754,14500000,13551401
+Stockholmskommun,HammarbySjöstad,Henriksdalsallén 26B,2,52.5,2910,4100000,3796296
+Stockholmskommun,Telefonplan,"Bäckvägen 149, vån 2",1,26.0,1571,2355000,1995762
+Stockholmskommun,Enskedegård,Odelbergsvägen 34,4,94.0,5712,8350000,6733870
+Stockholmskommun,Södermalm,"Rosenlundsgatan 18, vån 4",1,32.0,1834,3525000,3147321
+Stockholmskommun,Kista,Helsingörsgatan 7,2,45.0,2661,2210000,1990990
+Stockholmskommun,Kungsholmen,"Pontonjärgatan 8, 3 tr",3,82.0,2910,10500000,8823529
+Stockholmskommun,Vasastan,Döbelnsgatan 27,1.5,31.0,1329,3800000,3486238
+Stockholmskommun,Kungsholmen,"Sysslomansgatan 26, 2tr",1.5,41.0,2490,3900000,3900000
+Nackakommun,Nackastrand,"Augustendalsvägen 30, 4 tr",3,88.0,4668,7900000,7383177
+Nackakommun,Järlasjö,Turbinvägen 5D,2,45.0,2625,2875000,2764423
+Stockholmskommun,Årsta,"Malgomajvägen 16, 2 tr",2,57.0,3603,3400000,2982456
+Stockholmskommun,NorraDjurgårdsstaden,Drevergatan 1A Etage,2,54.0,2409,5200000,4859813
+Stockholmskommun,Vällingby,"Gulddragargränd 52, vån 8",3,69.0,3977,2855000,2745192
+Stockholmskommun,Katarina,Götgatan 128,2,65.0,2799,5400000,5294117
+Sollentunakommun,Sjöberg,"Sidensvansvägen 32, 3 tr",3,77.5,4573,3000000,2884615
+Stockholmskommun,Hägerstensåsen,Inteckningsvägen 85,2,53.0,2860,3100000,2792792
+Nackakommun,Järlasjö,"Gustaf De Lavals Väg 6, 3 tr",2,51.0,2975,4100000,3693693
+Stockholmskommun,Midsommarkransen,"Vattenledningsvägen 51, vån 1",1,35.0,3219,2500000,2252252
+Solnakommun,Huvudsta,Epistelvägen 7,2,47.5,2718,3510000,2900826
+Stockholmskommun,Kungsholmen,"Bergsgatan 29, 3tr",2,52.0,2384,5950000,5833333
+Stockholmskommun,Vasastan,Sonja Kovalevskys Gata 11,4,94.0,4700,11000000,9909909
+Stockholmskommun,Bromma,Knypplerskevägen 7,2,42.0,3553,2850000,2244094
+Stockholmskommun,Kungsholmen,"Alströmergatan 32 P, 3 tr",2,45.0,2335,4725000,4375000
+Stockholmskommun,Hägerstensåsen,Bäckvägen 120,1,25.0,2076,2400000,2000000
+Stockholmskommun,Bredäng,Ålgrytevägen 29,3,78.0,4368,3600000,3000000
+Stockholmskommun,Traneberg,Kebnekaisevägen 10,2,40.0,3022,2800000,2499999
+Stockholmskommun,Bromma,Tranebergsvägen 96,3,76.0,5035,5400000,5192307
+Stockholmskommun,Bromma,Ståltrådsvägen 54,3.5,82.0,4174,4750000,5192307
+Stockholmskommun,Södermalm,"Nytorgsgatan 15A, 2tr",3,67.0,3924,8300000,6974789
+Stockholmskommun,Vasastan,Tre liljor 5A,2.5,73.0,3693,7300000,6517857
+Stockholmskommun,Bromma,"Kratsbodavägen 50C, vån 4",2,45.0,2812,3000000,2702702
+Stockholmskommun,Bandhagen,"Kallforsvägen 18, 3 tr",3,76.0,4529,3600000,3103448
+Stockholmskommun,Spånga,Bennebolsgatan 8,2,37.5,3173,2050000,1782608
+Solnakommun,Vireberg,Virebergsvägen 11,3,75.0,1957,5000000,1782608
+Stockholmskommun,Vasastan,Dalagatan 36,4,90.0,2116,12550000,11952380
+Stockholmskommun,Kungsholmen,"Karlsviksgatan 17, 1,5 tr",2,53.0,2972,6250000,5482456
+Stockholmskommun,Riksby,"Dukvägen 55, 1tr",2,51.0,2911,3130000,2586776
+Solnakommun,Råsunda,"Evenemangsgatan 34, 5tr",2,44.0,2787,3400000,2905982
+Stockholmskommun,Katarina,"Sofiagatan 1, 4 tr",2,58.0,2394,6590000,5990909
+Stockholmskommun,Hornstull,Tobaksspinnargatan 10,2,37.0,2053,3850000,5990909
+Solnakommun,VästraSkogen,Huvudstalundsvägen 4,3,78.0,4490,4900000,4298245
+Stockholmskommun,Sofia,Duvnäsgatan 5B,2,66.0,2517,6750000,6750000
+Stockholmskommun,Fridhemsplan,"Svarvargatan 12, 4 tr",2.5,70.0,3995,7250000,6971153
+Nackakommun,Kummelnäs,Kummelnäsvägen 22-24,4,96.0,3983,6000000,6000000
+Nackakommun,VästraOrminge,"Ormingeringen 8A, 1 / 1 tr",3,60.0,3883,2300000,2300000
+Stockholmskommun,Årsta,Rämensvägen 25B,3,55.0,3269,3750000,3676470
+Stockholmskommun,Hagastaden,"Torsplan 8, vån 22",2,62.0,3807,9250000,9250000
+Sollentunakommun,Häggvik,Turevägen 38B,4,116.5,5463,5050000,4353448
+Solnakommun,Järvastaden,Fridensborgsvägen 161,1,39.0,2353,2540000,2247787
+Stockholmskommun,Bromma,Pippi Långstrumps Gata 46,3,88.0,4450,4800000,4485981
+Sundbybergskommun,Brotorp,Brotorps allé 6,2,54.5,3106,2980000,2980000
+Solnakommun,Huvudsta,Huvudstagatan 12,4,108.7,4303,5800000,5742574
+Nackakommun,Ektorp,Ektorpsvägen 1,1,28.0,1907,2150000,1990740
+Sundbybergskommun,Sundbyberg,Ladugårdsgatan 6,1,29.0,1951,1750000,1750000
+Stockholmskommun,Östermalm,Valhallavägen 174,2,41.0,1961,4900000,4495412
+Stockholmskommun,Östermalm,Floragatan 19,3,107.0,5339,19700000,18073394
+Stockholmskommun,Hägersten,"Skidskyttevägen 4, 7 tr",2,52.0,3075,3400000,2982456
+Stockholmskommun,Södermalm,"Eriksdalsgatan 54, 1 tr",3,73.5,4631,6810000,6247706
+Stockholmskommun,Älvsjö,Gimmerstavägen 12,1,25.0,1643,1900000,1900000
+Stockholmskommun,Östermalm,"Skeppargatan 28, 2 tr",1,26.0,1554,3690000,3294642
+Stockholmskommun,Kista,"Lollandsgatan 9, vån 2 / 2",1,36.5,2332,1400000,1320754
+Stockholmskommun,Östermalm,Styrmansgatan 16A,1.5,32.0,2039,4700000,3983050
+Stockholmskommun,Vasastan,Hagagatan 17L,3,78.0,3847,7200000,6990291
+Sundbybergskommun,CentralaSundbyberg,Högklintavägen 15,3,80.5,4618,4900000,4900000
+Stockholmskommun,Midsommarkransen,Snickerigatan 10,2,59.0,3687,3750000,3750000
+Stockholmskommun,Gubbängen,Bordsvägen 70,3,68.0,3812,4500000,3488372
+Stockholmskommun,NorrMälarstrand,Sankt Eriksgatan 16,1.5,38.0,1920,3500000,3500000
+Sundbybergskommun,CentralaSundbyberg,Starrbäcksgatan 6,3,62.0,3285,3240000,3240000
+Stockholmskommun,Midsommarkransen,Radiusbacken 21,2,58.0,2680,4950000,3240000
+Nackakommun,Henriksdalsberget,Henriksdalsringen 97,3,81.0,4361,4400000,3999999
+Stockholmskommun,Vällingby,Kanngjutargränd 52,2,50.0,3324,2050000,2050000
+Solnakommun,Arenastaden,Evenemangsgatan 12,2,70.0,3263,4400000,2050000
+Stockholmskommun,Hornstull,Folkskolegatan 20,1,27.0,2302,2600000,2050000
+Stockholmskommun,Kista,Borgarfjordsgatan 21B,3,80.0,4585,3200000,2990654
+Sollentunakommun,Kärrdal,Lomvägen 56,4,96.5,5494,3700000,3303571
+Stockholmskommun,Bredäng,Odd Fellowvägen 14,4,104.0,4708,4550000,3500000
+Stockholmskommun,Vällingby,Östersundsgatan 7 (EJ BASTU),2,64.0,3237,2625000,2302631
+Stockholmskommun,Årsta,Storsjövägen 61,3,57.0,3136,3220000,2705882
+Stockholmskommun,Bandhagen,"Kallforsvägen 47, vån 2",3,67.0,4122,3300000,2481203
+Sollentunakommun,Silverdal,Margreteborgsvägen 25,2,66.0,4169,3120000,3058823
+Stockholmskommun,Solberga,Mockasinvägen 8,4,104.0,5428,3605000,3500000
+Stockholmskommun,Liljeholmskajen,Oskarslundsbacken 1,2,70.0,3781,5350000,4495798
+Stockholmskommun,Vasastan,"Bråvallagatan 8, 3 tr",1,31.0,2252,3550000,3198198
+Stockholmskommun,Minneberg,Svartviksslingan 69,4,108.5,5659,8100000,8019801
+Stockholmskommun,Högdalen,Harpsundsvägen 86B,2,41.0,2571,2550000,2198275
+Stockholmskommun,Högalid,Brännkyrkagatan 119,2,33.0,2325,3000000,2752293
+Stockholmskommun,Bromma,"Dalgången 3A, 1tr",2,57.5,3872,3080000,2444444
+Stockholmskommun,Hammarbyhöjden,Paternostervägen 34,4,85.0,4344,7050000,6467889
+Stockholmskommun,Hökarängen,"Russinvägen 85,1tr",3,74.0,4023,4100000,2992700
+Sundbybergskommun,Brotorp,Brukshundsvägen 28,2,44.0,2512,2840000,2491228
+Stockholmskommun,Kistahöjden,"Heklagatan 68F, vån 2 / 2",2,44.2,2833,1880000,1880000
+Stockholmskommun,NedreGärdet,Strindbergsgatan 36,3,77.5,4005,7950000,7500000
+Stockholmskommun,Hökmossen,Hökmossevägen 40,3,51.0,3417,2750000,2696078
+Stockholmskommun,Västertorp,Störtloppsvägen 24,2,55.0,2795,3450000,2804878
+Stockholmskommun,Vasastan,"Sigtunagatan 1, 3 tr",2,49.0,987,5700000,5480769
+Stockholmskommun,Kungsholmen,"Warfvinges väg 23, vån 5",2,43.5,940,4225000,3806306
+Nackakommun,Ekudden,Ekgränd 1,2,64.0,2983,4540000,3982456
+Stockholmskommun,Liljeholmen,"Liljeholmstorget 88, vån 4 / 4",4,99.0,2913,9800000,7967479
+Stockholmskommun,Farsta,Edagränd 8,3,80.0,4365,3950000,3185483
+Stockholmskommun,Johanneshov,Fyrskeppsvägen 116,2,55.0,4000,3200000,2807017
+Stockholmskommun,ÄlvsjöHagsätra,Frövigatan 14,1,36.0,2071,1750000,1590909
+Stockholmskommun,Björkhagen,Svalövsvägen 4,2,58.0,2849,3630000,2951219
+Stockholmskommun,Kungsholmen,"Jakob Westinsgatan 7, 5 tr",2.5,70.0,3039,8350000,7803738
+Stockholmskommun,Fruängen,"Doktor Widerströms gata 74, högst upp!",1,26.0,1726,1970000,1743362
+Stockholmskommun,Södermalm,Ekehjelmstorget 6,2,59.0,2104,4895500,4707211
+Stockholmskommun,Vasastan,"Frejgatan 81, Uteplats 12kvm",2,35.0,1630,4200000,3853211
+Stockholmskommun,FruängenCentrum,Jenny Linds Gata 10,2,44.0,2435,2345000,1987288
+Stockholmskommun,Sköndal,"Sköndalsvägen 88, 6tr",2,55.5,3205,2950000,2092198
+Stockholmskommun,Årsta,Siljansvägen 70,3,73.5,4658,4610000,4475728
+Stockholmskommun,Vasastan,"Dalagatan 38A, i gårdshus",2,40.0,2041,4300000,3981481
+Stockholmskommun,Vasastan,"Döbelnsgatan 58, 3 tr",4,115.0,4478,12500000,11682242
+Sollentunakommun,Rotsunda,Celsings Väg 9,4,94.0,5991,2750000,2696078
+Stockholmskommun,Vasastan,"Dalagatan 86G, 2,5 TR",1,34.0,1977,3750000,3504672
+Stockholmskommun,Årsta,Tavelsjövägen 2A,3,73.0,4677,5050000,4391304
+Stockholmskommun,Stockholm,"Midskeppsgatan 10, vån 6",4,93.0,4566,8600000,8514851
+Nackakommun,Orminge,Ormingeringen 9A,2,60.0,3883,2440000,8514851
+Sollentunakommun,Silverdal,Johannesbergsplan 4,2,45.0,2733,2620000,2495238
+Stockholmskommun,Årsta,Borensvägen 66,4,86.0,4402,5470000,4883928
+Stockholmskommun,Vasastan,Roslagsgatan 54,2,50.0,2114,5100000,5000000
+Stockholmskommun,Svedmyra,"Jönåkersvägen 4,1 tr",3,74.0,4277,4075000,3395833
+Stockholmskommun,Vasastan,"Västmannagatan 35, Vindslägenhet",2,63.5,2728,9100000,7982456
+Sundbybergskommun,CentralaSundbyberg,Starrbäcksgatan 11C,3.5,81.0,4533,5300000,5000000
+Stockholmskommun,Mälarhöjden,Mästarbacken 44,6,118.0,6902,8050000,7000000
+Stockholmskommun,Skarpnäck,Pilottorget 6,5,99.0,6013,4000000,3738317
+Solnakommun,Frösunda,Gustav III:s Boulevard 167,4,108.0,4954,6995000,6995000
+Solnakommun,Bergshamra,"Ripstigen 4, vån 7",3,76.0,4219,4990000,4798076
+Nackakommun,NackaStrand,"Fabrikörvägen 4D, takterrass.",3,79.0,4618,12500000,11467889
+Stockholmskommun,Kungsholmen,"Fleminggatan 97A, 3 tr",3,76.0,2423,9500000,8715596
+Stockholmskommun,Södermalm,Bastugatan 17,3,77.0,3158,7550000,7475247
+Solnakommun,Bergshamra,Järvstigen 11,4,85.9,4194,5125000,4701834
+Stockholmskommun,Södermalm,Bjurholmsgatan 10,1,40.5,0,5100000,4358974
+Sollentunakommun,Kärrdal,"Lomvägen 609, 2tr",3,83.0,5274,2400000,2400000
+Solnakommun,Råsunda,Förrådsgatan 3,2,39.0,2463,3000000,2884615
+Stockholmskommun,Midsommarkransen,Svandammsvägen 3,1,35.5,2251,2650000,2304347
+Stockholmskommun,Vasastan,Sveavägen 122,1,23.0,1114,2910000,2445378
+Stockholmskommun,Skarpnäck,Horisontvägen 87,3,80.0,5364,2700000,2477064
+Stockholmskommun,Telefonplan,Tvingvägen 30,3,63.0,3792,3460000,2790322
+Stockholmskommun,Södermalm,Högbergsgatan 76A,3,107.0,4240,11300000,9912280
+Solnakommun,Ulriksdal,Drottning Kristinas esplanad 63,2,54.0,2857,3230000,2883928
+Stockholmskommun,Högdalen,Skebokvarnsvägen 281,3,72.0,4165,2620000,2360360
+Stockholmskommun,Farsta,"Edagränd 6, 3tr",4,93.0,4920,5225000,4247967
+Stockholmskommun,Östermalm,"Brantingsgatan 25, 1tr",2,52.0,3054,5900000,5000000
+Nackakommun,ÄltaSödraHedvigslund,Anemonvägen 34,3,73.0,4743,4100000,3980582
+Stockholmskommun,Kungsholmen,Kronobergsgatan 24,3,72.0,2898,7750000,3980582
+Stockholmskommun,Kungsholmen,Love almqvists väg 10,2,59.0,2865,5200000,3980582
+Stockholmskommun,Östermalm,Östermalmsgatan 49,4,86.0,4303,10125000,10024752
+Stockholmskommun,Johanneshov,"Palandergatan 23, Vån 3 av 3",2,40.0,2741,3210000,2488372
+Stockholmskommun,Stureby,"Sågverksgatan 112, 2 tr",2,59.5,4157,3050000,2346153
+Stockholmskommun,Kungsholmen,Lidnersgatan 12,2,46.5,3578,5005000,4004000
+Stockholmskommun,Vällingby,Ångermannagatan 158,2,58.5,3399,2500000,2173913
+Stockholmskommun,Södermalm,Södermannagatan 21,2,35.0,1696,4250000,3294573
+Solnakommun,Solna,"Olof Af Acrels Väg 5, 2 tr",1,26.0,1858,2200000,2200000
+Stockholmskommun,Vasastan,"Norrbackagatan 17, 5 tr",4,94.0,4163,11350000,10509259
+Stockholmskommun,Vasastan,Atlasgatan 7,3,68.0,2905,8100000,7499999
+Stockholmskommun,Östermalm,Erik Dahlbergsgatan 28,2,40.0,1753,4370000,4009174
+Stockholmskommun,GamlaEnskede,"Nynäsvägen 311, 1 tr",3,87.0,5434,5500000,4700854
+Nackakommun,Finntorp,Becksjudarvägen 39,5,109.0,6715,5100000,4700854
+Stockholmskommun,Bromma,Askängsbacken 48,3,77.0,4897,5600000,4700854
+Sollentunakommun,Kärrdal,Lomvägen 655,3.5,83.0,4405,2900000,2788461
+Solnakommun,Karolinska,"Fogdevreten 14, vån 3 / 3",1.5,34.0,2150,2375000,1995798
+Solnakommun,Hagalund,Hagalundsgatan 30,2,56.9,2340,3000000,2500000
+Stockholmskommun,Enskede,"Götaforsvägen 17, 2 tr",2,55.0,3616,2685000,2256302
+Solnakommun,Arenastaden,"Evenemangsgatan 24, 14tr",2,45.0,1822,3600000,3000000
+Nackakommun,VästraOrminge,Ormingeringen 27A,2,45.0,3095,2180000,1895652
+Stockholmskommun,Björkhagen,Ystadsvägen 125,4,80.5,4837,6300000,5779816
+Stockholmskommun,Telefonplan,Tivolivägen 7,2,49.0,2513,2900000,2500000
+Stockholmskommun,Östermalm,"Lützengatan 3, ACCEPTERAT PRIS / Först Till Kvarn!",2,71.0,1968,5400000,5294117
+Stockholmskommun,GamlaÖstberga,"Stamgatan 57,2 tr",5,95.0,-,3150000,3000000
+Stockholmskommun,Östermalm,Östermalmsgatan 62,3,87.0,3177,17500000,16826923
+Stockholmskommun,Enskede,Täppgränd 105,2,65.0,3021,3050000,3050000
+Solnakommun,Bergshamra,Lostigen 4,3,75.0,4488,4350000,4350000
+Stockholmskommun,Östermalm,Narvavägen 22A,2,54.0,1344,8320000,7775700
+Stockholmskommun,HammarbySjöstad,Hammarby allé 48,3,64.5,3828,5350000,4863636
+Stockholmskommun,GamlaÖstberga,"Stamgatan 46, 2 tr",3,69.5,4958,2900000,2301587
+Stockholmskommun,Södermalm,Zinkens Väg 69,4,86.0,3341,7800000,7500000
+Stockholmskommun,Kungsholmen,"Lilla Västerbron 20, 5tr  /  Norr Mälarstrand",4,109.0,5036,11250000,10227272
+Stockholmskommun,Traneberg,"Gesundaplan 57, vån 2",2,40.0,2387,2750000,2500000
+Stockholmskommun,Vasastan,Torsgatan 52A,1,27.0,983,3500000,2991452
+Nackakommun,Nacka,Ekuddsvägen 10G,1,32.0,1580,2200000,1999999
+Stockholmskommun,Vasastan,Rörstrandsgatan 34,4,109.0,5230,15600000,14857142
+Stockholmskommun,Enskede,Skogsvägen 2,2,55.0,2032,5100000,5100000
+Stockholmskommun,Sköndal,"Maria Röhls väg 11, bv",3,75.0,3808,4600000,4181818
+Stockholmskommun,Bromma,Follingbogatan 26,2,48.5,2773,3100000,2695652
+Stockholmskommun,Högdalen,Skebokvarnsvägen 284,2,58.0,3198,2500000,2155172
+Stockholmskommun,Årsta,"Åmänningevägen 58, 3 tr",3,58.0,4138,3400000,2741935
+Nackakommun,Orminge,"Utövägen 25, vån 2 / 2",5,91.0,5942,3800000,2992125
+Solnakommun,Arenastaden,Evenemangsgatan 8,2,70.0,2908,4250000,2992125
+Stockholmskommun,Marieberg,"Lagerlöfsgatan 8, 3 tr",3,71.0,1719,7300000,7019230
+Stockholmskommun,Årsta,Järnlundsvägen 16,4,88.0,5281,5510000,4304687
+Sundbybergskommun,Ursvik,Oxenstiernas Allé 14,3,81.5,4183,3975000,3486842
+Stockholmskommun,Vasastan,Rödabergsbrinken 14,1.5,43.5,2424,3995000,3995000
+Stockholmskommun,Enskededalen,Grusåsgränd 46,3,82.0,4071,4125000,3683035
+Stockholmskommun,Vasastan,"Birger Jarlsgatan 95, 2tr mot gård",2,55.0,2198,6000000,5504587
+Stockholmskommun,NorrMälarstrand,Sankt Eriksgatan 10,2,46.0,1433,5300000,4862385
+Stockholmskommun,Vårberg,Vårholmsbackarna 68,3,82.0,5138,2300000,2190476
+Sollentunakommun,Edsberg,Kruthornsvägen 20A,3,70.0,4105,2200000,2200000
+Stockholmskommun,Högalid,"Zinkens väg 37, vån 5",3,71.0,3084,7050000,2200000
+Stockholmskommun,Älvsjö,Prästgårdsgränd 10,5,105.0,5169,5400000,4778761
+Stockholmskommun,Mälarhöjden,Klubbacken 25,2,34.6,2742,2295000,2295000
+Sundbybergskommun,LillaAlby,Hamngatan 13A,2,75.0,4122,6350000,5474137
+Solnakommun,Arenastaden,Evenemangsgatan 6,2,70.0,2908,4400000,3859649
+Stockholmskommun,Södermalm,"Skånegatan 109, 4tr",1,30.0,1826,3200000,2990654
+Stockholmskommun,Bromma,Klädesvägen 24,3,54.0,3147,3050000,2584745
+Stockholmskommun,Vasastan,Roslagsgatan 27,2,42.0,1806,4200000,4000000
+Stockholmskommun,HammarbySjöstad,Virkesvägen 19B,1.5,34.0,1820,2850000,2499999
+Stockholmskommun,Smedslätten,"Herman Ygbergs Väg 2, 3 tr",1.5,55.5,3597,3650000,3509615
+Stockholmskommun,Kungsholmen,Bergsgatan 3,1,21.0,1209,2950000,2286821
+Stockholmskommun,GamlaEnskede,Stockholmsvägen 49,2,45.0,2735,4225000,3985849
+Stockholmskommun,Telefonplan,Tellusgatan 17,4,101.0,5377,7800000,6500000
+Solnakommun,Bergshamra,Carl Malmstens Väg 4,2,64.2,2975,3800000,3486238
+Stockholmskommun,Gröndal,"Lövholmsvägen 76, 2tr",4,94.0,5146,8150000,7212389
+Solnakommun,Råsunda,Råsundavägen 68,4,125.0,4970,9100000,7982456
+Stockholmskommun,Gröndal,Gröndalsvägen 108,2,43.0,2560,2600000,2300884
+Stockholmskommun,Kungsholmen,"Kungsklippan 11, 1 tr mot gård",1.5,31.0,2664,3000000,2500000
+Stockholmskommun,HammarbySjöstad,Virkesvägen 7C,2,42.0,2755,3900000,3823529
+Stockholmskommun,Kista,Sorögatan 1,2,45.0,2948,2110000,1788135
+Stockholmskommun,Farsta,Molkomsbacken 31,1,38.0,1922,2100000,1653543
+Sollentunakommun,Häggvik,"Smedjevägen 9, 4tr",2,85.0,4163,4100000,3942307
+Stockholmskommun,Vasastan,"Gävlegatan 36B, 6 tr",2,32.0,1911,4600000,4600000
+Stockholmskommun,Midsommarkransen,Cedergrensvägen 22,2,35.0,2235,3075000,4600000
+Solnakommun,SolnaCentrum,Huvudstagatan 1B,4,112.0,5683,7710000,7413461
+Stockholmskommun,Årsta,Sandfjärdsgatan 120,3.5,77.0,5164,3900000,3305084
+Nackakommun,FinnbodaHamn,Finnboda parkväg 8,2,62.0,4195,3300000,2999999
+Nackakommun,VästraOrminge,"Ormingeringen 21, 2 tr",2,70.0,4041,2350000,1793893
+Stockholmskommun,HornsbergsStrand,"Warfvinges Väg 18, 6 TR",2,52.5,3438,4920000,4776699
+Sundbybergskommun,CentralaSundbyberg,Rökerigränd 5,3,84.5,3564,7510000,5481751
+Stockholmskommun,Kungsholmen,Lindhagensgatan 65,2,31.0,1816,3100000,2500000
+Stockholmskommun,Södermalm,Östgötagatan 85,3,70.0,3787,7400000,6491228
+Solnakommun,Huvudsta,"Karolinagatan 10, plan 4-5",4,104.0,4668,6000000,5714285
+Stockholmskommun,Hammarbyhöjden,Paternostervägen 46,3,72.0,3913,4800000,4247787
+Stockholmskommun,Liljeholmskajen,Grönbrinksgatan 6,2,58.0,3348,4720000,4290909
+Sundbybergskommun,CentralaSundbyberg,Ursviksvägen 15,2,54.0,3300,3750000,3504672
+Stockholmskommun,Bromma,Svartviksslingan 31,3,68.5,3777,4000000,3846153
+Stockholmskommun,Skarpnäck,"Vinggatan 18, 3tr",3,77.0,4680,3250000,2850877
+Stockholmskommun,Hökarängen,Lingvägen 219,2,59.0,3148,2700000,2195121
+Stockholmskommun,Gröndal,"Grenljusbacken 21, 4tr",3,84.0,3382,6200000,6019417
+Stockholmskommun,Vasastan,Rörstrandsgatan 48,3,76.0,4271,9100000,8272727
+Stockholmskommun,Kärrtorp,Holmögaddsvägen 22,3,81.8,4906,3995000,3995000
+Stockholmskommun,Södermalm,Renstiernas gata 27,4,82.0,0,8525000,7967289
+Sundbybergskommun,CentralaSundbyberg,Fredsgatan 9A,1,26.0,1707,2300000,2000000
+Sundbybergskommun,CentralaSundbyberg,Lötgatan 1,3.5,73.0,3878,4690000,4383177
+Stockholmskommun,Östermalm,Styrmansgatan 51A,2,36.0,2186,5100000,4766355
+Sollentunakommun,Silverdal,Johannesbergsplan 2,4,93.0,4596,5350000,5194174
+Sundbybergskommun,SundbybergCentrum,Starrbäcksgatan 11A,2,59.0,3343,4030000,3504347
+Stockholmskommun,HammarbySjöstad,Virkesvägen 9E,4,96.5,5207,8600000,8600000
+Solnakommun,VästraSkogen,"Trubadurvägen 3, vån 5",3,89.0,4821,6025000,4781746
+Stockholmskommun,Hagsätra,Hovstagränd 13,2,59.0,4460,2500000,2000000
+Stockholmskommun,Bromma,Stångjärnsvägen 18,2,46.0,2905,2710000,2203252
+Sundbybergskommun,Järvastaden,Brotorps allé 3,2,56.0,3176,3250000,2901785
+Stockholmskommun,Gröndal,"Grenljusbacken 26, vån 3",3,74.5,4295,6220000,5183333
+Nackakommun,Ektorp,"Ektorpsvägen 9, 4 tr",2,55.0,2478,2850000,2499999
+Stockholmskommun,Ekhagen,Docentbacken 3,1.5,36.0,1955,2685000,2606796
+Stockholmskommun,Vasastan,"Drottninggatan 101, 4tr",1.5,36.8,397,4450000,3588709
+Stockholmskommun,Södermalm,"Ringvägen 29, vån 6",2,52.0,2722,5250000,4166666
+Stockholmskommun,Kista,"Vejlegatan 9, 2 tr",3,77.0,5359,2700000,2500000
+Stockholmskommun,Södermalm,Allhelgonagatan 15,3.5,76.0,3062,9300000,7500000
+Stockholmskommun,Kungsholmen,"Hantverkargatan 87, högst upp",3,95.0,4697,9500000,9047619
+Stockholmskommun,Södermalm,Sankt Paulsgatan 18,2.5,71.0,3007,8200000,6890756
+Stockholmskommun,NorraDjurgårdsstaden,"Fagningsgatan 9, 2tr",3,68.0,4107,7500000,7211538
+Stockholmskommun,Södermalm,"Högalidsgatan 48B, 5 tr",2,59.0,2976,6600000,5999999
+Sollentunakommun,CentralaSollentuna,Sollentunavägen 136,2,69.0,3424,3540000,3000000
+Stockholmskommun,SpångaSundby,Ladbacksvägen 7B,2,64.0,2328,3400000,3148148
+Stockholmskommun,Södermalm,Hästholmsvägen 10,1,21.0,1001,2075000,2054455
+Stockholmskommun,Bromma,"Nockeby torg 21, 2 tr",3,74.0,4160,5900000,4916666
+Stockholmskommun,Midsommarkransen,Midsommarvägen 19,2,44.0,3274,3550000,2840000
+Stockholmskommun,Hägerstensåsen,Riksdalervägen 9 våning 7,2,63.0,2449,3960000,3193548
+Stockholmskommun,Kungsholmen,"Hantverkargatan 76C, 3 vån",2,51.0,1246,5750000,5000000
+Sollentunakommun,CentralaSollentuna,Sollentunavägen 164,4.5,95.0,5250,5700000,5377358
+Stockholmskommun,Vasastan,Luntmakargatan 56B,3,80.0,4248,9000000,8490566
+Solnakommun,Huvudsta,Trubadurvägen 1,2,47.0,2524,3750000,3000000
+Nackakommun,VästraOrminge,Skarpövägen 13,3,81.0,4454,2600000,2385321
+Stockholmskommun,Hammarbyhöjden,"Tidaholmsvägen 36, 1 tr",2,40.0,2991,2800000,2258064
+Stockholmskommun,Kungsholmen,Bågljusvägen 1,4,85.5,5009,6980000,6647619
+Stockholmskommun,Bromma,Tunnlandsvägen 43,2,42.0,2608,3150000,2500000
+Stockholmskommun,Södermalm,"Tideliusgatan 11, 4 tr",3,86.0,2308,7500000,7009345
+Solnakommun,Råsunda,Uppfartsvägen 5,1.5,34.0,2322,2650000,1992481
+Stockholmskommun,Älvsjö,Vibyholmsvägen 23,2,57.0,3207,2825000,2373949
+Solnakommun,Råsunda,Näckrosvägen 25,2,57.0,3518,3950000,2373949
+Solnakommun,Råsunda,"Rosstigen 9, 3 tr",3,64.0,3716,4400000,4112149
+Sundbybergskommun,CentralaSundbyberg(LillaAlby),Gjuteribacken 20,3,68.0,3890,4600000,4000000
+Stockholmskommun,Hägerstensåsen,"Mellanbergsvägen 19, vån 3 av 4",2,51.0,3494,2950000,2201492
+Nackakommun,Älta,Stensövägen 7,3,78.0,5045,3000000,2500000
+Stockholmskommun,Östbergahöjden,Förlandagränd 12,4,95.0,4743,3200000,2500000
+Stockholmskommun,Gröndal,"Gröndalsvägen 145, 2tr",3,83.0,3884,5800000,5471698
+Stockholmskommun,Västertorp,"Slalomvägen 38, 2tr",1,42.0,2368,2750000,1992753
+Stockholmskommun,Södermalm,"Siargatan 9, mot gård",1,28.0,1442,3100000,2605042
+Stockholmskommun,Kungsholmen,Lidnersgatan 12,2,33.0,2529,3050000,2798165
+Stockholmskommun,Östermalm,Grevgatan 19,1,25.0,1047,3300000,3142857
+Stockholmskommun,Årsta,"Sandfjärdsgatan 109, 9tr",3,77.0,4764,4000000,3603603
+Nackakommun,Finntorp,"Finntorpsvägen 3, 2tr",1,23.5,1737,1800000,1500000
+Stockholmskommun,Årsta,Långhalsvägen 22,1,30.8,2051,2460000,2102564
+Stockholmskommun,Sköndal,"Bagarfruvägen 17, 3 tr",2,42.0,2607,2200000,1999999
+Sundbybergskommun,Rissne,Kavallerivägen 2c,2,55.0,2979,3000000,1999999
+Stockholmskommun,Liljeholmskajen,"Marieviksgatan 41, 1 tr",3,76.0,3882,5700000,5377358
+Stockholmskommun,Vasastan,Torsgatan 27,1,29.0,1809,3200000,3200000
+Stockholmskommun,Solberga,Götalandsvägen 247,3,80.0,3926,4640000,4106194
+Stockholmskommun,Mälarhöjden,"Brådstupsvägen 15, vån 3 av 3",3,70.0,3995,6700000,5982142
+Stockholmskommun,Vasastan,Rådmansgatan 77,1,26.0,941,3565000,3100000
+Stockholmskommun,Årsta,Svärdlångsvägen 19A,1,25.2,2415,1850000,1850000
+Stockholmskommun,Vasastan,"Odengatan 27, 2,5 tr",3,92.0,0,14400000,11900826
+Stockholmskommun,Kungsholmen,"Bergsgatan 30, 2 tr",1,32.0,1622,3375000,2986725
+Stockholmskommun,Södermalm,Högbergsgatan 11,4,124.0,3498,15600000,15445544
+Stockholmskommun,Östermalm,Eriksbergsgatan 12,3.5,99.0,3415,13400000,12884615
+Stockholmskommun,Traneberg,Hoburgsstigen 12,2,46.0,2651,3000000,12884615
+Stockholmskommun,Södermalm,Hökens gata 8,3,81.0,4013,10000000,9174311
+Stockholmskommun,Hornstull,Drakenbergsgatan 5,4,92.0,3824,9500000,8260869
+Nackakommun,Tollare,Tollareslingan 20,4,88.0,4923,7050000,6911764
+Stockholmskommun,Hässelby,"Astrakangatan 66, 1tr",2,61.0,3871,2275000,2087155
+Nackakommun,NackaStrand,Augustendalsvägen 35,4,116.0,5996,14150000,13737864
+Stockholmskommun,Katarina,Åsögatan 127,2,44.0,2347,5400000,4576271
+Stockholmskommun,Vällingby,Mörsilsgatan 8 (Vån 1),1,29.0,1977,1625000,1490825
+Stockholmskommun,Abrahamsberg,Stopvägen 43,2,43.0,2764,2800000,1490825
+Stockholmskommun,Kristineberg,Love Almqvists Väg 4B,2,38.0,3213,3400000,3207547
+Sollentunakommun,SollentunaCentrum,Sollentunavägen 156,2,48.0,3277,2670000,2495327
+Stockholmskommun,Vällingby,Funäsgatan 8 (Vån 13),1,33.0,1881,2000000,1886792
+Stockholmskommun,Älvsjö,Solberga Hagväg 13,3.5,70.0,4294,3320000,3192307
+Nackakommun,Ektorp,Edinsvägen 5,1.5,42.0,2724,2150000,1954545
+Stockholmskommun,Kista,"Helsingörsgatan 37, entréplan",2,45.0,3152,1940000,1901960
+Stockholmskommun,Älvsjöstaden,Götalandsvägen 230,2,52.0,3119,3750000,3000000
+Solnakommun,Huvudsta,Släggbacken 2,2.5,68.0,3742,3100000,2980769
+Stockholmskommun,Vasastan,"Sankt Eriksgatan 85C, 4 tr",2,35.0,1001,4550000,3956521
+Stockholmskommun,Johanneshov,Malmövägen 10,1,25.0,1658,2310000,1848000
+Solnakommun,Råsunda,"Uppfartsvägen 9, Högst upp!",3,70.0,3375,6100000,5495495
+Stockholmskommun,Södermalm,Katarina Bangata 45,1,34.0,1881,3600000,3495145
+Stockholmskommun,Östermalm,"Löjtnantsgatan 16, 1tr",5.5,124.0,4025,14250000,11491935
+Stockholmskommun,Vasastan,"Luntmakargatan 78, 3 tr",4,133.0,4557,17500000,17326732
+Stockholmskommun,Södermalm,"Rutger Fuchsgatan 4, 1 tr",2,36.0,1758,4000000,3478260
+Nackakommun,Kvarnholmen,Siloplatsen 2,4,104.0,5720,9150000,9059405
+Stockholmskommun,Hässelby,Lövkojsgränd 17,3,67.0,3643,2900000,9059405
+Stockholmskommun,Aspudden,Jarl Kulles gata 1,3,77.0,4218,5600000,4999999
+Stockholmskommun,HornsbergStrand,"Warfvinges väg 23, vån 8",3,86.0,1647,7360000,7009523
+Nackakommun,NackaForum,Nackabacken 4,4,96.0,5222,7750000,7009523
+Stockholmskommun,Sätra,Aspsätravägen 19,3,80.0,4440,2850000,2590909
+Stockholmskommun,Kärrtorp,Fyrskeppsvägen 98,3,69.0,4898,3950000,3495575
+Solnakommun,Huvudsta,Göran Perssons Väg 15,1,44.0,2701,2625000,2187500
+Solnakommun,Råsunda,Råsundavägen 133A,2,49.0,2476,3700000,3189655
+Sundbybergskommun,CentralaSundbyberg,"Fredsgatan 6B, vån 2",1.5,45.0,2902,2840000,2491228
+Sollentunakommun,Kärrdal,Lomvägen 613,3,83.0,5209,2800000,2800000
+Nackakommun,Älta,Stensövägen 12,2,58.0,3411,2800000,2592592
+Stockholmskommun,Kungsholmen,Lidnersplan 10,2,51.0,2996,5500000,4104477
+Stockholmskommun,Vasastan,"Tomtebogatan 9A, 1tr",3,70.0,2774,8950000,7991071
+Stockholmskommun,Midsommarkransen,Oktobergatan 6C,1,35.0,1909,3100000,2649572
+Solnakommun,Frösunda,Anders Lundströms gata 13,2,68.0,3763,4125000,3855140
+Nackakommun,VästraOrminge,"Skarpövägen 57, BV",1.5,37.0,3112,2000000,1801801
+Stockholmskommun,Midsommarkransen,Kyndelsmässogränd 6,2,69.0,3465,5200000,3880597
+Stockholmskommun,Hässelby,Astrakangatan 2,2,54.0,2928,2040000,1854545
+Stockholmskommun,Rinkebyterassen,"Almbygatan 6, 1 tr",2,48.0,3200,1685000,1685000
+Solnakommun,Bergshamra,Mårdstigen 13,2,61.0,3792,3820000,3157024
+Stockholmskommun,Telefonplan,Hökmossevägen 38,2,44.0,2948,2500000,2000000
+Stockholmskommun,Södermalm,Vintertullstorget 46,3,87.0,5234,7200000,6486486
+Stockholmskommun,LillaEssingen,Strålgatan 29,2,52.0,2475,4930000,4481818
+Solnakommun,Frösunda,"Signalistgatan 16, 3 tr",2,60.0,3497,4400000,3636363
+Stockholmskommun,Farsta,Forshagagatan 30,3,77.0,3867,3220000,2402985
+Nackakommun,Jarlaberg,Landåvägen 71,3,72.0,4912,3600000,3495145
+Stockholmskommun,Vasastan,"Markvardsgatan 1, 5tr vind",3,65.2,1455,11250000,8720930
+Stockholmskommun,Aspudden,"Jarl Kulles gata 3, 5 vån",3,72.0,3881,6750000,5487804
+Stockholmskommun,Liljeholmskajen,Önologgatan 4,2.5,69.0,3702,5500000,4954954
+Stockholmskommun,Kista,"Helsingörsgatan 7, 3 tr",3,77.0,3939,2780000,2482142
+Nackakommun,VästraOrminge,Ornövägen 30,1,37.0,2536,1650000,1650000
+Stockholmskommun,Bromma,Nockeby Torg 25,2,54.0,2608,4590000,3701612
+Stockholmskommun,Vasastan,Västmannagatan 74,6,187.0,4862,22550000,22550000
+Stockholmskommun,Hammarbyhöjden,Sten Bergmans väg 37,2,61.0,3636,3700000,3490566
+Stockholmskommun,Vasastan,Nina einhorns gata 10,3,71.0,4129,7450000,7163461
+Stockholmskommun,Södermalm,Timmermansgatan 43. 5 / 5tr. Vindsvåning,3,88.0,2626,10100000,9901960
+Stockholmskommun,Gröndal,Ormbergsvägen 1,3.5,91.0,4396,9150000,8026315
+Sollentunakommun,Häggvik,Ugglevägen 9,4,93.0,5386,4195000,4195000
+Solnakommun,Råsunda,Garvis Carlssons gata 14,1,37.0,2313,2745000,2287500
+Stockholmskommun,Södermalm,Hallandsgatan 34,2,69.0,2875,6800000,6017699
+Stockholmskommun,Hässelby,Fyrspannsgatan 172  ( Våning 14),2,34.0,2135,2150000,2107843
+Nackakommun,Sickla,"Sickla Allé 5, 3 tr",3,85.0,4739,6700000,6320754
+Stockholmskommun,Östermalm,"Valhallavägen 135, 5tr",3,57.5,2984,6400000,5765765
+Solnakommun,Huvudsta,Wiboms väg 13,2,47.0,2400,2720000,2285714
+Stockholmskommun,Kungsholmen,Fridhemsgatan 12B,1,30.0,1481,3540000,3000000
+Stockholmskommun,Östermalm,"Studentbacken 32, 7tr",3,76.5,4575,7000000,6481481
+Stockholmskommun,Västertorp,"Skidskyttevägen 4, 3 tr",3.5,81.0,4791,4500000,4500000
+Stockholmskommun,Vasastan,"Västeråsgatan 3B, 2tr",3,78.0,2990,8900000,8476190
+Stockholmskommun,Kungsholmen,"Fleminggatan 21, 3tr",2,104.0,4225,11200000,10566037
+Stockholmskommun,Kungsholmen,"Igeldammsgatan 14, vån 4",2,34.0,2001,3990000,3297520
+Solnakommun,Skytteholm,"Nybodagatan 5, våning 6",2,55.4,2865,3450000,3000000
+Stockholmskommun,Östermalm,"Smedsbacksgatan 1, 5tr",2,37.0,2156,4200000,3307086
+Stockholmskommun,Kungsholmen,"Kellgrensgatan 10, vån 8",2,53.5,3473,5100000,5000000
+Solnakommun,Råsunda,Lövgatan 68,4,128.0,4748,9600000,7500000
+Stockholmskommun,Stureby,Sågverksgatan 101,3,71.0,4681,3250000,2981651
+Stockholmskommun,Fredhäll,Ernst ahlgrens väg 10,2,41.0,2173,3910000,3285714
+Sundbybergskommun,Ursvik,Skrivargatan 31,3,65.0,3579,3350000,2838983
+Sollentunakommun,Tureberg,"Sollentunavägen 195 C, takvåning med stor terrass",2,57.0,3241,3930000,2838983
+Sundbybergskommun,Duvbo,Tallbostigen 9,2,70.0,3983,3450000,3000000
+Stockholmskommun,Fruängen,"Hanna Paulis gata 21, 3 / 3tr",4,87.0,4837,4700000,4196428
+Sundbybergskommun,Rissne,Lavettvägen 35,2,64.9,3504,2400000,2201834
+Stockholmskommun,Älvsjö,"Rävsnäsvägen 50, 1 tr",3,84.5,4408,3800000,3140495
+Stockholmskommun,Bromma,Beckomberga Ängsväg 22,3,70.0,3914,4140000,3763636
+Stockholmskommun,Kungsholmen,"Parkgatan 20, 3 tr",2,47.0,1628,5310000,4962616
+Stockholmskommun,Liljeholmen,Nybohovsbacken 35C,2,36.0,2640,3400000,3207547
+Nackakommun,FinnbodaHamn,Finnboda Kajväg 4B,3,81.5,4258,6325000,5966981
+Solnakommun,Huvudsta,Infanterigatan 3,3,79.0,3950,4250000,3695652
+Stockholmskommun,Gubbängen,Dörrvägen 10,3,64.0,3489,4370000,3285714
+Nackakommun,Tollare,"Tollarevägen 69, Townhouse",7,159.0,4563,10800000,10485436
+Stockholmskommun,Vasastan,"Gävlegatan 36B, 8 tr",2,33.3,1982,4700000,3790322
+Nackakommun,Kvarnholmen,Tre Kronors väg 9,2,49.0,2926,3250000,2981651
+Stockholmskommun,Annedal,Klas Klättermus Gata 7,2,51.5,2831,3880000,3880000
+Sollentunakommun,Häggvik,Blåklockevägen 8,2,51.5,3134,2650000,2650000
+Stockholmskommun,Kungsholmen,"Sysslomansgatan 22, 5 tr",2.5,63.0,3884,6800000,6476190
+Stockholmskommun,Södermalm,Tjärhovsgatan 19,4,92.0,3202,10900000,9478260
+Sundbybergskommun,CentralaSundbyberg,Järnvägsgatan 70,1.5,52.0,2820,3400000,2982456
+Stockholmskommun,Södermalm,Bastugatan 57,1,51.0,2015,5300000,4568965
+Stockholmskommun,Nockebyhov,Ferievägen 68,3,60.0,3852,5000000,4504504
+Stockholmskommun,Kärrtorp,"Söderarmsvägen 13, 3tr",3,71.0,3714,5100000,4146341
+Stockholmskommun,Älvsjö,Götalandsvägen 213B,2,44.0,2676,3200000,2689075
+Stockholmskommun,Södermalm,Folkungagatan 118,1,32.0,1251,3240000,2842105
+Nackakommun,Saltsjöbaden,Syrenparken 11,3,74.0,5232,3500000,3398058
+Stockholmskommun,Blåsut,Blåsutvägen 25,4,100.0,5835,6800000,6017699
+Stockholmskommun,Vasastan,"Sveavägen 99, vån 4 av 5",2,44.5,2106,4800000,4485981
+Sundbybergskommun,Sundbyberg,Tritonvägen 6,1,27.0,2186,2150000,1954545
+Nackakommun,Ljuskärrsberget,Ljuskärrsvägen 19,2,77.8,4298,2575000,2500000
+Stockholmskommun,Vällingby,"Vittangigatan 20, 1 tr",1,34.0,2175,1930000,1930000
+Sollentunakommun,Silverdal,Margreteborgsvägen 6,4,102.0,5627,5350000,5000000
+Stockholmskommun,Södermalm,"Hallandsgatan 34, 3 tr",2,69.0,2875,7000000,6363636
+Stockholmskommun,Vasastan,"Tulegatan 28, 3 tr",3,77.0,3511,9100000,8750000
+Stockholmskommun,Liljeholmskajen,"Sjöviksbacken 6, 4 tr",2.5,68.0,3838,5710000,5008771
+Stockholmskommun,Farsta,Molkomsbacken 25,1,38.0,1832,2100000,1693548
+Stockholmskommun,Södermalm,Metargatan 7,1.5,44.0,2571,5250000,3860294
+Solnakommun,Arenastaden,Evenemangsgatan 18,2,43.0,1731,3425000,3004385
+Nackakommun,Sickla,Sicklastråket 15,2,45.5,2680,3900000,3611111
+Stockholmskommun,Östermalm,Karlavägen 59D,2,41.8,1976,6200000,5585585
+Stockholmskommun,Kista,Helsingörsgatan 8 - Med möjlig uthyrningsdel!,4,100.0,6902,3450000,3000000
+Stockholmskommun,Östermalm,Nybergsgatan 11,3,74.0,3315,9260000,8990291
+Stockholmskommun,Årsta,"Årstavägen 66, 2 tr",2,56.0,3237,3850000,2873134
+Stockholmskommun,Östermalm,Rådmansgatan 25,5,145.0,3519,19000000,18095238
+Stockholmskommun,Östermalm,Artillerigatan 4,3,81.0,935,18650000,13917910
+Stockholmskommun,Södermalm,Erstagatan 20,2,52.0,1485,5050000,4508928
+Stockholmskommun,Riksby,Vadmalsvägen 27,3,66.0,3627,3900000,3451327
+Stockholmskommun,Liljeholmskajen,"Sturehillsvägen 37, 3tr",4,99.0,5464,8550000,7990654
+Stockholmskommun,Östermalm,Linnégatan 75,2.5,64.0,1383,7800000,7800000
+Stockholmskommun,Hammarbyhöjden,Paternostervägen 30,3,59.0,3015,3800000,7800000
+Stockholmskommun,Bandhagen,"Trollesundsvägen 31, 3tr",2,60.5,4437,2400000,2000000
+Stockholmskommun,Ulvsunda,Aspstigen 2,2,53.0,4232,2750000,2000000
+Nackakommun,Saltsjöbaden,Fidravägen 69,3,72.0,4129,2400000,2242990
+Stockholmskommun,Södermalm,Åsögatan 194,2,44.5,2323,5000000,4504504
+Stockholmskommun,Spånga,Mellingebacken 4,3,76.0,5292,1858000,1769523
+Stockholmskommun,Midsommarkransen,Fastlagsvägen 54,4,94.0,4605,6495000,6495000
+Stockholmskommun,Globen,Bildhuggarvägen 33,3,60.0,2856,4160000,3747747
+Stockholmskommun,Vasastan,"Sveavägen 134, gårdsläge.",2,39.0,2237,3775000,3463302
+Stockholmskommun,Reimersholme,Pokalvägen 6,2,40.0,2468,4300000,4300000
+Stockholmskommun,LövstaAllé,Hundlokegränd 22,3,59.0,3726,2525000,2404761
+Sundbybergskommun,Rissne,Kavallerivägen 2C,2,55.0,2979,3200000,2990654
+Stockholmskommun,Östermalm,"Kommendörsgatan 40 A, 1 tr. gårdshuset",2,57.0,2712,6600000,6470588
+Stockholmskommun,Fruängen,Doktor Widerströms gata 70,4,85.0,4703,5300000,4308943
+Stockholmskommun,Vasastan,"Upplandsgatan 74, 4+5 tr",5,113.0,4800,15700000,13534482
+Stockholmskommun,Kungsholmen,"Pipersgatan 14, 4tr",6,130.0,3078,16000000,14953271
+Stockholmskommun,Älvsjö,Götalandsvägen 213 A,2,44.0,2676,3200000,2689075
+Stockholmskommun,Årsta,"Sandfjärdsgatan 15, 2tr",2,57.5,3327,2900000,2589285
+Stockholmskommun,Vasastan,Frejgatan 36A,1,28.0,1850,3400000,2982456
+Stockholmskommun,Farsta,Grumsgatan 1,3,75.0,4281,3300000,2500000
+Stockholmskommun,Vasastan,Hälsingegatan 12,2,48.0,2304,5850000,5000000
+Stockholmskommun,Östermalm,Hedinsgatan 13,1.5,37.0,2100,4800000,3809523
+Sollentunakommun,Edsberg,Flintlåsvägen 38,1,23.0,1640,1250000,992063
+Stockholmskommun,Östermalm,Banérgatan 44,1.5,34.0,0,4525000,3934782
+Solnakommun,Råsunda,"Solnavägen 110, 5tr",3,91.0,4322,7250000,6775700
+Stockholmskommun,Bandhagen,"Skeppstavägen 17, 1,5 tr",3,77.0,4567,3700000,2781954
+Stockholmskommun,Abrahamsberg,"Arkitektvägen 37, 2tr",2,45.0,2593,2950000,2500000
+Stockholmskommun,Vasastan,"Vegagatan 6, 2tr.",3,79.5,3726,10110000,9026785
+Nackakommun,ÄltaGård,Björnmossvägen 72,4,82.8,4992,5400000,9026785
+Solnakommun,Skytteholm,Ankdammsgatan 30,2,55.8,2776,3480000,3000000
+Stockholmskommun,Kungsholmen,"Frödingsvägen 1,  3,tr",2,41.5,2280,3975000,3340336
+Stockholmskommun,Vasastan,"Atlasgatan 9, vån 5 / 5!",1,28.0,1527,3300000,3267326
+Stockholmskommun,Kärrtorp,Kärrtorpsvägen 93B,2,54.0,3460,3000000,2803738
+Nackakommun,Skvaltan,Per Hallströms väg 2,4,93.0,5692,3800000,2803738
+Stockholmskommun,Fredhäll,Frödingsvägen 4,2,49.0,2506,4050000,3491379
+Stockholmskommun,Hammarbyhöjden,Hasselquistvägen 1,2,49.0,2994,3650000,2943548
+Solnakommun,NyaUlriksdal,Drottning Kristinas esplanad 59,1.5,42.0,2222,2910000,2255813
+Stockholmskommun,Farsta,Forshagagatan 66,2,68.0,2989,3025000,2585470
+Solnakommun,Bergshamra,Ripstigen 3,3,74.0,3299,4750000,4398148
+Stockholmskommun,Vasastan,"Tomtebogatan 15A, högst upp",4,92.0,4073,12000000,11214953
+Solnakommun,Frösunda,Signe Tillischgatan 9,2,46.0,2712,3250000,2850877
+Sollentunakommun,Häggvik,Ugglevägen 11,3,79.0,4707,3500000,3500000
+Stockholmskommun,Södermalm,"Renstiernas gata 23, 3 tr",2,40.0,1139,5000000,3759398
+Stockholmskommun,Ekhagen,"Torphagsvägen 6, 2 tr",2,51.0,3248,4375000,3977272
+Stockholmskommun,KistaÄrvinge,Koldinggatan 3,2,54.5,4589,1880000,1492063
+Stockholmskommun,Bromma,"Annedalsvägen 30, vån 1",3,81.5,4068,4600000,4509803
+Solnakommun,Huvudsta,"Lundagatan 1C, 6 tr",3,80.0,4738,6050000,5500000
+Solnakommun,Råsunda,Östervägen 16B,2,50.0,2732,3650000,5500000
+Stockholmskommun,Hammarbyhöjden,Johan Printz väg 10,2,37.0,2136,2900000,2101449
+Stockholmskommun,Kungsholmen,"Wargentinsgatan 5B, 1tr",3,53.5,2915,5250000,5250000
+Sundbybergskommun,Sundbyberg,"Hamngatan 26, 4 tr",1.5,41.5,2760,3050000,2584745
+Solnakommun,Huvudsta,Huvudstagatan 16,2,65.0,3378,3400000,3148148
+Solnakommun,Ritorp,Ritorpsvägen 11,2,59.3,2906,3750000,3000000
+Stockholmskommun,Aspudden,Hertigvägen 10,2,58.0,3083,4800000,4247787
+Stockholmskommun,Södermalm,Nytorgsgatan 15A,2,38.0,2138,3950000,3590909
+Sundbybergskommun,Järvastaden,"Brogatan 9, 2 TR",1,38.0,2474,2250000,1991150
+Stockholmskommun,Gärdet,Brantingsgatan 22,1.5,33.0,2021,3345000,2986607
+Stockholmskommun,Södermalm,Kristinehovsgatan 5A,1,25.0,1617,2600000,2385321
+Stockholmskommun,Årsta,Bråviksvägen 22,3,58.5,3652,3600000,2975206
+Stockholmskommun,Vasastan,"Västmannagatan 69, Vån 4",1,28.0,927,3650000,2991803
+Nackakommun,JärlaSjö,Turbinvägen 5A,3.5,77.0,4492,5650000,5000000
+Stockholmskommun,Bromma,Tappvägen 22,2,66.0,3794,3770000,3490740
+Stockholmskommun,Liljeholmen,"Nybohovsbacken 67, Vån 11",3,72.0,2475,5500000,5000000
+Stockholmskommun,Kungsholmen,"Alströmergatan 23, 6tr",1,29.0,1340,3100000,2952380
+Stockholmskommun,Bromsten,Erik Tegels väg 45,3,74.0,4078,2300000,2053571
+Stockholmskommun,Akalla,Mariehamnsgatan 6,2,61.0,4063,1760000,1692307
+Nackakommun,VästraOrminge,Ormingeringen 26B,3,60.0,3883,2550000,2339449
+Sundbybergskommun,Rissne,Kavallerivägen 4D,4,92.0,4983,4500000,3879310
+Nackakommun,NackaForum,Serenadvägen 3B,1.5,43.5,2796,2700000,2250000
+Stockholmskommun,Rågsved,Bjursätragatan 110,2,53.0,3473,2050000,1798245
+Stockholmskommun,Kungsholmen,Fridhemsgatan 29D,2,44.0,2334,4900000,4495412
+Stockholmskommun,Kungsholmen,"P O Hallmans gata 5, 8+9 tr",4,124.0,7512,14500000,12500000
+Stockholmskommun,Bromma,Arvid Mörnes väg 52,1,42.0,2574,2200000,1999999
+Stockholmskommun,HammarbySjöstad,Hammarby Allé 119,3,77.0,3967,6700000,6203703
+Sundbybergskommun,SundbybergCentrum,Gjuteribacken 23,2,65.5,2322,5750000,5000000
+Stockholmskommun,Årsta,"Skattungsvägen 16, 2tr",2,57.0,3136,3730000,2891472
+Sollentunakommun,Rotebro,Timotejvägen 13,2,56.0,3759,2150000,2891472
+Stockholmskommun,Kista,"Köpenhamnsgatan 10, 1tr",4,100.0,4378,3590000,3293577
+Solnakommun,Bergshamra,Lostigen 6,2,55.5,2844,3360000,2604651
+Stockholmskommun,HammarbySjöstad,Sickla kanalgata 79,3,73.0,5324,5900000,5514018
+Solnakommun,Frösunda,Anders Lundströms gata 10,2,53.8,3074,2895000,2895000
+Stockholmskommun,Älvsjö,"Fru kristinas gränd 3, vån 4 av 4",4,103.5,5892,6030000,4983471
+Stockholmskommun,Östermalm,"Ängskärsgatan 3, 1tr",2,41.0,2140,4525000,4189814
+Sundbybergskommun,CentralaSundbyberg,Tulegatan 76,3,62.0,4082,3900000,3391304
+Stockholmskommun,Vasastan,"Rörstrandsgatan 40A, 3 tr",3,74.0,2562,9600000,8495575
+Solnakommun,Bergshamra,Rådjursstigen 14,3,71.5,2728,3980000,3790476
+Stockholmskommun,Liljeholmskajen,"Sjöviksvägen 148, 12 tr",3,70.0,4233,8250000,6818181
+Stockholmskommun,Enskededalen,Astri Taubes Torg 10,2,55.0,3489,3200000,2807017
+Stockholmskommun,ÅRSTA,Marviksvägen 5,4,91.5,5276,8800000,2807017
+Stockholmskommun,Södermalm,"Bondegatan 1 G, 2 tr",2,61.0,2362,7000000,5737704
+Solnakommun,Råsunda,Stråkvägen 4B,1,33.0,1703,3000000,2586206
+Stockholmskommun,Södermalm,Lundagatan 50,2,39.0,1919,5050000,4007936
+Stockholmskommun,Vasastan,"Karlbergsvägen 78, 3 tr",3,103.0,4698,13750000,12499999
+Stockholmskommun,Kungsholmen,"Disponentgatan 1, vån 4",1,30.0,2176,2750000,2391304
+Stockholmskommun,Östermalm,"Sibyllegatan 42, 1 tr",1.5,29.0,1680,4450000,3708333
+Nackakommun,Kvarnholmen,Mjölnarvägen 10A,2,45.0,2842,4250000,4009433
+Stockholmskommun,Gröndal,"Sannadalsvägen 6, 1tr",1,33.0,2332,2700000,2288135
+Nackakommun,Finnboda,Kvarnholmsvägen 39D,3,81.5,5222,5000000,5000000
+Nackakommun,Järlasjö,Järla Gårdsväg 23,1,47.0,2957,2650000,2500000
+Solnakommun,Huvudsta,Arvid Tydéns allé 26,3,68.0,3902,5800000,5471698
+Sollentunakommun,Edsberg,Flintlåsvägen 43,2,62.5,3594,2310000,1991379
+Nackakommun,Tollare,Tollare strand 9,2,58.5,3147,4375000,3977272
+Stockholmskommun,Liljeholmskajen,Fredsborgsgatan 4,3,69.0,3094,6000000,5217391
+Stockholmskommun,HammarbySjöstad,Sickla kanalgata 52,5,139.5,6927,12700000,12450980
+Stockholmskommun,Midsommarkransen,"Tellusborgsvägen 92, 4 tr",1.5,35.0,2045,2950000,2500000
+Stockholmskommun,Blåsut,Fyrvaktarkroken 61,2,41.0,2241,3350000,2500000
+Sollentunakommun,Edsberg,Viltstigen 10,2,70.0,4720,2700000,2500000
+Stockholmskommun,Hässelby,Aprikosgatan 17B,2,62.5,3487,2250000,1973684
+Sundbybergskommun,CentralaSundbyberg,Mariagatan 11,1.5,43.0,2249,3200000,2500000
+Stockholmskommun,Årsta,"Årstavägen 71, 3 tr",3,57.0,4016,4100000,3504273
+Stockholmskommun,KatarinaSofia,Åsögatan 173,2,43.0,2495,4100000,3904761
+Stockholmskommun,Östermalm,Wittstocksgatan 28,2,58.0,1099,6500000,6250000
+Stockholmskommun,Östermalm,Värtavägen 12,5,154.0,6534,23000000,22549019
+Stockholmskommun,Östermalm,Ängskärsgatan 3,2,44.0,2247,5500000,4700854
+Stockholmskommun,Hammarbyhöjden,Finn Malmgrens väg 92,3,52.2,3005,4130000,3441666
+Stockholmskommun,Kungsholmen,Alströmergatan 32R,1.5,28.0,1534,3220000,2800000
+Stockholmskommun,GamlaÖstberga,"Stamgatan 17, SV",2,37.0,2908,2085000,1695121
+Stockholmskommun,Åkeshov,Bårdgränd 6,2,49.0,2238,3200000,2500000
+Stockholmskommun,Östermalm,Linnégatan 67,1.5,38.0,2638,5250000,4487179
+Stockholmskommun,Rågsved,Bäverdammsgränd 86,3,84.0,4773,2600000,2241379
+Solnakommun,Arenastaden,"Evenemangsgatan 12, Våning 8",2.5,58.0,2704,3925000,3191056
+Stockholmskommun,Södermalm,"Fatburstrappan 18, 17 tr",2,41.0,3223,5450000,4395161
+Stockholmskommun,Östermalm,Östermalmsgatan 84B,2,44.0,0,6600000,6600000
+Stockholmskommun,Stureby,"Sågverksgatan 79, vån 2 / 3.",2,54.0,3572,3050000,2500000
+Stockholmskommun,Enskede,"Dalgränd 8, 3tr.",3,82.0,2720,4500000,4500000
+Stockholmskommun,Abrahamsberg,Stopvägen 70,2,40.0,2575,2700000,2195121
+Stockholmskommun,Vasastan,Falugatan 13,4,108.0,4597,12000000,11214953
+Solnakommun,Ulriksdal,Galoppvägen 14,4,93.0,5152,6350000,11214953
+Stockholmskommun,Östermalm,Bigarråvägen 4,5,115.5,5606,9700000,8981481
+Stockholmskommun,Östermalm,Linnégatan 90,1,24.0,881,3250000,2954545
+Stockholmskommun,Skarpnäck,Horisontvägen 97,2.5,65.0,4582,2600000,2148760
+Sundbybergskommun,Ör,Örsvängen 9,2,69.0,3551,3070000,2842592
+Stockholmskommun,Hässelby,Maltesholmsgränd 6,2.5,62.0,3289,2820000,2169230
+Stockholmskommun,Hässelby,Maltesholmsvägen 164,1,46.5,2779,2000000,1801801
+Sundbybergskommun,CentralaSundbyberg,"Vintergatan 2B, 6 tr!",1.5,35.0,1935,3350000,2701612
+Sundbybergskommun,Brotorp,Brotorpsvägen 5,3,81.0,4231,5050000,5050000
+Stockholmskommun,Bandhagen,Rangstagatan 18,3,70.0,4027,4000000,3508771
+Stockholmskommun,HammarbySjöstad,"Fredriksdalsgatan 24, 5 tr",4,86.0,4379,9000000,8653846
+Stockholmskommun,Södermalm,"Ringvägen 104, 4½tr",3,85.0,2449,9150000,7956521
+Stockholmskommun,LövstaAllé,Astrakangatan 102,2,60.0,4100,1900000,1696428
+Stockholmskommun,Vasastan,"Birger Jarlsgatan 109C, 4tr",2,56.0,2559,6525000,5986238
+Stockholmskommun,Vasastan,"Luntmakargatan 91, 1tr",2,51.0,2291,5350000,4495798
+Solnakommun,Järvastaden,Fridensborgsvägen 16,2,44.0,2789,2910000,2487179
+Solnakommun,Råsunda,"Solnavägen 37, plan 2",1,37.0,2634,2800000,2800000
+Stockholmskommun,Östermalm,"Karlavägen 82, 7 tr",2,36.0,1545,6100000,4765625
+Stockholmskommun,Södermalm,Tobaksspinnargatan 10,1,23.0,1212,2400000,2222222
+Stockholmskommun,Bromma,Skaldevägen 64,5,93.0,5232,7000000,6481481
+Stockholmskommun,Kista,"Borgarfjordsgatan 5, 4tr",1.5,42.0,3066,1950000,1893203
+Stockholmskommun,Bromma,Klädesvägen 18,2,44.0,2564,2775000,2500000
+Stockholmskommun,Vasastan,Falugatan 15,1,33.0,2274,3900000,3000000
+Nackakommun,Boo,Ormingeringen 42,3,70.0,4020,2300000,2090909
+Sundbybergskommun,CentralaSundbyberg,Esplanaden 18,3,57.0,1055,5200000,5200000
+Solnakommun,Arenastaden,Evenemangsgatan 24,3,56.0,2267,3860000,3385964
+Nackakommun,NackaStrand,Augustendalsvägen 27,3,85.0,4377,8385000,7985714
+Stockholmskommun,Aspudden,"Ivar Vidfamnes Gata 9, högst upp!",3,61.0,3334,5850000,4680000
+Sundbybergskommun,StoraUrsvik,Skrivargatan 28,2,57.0,3362,2850000,2850000
+Stockholmskommun,Kungsholmen,"Pipersgatan 20, 3 tr",2,27.0,2700,3100000,2980769
+Stockholmskommun,Kista,"Sorögatan 101, 2 tr",1,34.5,2544,1300000,1300000
+Sundbybergskommun,Ursvik,Ladugårdsgatan 6,4,82.0,4347,3930000,3508928
+Sundbybergskommun,CentralaSundbyberg,Vasagatan 15A Vån 9 / 9,5,115.0,5990,12075000,10500000
+Sundbybergskommun,Ursvik,Gamla Enköpingsvägen 174,1.5,42.0,2343,2350000,1991525
+Solnakommun,Råsunda,"Solnavägen 37, plan 3",1,37.0,2634,2800000,2800000
+Stockholmskommun,Spånga,"Skäftingebacken 15, 2 tr",3,78.0,5600,2260000,1899159
+Stockholmskommun,Älvsjö,Götalandsvägen 211A,1.5,38.0,2346,2580000,2000000
+Solnakommun,Huvudsta,"Armégatan 9A, 6 tr",2,60.0,3250,4500000,3982300
+Stockholmskommun,Vasastan,"Tre Liljor 4, 1tr",4,106.0,4883,13000000,12037037
+Stockholmskommun,Bromma,Follingbogatan 18,2,39.0,3597,1875000,1875000
+Stockholmskommun,Östermalm,Skeppargatan 75,2,43.0,2168,4600000,4259259
+Stockholmskommun,Mariehäll,"Adolfsbergsvägen 14, 2 tr",3,53.0,3072,3400000,2698412
+Nackakommun,Saltsjöbaden,Ringvägen 1,4,94.5,5775,4950000,4900990
+Stockholmskommun,Abrahamsberg,Arkitektvägen 47,4,90.0,4842,7600000,4900990
+Stockholmskommun,Farsta,Ekshäradsgatan 91,3,66.0,4001,3100000,2605042
+Nackakommun,Igelbodaplatån,Vinterbrinksvägen 43,4,106.4,5344,4050000,4009900
+Nackakommun,Nacka,Tollare strand 7,3,73.5,3866,5795000,5795000
+Stockholmskommun,Aspudden,Instrumentvägen 43,4,102.5,6205,7200000,6206896
+Stockholmskommun,Kungsholmen,"Norr Mälarstrand 90, 3tr",2,44.0,2464,5000000,4629629
+Stockholmskommun,Kungsholmen,"Inedalsgatan 25, 3 tr",2,60.0,2880,6575000,5977272
+Stockholmskommun,Västertorp,Broddgränd 19,3,73.5,3879,4000000,3389830
+Stockholmskommun,Högalid,Krukmakargatan 27,2,49.0,2959,4750000,4279279
+Solnakommun,Frösunda,"Anders Lundströms gata 24, 3 tr",2,61.0,3391,3785000,3785000
+Stockholmskommun,Aspudden,"Hägerstensvägen 117A, 4tr",2,45.5,2899,3650000,3785000
+Stockholmskommun,Södermalm,Heleneborgsgatan 8B,1,37.0,2244,4400000,4313725
+Solnakommun,Bergshamra,Åbergssons Väg 13,3,71.5,3470,4890000,4405405
+Stockholmskommun,Södermalm,Tullgårdsgatan 10,4,110.0,4199,12000000,12000000
+Stockholmskommun,Abrahamsberg,Besmansvägen 20,2,41.0,3100,2920000,2393442
+Stockholmskommun,Hägersten,Vapengatan 4,2,46.5,3122,3845000,2935114
+Stockholmskommun,Stadshagen,"Ulriksborgsgatan 16, vån 9",3,73.0,3312,6700000,5982142
+Stockholmskommun,Midsommarkransen,"Tellusborgsvägen 92, vån 6",2,42.0,2385,3600000,3000000
+Solnakommun,Bergshamra,Åbergssons Väg 9,5,107.5,4672,7800000,7500000
+Stockholmskommun,VASASTAN,Karlbergsvägen 66A,1,25.4,1285,3660000,2951612
+Nackakommun,Ekudden,"Ekgränd 1, 13 / 13 tr",3,83.0,3859,6250000,5482456
+Sundbybergskommun,Sundbyberg,Logdansvägen 38,4,90.0,4357,3600000,3495145
+Solnakommun,Järvastaden,Fridensborgsvägen 108,4,93.0,4157,6170000,6170000
+Stockholmskommun,Årsta,"Sköntorpsvägen 1, 3tr",3,84.0,3356,6300000,5294117
+Stockholmskommun,Bromma,Kinnekullevägen 36A,1,36.0,2661,2595000,2402777
+Stockholmskommun,Ulvsunda,"Aspstigen 8, vån 2 / 3",2,49.0,3902,3000000,2400000
+Stockholmskommun,Telefonplan,"Arvodesvägen 8, vån 2",2,48.0,3363,3100000,2792792
+Stockholmskommun,Östermalm,"Linnégatan 17A, 5tr",2,40.0,1758,6400000,5333333
+Stockholmskommun,Nockebyhov,Nockeby Backe 2e,4,77.0,4373,5100000,4811320
+Nackakommun,Nacka,Finnboda Kajväg 10,2,61.0,3553,5350000,5245098
+Stockholmskommun,Vasastan,Birger Jarlsgatan 104H,2,43.0,2879,5000000,5245098
+Stockholmskommun,Hässelby,Kuskgränd 8 (Uteplats),4,103.0,6635,2800000,2592592
+Stockholmskommun,Kungsholmen,Luxgatan 9,2,39.0,1826,3900000,3305084
+Stockholmskommun,Katarina,Ölandsgatan 48,2,53.0,2025,5975000,3305084
+Stockholmskommun,Liljeholmen,"Hildebergsvägen 2, 5 tr",3,76.5,4778,5800000,5000000
+Stockholmskommun,Bromma,Ulvsundavägen 34,2.5,72.0,4922,3800000,3800000
+Stockholmskommun,HornsbergsStrand,"Franzéngatan 52, vån 7",2,67.0,3153,6345000,5716216
+Stockholmskommun,Hässelby,Melongatan 12,2,56.5,3391,2170000,1990825
+Sollentunakommun,Väsjön,Fjätursvägen 10C,1.5,25.0,995,1995000,1995000
+Solnakommun,Vasalund,Gustafsvägen 6,1,41.0,2696,3050000,1995000
+Stockholmskommun,Skärholmen,Gräsholmsvägen 12 C.,3,67.5,5062,2000000,1980198
+Stockholmskommun,Vasastan,Sigtunagatan 19,2,56.0,2360,7850000,1980198
+Solnakommun,Huvudsta,Polhemsgatan 7G,4,110.0,4937,6900000,6000000
+Stockholmskommun,Skärholmen,Vårbergsvägen 189,3,91.0,4383,2610000,2289473
+Stockholmskommun,Spånga,"Hjulstavägen 92, Accepterat pris",1,23.0,1639,1250000,1250000
+Nackakommun,Igelboda,Vinterbrinksvägen 9F,1,33.0,1813,1600000,1600000
+Stockholmskommun,Rinkeby,Almbygatan 6,1,25.0,1600,1150000,115000
+Stockholmskommun,Ekensberg,"Gröndalsvägen 196, etagelägenhet (vån 4 & 5).",5,130.0,5043,11100000,10990099
+Stockholmskommun,Vällingby,Nickelgränd 12,2,64.0,4945,2200000,1999999
+Solnakommun,SolnaCSkytteholm,Nybodagatan 12,2,62.0,3375,3660000,3000000
+Stockholmskommun,HammarbySjöstad,Lugnets allé 56,2,56.5,3566,4300000,3981481
+Stockholmskommun,HammarbySjöstad,"Vävar Johans Gata 28, vån 3",4,101.0,4764,7800000,7647058
+Stockholmskommun,Vällingby,"Östersundsgatan 2,  Vån 4 (21046 / 1306)",3,80.0,4224,3950000,3590909
+Stockholmskommun,Norrmalm,"Wallingatan 30, 3 tr",3,89.0,2379,10700000,10490196
+Solnakommun,Huvudsta,Släggbacken 1,3,73.0,3995,4280000,4000000
+Stockholmskommun,Kungsholmen,"Drottningholmsvägen 64, högst upp",2,60.5,2458,6500000,5508474
+Stockholmskommun,Norrmalm,David Bagares gata 12a,1,25.0,1347,3055000,2995098
+Stockholmskommun,Riksby,"Galonvägen 39, vån 2",3,68.0,3953,4610000,2995098
+Stockholmskommun,Södermalm,Bergsunds Strand 3,1,22.0,-,2820000,2737864
+Solnakommun,Västraskogen,"Ängkärrsgatan 15, BV",3,85.0,5009,5900000,2737864
+Stockholmskommun,Midsommarkransen,Pingstvägen 26,2,51.0,2950,4250000,3346456
+Stockholmskommun,Kungsholmen,"Lars Forssells gata 22, 2  tr",5,115.5,4428,11300000,11078431
+Sundbybergskommun,Ursvik,Ladugårdsgatan 4,2,44.0,2848,2400000,2400000
+Stockholmskommun,NorraDjurgårdsstaden,"Jaktgatan 14, 5 Tr",2,54.0,3167,4900000,4851485
+Stockholmskommun,NorraDjurgårdsstaden,Högviltsgatan 8,5,119.5,6368,11500000,10849056
+Stockholmskommun,Farsta,"Skrakgränd 3, vån 7 / 7 - Etagevåning",5,123.0,6838,4320000,3600000
+Sundbybergskommun,CentralaSundbyberg,Hamngatan 13 A,2,59.5,3423,5400000,5400000
+Stockholmskommun,Älvsjö,Slättåkragränd 54,2,57.0,3618,2250000,1991150
+Nackakommun,Saltängen,Fasanvägen 29,3,67.5,4085,3625000,3485576
+Stockholmskommun,Örby,"Gamla Huddingevägen 417 B, vån 2 - Acc pris!",2,38.0,1999,2125000,2125000
+Stockholmskommun,Skärholmen,Ekholmsvägen 222,3,81.0,3458,2890000,2491379
+Stockholmskommun,Östermalm,Östhammarsgatan 67,4,108.0,6062,11275000,10946601
+Stockholmskommun,Hägerstensåsen,Bäckvägen 161,2,54.0,2800,3410000,2841666
+Solnakommun,VästraSkogen,Epistelvägen 7,2,36.5,2209,3000000,2702702
+Stockholmskommun,Årsta,"Sandfjärdsgatan 94, 11tr",3.5,77.0,5373,4100000,2992700
+Stockholmskommun,Årsta,Siljansvägen 20,2,44.5,3005,3200000,2500000
+Stockholmskommun,HammarbySjöstad,Hammarby Allé 165,2,63.5,3703,5900000,5673076
+Stockholmskommun,Midsommarkransen,Pingstvägen 33,3,51.0,2950,3900000,3000000
+Stockholmskommun,Kungsholmen,"Hornsbergs Strand 85, 5tr",3,65.0,3307,5900000,5784313
+Stockholmskommun,Hjorthagen,"Krångedevägen 5, 2 Tr",2,40.0,2847,3300000,2894736
+Stockholmskommun,Vasastan,"Västeråsgatan 5, 3,5 TR",3,81.0,3915,8650000,8317307
+Stockholmskommun,Kungsholmen,Hornsbergs strand 15B,1.5,47.0,2350,3150000,3150000
+Sundbybergskommun,LillaAlby,"Trädgårdsgatan 5, 2tr",2,52.0,3232,3560000,2991596
+Stockholmskommun,Vasastan,"Karlbergsvägen 42, 3 tr",4,92.0,1857,12900000,12169811
+Stockholmskommun,Riksby,"Kvarnbacksvägen 83, vån 3 av 3",3.5,73.0,3817,4110000,3702702
+Stockholmskommun,Farsta,Ågesta broväg 54,2,42.0,3026,2650000,2245762
+Sollentunakommun,Helenelundscentrum,Åkervägen 2,3,76.0,5459,2550000,2405660
+Stockholmskommun,Fruängen,Elsa Borgs gata 33,2,58.7,3590,3005000,2443089
+Stockholmskommun,Vasastan,"Tomtebogatan 40, 5 tr",2,60.0,2588,7250000,6473214
+Nackakommun,Ljuskärrsberget,Ljuskärrsvägen 73,5,126.6,7289,4150000,3990384
+Stockholmskommun,HammarbySjöstad,Hammarby allé 5,4,110.0,5991,11300000,10761904
+Stockholmskommun,Gröndal,"Gröndalsvägen 149, vån 1",3,68.0,3229,5000000,4504504
+Stockholmskommun,Husby,Lofotengatan 12 Vån 5,3,80.0,5795,2210000,1888888
+Stockholmskommun,Bromma,Ibsengatan 66,3,70.0,3539,3400000,3300970
+Stockholmskommun,Östermalm,"Karlavägen 54, 2 tr",2,64.0,1310,7240000,6961538
+Stockholmskommun,Bromma,Tomtebobarnens Gata 6,3,86.0,4377,5200000,4814814
+Solnakommun,Hagalund,Sylvangatan 5,2,50.0,3295,4000000,3636363
+Stockholmskommun,Södermalm,"Repslagargatan 8, 4tr",2,65.0,4483,6225000,5711009
+Stockholmskommun,Aspudden,Sigfridsvägen 15,3,64.0,3422,5910000,5008474
+Stockholmskommun,HammarbySjöstad,Styrbordsgatan 23 2tr,2,50.0,3642,4400000,4400000
+Sundbybergskommun,Ursvik,Marieborgsgatan 67,3,80.0,4507,3850000,3377192
+Nackakommun,Finntorp,Becksjudarvägen 37,1,18.5,1345,1780000,1762376
+Sollentunakommun,Häggvik,Folkungavägen 17,3,76.3,4200,2510000,2460784
+Stockholmskommun,Spånga,"Hjulstavägen 88, VÅN 5 / 5, Lgh1505",2,49.0,3280,1750000,1699029
+Stockholmskommun,Södermalm,"Wollmar Yxkullsgatan 48D, 3tr",1.5,39.5,2407,3970000,3482456
+Stockholmskommun,Blåsut,Garagevägen 22,4,90.5,4564,7100000,6513761
+Stockholmskommun,Södermalm,"Heleneborgsgatan 7B, 1 tr",1,40.0,1939,3950000,3495575
+Stockholmskommun,Södermalm,"Tegelviksgatan 49, 3tr",3,90.0,5272,7700000,7475728
+Sollentunakommun,Häggvik,Häggviksvägen 21A,3,91.5,4495,3300000,3235294
+Stockholmskommun,Älvsjö,"Tosterövägen 11, 3tr",3,69.5,3741,3200000,2807017
+Stockholmskommun,Kärrtorp,Arkövägen 23,4,83.0,4864,5950000,5219298
+Stockholmskommun,Högdalen,Harpsundsvägen 87,4,80.0,4444,4200000,5219298
+Stockholmskommun,Vasastan,"Hagagatan 44, 5tr",3,100.0,4057,13200000,11478260
+Nackakommun,Älta,Lillvägen 34,4,104.0,5877,4410000,3500000
+Nackakommun,VästraOrminge,"Ormingeringen 62B, 3 / 3 tr",3,73.4,4584,3300000,3084112
+Nackakommun,Ektorp,Ugglevägen 19B,3,58.5,3835,2800000,2616822
+Stockholmskommun,Ängssätra,Hovstagränd 9,4,104.0,6975,4050000,3403361
+Solnakommun,Solna,"Fridensborgsvägen 155, våning 3",3,68.5,3709,4400000,3893805
+Stockholmskommun,Fredhäll,Stagneliusvägen 30,1,22.0,1504,2425000,1987704
+Stockholmskommun,Blackeberg,Holbergsgatan 75,3,69.0,4335,3750000,3750000
+Stockholmskommun,HammarbySjöstad,Båtbyggargatan 23,4,97.0,4641,8300000,7830188
+Stockholmskommun,Sköndal,"Bagarfruvägen 91, högst upp!",5,110.5,7410,5250000,4487179
+Solnakommun,VästraSkogen,Johan Enbergs väg 42,3,80.4,4414,5490000,4487179
+Stockholmskommun,Västberga,Responsgatan 12,1,34.0,2331,2700000,2389380
+Stockholmskommun,Bromma,Björkbacksvägen 36,2,38.0,3388,2360000,2000000
+Stockholmskommun,HammarbySjöstad,Styrbordsgatan 7,2,56.0,3820,4000000,4000000
+Stockholmskommun,Blackeberg,"Karen Blixens Gata 13, vån 11",3,74.0,4117,6700000,6700000
+Stockholmskommun,Älvsjö,"Sandalettgatan 26, Uteplats",2,55.0,3270,3350000,6700000
+Stockholmskommun,Hagsätra,Hovstagränd 9,1.5,38.5,3144,1875000,1689189
+Stockholmskommun,Vällingby,Håsjögränd 2 (renoveringsobjekt),3,73.0,4621,2520000,2270270
+Stockholmskommun,Vasastan,"Vikingagatan 22B, högst upp 4 tr",3,99.0,3375,13000000,11926605
+Stockholmskommun,Hjorthagen,"Älvkarleövägen 19, 3 tr",2,44.2,3146,3600000,3600000
+Stockholmskommun,Vasastan,Teknologgatan 9C,2,37.5,1646,4250000,3695652
+Stockholmskommun,Midsommarkransen,"Responsgatan 5, vån 3",3,58.0,2675,6310000,5007936
+Sundbybergskommun,Storskogen,"Tulegatan 2, vindsvåning",1.5,33.0,2081,3432000,3432000
+Stockholmskommun,Vasastan,"Norra Stationsgatan 117, 6tr Högst upp",1,31.0,1808,3820000,3504587
+Solnakommun,Solnacentrum,Centralvägen 5,2,60.0,2873,3925000,3504464
+Sollentunakommun,Tureberg,Malmvägen 16A,1,19.0,1025,1150000,991379
+Stockholmskommun,Midsommarkransen,"Tellusborgsvägen 92, vån 4",1.5,35.0,2045,3170000,2496062
+Stockholmskommun,Liljeholmen,Årsta skolgränd 6,2,43.0,3007,3900000,2496062
+Stockholmskommun,Gärdet,"Smedsbacksgatan 7, 8 tr högst upp!",2,41.0,2507,3675000,3602941
+Stockholmskommun,Bromma,Dartanjangs Gata 16A,6,161.5,6440,9000000,8823529
+Nackakommun,NackaForum,Serenadvägen 30,4,97.0,6559,4250000,8823529
+Stockholmskommun,Enskede,Tallkrogsvägen 28,3,65.0,3340,5055000,4357758
+Stockholmskommun,Bromma,"Tunnlandsvägen 89, vån 7",3,60.0,2699,4200000,3684210
+Stockholmskommun,Hammarbyhöjden,Karlsborgsvägen 12,3,54.0,3422,4000000,3389830
+Stockholmskommun,Årsta,"Tämnarvägen 28, 3 tr",2,55.0,3290,3450000,2875000
+Stockholmskommun,Johannesfred,Stångjärnsvägen 12,2,46.0,2905,2660000,2000000
+Stockholmskommun,Södermalm,Magnus Ladulåsgatan 27,2.5,58.0,2789,4400000,4230769
+Stockholmskommun,Östermalm,Frejgatan 4A,2,48.0,2453,6050000,5500000
+Stockholmskommun,Stureby,Sågverksgatan 79,2,53.0,3196,2500000,2155172
+Nackakommun,Nacka,"Mjölnarvägen 18, 8tr",3,81.0,3045,7050000,6467889
+Stockholmskommun,Kungsholmen,Kungsklippan 11,2,31.0,2660,3300000,3300000
+Stockholmskommun,LillaEssingen,Patentgatan 5,2,45.5,2809,4200000,3749999
+Stockholmskommun,Kungsholmen,Polhemsgatan 8,2,56.0,2150,6940000,3749999
+Stockholmskommun,Södermalm,"Bergsundsgatan 15, 3 tr",2,49.0,2153,4750000,4241071
+Stockholmskommun,GamlaÖstberga,"Stamgatan 19, SV",5,95.0,6520,3800000,2794117
+Stockholmskommun,Hägerstensåsen,"Sparbanksvägen 72, Terrass",2,42.0,2861,3300000,2894736
+Stockholmskommun,Östermalm,Eriksbergsgatan 36,2,54.0,3213,7500000,6756756
+Stockholmskommun,Vasastan,"Kammakargatan 43, 2tr",1,28.0,1534,3575000,3191964
+Stockholmskommun,HammarbySjöstad,Pollargatan 15,2,65.0,3882,5200000,5200000
+Stockholmskommun,Mälarhöjden,"Mamsell Ullas Väg 7, 4tr",3,82.0,4948,6700000,5200000
+Stockholmskommun,Traneberg,Porfyrvägen 28,3,74.0,4483,5650000,5200000
+Stockholmskommun,Södermalm,Bergsundsgatan 15,2,48.0,2014,4700000,4234234
+Stockholmskommun,Årsta,Hjälmarsvägen 1,2,42.7,2625,2900000,2377049
+Stockholmskommun,Maria,"Fatburs Brunnsgata 29, 1 tr",2,66.5,4261,4875000,4642857
+Stockholmskommun,Östermalm,Torphagsvägen 8,2,59.0,2839,4850000,4008264
+Stockholmskommun,Telefonplan,Tångvägen 19,2,42.5,3148,2720000,2193548
+Stockholmskommun,Årsta,"Sandfjärdsgatan 105, 7tr",3,75.5,4602,3950000,3291666
+Stockholmskommun,NorraDjurgårdsstaden,Fågelhundsgatan 20,1,38.0,2801,2975000,2806603
+Stockholmskommun,Årsta,Siljansvägen 53,2,52.0,3544,3200000,2807017
+Stockholmskommun,FarstaStrand,"Filipstadsbacken 36, vån 9 / 9",3,72.0,4006,2900000,2500000
+Stockholmskommun,Kungsholmen,Kungsklippan 22,2,45.5,3656,3995000,3995000
+Nackakommun,Henriksdalsberget,Henriksdalsringen 123,3,81.0,4533,4400000,3999999
+Stockholmskommun,Midsommarkransen,Nioörtsvägen 28 C,2,62.4,3002,3900000,3482142
+Sundbybergskommun,Bällstaån,"Hamngatan 23, 4 tr",3,73.0,4105,6200000,5486725
+Stockholmskommun,Vasastan,"Kammakargatan 33, 1,5 tr",2,55.0,2827,6460000,5981481
+Stockholmskommun,Södermalm,Älvsborgsgatan 1,2,44.0,2773,4410000,3801724
+Stockholmskommun,Kungsholmen,"Garvargatan 7, 5tr",4,148.0,6015,16900000,15943396
+Stockholmskommun,FarstaStrand,"Filipstadsbacken 66, 3tr",1,36.0,2442,1850000,1796116
+Stockholmskommun,Johanneshov,"Nathorstvägen 52, vån 3 av 3",2,45.0,2915,3450000,3000000
+Sundbybergskommun,CentralaSundbyberg,Humblegatan 26B,2,50.0,2963,3430000,2982608
+Stockholmskommun,Bromma,Beckomberga Allé 6,3,79.0,4057,4350000,3990825
+Stockholmskommun,Hammarbyhöjden,Hasselquistvägen 11,3,46.0,2573,3850000,3990825
+Stockholmskommun,Gärdet,De Geersgatan 8,3,103.0,3470,15000000,3990825
+Stockholmskommun,Bagarmossen,"Kolbäcksgränd 31, 3 tr",3,70.0,4635,5200000,3990825
+Stockholmskommun,Bromma,"Emils Gata 9, vån 3",4,96.0,5466,5650000,5485436
+Solnakommun,Solna,Andersvägen 1,2.5,64.0,2565,3470000,2891666
+Sundbybergskommun,Brotorp,Brogatan 16,2,34.0,2269,2175000,1891304
+Stockholmskommun,HammarbySjöstad,"Sjöfartsgatan 11, vån 7",2,66.5,3708,5800000,5576923
+Stockholmskommun,Gröndal,"Sjöbjörnsvägen 1, vån 4",2.5,70.0,4191,6020000,4894308
+Stockholmskommun,Kungsholmen,Södra Agnegatan 31,2,55.0,2996,5550000,5285714
+Stockholmskommun,Östermalm,Östermalmsgatan 82,3.5,83.0,4131,12750000,11283185
+Sundbybergskommun,Sundbyberg,Solvallavägen 41B,3,70.0,3230,2600000,2241379
+Stockholmskommun,Bromma,"Björnsonsgatan 142, vån 7.5!",2,57.0,3000,2770000,2495495
+Stockholmskommun,Gröndal,Storsegelvägen 2,3,80.0,4333,7420000,6508771
+Stockholmskommun,Vasastan,"Völundsgatan 3, 3tr",2,42.0,2841,5210000,4610619
+Stockholmskommun,KistaGård,Skagafjordsgatan 14 vån 6 / 6,4,99.0,5767,3850000,3811881
+Sollentunakommun,HäggvikStrand,Sollentunavägen 301,2,48.0,2860,2740000,2490909
+Stockholmskommun,Vasastan,Sankt Eriksplan 15,2.5,75.0,3053,9400000,8392857
+Stockholmskommun,Midsommarkransen,Svandammsvägen 10,1,31.0,2293,2650000,2304347
+Stockholmskommun,Telefonplan,Tångvägen 46,3,56.0,3226,3600000,2304347
+Stockholmskommun,Södermalm,"Högbergsgatan 50, 5 tr",2,45.0,1209,4675000,4495192
+Sundbybergskommun,LillaUrsvik,Ursviksvägen 113,1,24.0,1915,1700000,1588785
+Stockholmskommun,Midsommarkransen,"Midsommarvägen 46, vån 2",2,50.0,3774,3850000,3850000
+Stockholmskommun,Atlasområdet,"Vulcanusgatan 4, 4tr",1,25.5,1567,3050000,2675438
+Stockholmskommun,Kungsholmen,Sysslomansgatan 11,1.5,38.0,2364,3750000,3260869
+Stockholmskommun,Årsta,"Gullmarsvägen 27, 2 tr",1,27.0,1769,2360000,2000000
+Stockholmskommun,Vasastan,Döbelnsgatan 69,5,136.0,4587,14200000,13271028
+Stockholmskommun,Gröndal,"Sannadalsvägen 22, vån 2",1,33.0,2332,2725000,2698019
+Solnakommun,Frösunda,Brevduvegatan 6,2,49.3,2858,2975000,2704545
+Stockholmskommun,Vasastan,"Birger Jarlsgatan 104 I, 3 tr",1,21.0,1497,2790000,2405172
+Stockholmskommun,Östberga,Stamgatan 37,3,69.5,4958,2750000,2405172
+Stockholmskommun,Hornstull,"Bergsundsgatan 12, 4tr",1,31.4,1926,3300000,2598425
+Stockholmskommun,NorraÄngbyBjörketorp,Björketorpsvägen 7,3,77.0,4240,3900000,3482142
+Solnakommun,Råsunda,Råsundavägen 172,2,40.0,2233,3200000,2601626
+Stockholmskommun,Södermalm,Högalidsgatan 50B,2,38.0,1708,3550000,3480392
+Stockholmskommun,Bromma,Johannesfredsvägen 32B,2,40.0,2606,2500000,2000000
+Stockholmskommun,Södermalm,"Ludvigsbergsgatan 5, 5tr",3,81.0,2910,7800000,7500000
+Stockholmskommun,Kungsholmen,Polhemsgatan 8,2,56.0,2150,6300000,6000000
+Stockholmskommun,Vasastan,Birger Jarlsgatan 104N,1,27.0,2016,3000000,3000000
+Stockholmskommun,Kungsholmen,Inedalsgatan 21,1,30.0,1594,3355000,2995535
+Solnakommun,SolnaCSkytteholm,Nybodagatan 6B,3,76.0,3732,4300000,3805309
+Nackakommun,Orminge,Betsövägen 10,2,41.0,2809,1550000,1396396
+Stockholmskommun,Östermalm,Skeppargatan 98,1,23.0,1284,2850000,2192307
+Stockholmskommun,Södermalm,"Tavastgatan 18, 3tr",1,25.0,1430,3400000,2595419
+Stockholmskommun,Akalla,"Kaskögatan 20, 1 tr",4,87.2,5171,2310000,1991379
+Stockholmskommun,Liljeholmen,"Nybohovsbacken 31, 3tr",2,58.0,2815,4050000,4050000
+Stockholmskommun,Vasastan,"Tre Liljor 3, 1,5 tr",3,64.0,2166,8050000,6822033
+Sollentunakommun,Edsängen,Hovslagarevägen 19,4,105.0,5900,4750000,4279279
+Stockholmskommun,Maria,"Maria Bangata 9, 3tr",2.5,59.0,3011,5500000,4583333
+Stockholmskommun,Bromma,"Kinnekullevägen 35, Accepterat pris!",2,50.0,3697,3600000,3428571
+Nackakommun,Finnboda,Östra Finnbodavägen 43,2,49.5,2873,4000000,4000000
+Stockholmskommun,Midsommarkransen,"Midsommarvägen 23, vån 2",2,44.0,3182,3675000,2871093
+Stockholmskommun,Kungsholmen,Wennerbergsgatan 6A,2,50.0,2559,4200000,4200000
+Stockholmskommun,Södermalm,"Brännkyrkagatan 79, 1 tr",1,40.0,574,3800000,3140495
+Nackakommun,JärlaSjö,Turbinvägen 8B,2,145.0,6358,8250000,7783018
+Nackakommun,Henriksdalsberget,Henriksdalsringen 45,3,81.0,5121,4800000,3902439
+Stockholmskommun,NorraDjurgårdsstaden,"Slåttervallsgatan 1, 4tr",2,54.0,3134,5130000,4794392
+Stockholmskommun,Södermalm,"Tengdahlsgatan 35, 1 tr",3,57.5,3617,6450000,5201612
+Solnakommun,Råsunda,Råsundavägen 69B,2,47.0,2551,3530000,5201612
+Nackakommun,JärlaSjö,"Järla gårdsväg 11, 6 tr, Vindslägenhet",2,65.0,4420,5075000,4375000
+Stockholmskommun,Aspudden,Blommensbergsvägen 186,2.5,58.0,3083,4830000,4200000
+Solnakommun,VästraSkogen,Epistelvägen 7,2,43.0,2552,3050000,2798165
+Stockholmskommun,Kungsholmen,Kungsbro Strand 17 - Accepterat pris!,2,39.5,3256,4100000,3980582
+Stockholmskommun,Södermalm,"Heleneborgsgatan 19, 4 tr",2,41.0,1838,4110000,3288000
