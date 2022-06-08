@@ -1,0 +1,2500 @@
+region,location,street_address,num_of_rooms,size,fee,final_price,initial_price
+Uppsalakommun,Fålhagen,Fålhagsleden 6C,1.5,37.0,2107,1995000,1995000
+Uppsalakommun,Eriksberg,Stigbergsplan 5,2,56.5,2606,2100000,2000000
+Uppsalakommun,Kungsängen,Sållargatan 4,1,35.0,1613,1895000,1895000
+Uppsalakommun,Luthagen,Lockgatan 1,2,52.0,3029,2070000,1990384
+Uppsalakommun,Luthagen,"Luthagsesplanaden 26B, VÅN 3",2,53.0,2872,2550000,2500000
+Uppsalakommun,Fålhagen,Hjalmar Brantingsgatan 31,3,87.0,4329,3450000,3000000
+Uppsalakommun,Fålhagen,Torkelsgatan 19H,3,85.0,4502,3600000,3000000
+Uppsalakommun,Luthagen,Gimogatan 13D,3,77.0,3582,2920000,2678899
+Uppsalakommun,CENTRUM,Munkgatan 5B,1,22.0,1135,1850000,1850000
+Uppsalakommun,Kungsängen,Sågargatan 15 D,2,61.0,2984,2695000,2695000
+Uppsalakommun,Nyby,Lidnersgatan 17,2,61.0,3710,1600000,1495327
+Uppsalakommun,Luthagen,Fyrisvallsgatan 8A,5,138.0,6541,4720000,4411214
+Uppsalakommun,Fålhagen,Salagatan 43 B,2,55.0,3182,2490000,2490000
+Uppsalakommun,Norby,Stövarvägen 1C,3,84.0,5555,2895000,2895000
+Uppsalakommun,Vänge,Vangsbyvägen 98,3,72.0,5610,1700000,1250000
+Uppsalakommun,Centrum,S:t Olofsgatan 28 A,2,69.8,4896,2595000,2595000
+Uppsalakommun,Centrum,Storgatan 23A,4,137.0,6608,9500000,8482142
+Uppsalakommun,Salabacke,Fyrislundsgatan 23 B,1,34.0,2752,1550000,1490384
+Uppsalakommun,Luthagen,"Geijersgatan 25C, VÅN 4 / 4",3,65.0,3896,3075000,2985436
+Uppsalakommun,Centrum,"Östra Ågatan 43, VÅN 3 / 3",1.5,49.8,1779,3250000,2981651
+Uppsalakommun,Kungsängen,Skyttelgatan 16,1,34.0,2074,1975000,1955445
+Uppsalakommun,CENTRUM,Dragarbrunnsgatan 11A,2,56.0,3108,2225000,2202970
+Uppsalakommun,Kapellgärdet,Råbyvägen 78,2,65.0,3950,2300000,2233009
+Uppsalakommun,Vänge,Vangsbyvägen 78,3.5,83.5,5970,1600000,1495327
+Uppsalakommun,Fålhagen,Petterslundsgatan 16C,3,86.6,4605,3100000,2980769
+Uppsalakommun,Centrum,Storgatan 22 E,3,76.9,3724,2900000,2735849
+Uppsalakommun,Fålhagen,Hjalmar Brantingsgatan 12 B,3.5,78.3,4093,3350000,3190476
+Uppsalakommun,Gränby,Blixtgatan 19,3.5,82.5,4101,2000000,2000000
+Uppsalakommun,Luthagen,Norrlandsgatan 38 C,3,77.0,4236,3350000,3190476
+Uppsalakommun,Gränbybacke,Solskensgatan 19,2,50.5,3121,1750000,1699029
+Uppsalakommun,Uppsala,Norrtäljegatan 29,2,57.0,4355,1995000,1995000
+Uppsalakommun,Höganäs,Storgatan 18 B,2,42.6,2569,2195000,2090476
+Uppsalakommun,Salabacke,Lästmakargatan 2B,2,55.0,3346,2045000,1793859
+Uppsalakommun,Årsta,Kummingatan 5 A,3,79.7,4044,2375000,2305825
+Uppsalakommun,Kapellgärdet,Portalgatan 15,3,77.0,4326,2780000,2504504
+Uppsalakommun,FrämreLuthagen,Odensgatan 18,2,60.0,2236,3150000,2889908
+Uppsalakommun,FrämreLuthagen,Luthagsesplanaden 8A,2.5,68.0,3892,2800000,2800000
+Uppsalakommun,FrämreLuthagen,Götgatan 14 A,1,22.5,1314,1950000,1788990
+Uppsalakommun,NorraRosendal,Dekangatan 10 (2-1504),1,28.0,1642,1585000,1585000
+Uppsalakommun,Gränby,Albert Engströmsgatan 2H,2,53.0,3505,1900000,1862745
+Uppsalakommun,ÖstraSalabacke,"Johannesbäcksgatan 95A, VÅN 4",2,44.0,2785,1850000,1796116
+Uppsalakommun,Sävja,Västgötaresan 8,3,84.5,5704,1495000,1495000
+Uppsalakommun,KUNGSÄNGEN,Mältargatan 2,3,88.0,4677,3295000,3199029
+Uppsalakommun,Luthagen,Dalgatan 8,2.5,64.4,3500,3500000,3301886
+Uppsalakommun,Höganäs,S:t Olofsgatan 48,1,39.5,1884,1895000,1895000
+Uppsalakommun,ULLERÅKER,Eva Lagerwalls väg 4,2,66.0,4251,2350000,2079646
+Uppsalakommun,Höganäs,Höganäsgatan 4E,1.5,42.0,2244,2095000,2095000
+Uppsalakommun,Centrum,Dragarbrunnsgatan 58,3,72.0,3300,3195000,3195000
+Uppsalakommun,Tunabackar,Fjärdhundragatan 50,2.5,68.5,3514,2210000,1888888
+Uppsalakommun,NYBY,Lidnersgatan 32,3,76.5,4409,2500000,2403846
+Uppsalakommun,Luthagen,Luthagsesplanaden 30 B,1.5,39.0,1685,2460000,2299065
+Uppsalakommun,Stenhagen,Herrhagsvägen 403,3,83.0,4987,1850000,1796116
+Uppsalakommun,Gottsunda,Valthornsvägen 36B,2.5,68.0,3927,1450000,1394230
+Uppsalakommun,Rosendal,Torgny Segerstedts Allé 85,2,38.0,1813,2200000,1394230
+Uppsalakommun,Årsta,Kamomillgatan 30,2,63.0,3651,1650000,1601941
+Uppsalakommun,Fålhagen,S:t Göransgatan 24B,2,44.5,2767,2230000,2103773
+Uppsalakommun,Gränby,Marknadsgatan 44,2,43.5,2741,1800000,1800000
+Uppsalakommun,Årsta,Fyrislundsgatan 46,3,83.5,2897,2700000,2500000
+Uppsalakommun,Eriksberg,Norbyvägen 63,1,25.0,914,1605000,1500000
+Uppsalakommun,Luthagen,Tegnérgatan 36B,2,54.5,3291,2195000,2195000
+Uppsalakommun,Salabacke,Årstagatan 41,2,64.0,3170,2300000,2000000
+Uppsalakommun,Sävja,Ölandsresan 3C,2,53.0,3143,1900000,2000000
+Uppsalakommun,Kapellgärdet,Vattholmavägen 4 D,2,67.0,3856,2680000,2504672
+Uppsalakommun,Kungsängen,Sågargatan 8A,2,61.0,2581,2650000,2598039
+Uppsalakommun,Kungsängen,Viragatan 7,3,82.0,4748,3510000,3280373
+Uppsalakommun,Gränby,Råbyvägen 57H,1,34.0,2230,1550000,1550000
+Uppsalakommun,Fålhagen,S:T Persgatan 47 A,2,55.0,2922,2325000,1987179
+Uppsalakommun,Fjärdingen,Trädgårdsgatan 7A,3,97.0,4488,6650000,6584158
+Uppsalakommun,Fålhagen,Salagatan 40A,1.5,48.8,2684,2450000,2401960
+Uppsalakommun,Uppsala,Fyrislundsgatan 23B,1,34.0,2752,1520000,1490196
+Uppsalakommun,Svartbäcken,Svartbäcksgatan 78 A - Fast Pris,1.5,41.9,2751,1895000,1895000
+Uppsalakommun,Rickomberga,Hildur Ottelinsgatan 1C,2,41.9,2985,2000000,1801801
+Uppsalakommun,Luthagen,Geijersgatan 12 C,3,84.5,4128,3410000,2889830
+Uppsalakommun,Gränby,Albert Engströmsgatan 2H,3,75.5,4565,2200000,2156862
+Uppsalakommun,Norby,Eksoppsvägen 48,3,79.5,5700,4110000,3288000
+Uppsalakommun,Gottsunda,Henry Wemans väg 10,2,41.0,2426,1550000,1504854
+Uppsalakommun,Löten,Heidenstamsgatan 53,4,102.5,5469,2475000,2291666
+Uppsalakommun,Luthagen,Sturegatan 17b,2,68.1,3409,2550000,2297297
+Uppsalakommun,GRÄNBY,Solskensgatan 23,4,91.5,4906,3700000,3490566
+Uppsalakommun,Eriksberg,Glimmervägen 2C,2,60.0,2899,2200000,2200000
+Uppsalakommun,Kapellgärdet,Orgelgatan 7,2,45.0,2238,2300000,2000000
+Uppsalakommun,Salabacke,Verkmästargatan 1B,1,24.0,1553,1295000,1295000
+Uppsalakommun,Tunabackar,Torbjörnsgatan 36,3,82.5,3534,2750000,2500000
+Uppsalakommun,Kapellgärdet,Portalgatan 17,4,93.0,5132,3305000,2977477
+Uppsalakommun,KUNGSÄNGEN,Bobingatan 2,4,102.0,5308,4350000,4350000
+Uppsalakommun,Luthagen,Luthagsesplanaden 32A,1,20.0,1002,1550000,1504854
+Uppsalakommun,Eriksberg,Stigbergsplan 1B,5,112.3,5935,6200000,4732824
+Uppsalakommun,Kungsängen,Kungsängsgatan 57G,4,116.0,5127,5500000,5500000
+Uppsalakommun,Luthagen,Geijersgatan 27C,1,33.5,1752,2125000,1897321
+Uppsalakommun,Luthagen,Tiundagatan 43,4,89.0,5041,3100000,2719298
+Uppsalakommun,Valsätra,Henry Wemans väg 4 vån 4 / 4,2,41.0,2736,1600000,1495327
+Uppsalakommun,Årsta,Kummingatan 52A,3,79.7,4521,2350000,2303921
+Uppsalakommun,Rosendal,Betty Petterssons gata 9,2,59.0,2994,2445000,2445000
+Uppsalakommun,Fålhagen,Torkelsgatan 2B,2,54.5,3239,2380000,2288461
+Uppsalakommun,Kungsängen,Sågargatan 13B,3,85.0,4620,4400000,4400000
+Uppsalakommun,Höganäs,Vaksalagatan 36A,1,41.0,2315,1950000,1857142
+Uppsalakommun,NYBY,Lidnersgatan 1,3,76.5,4333,1950000,1857142
+Uppsalakommun,Fålhagen,Salagatan 53C,2,41.0,2984,2300000,1982758
+Uppsalakommun,Salabacke,Snickargatan 12,3,85.5,3442,2400000,2086956
+Uppsalakommun,Luthagen,Tegnérgatan 31B,2,48.0,2978,2295000,2295000
+Uppsalakommun,Kvarngärdet,Råbyvägen 39B *Accepterat pris*,2,49.0,2899,1995000,1995000
+Uppsalakommun,Gränby,Blixtgatan 1,3,77.5,3887,2100000,1693548
+Uppsalakommun,Kapellgärdet,Orgelgatan 7,2,45.0,2238,2450000,2355769
+Uppsalakommun,Fålhagen,Vallbygatan 13,2,51.9,3340,2100000,1981132
+Uppsalakommun,Sommarro,Norbyvägen 75 B,3,73.0,3969,2895000,2895000
+Uppsalakommun,Kapellgärdet,Portalgatan 65,4,104.0,5968,4000000,3508771
+Uppsalakommun,Luthagen,Tiundagatan 39,3,72.0,3550,2795000,2795000
+Uppsalakommun,Norby,Malma Stenväg 6,3,63.5,3813,2480000,2156521
+Uppsalakommun,Salabacke,Murargatan 8F,2,52.0,2786,2110000,1788135
+Uppsalakommun,Uppsala,Johannesbäcksgatan 84C,2,58.1,3126,1875000,1875000
+Uppsalakommun,Luthagen,Sturegatan 18A,4,117.0,5374,4350000,4350000
+Uppsalakommun,Salabacke,Ritargatan 8B,4,96.3,4181,3000000,2884615
+Uppsalakommun,Kapellgärdet,Orgelgatan 16,2,41.0,2403,2175000,2091346
+Uppsalakommun,Kapellgärdet,Portalgatan 79,4,106.5,6094,4750000,4203539
+Uppsalakommun,Tunabackar,Väpnargatan 3A,3,77.5,3875,2195000,2195000
+Uppsalakommun,Ekeby,Reykjaviksgatan 124,4,101.0,4478,3850000,3737864
+Uppsalakommun,Salabacke,Ritargatan 5,2,42.5,2020,1775000,1690476
+Uppsalakommun,Fålhagen,Petterslundsgatan 21B,3,67.0,3145,2650000,2598039
+Uppsalakommun,Gunsta,Hjulaxelvägen 76,2,53.0,2951,1700000,1650485
+Uppsalakommun,Salabacke,Byggmästargatan 17B,1,43.0,2438,1650000,1601941
+Uppsalakommun,Kapellgärdet,Råbyvägen 84,2,76.5,4133,2305000,2305000
+Uppsalakommun,Industristaden,Skyttelgatan 8,4,112.0,5354,5470000,4675213
+Uppsalakommun,Kapellgärdet,Orgelgatan 11,4,89.0,4985,4045000,4004950
+Uppsalakommun,Kungsängen,Tullgarnsgatan 9,3,79.0,4105,3240000,3000000
+Uppsalakommun,Årsta,Fänkålsgatan 4,2,63.0,3747,1900000,1792452
+Uppsalakommun,Uppsala,Pelargatan 26,4,94.0,4959,4200000,3684210
+Uppsalakommun,Fålhagen,Eskilsgatan 4 B,1,38.5,2497,2045000,1985436
+Uppsalakommun,Centrum,Bangårdsgatan 1B,2,62.0,2957,3600000,3185840
+Uppsalakommun,Storvreta,Slöjmolnsvägen 17,5,121.5,7334,2600000,2385321
+Uppsalakommun,CENTRUM,Hamnesplanaden 4B,3,81.5,4018,3750000,3605769
+Uppsalakommun,Gränby,Albert Engströmsgatan 2H,2,53.0,3505,1995000,1995000
+Uppsalakommun,Luthagen,Gimogatan 5B,2,44.5,2765,1795000,1795000
+Uppsalakommun,Luthagen,Stabby allé 7 B,2,55.7,2966,2250000,1991150
+Uppsalakommun,VALSÄTRA,Malma backe 3E,1,43.0,3495,1295000,1295000
+Uppsalakommun,Fålhagen,Ymergatan 7A,3,79.0,4759,3750000,3289473
+Uppsalakommun,Höganäs,Torkelsgatan 38B,1,42.0,2078,1895000,1895000
+Uppsalakommun,ÖvreSlotts,Rundelsgränd 6 E,4,103.6,3818,5100000,4951456
+Uppsalakommun,Kapellgärdet,Djäknegatan 8,3,57.0,3039,1950000,1788990
+Uppsalakommun,Eriksberg,Fältspatsvägen 4,2,59.0,2859,2220000,2155339
+Uppsalakommun,Uppsala,Geijersgatan 52B,1.5,38.9,2206,1940000,1901960
+Uppsalakommun,Bellman,Bellmansgatan 112,1,41.5,2338,1450000,1380952
+Uppsalakommun,Kungsängen,Kungsängsgatan 55E,2,45.4,2648,2370000,2300970
+Uppsalakommun,Gränby,Råbyvägen 55F,2,54.0,3187,1650000,1527777
+Uppsalakommun,Kapellgärdet,Portalgatan 62,2,58.5,3459,2450000,2401960
+Uppsalakommun,Luthagen,Sturegatan 16 B,1,29.0,1729,1730000,1663461
+Uppsalakommun,Kungsängen,Kungsängsgatan 57 A,2.5,70.0,4200,2625000,2599009
+Uppsalakommun,Fålhagen,Torkelsgatan 17 A,3,68.0,3909,2975000,2975000
+Uppsalakommun,Bälinge,Allmänningsvägen 9B,3,91.0,5216,2550000,2297297
+Uppsalakommun,Rickomberga,Gösta Wahlströms väg 5,3,85.0,3770,3500000,2297297
+Uppsalakommun,Kungsängen,Tullgarnsgatan 7,3,78.0,4105,3500000,3153153
+Uppsalakommun,Vårdsätra,Eksätravägen 144,3,78.9,5265,2050000,2050000
+Uppsalakommun,FrämreLuthagen,Börjegatan 1B,3.5,86.0,4441,4550000,4212962
+Uppsalakommun,Höganäs,Väderkvarnsgatan 8A,1.5,44.0,2341,2000000,1886792
+Uppsalakommun,Uppsala,Luthagsesplanaden 10B,1,27.0,1686,1750000,1750000
+Uppsalakommun,Herrhagen,Herrhagsvägen 195 - FAST PRIS!,3,76.0,3976,2120000,2099009
+Uppsalakommun,Kapellgärdet,Råbyvägen 26,3,105.5,5961,3610000,3085470
+Uppsalakommun,Kapellgärdet,Ljusbärargatan 5,2,54.0,3179,2750000,2455357
+Uppsalakommun,Tunabackar,Torbjörnsgatan 14,1,48.4,2261,1650000,1601941
+Uppsalakommun,FrämreLuthagen,Luthagsesplanaden 21 B,3.5,78.0,3603,3400000,3238095
+Uppsalakommun,Fålhagen,Hjalmar Brantingsgatan 8 A,2,57.5,3722,2695000,2695000
+Uppsalakommun,Fålhagen,Fålhagsleden 6C,2,51.5,2581,2195000,2195000
+Uppsalakommun,LUTHAGEN,Luthagsesplanaden 15C,3,76.5,4342,2950000,2892156
+Uppsalakommun,Nyby,Wivalliusgatan 25,2,61.0,3175,1695000,1695000
+Uppsalakommun,Gottsunda,Henry Wemans väg 2,5,93.0,5425,2395000,2395000
+Uppsalakommun,Luthagen,Tegnérgatan 5A,2.5,67.0,4455,2700000,2288135
+Uppsalakommun,Luthagen,Hällbygatan 37,2,62.0,3524,2535000,2347222
+Uppsalakommun,Luthagen,Luthagsesplanaden 6 A,1,36.0,1094,2130000,1990654
+Uppsalakommun,NorraRosendal,Dekangatan 10 (2-1307),2,43.0,2521,1895000,1895000
+Uppsalakommun,Kungsängen,Skyttelgatan 7,3,82.0,3567,3900000,1895000
+Uppsalakommun,Svartbäcken,Swedenborgsgatan 32 B,3,73.0,4526,2900000,2788461
+Uppsalakommun,Kungsängen,"Kungsgatan 93F, VÅN 4",4,109.5,4455,4500000,2788461
+Uppsalakommun,Salabacke,Ritargatan 1B **ACCEPTERAT PRIS**,2,43.5,2367,1585000,1553921
+Uppsalakommun,Luthagen,Luthagsesplanaden 30C,1,36.0,1668,2115000,1792372
+Uppsalakommun,Gottsunda,Kontrabasvägen 4,3,101.0,5504,1650000,1650000
+Uppsalakommun,Ulleråker,Eva Lagerwalls Väg 24,4,101.5,5935,4250000,3899082
+Uppsalakommun,NORBY,Svampvägen 8B,2,60.0,3438,1750000,1495726
+Uppsalakommun,Årsta,Sparrisgatan 7 A,3,107.0,6336,2700000,2500000
+Uppsalakommun,Fjärdingen,Åsgränd 4B,5,131.0,5092,9200000,7479674
+Uppsalakommun,SÄVJA,Ölandsresan 3B,2,51.0,3048,1935000,1727678
+Uppsalakommun,Eriksberg,Västertorg 5A,4,113.5,4470,4120000,3491525
+Uppsalakommun,Stabby,Stabby allé 13A -FAST PRIS,2,74.9,4357,2300000,2300000
+Uppsalakommun,Slavsta,Klarbärsgatan 102,3,68.6,5063,2510000,2390476
+Uppsalakommun,Rosendal,Gerd Enequists gata 14,4,97.5,5375,3845000,3845000
+Uppsalakommun,Fålhagen,Norrtäljegatan 28,2,53.0,3640,2030000,1990196
+Uppsalakommun,Kungsängen,Tullgarnsgatan 3,2,45.5,2402,2500000,2380952
+Uppsalakommun,Gottsunda,Valthornsvägen 44C,3,78.0,4533,1500000,1293103
+Uppsalakommun,FRÄMRELUTHAGEN,Götgatan 10A,4,97.0,4838,4750000,4750000
+Uppsalakommun,Fålhagen,S:t Göransgatan 24A,2,44.5,2550,2050000,1898148
+Uppsalakommun,Gränby,Molngatan 27,2,61.5,3139,1950000,1950000
+Uppsalakommun,Svartbäcken,Sköldungagatan 31,4,113.1,3288,4500000,3688524
+Uppsalakommun,Ulleråker,Gustaf Kjellbergs väg 4,3,63.1,4541,2470000,1991935
+Uppsalakommun,Salabacke,Fyrislundsgatan 37B,1.5,35.0,2266,1680000,1600000
+Uppsalakommun,Storvreta,Morgonvägen 14,4,99.0,5860,2500000,2000000
+Uppsalakommun,Luthagen,Tiundagatan 36B,3,81.5,3881,3225000,2804347
+Uppsalakommun,Salabacke,Årstagatan 15,2,57.0,3226,2050000,1898148
+Uppsalakommun,Fålhagen,Frodegatan 13C,1,30.0,2122,1950000,1893203
+Uppsalakommun,Sävja,Gotlandsresan 174,4,93.0,5682,2100000,1891891
+Uppsalakommun,Luthagen,Tegnérgatan 28 A,2.5,57.0,3161,2395000,2395000
+Uppsalakommun,Sommarro,Karlsrogatan 81,2,58.0,2696,2300000,2190476
+Uppsalakommun,Salabacke,Byggmästargatan 1B,1,38.2,2529,1715000,1698019
+Uppsalakommun,Kungsängen,Tullgarnsgatan 3,1,34.0,1873,1850000,1850000
+Uppsalakommun,Kungsängen,Sågargatan 8B,2,48.0,2141,2450000,2450000
+Uppsalakommun,Stenhagen,Stenrösvägen 81,4,93.5,6852,1800000,1500000
+Uppsalakommun,Ulleråker,Gustaf Kjellbergs Väg 6,4,93.1,6179,3250000,2754237
+Uppsalakommun,Höganäs,S:t Olofsgatan 62B,3,60.0,2796,2660000,2582524
+Uppsalakommun,Kapellgärdet,Portalgatan 66,3,81.0,4238,3450000,3450000
+Uppsalakommun,Centrum,Ellegatan 1,3,92.0,3818,4510000,3887931
+Uppsalakommun,Fålhagen,Frodegatan 14 B,2,55.5,3516,2350000,2303921
+Uppsalakommun,Salabacke,Årstagatan 18 B,2,50.5,2914,1750000,1699029
+Uppsalakommun,Fålhagen,Ymergatan 6B,1,44.0,2106,2395000,2395000
+Uppsalakommun,Fålhagen,Petterslundsgatan 23C,3,67.0,3284,2475000,2379807
+Uppsalakommun,Fålhagen,Torkelsgatan 17C,2,41.0,2827,2010000,1990099
+Uppsalakommun,Fålhagen,Väderkvarnsgatan 39A,3,79.0,4759,4500000,1990099
+Uppsalakommun,Uppsala,Oxelgatan 22,2,57.0,3500,2525000,1988188
+Uppsalakommun,Herrhagen,Stenhuggarvägen 21,5,118.0,4862,4130000,3687499
+Uppsalakommun,FrämreLuthagen,Börjegatan 1B,1,14.0,1081,1250000,1190476
+Uppsalakommun,Höganäs,Väderkvarnsgatan 8B,1.5,44.0,2341,2200000,1999999
+Uppsalakommun,Salabacke,Årstagatan 35,2,66.0,3248,2425000,1987704
+Uppsalakommun,Salabacke,Kastanjegatan 3,2,53.5,3116,1850000,1796116
+Uppsalakommun,Sävja,Blekingevägen 8,2,64.5,4108,1450000,1198347
+Uppsalakommun,Gottsunda,Cellovägen 17,3,82.0,4470,1200000,1200000
+Uppsalakommun,Kungsängen,Kungsängsgatan 57A,1.5,42.0,3009,2150000,1990740
+Uppsalakommun,Uppsala,Ringgatan 20C,2,57.0,3175,2575000,2299107
+Uppsalakommun,Rosendal,Torgny Segerstedts allé 94,3,86.0,5043,3750000,3712871
+Uppsalakommun,Salabacke,Murargatan 22 B,2,56.1,2915,1700000,1650485
+Uppsalakommun,Årsta,Fyrislundsgatan 48,3,83.5,2696,2625000,2282608
+Uppsalakommun,Löten,Lings väg 74,2,69.0,4202,1870000,1798076
+Uppsalakommun,Gränby,Albert Engströmsgatan 2H,1,25.5,2123,1050000,1009615
+Uppsalakommun,Gränby,Marknadsgatan 30A,2,52.5,3308,2500000,2500000
+Uppsalakommun,Fålhagen,S:t Göransgatan 23,2,45.0,2273,2575000,2384259
+Uppsalakommun,Tunabackar,Idrottsgatan 16,5,115.9,4613,4500000,3982300
+Uppsalakommun,Gunsta,Hjulaxelvägen 72,4,81.0,4509,2500000,2450980
+Uppsalakommun,Gränby,Marknadsgatan 44,3,78.5,4579,3200000,3200000
+Uppsalakommun,Gränbystaden,Marknadsgatan 48,3,79.5,4638,3050000,3050000
+Uppsalakommun,Gränby,Marknadsgatan 40,1,32.0,2053,1575000,1575000
+Uppsalakommun,Gränbystaden,Marknadsgatan 44,2,43.5,2741,1775000,1775000
+Uppsalakommun,Gränby,Marknadsgatan 30A,3,68.5,3996,2750000,2750000
+Uppsalakommun,Gränby,Marknadsgatan 40,3,78.5,4579,2900000,2900000
+Uppsalakommun,Gränby,Marknadsgatan 44,3,78.5,4579,2950000,2950000
+Uppsalakommun,FÅLHAGEN,S:t Göransgatan 26B,4,130.0,4821,7390000,7316831
+Uppsalakommun,CentralaUppsala,Dragarbrunnsgatan 53,1,21.5,1482,1620000,1588235
+Uppsalakommun,Luthagen,Tegnérgatan 33B,1,23.5,1872,1650000,1601941
+Uppsalakommun,SÄVJA,"Ölandsresan 3D, våning 11",3,77.0,4045,3300000,2999999
+Uppsalakommun,Årsta,Kamomillgatan 23,3,78.0,4315,2300000,1949152
+Uppsalakommun,Centrum,Svartbäcksgatan 43G,2,65.2,3839,3000000,1949152
+Uppsalakommun,Gränby,Marknadsgatan 30A,3,68.5,3996,2500000,2500000
+Uppsalakommun,Gränbystaden,Marknadsgatan 30A,2,43.0,2709,1825000,1825000
+Uppsalakommun,Gränby,Råbyvägen 55H,2,35.0,2594,1620000,1557692
+Uppsalakommun,Fålhagen,Salagatan 55B,1,39.5,2928,2250000,2102803
+Uppsalakommun,FrämreLuthagen,Sturegatan 1,1,40.1,2676,2400000,2376237
+Uppsalakommun,SödraRosendal,Rosendalsvägen 12C,3,91.0,4452,4995000,4995000
+Uppsalakommun,Fålhagen,Väderkvarnsgatan 38B,1,41.5,2687,2400000,2086956
+Uppsalakommun,Salabacke,Lästmakargatan 12B,3,76.5,4613,2875000,2590090
+Uppsalakommun,Centrum,Dragarbrunnsgatan 11B,2,64.5,3161,2070000,1952830
+Uppsalakommun,Centrum,S:t Olofsgatan 31 A,3,91.0,4604,4950000,1952830
+Uppsalakommun,Fålhagen,Hjalmar Brantingsgatan 21,4,91.0,4815,4240000,3504132
+Uppsalakommun,Kungsängen,Siktargatan 30,3,84.0,4591,3700000,3303571
+Uppsalakommun,Tunabackar,Tunagatan 7 F,2,57.0,2959,2320000,2090090
+Uppsalakommun,Sommarro,Norbyvägen 69A,3,73.0,3685,3125000,2604166
+Uppsalakommun,Fålhagen,Ymergatan 13D,2,53.0,3064,2760000,2486486
+Uppsalakommun,Kapellgärdet,Djäknegatan 40,3.5,66.9,4665,2475000,2475000
+Uppsalakommun,SALABACKE,Lästmakargatan 5A,1.5,40.0,2658,1795000,1795000
+Uppsalakommun,Luthagen,Ringgatan 11C,3,74.6,3500,3225000,2986111
+Uppsalakommun,Salabacke,Murargatan 33,5,101.1,3602,3710000,3254385
+Uppsalakommun,FrämreLuthagen,Götgatan 12 B,1,30.4,1758,1995000,1995000
+Uppsalakommun,Årsta,Kummingatan 8B,3,79.7,4429,2900000,2900000
+Uppsalakommun,Luthagen,Dalgatan 8,3,92.4,4874,5400000,3999999
+Uppsalakommun,TunaBackar,Torbjörnsgatan 22,3,85.8,3751,2900000,2500000
+Uppsalakommun,Svartbäcken,Svartbäcksgatan 74A,2,52.0,3136,2200000,2095238
+Uppsalakommun,Centrum,Vretgränd 4B,2,54.5,2059,2550000,2428571
+Uppsalakommun,Svartbäcken,Swedenborgsgatan 36C,4,83.0,4548,3655000,2971544
+Uppsalakommun,FrämreLuthagen,Luthagsesplanaden 23A,3,91.0,4014,3500000,3181818
+Uppsalakommun,Luthagen,Tiundagatan 47,2,59.0,2959,2250000,2205882
+Uppsalakommun,Rosendal,Torgny Segerstedts allé 4,1,31.0,1590,1625000,1593137
+Uppsalakommun,Kungsängen,Tullgarnsgatan 13,4,101.0,5032,5210000,4736363
+Uppsalakommun,Kapellgärdet,Kapellgatan 2,2,49.0,3526,2250000,1991150
+Uppsalakommun,Kåbo,Artillerigatan 4,4,85.0,4793,4225000,3985849
+Uppsalakommun,Luthagen,Pålgatan 3,4,99.0,5007,4100000,3796296
+Uppsalakommun,Salabacke,Murargatan 11,2,56.5,2673,1645000,1597087
+Uppsalakommun,Gränby,Dimgatan 6,3,77.0,4752,2400000,2086956
+Uppsalakommun,KÅBO,"Banérgatan 16 A,1204",4,88.0,4033,4200000,4000000
+Uppsalakommun,Luthagen,Norrlandsgatan 36C,2,54.0,2719,2550000,2297297
+Uppsalakommun,Uppsala,Bäcklösavägen 3,4,90.0,4937,3950000,2297297
+Uppsalakommun,Salabacke,Apelgatan 9 D,1,38.0,2189,1500000,1500000
+Uppsalakommun,Luthagen,Tegnérgatan 32B,2,54.5,3449,2350000,2259615
+Uppsalakommun,Fålhagen,Ymergatan 17 B,2,50.5,3277,2695000,2695000
+Uppsalakommun,Årsta,Gräslöksgatan 16,3,78.0,4207,2355000,1995762
+Uppsalakommun,Fålhagen,Salagatan 42A,3,72.0,3826,3520000,3384615
+Uppsalakommun,Salabacke,Johannesbäcksgatan 86 A,2,42.2,2133,1795000,1795000
+Uppsalakommun,Svartbäcken,Gamla Uppsalagatan 13A,3,82.7,4873,3300000,2999999
+Uppsalakommun,Fålhagen,Väderkvarnsgatan 52 A,2,50.0,2461,2490000,2394230
+Uppsalakommun,Årsta,Kamomillgatan 25,2,63.0,3551,2450000,1991869
+Uppsalakommun,Löten,Karin Boyegatan 8E,3,84.0,4734,2400000,2181818
+Uppsalakommun,Luthagen,Bredmansgatan 4 C,1.5,42.2,2183,2220000,2155339
+Uppsalakommun,Löten,Bellmansgatan 80,5,113.0,5429,3300000,2598425
+Uppsalakommun,Gottsunda,Henry Wemans väg 10,3,68.0,3681,2100000,2000000
+Uppsalakommun,Rosendal,Torgny Segerstedts Allé 21,1,27.0,1321,1995000,1900000
+Uppsalakommun,Fålhagen,Norrtäljegatan 3 B,4,100.0,5070,5700000,4488188
+Uppsalakommun,Kungsängen,Viragatan 9,4,100.0,5538,4300000,3739130
+Uppsalakommun,Kungsängen,Sågargatan 2 D,3,91.0,4838,5800000,5000000
+Uppsalakommun,Centrum,Dragarbrunnsgatan 60,2,51.5,2221,2500000,2293577
+Uppsalakommun,Storvreta,Himmelsvägen 29,4,87.0,5402,2020000,1787610
+Uppsalakommun,Kungsängen,Sågargatan 4B,3,91.0,4716,5125000,4495614
+Uppsalakommun,Luthagen,Bredmansgatan 9C,2,51.0,2410,2640000,2400000
+Uppsalakommun,Luthagen,Tegnérgatan 17B,2.5,65.0,3163,3250000,2981651
+Uppsalakommun,Fålhagen,Hjalmar Brantingsgatan 9A,1,37.0,2294,2470000,1991935
+Uppsalakommun,Årsta,Fänkålsgatan 20,3,78.0,4176,2750000,2200000
+Uppsalakommun,LUTHAGEN,Prästgårdsgatan 19A,4,89.0,3963,3950000,2992424
+Uppsalakommun,Luthagen,Geijersgatan 21C,1.5,48.0,2302,2395000,2395000
+Uppsalakommun,Höganäs,S:t Olofsgatan 43A,1,36.0,2045,2000000,1801801
+Uppsalakommun,Uppsala,Dimgatan 9,3,75.5,3983,2075000,1995192
+Uppsalakommun,Salabacke,Ritargatan 5,5,120.5,5412,5750000,4600000
+Uppsalakommun,Nyby,Lidnersgatan 31,3,76.5,4294,2715000,2402654
+Uppsalakommun,SALABACKE,Fyrislundsgatan 37B,2,42.0,2650,1850000,1850000
+Uppsalakommun,Centrum,Vaksalagatan 43,2,31.9,1703,2000000,1801801
+Uppsalakommun,Salabacke,Murargatan 28c,3,66.0,3085,2410000,2042372
+Uppsalakommun,Kapellgärdet,Portalgatan 75,1,41.0,2504,2000000,2000000
+Uppsalakommun,Fålhagen,Fålhagsleden 4D,1,37.0,2105,1925000,1925000
+Uppsalakommun,FrämreLuthagen,Börjegatan 1B,1.5,40.0,2272,3000000,2255639
+Uppsalakommun,Kapellgärdet,Margit Sahlins Gata 1,3,72.0,3409,3300000,3300000
+Uppsalakommun,Salabacke,Byggmästargatan 13A,2,56.0,3100,2100000,1794871
+Uppsalakommun,Salabacke,Murargatan 22D,4,92.9,4510,2600000,2549019
+Uppsalakommun,Fålhagen,Salagatan 53C,2,41.0,2982,2550000,2198275
+Uppsalakommun,Salabacke,Källparksgatan 4,3,75.3,3281,2740000,2403508
+Uppsalakommun,Ulleråker,Gustaf Kjellbergs Väg 3B,2,39.0,2617,2050000,2009803
+Uppsalakommun,Höganäs,Vaksalagatan 40B,1,15.9,1122,950000,896226
+Uppsalakommun,Sävja,Smålandsvägen 97,4,94.6,6561,2840000,2784313
+Uppsalakommun,Fålhagen,Österängsgatan 22D,2,67.4,3112,2395000,2302884
+Uppsalakommun,Industristaden,Tullgarnsgatan 21,3,74.0,3684,3520000,3142857
+Uppsalakommun,Fålhagen,Frodegatan 19A,3.5,77.0,4148,3420000,3288461
+Uppsalakommun,Luthagen,Ringgatan 4D,3,86.0,4852,3910000,3654205
+Uppsalakommun,Fålhagen,Petterslundsgatan 21C,3,75.7,3441,3285000,2488636
+Uppsalakommun,Fålhagen,Väderkvarnsgatan 44A,1.5,50.4,2561,2225000,2202970
+Uppsalakommun,GränbyBacke,Råbyvägen 57E,2,58.0,3618,1895000,1895000
+Uppsalakommun,Salabacke,Apelgatan 7D - FAST PRIS,2,59.5,3460,2100000,2100000
+Uppsalakommun,Svartbäcken,Svartbäcksgatan 70A,1,35.8,1965,1800000,1747572
+Uppsalakommun,Kungsängen,Viragatan 7,3,81.0,4706,3960000,3599999
+Uppsalakommun,Nyby,Gamla Uppsalagatan 125,2,41.0,2452,1650000,1601941
+Uppsalakommun,Uppsala,Råbyvägen 57 H,3,78.0,4157,2400000,2400000
+Uppsalakommun,Luthagen,Ringgatan 47B,2,63.5,3186,2600000,2385321
+Uppsalakommun,Stenhagen,Stenhagsvägen 89,3,83.0,5335,1720000,1592592
+Uppsalakommun,Årsta,Gräslöksgatan 34,3,78.0,4462,2500000,2403846
+Uppsalakommun,Löten,Bellmansgatan 36,5,136.0,8006,4000000,2403846
+Uppsalakommun,Kapellgärdet,Råbyvägen 78,2,66.0,3853,2230000,2165048
+Uppsalakommun,Gottsunda,Henry Wemans väg 12,2,53.0,2970,1750000,1699029
+Uppsalakommun,Centrum,Skolgatan 18,1.5,42.9,2397,2625000,2302631
+Uppsalakommun,Luthagen,Gimogatan 5B,2,44.5,2717,1800000,1800000
+Uppsalakommun,Fålhagen,S:t Göransgatan 31C,1,39.0,2490,1920000,1794392
+Uppsalakommun,Rosendal,Torgny Segerstedts Allé 26,2,40.0,2912,2100000,2000000
+Uppsalakommun,Kapellgärdet,Råbyvägen 41,3,62.5,3696,2250000,2250000
+Uppsalakommun,Höganäs,S:t Olofsgatan 41A,4,91.0,4551,4000000,3703703
+Uppsalakommun,Herrhagen,Herrhagsvägen 186,3,72.4,4846,1735000,1717821
+Uppsalakommun,Luthagen,Geijersgatan 56A,1.5,38.8,2098,1950000,1950000
+Uppsalakommun,Luthagen,Prästgårdsgatan 5A,2,56.0,2824,2225000,2099056
+Uppsalakommun,Kapellgärdet,Portalgatan 61,2,49.0,3668,2195000,2195000
+Uppsalakommun,Höganäs,S:t Olofsgatan 56a,2,44.0,2656,2150000,2150000
+Uppsalakommun,Heidenstam,Stagneliusgatan 9,5,136.0,7799,3850000,2984496
+Uppsalakommun,Svartbäcken,Svartbäcksgatan 99D,2,61.0,3548,2550000,2550000
+Uppsalakommun,Svartbäcken,Swedenborgsgatan 30C,2,52.5,3851,2020000,1887850
+Uppsalakommun,Fålhagen,Norrtäljegatan 7A,3,80.0,3850,3850000,3499999
+Uppsalakommun,Fålhagen,Petterslundsgatan 14 E,1,24.0,1759,1695000,1695000
+Uppsalakommun,Luthagen,Prästgårdsgatan 15B,4,92.0,4776,4100000,3693693
+Uppsalakommun,Fålhagen,Fålhagsleden 13,1.5,38.0,2550,2200000,2200000
+Uppsalakommun,Rosendal,Torgny Segerstedts allé 46,4,126.0,5350,4510000,4378640
+Uppsalakommun,Kungsgärdet,S:t Johannesgatan 36 B,2,46.0,3387,2175000,1995412
+Uppsalakommun,Gränby,Råbyvägen 57E,2,58.0,3618,1915000,1823809
+Uppsalakommun,Luthagen,Börjegatan 54B,1,20.2,1037,1295000,1295000
+Uppsalakommun,Salabacke,Ritargatan 1E,2,57.0,3194,2250000,1991150
+Uppsalakommun,Kapellgärdet,Ljusbärargatan 3,2,42.0,2661,2270000,1991228
+Uppsalakommun,Sävja,Gotlandsresan 190,2,68.5,4293,1550000,1490384
+Uppsalakommun,Slavsta,Stålgatan 40,3,80.0,4964,2300000,2129629
+Uppsalakommun,NorraRosendal,Dekangatan 10 (2-1004),2,52.0,3049,1945000,1945000
+Uppsalakommun,Norby,Eksoppsvägen 55,2,61.0,4199,2000000,1945000
+Uppsalakommun,Kapellgärdet,Torngatan 38,4,95.0,4614,4300000,3981481
+Uppsalakommun,Industristaden,Mältargatan 13 A,3,80.0,4364,3700000,3303571
+Uppsalakommun,Nyby,Leopoldsgatan 32,1,41.0,2868,1550000,1550000
+Uppsalakommun,Kungsängen,Mältargatan 2,2,62.0,3636,2800000,1550000
+Uppsalakommun,Kapellgärdet,Portalgatan 92,4,96.0,4961,4085000,3890476
+Uppsalakommun,Salabacke,Murargatan 18 A,4,87.3,5060,2295000,2295000
+Uppsalakommun,Höganäs,Salagatan 7A,2,66.0,3525,3100000,2897196
+Uppsalakommun,Kapellgärdet,Portalgatan 53,2,51.0,3601,2085000,2085000
+Uppsalakommun,Kungsängen,Kungsängsgatan 57F,2,71.0,4351,2500000,2358490
+Uppsalakommun,Nyby,Leopoldsgatan 19,1.5,36.0,2155,1495000,1495000
+Uppsalakommun,Höganäs,Väderkvarnsgatan 15 E,2.5,66.0,2885,2850000,2590909
+Uppsalakommun,NorraRosendal,Dekangatan 10 (2-1308),1,29.0,1700,1555000,1555000
+Uppsalakommun,Salabacke,Murargatan 8B,3,70.9,3807,2575000,2500000
+Uppsalakommun,Uppsala,Råbyvägen 80,1.5,45.0,2881,1700000,1588785
+Uppsalakommun,Fålhagen,Petterslundsgatan 23 A,1,32.0,1770,1850000,1850000
+Uppsalakommun,Uppsala,Bernadottestigen 1B,1,31.0,2095,1425000,1425000
+Uppsalakommun,Luthagen,Geijersgatan 50C,3,62.0,4681,2300000,2000000
+Uppsalakommun,NorraRosendal,Dekangatan 10 (2-1002),3,53.0,3108,2545000,2545000
+Uppsalakommun,Fålhagen,Väderkvarnsgatan 52B,1.5,50.0,2462,2330000,1991452
+Uppsalakommun,Sävja,Ölandsresan 3B,2,41.0,2570,1550000,1504854
+Uppsalakommun,Gränby,"Dimgatan 19, ½ tr",3,80.0,4255,2105000,1985849
+Uppsalakommun,Vårdsätra,Eksätravägen 130,3,72.8,4943,1895000,1895000
+Uppsalakommun,Uppsala,Gimogatan 8A,1.5,35.0,2590,1800000,1698113
+Uppsalakommun,Salabacke,Murargatan 26C,2,56.1,2915,2000000,1801801
+Uppsalakommun,Centrum,Linnégatan 16B,3.5,75.0,4824,3500000,2500000
+Uppsalakommun,Gränbystaden,Marknadsgatan 30A,2,52.5,3308,2300000,2300000
+Uppsalakommun,Gränby,Marknadsgatan 40,2,43.5,2741,1800000,1800000
+Uppsalakommun,Gränby,Marknadsgatan 30A,3,68.5,3996,2550000,2550000
+Uppsalakommun,Kapellgärdet,Portalgatan 19,3,77.0,4434,3325000,2995495
+Uppsalakommun,Kapellgärdet,Portalgatan 90,5,111.0,5556,4850000,4801980
+Uppsalakommun,Fålhagen,Frodegatan 17B,2,61.0,3242,2725000,2595238
+Uppsalakommun,Gränbystaden,Marknadsgatan 30B,1,28.0,1797,1400000,1400000
+Uppsalakommun,FrämreLuthagen,Luthagsesplanaden 3 B,4,103.0,5208,4700000,4607843
+Uppsalakommun,Gränbystaden,Marknadsgatan 40,2,43.5,2741,1775000,1775000
+Uppsalakommun,Höganäs,S:t Persgatan 40b,1,41.5,1970,1650000,1527777
+Uppsalakommun,Fålhagen,Oxelgatan 16B,2,52.0,3350,2410000,2190909
+Uppsalakommun,Nyby,Leopoldsgatan 23,2,52.0,2998,1750000,1699029
+Uppsalakommun,Svartbäcken,Timmermansgatan 3D,2,66.7,2876,2800000,2568807
+Uppsalakommun,Kapellgärdet,Djäknegatan 50,2.5,57.0,3282,2550000,2090163
+Uppsalakommun,Luthagen,Gimogatan 13E,3,86.0,3863,3250000,2981651
+Uppsalakommun,Herrhagen,Herrhagsvägen 401,2,52.0,3799,1400000,1400000
+Uppsalakommun,Årsta,Fyrislundsgatan 34,2,63.5,3905,1995000,1995000
+Uppsalakommun,Centrum,Kålsängsgränd 1 C,2,46.4,3650,2025000,1947115
+Uppsalakommun,Gränbystaden,Marknadsgatan 40,3,78.5,4579,2850000,2850000
+Uppsalakommun,HÖGANÄS,S:t Olofsgatan 52B,2,40.0,2609,2000000,1904761
+Uppsalakommun,Fålhagen,Torkelsgatan 10 A,3,74.3,3512,3720000,3611650
+Uppsalakommun,FrämreLuthagen,Sturegatan 1,1,40.0,2706,2425000,2146017
+Uppsalakommun,Gränby,Marknadsgatan 30A,2,52.5,3308,2350000,2350000
+Uppsalakommun,Eriksberg,Gnejsvägen 2J,2,62.8,4015,2030000,1990196
+Uppsalakommun,KÅBO,"Banérgatan 16 C, 1104",4,89.0,4064,4100000,4100000
+Uppsalakommun,Herrhagen,Herrhagsvägen 197,2,55.0,2956,1715000,1715000
+Uppsalakommun,Höganäs,Vaksalagatan 40B,4,97.0,5384,4300000,3981481
+Uppsalakommun,Rosendal,Torgny Segerstedts allé 4,1,31.0,1590,2050000,1990291
+Uppsalakommun,Fålhagen,Botvidsgatan 16a,2,48.0,3200,2210000,2104761
+Uppsalakommun,CentrumUppsala,Bäverns gränd 15A,1,41.5,1630,2275000,2146226
+Uppsalakommun,Svartbäcken,Svartbäcksgatan 127,3,82.0,5031,3215000,2679166
+Uppsalakommun,Heidenstam,Stagneliusgatan 27,4,102.5,5469,2440000,2301886
+Uppsalakommun,Kungsängen,Mältargatan 13A,2,45.0,2922,2520000,2400000
+Uppsalakommun,Salabacke,Byggmästargatan 17C,1,43.0,2438,1650000,1601941
+Uppsalakommun,Ekeby,Flogstavägen 5B,3,76.3,6402,1895000,1895000
+Uppsalakommun,KÅBO,"Banérgatan 16 B, 1101",5,89.0,4064,4190000,4190000
+Uppsalakommun,Salabacke,Källparksgatan 12D,2,42.0,1857,1825000,1789215
+Uppsalakommun,Rosendal,Rosendalsvägen 12C,1,27.0,1321,2030000,1897196
+Uppsalakommun,Kungsängen,Sågargatan 12A,2,44.0,2916,2660000,2396396
+Uppsalakommun,Centrum,Stationsgatan 30,2,59.0,3467,3000000,2884615
+Uppsalakommun,Rosendal,Dekangatan 4,4,88.0,4938,3795000,3795000
+Uppsalakommun,Kungsängen,Sågargatan 13D,2,66.0,3798,2880000,2742857
+Uppsalakommun,Kåbo,Dag Hammarskjölds väg 15A,1,29.0,2652,1700000,1491228
+Uppsalakommun,Gränby,Marknadsgatan 44,2,43.5,2741,1825000,1825000
+Uppsalakommun,Stenhagen,Stenhagsvägen 255,3,82.5,4754,1760000,1571428
+Uppsalakommun,Höganäs,Höganäsgatan 11 C,3,65.3,2779,2915000,2602678
+Uppsalakommun,Gränby,Marknadsgatan 40,2,43.5,2741,1800000,1800000
+Uppsalakommun,Gränby,Marknadsgatan 40,3,78.5,4579,3000000,3000000
+Uppsalakommun,Gränbystaden,Marknadsgatan 40,2,43.5,2741,2025000,2025000
+Uppsalakommun,Gränby,Marknadsgatan 44,2.5,55.0,3369,2300000,2300000
+Uppsalakommun,Gränby,Marknadsgatan 40,3,78.5,4579,3050000,3050000
+Uppsalakommun,Gränby,Marknadsgatan 48,4,94.0,5209,4200000,4200000
+Uppsalakommun,Löten,Bellmansgatan 140,3,81.5,4132,2400000,2201834
+Uppsalakommun,Gränbystaden,Marknadsgatan 40,2.5,55.0,3369,2200000,2200000
+Uppsalakommun,Gränby,Marknadsgatan 44,3,78.5,4579,3400000,3400000
+Uppsalakommun,Gränby,Marknadsgatan 44,2,43.5,2741,1875000,1875000
+Uppsalakommun,Gränbystaden,Marknadsgatan 44,3,78.5,4579,2800000,2800000
+Uppsalakommun,Uppsala,Pålgatan 3,2,54.0,3457,2300000,2254901
+Uppsalakommun,Luthagen,Vindhemsgatan 32A,1,41.0,1690,2350000,2259615
+Uppsalakommun,Gränbystaden,Marknadsgatan 44,3,78.5,4579,2850000,2850000
+Uppsalakommun,Löten,Dagermansgatan 3E,4,84.0,4734,2400000,2201834
+Uppsalakommun,Luthagen,Viktoriagatan 6B,1.5,37.5,2669,2390000,1796992
+Uppsalakommun,Gränbystaden,Marknadsgatan 40,2.5,55.0,3369,2300000,2300000
+Uppsalakommun,Luthagen,Tiundagatan 47,2,59.0,2862,2300000,2300000
+Uppsalakommun,Gränby,Marknadsgatan 48,4,94.0,5209,4500000,4500000
+Uppsalakommun,Gränbystaden,Marknadsgatan 44,3,78.5,4579,2750000,2750000
+Uppsalakommun,Kungsängen,Sållargatan 4,1,32.0,1498,1895000,1895000
+Uppsalakommun,Gränby,Marknadsgatan 48,3,79.5,4638,3200000,3200000
+Uppsalakommun,Gränbystaden,Marknadsgatan 48,4,94.0,5209,3600000,3600000
+Uppsalakommun,Gränby,Marknadsgatan 48,3,79.5,4638,3400000,3400000
+Uppsalakommun,Gränby,Marknadsgatan 44,2,43.5,2741,1850000,1850000
+Uppsalakommun,Höganäs,S:t Olofsgatan 43B,2,63.0,3326,2685000,2294871
+Uppsalakommun,Gränby,Marknadsgatan 40,2,43.5,2741,1825000,1825000
+Uppsalakommun,Kungsängen,Skyttelgatan 16,3,86.0,3893,4605000,3597656
+Uppsalakommun,Kungsängen,Sågargatan 6C,3,74.0,3684,3820000,3237288
+Uppsalakommun,Gränbystaden,Marknadsgatan 44,2,43.5,2741,1800000,1800000
+Uppsalakommun,Gränby,Marknadsgatan 40,2,43.5,2641,1850000,1850000
+Uppsalakommun,Uppsala,Skolgatan 22A,3,89.0,4339,4900000,4188034
+Uppsalakommun,Gränby,Marknadsgatan 44,2,43.5,2741,1925000,1925000
+Uppsalakommun,Gränbystaden,Marknadsgatan 40,3,78.5,4579,2950000,2950000
+Uppsalakommun,Gränbystaden,Marknadsgatan 44,3,78.5,4579,3050000,3050000
+Uppsalakommun,FrämreLuthagen,Luthagsesplanaden 9A,1,19.3,1200,1395000,1395000
+Uppsalakommun,Gränby,Marknadsgatan 48,4,94.0,5209,3525000,3525000
+Uppsalakommun,Industristaden,Kungsängsesplanaden 12D,3,79.0,4327,3600000,3396226
+Uppsalakommun,Löten,Stagneliusgatan 27,3,84.5,4565,2050000,2009803
+Uppsalakommun,Ekeby,Flogstavägen 5 A,2,63.0,5658,1600000,1600000
+Uppsalakommun,Salabacke,Byggmästargatan 11 A,2,61.0,2951,2090000,2049019
+Uppsalakommun,FulleröHage,Stratusvägen 34,5,148.0,4480,4675000,4495192
+Uppsalakommun,Centrum,S:t Olofsgatan 31A,3,91.0,4787,5300000,4491525
+Uppsalakommun,Vårdsätra,Hugo Alfvéns väg 26,2,64.5,3570,1750000,1699029
+Uppsalakommun,Nyby,Lidnersgatan 40,2,63.5,4122,1695000,1695000
+Uppsalakommun,Stabby,Pelargatan 22,4,92.0,4888,3600000,3495145
+Uppsalakommun,Centrum,Storgatan 23B - FAST PRIS!,3.5,93.0,4870,4995000,4995000
+Uppsalakommun,Fålhagen,Norrtäljegatan 6B,3,81.4,4155,3910000,3688679
+Uppsalakommun,ÅRSTA,Kamomillgatan 16,2,63.0,3651,2025000,1857798
+Uppsalakommun,Kapellgärdet,Ljusbärargatan 1,3,81.0,4167,3575000,3191964
+Uppsalakommun,Luthagen,Geijersgatan 14a,1,26.0,1161,1950000,1695652
+Uppsalakommun,Salabacke,Byggmästargatan 1F,1,25.5,1933,1295000,1295000
+Uppsalakommun,Stenhagen,Stenhagsvägen 144,4,99.9,6880,2200000,1999999
+Uppsalakommun,Sävja,Gotlandsresan 85,4,93.0,5683,2300000,1900826
+Uppsalakommun,LUTHAGEN,Norrlandsgatan 44A,2,59.0,2878,2100000,2000000
+Uppsalakommun,Salabacke,Johannelundsgatan 4,2,56.0,3277,1900000,1900000
+Uppsalakommun,Nybygård,Hurtigs Gata 23,1.5,41.0,2791,1430000,1388349
+Uppsalakommun,Kapellgärdet,Djäknegatan 27 A,2,46.0,2921,2100000,2000000
+Uppsalakommun,Kapellgärdet,Ljusbärargatan 7,3,77.0,4156,3700000,2983870
+Uppsalakommun,Centrum,Odensgatan 4A,1,15.6,1087,1350000,1350000
+Uppsalakommun,Salabacke,Johannesbäcksgatan 82C,3,69.0,3153,2100000,2000000
+Uppsalakommun,Svartbäcken,Sköldungagatan 36C,3,64.0,3693,2800000,2592592
+Uppsalakommun,Björklinge,Lindgårdsvägen 34,5,124.6,5890,3050000,2401574
+Uppsalakommun,Ekeby,Vänortsgatan 66,3,76.7,4833,5350000,4495798
+Uppsalakommun,Fålhagen,Fålhagsleden 4B,1.5,40.0,2317,2010000,1896226
+Uppsalakommun,Centrum,Vaksalagatan 22 E,3,119.5,5953,6500000,5963302
+Uppsalakommun,Luthagen,Tegnérgatan 33 C,2,54.0,3465,2300000,1982758
+Uppsalakommun,Kungsängen,Siktargatan 15,3.5,90.0,3824,3900000,3391304
+Uppsalakommun,Centrum,Storgatan 16A,6,117.1,5426,5300000,5300000
+Uppsalakommun,Rosendal,Soldathemsvägen 3,3.5,81.0,3518,4255000,3976635
+Uppsalakommun,Gränby,Råbyvägen 57A,3.5,78.0,4608,2395000,2395000
+Uppsalakommun,Sävja,Smålandsvägen 2,2.5,64.0,4702,1750000,1400000
+Uppsalakommun,Salabacke,Ritargatan 1E,3,89.0,4734,2700000,2500000
+Uppsalakommun,Löten,Stagneliusgatan 15,2,59.0,3247,1550000,1504854
+Uppsalakommun,Kungsgärdet,S:t Johannesgatan 36B,3,56.0,4123,2400000,2000000
+Uppsalakommun,Gränby,Råbyvägen 57E,1,36.0,2529,1495000,1495000
+Uppsalakommun,Nyby,Wivalliusgatan 39,2,61.0,3175,1875000,1768867
+Uppsalakommun,Rosendal,Rosendalsvägen 12,1,27.0,1321,2000000,1941747
+Uppsalakommun,Flogsta,Flogstavägen 170,5,114.5,5991,4000000,4000000
+Uppsalakommun,Kapellgärdet,Portalgatan 78,2,56.0,3249,2570000,4000000
+Uppsalakommun,Rosendal,Torgny Segerstedts allé 21,1,32.0,1566,2000000,1851851
+Uppsalakommun,Kungsängen,Industrigatan 19,1,35.0,2108,1995000,1995000
+Uppsalakommun,Årsta,"Kamomillgatan 1, lgh 1003",3,78.0,4207,2900000,2500000
+Uppsalakommun,Centrum,Trädgårdsgatan 12 A,3,97.1,4420,7800000,6093750
+Uppsalakommun,Rosendal,Torgny Segerstedts allé 32,2,48.0,3208,2025000,1985294
+Uppsalakommun,Luthagen,Fyrisvallsgatan 10A,1,25.0,1750,1725000,1725000
+Uppsalakommun,Gränby,Dimgatan 7,4,90.0,4642,2282500,2194711
+Uppsalakommun,Luthagen,Fyrisvallsgatan 12A,1,25.0,1750,1725000,1725000
+Uppsalakommun,Salabacke,Ritargatan 1E,1,43.0,2521,1650000,1650000
+Uppsalakommun,Fålhagen,Petterslundsgatan 14,1,24.0,1759,1650000,1601941
+Uppsalakommun,Salabacke,Fyrislundsgatan 37C,3,75.0,4408,2900000,1601941
+Uppsalakommun,Salabacke,Johannesbäcksgatan 86A,4,91.2,4625,2950000,2587719
+Uppsalakommun,FrämreLuthagen,Torsgatan 6B,4,102.0,3821,4860000,4811881
+Uppsalakommun,Kåbo,Villavägen 37,1,30.2,2464,1250000,1250000
+Uppsalakommun,Centrum,Kungsgatan 54 B,2,58.0,2941,2375000,2375000
+Uppsalakommun,Höganäs,Salagatan 5A,2.5,66.0,3525,3500000,2375000
+Uppsalakommun,Salabacke,Murargatan 26C,1,38.1,2079,1555000,1480952
+Uppsalakommun,Luthagen,Gimogatan 5B,2,44.5,2765,1850000,1850000
+Uppsalakommun,Luthagen,Tegnérgatan 33A,2,54.0,3451,2500000,2358490
+Uppsalakommun,Nyby,Leopoldsgatan 23,3,72.0,3993,2300000,2358490
+Uppsalakommun,CENTRUM,S:t Persgatan 27,2,67.7,3617,2650000,2366071
+Uppsalakommun,Luthagen,Klangs gränd 3A,1,22.0,2022,1595000,1595000
+Uppsalakommun,Luthagen,Götgatan 20C,2,63.0,3772,2805000,2504464
+Uppsalakommun,Luthagen,Sibyllegatan 7A,2,54.0,3422,2400000,2201834
+Uppsalakommun,Kungsängen,Sågargatan 9A,2,69.0,2797,2745000,2495454
+Uppsalakommun,Fålhagen,S:t Persgatan 34 A - Fast Pris,2,62.0,2139,2600000,2600000
+Uppsalakommun,Gränby,Dimgatan 22,4,77.0,4712,2510000,2201754
+Uppsalakommun,Slavsta,Stålgatan 42,3,80.0,4964,2740000,2490909
+Uppsalakommun,Fålhagen,Frodegatan 10B,1,38.5,2586,2425000,2204545
+Uppsalakommun,Rosendal,Torgny Segerstedts allé 9,2,38.0,2214,1795000,1795000
+Uppsalakommun,Höganäs,Storgatan 12,2,63.0,3693,2360000,2291262
+Uppsalakommun,Ulleråker,Henry Säldes väg 10,2,69.5,5002,2400000,2142857
+Uppsalakommun,Svartbäcken,Tunagatan 1A,2,54.9,2687,2300000,2190476
+Uppsalakommun,Kungsängen,Siktargatan 10,2,37.0,2813,2200000,2190476
+Uppsalakommun,Årsta,Fyrislundsgatan 52,3,77.9,2776,2550000,2198275
+Uppsalakommun,Kungsängen,Tullgarnsgatan 14,2,54.0,3283,2625000,2453271
+Uppsalakommun,Nåntuna,Nåntunavägen 3,2,87.0,4977,2860000,2860000
+Uppsalakommun,Centrum,S:t Persgatan 29,2,67.7,3556,2750000,2391304
+Uppsalakommun,Sommarro,Lindsbergsgatan 11C,3,69.7,3932,3300000,2796610
+Uppsalakommun,Ulleråker,Eva Lagerwalls Väg 4,3,84.0,5350,2550000,2297297
+Uppsalakommun,Höganäs,Väderkvarnsgatan 15C,2,48.5,2175,2450000,2094017
+Uppsalakommun,Fålhagen,Norrtäljegatan 29,2,57.0,4355,2910000,2598214
+Uppsalakommun,Eriksberg,Lindsbergsgatan 7C,2,46.0,2774,2450000,1991869
+Uppsalakommun,Gränby,Blixtgatan 3,2,66.5,3230,1850000,1850000
+Uppsalakommun,Luthagen,Norrlandsgatan 42B,3,77.0,4054,2650000,2500000
+Uppsalakommun,Luthagen,Formgatan 3,3,78.0,4088,2850000,2794117
+Uppsalakommun,Fålhagen,Väderkvarnsgatan 32 B,1,24.8,1443,1790000,1688679
+Uppsalakommun,Fålhagen,Fålhagsleden 3 C,1,39.0,2467,2200000,2095238
+Uppsalakommun,Luthagen,Norrlandsgatan 36A,2,63.0,3175,2700000,2389380
+Uppsalakommun,ÅRSTA,Kummingatan 4C,3,79.7,4429,2550000,2383177
+Uppsalakommun,Salabacke,Gröna gatan 31D,5,111.0,6157,3100000,2980769
+Uppsalakommun,Kapellgärdet,Vattholmavägen 6A,2,57.0,3208,2350000,2303921
+Uppsalakommun,Luthagen,Götgatan 10B,1,37.0,1880,2600000,2148760
+Uppsalakommun,Kapellgärdet,Portalgatan 56,3,86.5,4859,2825000,2640186
+Uppsalakommun,Årsta,Fyrislundsgatan 32,1.5,45.0,2757,1700000,1588785
+Uppsalakommun,Fålhagen,Petterslundsgatan 22C,3.5,86.6,4703,3600000,2950819
+Uppsalakommun,Norby,Tryffelvägen 11,2,67.0,5156,1800000,2950819
+Uppsalakommun,Luthagen,Fyrisvallsgatan 3b,3,78.0,5639,2995000,2995000
+Uppsalakommun,Länna,Kalle blanks väg 2,1,36.7,2267,995000,995000
+Uppsalakommun,Sävja,"Blekingevägen 18, 1tr",4,95.4,5609,1920000,1600000
+Uppsalakommun,Löten,Heidenstamsgatan 51,2,65.5,3728,1850000,1681818
+Uppsalakommun,Sommarro,Norbyvägen 44B,5,150.0,6298,4850000,4754901
+Uppsalakommun,Ulleråker,Gustaf Kjellbergs väg 12,3.5,93.1,6179,2700000,2700000
+Uppsalakommun,GamlaUppsala,Gamla uppsalagatan 5,2,49.0,2995,1995000,1995000
+Uppsalakommun,Löten,Heidenstamsgatan 1,2,65.5,3736,1800000,1747572
+Uppsalakommun,Sävja,Gotlandsresan 99 -  med uthyrningsdel,4,104.5,6628,2370000,2194444
+Uppsalakommun,Kungsängen,Sågargatan 15 B,3,91.0,3970,4170000,3504201
+Uppsalakommun,Kapellgärdet,Portalgatan 63,3,91.0,5502,3650000,3201754
+Uppsalakommun,Luthagen,Gimogatan 13A,2,43.0,2836,2150000,1972477
+Uppsalakommun,Kungsängen,Kungsgatan 93C,2,54.0,2367,2800000,2499999
+Uppsalakommun,Luthagen,Tiundagatan 22B,2,52.9,2821,2295000,2295000
+Uppsalakommun,Eriksberg,Gnejsvägen 5B,2.5,61.5,3781,2200000,1999999
+Uppsalakommun,Kåbo,Dag Hammarskjölds väg 15c,1.5,36.0,3335,1700000,1588785
+Uppsalakommun,Kåbo,Dekangatan 4,2,43.5,2883,2145000,2145000
+Uppsalakommun,Luthagen,Fyrisvallsgatan 10A,1,29.0,1995,1795000,1795000
+Uppsalakommun,Salabacke,Fyrislundsgatan 21A,3,80.0,4530,3300000,2894736
+Uppsalakommun,Fålhagen,Norrtäljegatan 20B,2,55.0,2900,2850000,2567567
+Uppsalakommun,Rosendal,Dekangatan 4,2,41.5,2794,2045000,2045000
+Uppsalakommun,Rosendal,Dekangatan 4,2,41.5,2794,2195000,2195000
+Uppsalakommun,FrämreLuthagen,Sturegatan 1,1,39.2,2625,2400000,2086956
+Uppsalakommun,Salabacke,Johannesbäcksgatan 34C,2,63.0,2964,2195000,2195000
+Uppsalakommun,Kåbo,Gerd Enequists gata 14,4,90.5,5055,3745000,3745000
+Uppsalakommun,Fålhagen,Eskilsgatan 4 A,1,20.0,1469,1325000,1261904
+Uppsalakommun,Salabacke,Salabacksgatan 62,3,76.6,4441,3700000,3303571
+Uppsalakommun,Skyttorp,Myrvägen 7,2.5,67.7,4628,1095000,1095000
+Uppsalakommun,Årsta,Fyrislundsgatan 54,3,83.5,3928,2395000,2395000
+Uppsalakommun,Årsta,Fänkålsgatan 33,5,101.0,5869,3000000,3000000
+Uppsalakommun,Centrum,Trädgårdsgatan 12B,3.5,100.0,4562,8000000,6504065
+Uppsalakommun,Svartbäcken,Idunagatan 20 C,1.5,46.0,2734,2400000,2285714
+Uppsalakommun,Industristaden,Kungsgatan 93C,1.5,36.0,1651,2365000,2189814
+Uppsalakommun,Fålhagen,Petterslundsgatan 14E,1,24.0,1759,1695000,1695000
+Uppsalakommun,Centrum,Salagatan 35B,3,74.0,4055,3750000,3712871
+Uppsalakommun,Kåbo,Dag Hammarskjölds väg 15C,1,27.0,2480,1595000,1490654
+Uppsalakommun,Ulleråker,Ulleråkersvägen 64,6,136.0,8179,4000000,1490654
+Uppsalakommun,Centrum,Hamnesplanaden 2 A,4,103.1,4974,4325000,4004629
+Uppsalakommun,Höganäs,Storgatan 22 E,3,76.9,3773,4020000,3495652
+Uppsalakommun,Fålhagen,Norrtäljegatan 9 A,2,59.0,3470,3630000,3392523
+Uppsalakommun,Centrum,Dragarbrunnsgatan 64,2,58.5,2662,2700000,2500000
+Uppsalakommun,SÄVJA,Ölandsresan 3C,2,49.0,2952,1800000,1747572
+Uppsalakommun,Eriksberg,Granitvägen 16C,3,78.0,3377,2750000,1747572
+Uppsalakommun,Salabacke,Murargatan 14B,3,70.1,4103,2200000,1999999
+Uppsalakommun,Årsta,Kummingatan 48A,2,60.3,3490,1755000,1687500
+Uppsalakommun,Kåbo,Dag Hammarskjölds väg 15B,2,37.0,3421,1620000,1500000
+Uppsalakommun,Luthagen,Fyrisvallsgatan 10A,1,29.0,1995,1795000,1795000
+Uppsalakommun,Luthagen,Börjegatan 57,2,50.0,3362,1995000,1995000
+Uppsalakommun,Luthagen,Börjegatan 54B,4,95.1,4296,3650000,2991803
+Uppsalakommun,Höganäs,Torkelsgatan 30B,2,55.9,2553,2650000,2991803
+Uppsalakommun,Luthagen,Stabby allé 7B,1,40.0,2150,1850000,1850000
+Uppsalakommun,Rosendal,Torgny Segerstedts allé 17B,2,40.0,2330,2500000,2100840
+Uppsalakommun,Svartbäcken,Västra järnvägsgatan 19C,3,87.0,5416,4610000,3906779
+Uppsalakommun,Eriksberg,Gnejsvägen 12 B,2,56.0,3131,2300000,2190476
+Uppsalakommun,Svartbäcken,Egilsgatan 11B,1.5,39.0,2290,2010000,1747826
+Uppsalakommun,Tunabackar,Väpnargatan 17A,2,64.5,3314,2350000,1895161
+Uppsalakommun,Nyby,Leopoldsgatan 19,2,37.0,2255,1625000,1593137
+Uppsalakommun,Kvarngärdet,Kvarntorget 7 FAST PRIS FÖRST TILL KVARN,2,49.0,2196,2295000,2295000
+Uppsalakommun,Stenhagen,Stenhagsvägen 251,3,79.5,4554,1800000,1682242
+Uppsalakommun,Tunabackar,Fjärdhundragatan 24,2,60.5,3218,1930000,1787037
+Uppsalakommun,Luthagen,Eriksgatan 15 A,2,80.4,4267,4200000,3500000
+Uppsalakommun,Svartbäcken,Egilsgatan 9B,3,63.5,4556,2550000,3500000
+Uppsalakommun,Berthåga,Herrhagsvägen 407A,2,70.0,-,1190000,3500000
+Uppsalakommun,Kapellgärdet,Vattholmavägen 6 D,4,99.0,4812,3800000,3486238
+Uppsalakommun,NorraLuthagen,Klockargatan 19,4,89.0,5306,3720000,3206896
+Uppsalakommun,KÅBO,"Banérgatan 16 B, 1201",3,88.0,4041,4100000,4100000
+Uppsalakommun,KÅBO,"Banérgatan 16 C, 1003",1,20.0,1252,1300000,1300000
+Uppsalakommun,Luthagen,Ringgatan 41C,3,68.0,3973,2990000,2491666
+Uppsalakommun,Fålhagen,Botvidsgatan 16A,2,48.0,3200,2300000,2090909
+Uppsalakommun,Fålhagen,Petterslundsgatan 18B,1,34.0,1957,1705000,1655339
+Uppsalakommun,GRÄNBY,Råbyvägen 57E,1,36.0,2529,1645000,1645000
+Uppsalakommun,Kapellgärdet,Torngatan 36,6,134.0,6084,5700000,5181818
+Uppsalakommun,Kvarngärdet,Råbyvägen 41,2,58.0,3430,2275000,2187500
+Uppsalakommun,Salabacke,Gröna gatan 31D,2,60.5,3494,1900000,1652173
+Uppsalakommun,Rosendal,Rosendalsvägen 12 C,1,32.0,1566,2000000,1886792
+Uppsalakommun,Kungsängen,Kungsängsgatan 59G,3,80.0,4668,3350000,2991071
+Uppsalakommun,FrämreLuthagen,Skolgatan 33 B,4,95.0,4917,5300000,4491525
+Uppsalakommun,Fullerö,Meteorvägen 30,2,60.0,3500,1895000,1895000
+Uppsalakommun,Kapellgärdet,Orgelgatan 9,2,45.0,2238,2215000,2193069
+Uppsalakommun,FrämreLuthagen,Fredsgatan 4B,3,66.0,3198,3400000,2982456
+Uppsalakommun,Kapellgärdet,Portalgatan 68,2,49.0,2928,2400000,2181818
+Uppsalakommun,Höganäs,S:t Olofsgatan 56 A,2.5,66.0,3974,2610000,2485714
+Uppsalakommun,Kapellgärdet,Portalgatan 79,3,73.5,4170,3550000,2983193
+Uppsalakommun,Salabacke,Johannesbäcksgatan 99,1,35.0,2270,1540000,1400000
+Uppsalakommun,Fålhagen,Torkelsgatan 8A,1.5,45.0,3113,2350000,2098214
+Uppsalakommun,Kungsängen,Tullgarnsgatan 9,3,81.0,4227,3500000,2098214
+Uppsalakommun,Kungsängen,Skyttelgatan 8,3.5,101.0,4870,4975000,4288793
+Uppsalakommun,ÅRSTA,Kummingatan 22 B,3.5,79.7,4426,2405000,2091304
+Uppsalakommun,Årsta,Kamomillgatan 23,3,78.0,4207,3000000,2343750
+Uppsalakommun,Salabacke,Murargatan 22 B,2,56.1,2855,1950000,1893203
+Uppsalakommun,Luthagen,Geijersgatan 50A,2,48.5,3669,2510000,2201754
+Uppsalakommun,Salabacke,Byggmästargatan 3c,1,39.0,2011,1925000,1887254
+Uppsalakommun,KÅBO,"Banérgatan 16 B, 1003",1,20.0,1252,1300000,1300000
+Uppsalakommun,Fålhagen,Petterslundsgatan 33,1.5,41.3,1995,2275000,1697761
+Uppsalakommun,Kungsängen,Sågargatan 8 C,3,87.0,3458,3450000,3194444
+Uppsalakommun,Luthagen,Pålgatan 3,3,72.0,3962,3020000,2849056
+Uppsalakommun,Kungsgärdet,Eriksbergsvägen 9 A,4,82.0,3006,3900000,2849056
+Uppsalakommun,Luthagen,Geijersgatan 50 C,2,43.0,3257,2200000,1896551
+Uppsalakommun,Nyby,Leopoldsgatan 19,2,42.0,2504,1600000,1600000
+Uppsalakommun,Svartbäcken,Svartbäcksgatan 108E,3,74.0,5378,2650000,2345132
+Uppsalakommun,Salabacke,Byggmästargatan 7A,2,67.0,3197,2100000,1981132
+Uppsalakommun,Kungsängen,Eldkvarnsgatan 3,2,44.0,2390,2500000,2192982
+Uppsalakommun,Salabacke,Johannesbäcksgatan 95A,2,44.0,2785,1850000,1850000
+Uppsalakommun,Gottsunda,Valthornsvägen 62 A,3,78.0,4533,1720000,1702970
+Uppsalakommun,Sävja,Blekingevägen 13,3,76.0,4727,1700000,1452991
+Uppsalakommun,FrämreLuthagen,Luthagsesplanaden 5B,1.5,40.0,2649,2500000,2293577
+Uppsalakommun,Kapellgärdet,Portalgatan 56,4,105.5,5712,3455000,3387254
+Uppsalakommun,Sävja,Bergslagsresan 53,4,97.0,5459,2400000,2201834
+Uppsalakommun,Höganäs,Botvidsgatan 4D,1,40.0,2209,1900000,1844660
+Uppsalakommun,Luthagen,Kyrkogårdsgatan 45B,4,82.0,4647,3797000,3797000
+Uppsalakommun,Kungsängen,Kungsgatan 93D,1,36.0,1651,2300000,2000000
+Uppsalakommun,Fålhagen,Petterslundsgatan 23D,1,32.0,1770,2050000,2000000
+Uppsalakommun,NorraRosendal,Torgny Segerstedts Allé 85,3,75.0,3459,3685000,3509523
+Uppsalakommun,Gottsunda,Dirigentvägen 143,3,78.6,4643,2150000,1653846
+Uppsalakommun,Gränby,Dimgatan 3,4,90.0,4642,2530000,2300000
+Uppsalakommun,Centrum,Vaksalagatan 20,2,86.7,3843,3000000,2884615
+Uppsalakommun,Uppsala,Lidnersgatan 35,3,74.0,4402,2070000,2049504
+Uppsalakommun,Centrum,Fålhagsleden 6 C,2,52.5,2544,2495000,2495000
+Uppsalakommun,Fålhagen,Hjalmar Brantingsgatan 3A,3,91.0,4270,4700000,2495000
+Uppsalakommun,Svartbäcken,Gamla Uppsalagatan 22,2,53.0,2505,2200000,2115384
+Uppsalakommun,Luthagen,Luthagsesplanaden 28B,1,34.0,1858,2075000,1995192
+Uppsalakommun,Gränby,Råbyvägen 55E,1,29.0,2179,1350000,1350000
+Uppsalakommun,Centrum,"Bäverns Gränd 18A, 1 tr.",5,134.5,7399,4499000,3981415
+Uppsalakommun,Rosendal,Gerd Enequists gata 12 B,2,50.0,3184,2395000,2395000
+Uppsalakommun,Tunabackar,Fjärdhundragatan 26,3,82.5,4133,2675000,2500000
+Uppsalakommun,Fålhagen,Österängsgatan 26 C,2,53.2,2522,2125000,2103960
+Uppsalakommun,Kåbo,Grindstugegatan 5,3,70.5,4129,4495000,4495000
+Uppsalakommun,Stabby,Tiundagatan 61,3,74.1,3980,3000000,2702702
+Uppsalakommun,Svartbäcken,Svartbäcksgatan 72 B,3,72.6,3613,3000000,2631578
+Uppsalakommun,Centrum,Dragarbrunnsgatan 33,1,23.0,1487,1825000,2631578
+Uppsalakommun,Luthagen,Fyrisvallsgatan 10A,1,29.0,1995,1645000,1645000
+Uppsalakommun,Kapellgärdet,Portalgatan 80,4,94.0,4761,4225000,3706140
+Uppsalakommun,Fålhagen,Fålhagsleden 8B,1,30.0,1718,1850000,1796116
+Uppsalakommun,Fålhagen,Petterslundsgatan 23B,1.5,32.0,1721,1850000,1697247
+Uppsalakommun,Gränby,Regngatan 13,2,59.5,3769,1550000,1504854
+Uppsalakommun,Valsätra,Bernadottestigen 1B,1,31.0,2095,1475000,1446078
+Uppsalakommun,Salabacke,Murargatan 31,2,64.3,2221,1995000,1995000
+Uppsalakommun,Vädergatorna,Molngatan 7,3,77.5,3958,2395000,2395000
+Uppsalakommun,Gränby,Regngatan 11,1,35.5,2446,1495000,1495000
+Uppsalakommun,KÅBO,"Banérgatan 16 C, 1002",1,18.0,1125,1300000,1287128
+Uppsalakommun,Löten,Ferlinsgatan 37,3,83.0,4855,2100000,1891891
+Uppsalakommun,Fålhagen,Torkelsgatan 8 C,2,50.0,3453,2750000,2350427
+Uppsalakommun,Höganäs,Botvidsgatan 6B,2,48.0,3037,2230000,2103773
+Uppsalakommun,Fålhagen,Salagatan 39A,2,60.0,3568,3560000,3296296
+Uppsalakommun,Uppsala,Bellmansgatan 84,5,113.0,5429,2800000,2592592
+Uppsalakommun,LUTHAGEN,Börjegatan 38B,2,60.0,2727,2725000,2595238
+Uppsalakommun,NorraRosendal,Dekangatan 10 (2-1506),2,44.0,2580,2025000,2025000
+Uppsalakommun,Fålhagen,Väderkvarnsgatan 54A,3,73.5,3930,3500000,2991452
+Uppsalakommun,Kapellgärdet,Råbyvägen 74,3,74.5,3998,2450000,2450000
+Uppsalakommun,Industristaden,Sågargatan 13 B,3,83.0,4551,4000000,2450000
+Uppsalakommun,Centrum,Kungsgatan 37A,4,135.0,6659,6900000,6216216
+Uppsalakommun,Luthagen,Hällbygatan 11,2,63.0,4184,2250000,2250000
+Uppsalakommun,Sommarro,Lindsbergsgatan 4A,2.5,64.5,3207,2800000,2393162
+Uppsalakommun,Höganäs,S:t olofsgatan 43D,2,55.0,2899,2290000,1991304
+Uppsalakommun,Kungsängen,Viragatan 3,3,81.0,4706,3625000,3207964
+Uppsalakommun,Årsta,Körvelgatan 31B,3,71.7,3934,2270000,2101851
+Uppsalakommun,Nyby,Leopoldsgatan 25,2,52.0,2998,1850000,1745283
+Uppsalakommun,NorraLuthagen,Klockargatan 1,3,78.0,4108,2750000,2696078
+Uppsalakommun,Industristaden,Kungsgatan 93F,2,54.0,2337,2880000,2691588
+Uppsalakommun,Centrum,Kungsgatan 52B,2,66.0,3967,2665000,2202479
+Uppsalakommun,Luthagen,Ringgatan 4F,4,106.0,5760,4500000,3600000
+Uppsalakommun,Höganäs,Höganäsgatan 7A,1.5,40.0,2610,2150000,2047619
+Uppsalakommun,Fålhagen,Fålhagsleden 8C,1,33.0,1932,1910000,1801886
+Uppsalakommun,Sävja,Västgötaresan 46,2,64.0,4605,1300000,1250000
+Uppsalakommun,Höganäs,S:t Persgatan 45 C,1,15.0,1137,1020000,953271
+Uppsalakommun,FrämreLuthagen,Börjegatan 10A,1,39.0,2267,2380000,2288461
+Uppsalakommun,Rosendal,Dekangatan 4,4,88.0,4938,3695000,3695000
+Uppsalakommun,Kungsängen,Sågargatan 12B,1.5,35.0,2446,1985000,1756637
+Uppsalakommun,Kungsängen,Kungsgatan 66 B,2,53.0,3071,2695000,2695000
+Uppsalakommun,Ekeby,Basarbovägen 4,3,82.0,5322,5040000,3600000
+Uppsalakommun,ÅRSTA,"Kummingatan 11 C, nb",3,79.7,3761,2750000,2477477
+Uppsalakommun,Centrum,Trädgårdsgatan 7B,3,82.6,3818,5400000,4615384
+Uppsalakommun,Luthagen,Geijersgatan 44B,1,37.0,2204,2350000,2196261
+Uppsalakommun,Gränby,Albert engströmsgatan 2H - FAST PRIS!,2,48.5,3294,1995000,1995000
+Uppsalakommun,Sävja,Stenbrohultsvägen 105,2,65.1,5332,1500000,1094890
+Uppsalakommun,SALABACKE,Johannesbäcksgatan 34B,2,63.0,2964,2100000,1874999
+Uppsalakommun,Fålhagen,Liljegatan 6 D,2,60.5,3760,2980000,2504201
+Uppsalakommun,Ulleråker,Ulleråkersvägen 60,4,96.0,6166,3000000,2702702
+Uppsalakommun,Fålhagen,Salagatan 53A,2,55.5,3736,2700000,2673267
+Uppsalakommun,Kåbo,Dekangatan 4,3,98.5,5422,3595000,3595000
+Uppsalakommun,Centrum,Bäverns gränd 13A,3,74.0,2789,5800000,4957264
+Uppsalakommun,Kungsängen,Tullgarnsgatan 3,2,45.5,2402,2500000,2192982
+Uppsalakommun,Centrum,S:t Persgatan 23 B,3,82.0,4326,3475000,3406862
+Uppsalakommun,Ekeby,Oslogatan 103,3,81.5,4707,3005000,2504166
+Uppsalakommun,Svartbäcken,Swedenborgsgatan 30 B,2,44.5,3441,1960000,1849056
+Uppsalakommun,Höganäs,Vaksalagatan 42B,2,49.0,2779,2425000,2204545
+Uppsalakommun,Stenhagen,Stenhagsvägen 253,2,71.0,4147,1700000,1588785
+Uppsalakommun,Salabacke,Murargatan 14C,1,24.5,1815,1350000,1350000
+Uppsalakommun,Rosendal,Dekangatan 4,2,43.5,2883,2295000,2295000
+Uppsalakommun,Gränby,Gränby bilgata 18,1.5,35.5,2446,1450000,1450000
+Uppsalakommun,Kåbo,Gerd Enequists gata 14,3,81.0,4618,3645000,3645000
+Uppsalakommun,Kåbo,Gerd Enequists gata 14,4,97.5,5375,3745000,3745000
+Uppsalakommun,Rosendal,Dekangatan 4,3,77.5,4453,2995000,2995000
+Uppsalakommun,Uppsala,Norrlandsgatan 34B,3,66.0,3292,2990000,2995000
+Uppsalakommun,Luthagen,Jumkilsgatan 14B,4,94.2,3718,4350000,3990825
+Uppsalakommun,Kåbo,Dekangatan 4,2,41.5,2794,2145000,2145000
+Uppsalakommun,Kåbo,Dekangatan 4,2,41.5,2794,2095000,2095000
+Uppsalakommun,Kåbo,Dekangatan 4,2,41.5,2794,2245000,2245000
+Uppsalakommun,Höganäs,Vaksalagatan 42A,1,48.0,2752,2325000,2152777
+Uppsalakommun,Kåbo,Gerd Enequists gata 14,4,97.5,5375,4145000,4145000
+Uppsalakommun,Luthagen,Dalgatan 26,3,73.5,4334,2650000,2650000
+Uppsalakommun,Kåbo,Gerd Enequists gata 14,4,90.5,5055,3895000,3895000
+Uppsalakommun,Kapellgärdet,Portalgatan 4J,2,66.0,4032,2500000,2192982
+Uppsalakommun,Gottsunda,Valthornsvägen 48D,2,68.0,3990,1400000,1400000
+Uppsalakommun,Centrum,Österplan 13,6,168.0,11916,4800000,4705882
+Uppsalakommun,Luthagen,Gimogatan 2D,3,85.0,4543,3300000,2999999
+Uppsalakommun,Luthagen,Luthagsesplanaden 10A,4,99.0,5574,4200000,4200000
+Uppsalakommun,Fålhagen,Fålhagsleden 5A,2,41.0,2424,2600000,2096774
+Uppsalakommun,Höganäs,Höganäsgatan 11a,2,65.3,2778,2502000,2194736
+Uppsalakommun,Kungsängen,Industrigatan 21,1,35.0,2153,2220000,1999999
+Uppsalakommun,Fålhagen,Torkelsgatan 19 G,3.5,85.0,4502,4110000,3702702
+Uppsalakommun,Fålhagen,Fålhagsleden 8C,1.5,41.0,2216,2290000,1892561
+Uppsalakommun,Kapellgärdet,Kapellgatan 6,1,28.0,2551,1400000,1296296
+Uppsalakommun,Vårdsätra,Eksätravägen 142,4,90.3,5959,2195000,2195000
+Uppsalakommun,Kapellgärdet,Portalgatan 4J,3,84.0,4790,3350000,3101851
+Uppsalakommun,Tunabackar,Folkungagatan 22B,4,107.7,4394,3405000,2986842
+Uppsalakommun,FrämreLuthagen,Götgatan 11,1,16.0,645,995000,995000
+Uppsalakommun,Rosendal,Torgny Segerstedts Allé 26,2,45.0,3165,2400000,2086956
+Uppsalakommun,FrämreLuthagen,Götgatan 11,4,116.0,4667,5300000,5196078
+Uppsalakommun,Länna,Länna Bruksgata 20,3,96.0,4459,2100000,1891891
+Uppsalakommun,Kungsängen,Tullgarnsgatan 7,3,78.0,4105,3050000,2798165
+Uppsalakommun,Fålhagen,Frodegatan 19B,1.5,47.0,2777,2310000,2287128
+Uppsalakommun,Industristaden,Mältargatan 13A,2,45.0,2922,2475000,2097457
+Uppsalakommun,FrämreLuthagen,Götgatan 3,2,46.0,1815,3100000,2097457
+Uppsalakommun,Kungsängen,Siktargatan 15,2,61.0,2900,3075000,2900943
+Uppsalakommun,Eriksberg,Gnejsvägen 10B,3,65.4,3596,2500000,2000000
+Uppsalakommun,Luthagen,Tiundagatan 45,3,76.0,4264,2975000,2975000
+Uppsalakommun,Eriksberg,Granitvägen 15B,3,74.8,3962,2770000,2198412
+Uppsalakommun,Fålhagen,Vaksalagatan 55,1,21.0,2386,1150000,1150000
+Uppsalakommun,Rosendal,Rosendalsvägen 12,1,32.0,1566,2020000,2000000
+Uppsalakommun,Slavsta,Stålgatan 42,3,80.0,4964,2810000,2486725
+Uppsalakommun,Stenhagen,Stenrösvägen 23,4,108.0,8293,1790000,1790000
+Uppsalakommun,Centrum,Kålsängsgränd 1 A,3,83.2,6076,3850000,3208333
+Uppsalakommun,Kapellgärdet,Portalgatan 90,5,111.0,5557,4795000,4795000
+Uppsalakommun,Luthagen,Humlegatan 3,2,65.0,4564,2030000,1897196
+Uppsalakommun,Fålhagen,Ymergatan 24C,2,58.0,2608,2650000,2500000
+Uppsalakommun,Sävja,Blekingevägen 12,3,76.0,4727,1700000,1491228
+Uppsalakommun,Löten,Ferlinsgatan 105,1.5,47.5,3080,1560000,1500000
+Uppsalakommun,Eriksberg,Gnejsvägen 14B,1,41.3,2309,1795000,1795000
+Uppsalakommun,Årsta,Fyrislundsgatan 28,2,63.5,3905,2000000,1801801
+Uppsalakommun,Höganäs,Storgatan 2D,2,59.0,3410,2345000,2191588
+Uppsalakommun,Höganäs,Salagatan 13A,2,51.0,3882,3300000,2999999
+Uppsalakommun,Salabacke,Murargatan 26B,2,56.1,2915,2020000,1787610
+Uppsalakommun,Höganäs,S:t Olofsgatan 66B,2,56.5,2661,2500000,2450980
+Uppsalakommun,Fålhagen,S:t Göransgatan 31C,2.5,76.0,4244,3500000,3301886
+Uppsalakommun,Luthagen,Prästgårdsgatan 3B,2,61.5,2788,2500000,2403846
+Uppsalakommun,Luthagen,Gimogatan 9,4,82.5,4841,4020000,3140625
+Uppsalakommun,Luthagen,Geijersgatan 21 A,2.5,72.0,3258,3380000,2793388
+Uppsalakommun,Stabby,Tiundagatan 41,3,73.5,3584,3010000,2787037
+Uppsalakommun,Gränby,Albert Engströmsgatan 2H,2,48.5,3294,1900000,1792452
+Uppsalakommun,Kapellgärdet,Portalgatan 13,3.5,92.0,4969,2950000,2783018
+Uppsalakommun,Salabacke,Ritargatan 6B,1.5,51.0,2386,1800000,1747572
+Uppsalakommun,Luthagen,Stabby Allé 13 C,3,74.9,4357,2550000,2405660
+Uppsalakommun,Gottsunda,Henry Wemans väg 2,2,50.0,3208,1595000,1595000
+Uppsalakommun,Luthagen,Tiundagatan 50A,4,91.2,4989,3625000,2995867
+Uppsalakommun,Nyby,Lidnersgatan 38,3,74.0,4516,1765000,1590090
+Uppsalakommun,Kapellgärdet,Portalgatan 75,4,92.0,5284,3440000,2991304
+Uppsalakommun,FrämreLuthagen,Börjegatan 10B,2,39.0,2407,2700000,2347826
+Uppsalakommun,Industristaden,Islandsgatan 8,2,52.5,2728,2700000,2700000
+Uppsalakommun,Luthagen,Gimogatan 9,4,87.5,5030,2895000,2895000
+Uppsalakommun,Flogsta,Flogstavägen 158,2,71.0,3622,2300000,2000000
+Uppsalakommun,Rosendal,Soldathemsvägen 5,3,78.0,3388,3650000,3509615
+Uppsalakommun,Luthagennorra,Gimogatan 7B,2,51.0,1705,3500000,3398058
+Uppsalakommun,Höganäs,Höganäsgatan 8B,1.5,39.0,2639,1995000,1900000
+Uppsalakommun,Fålhagen,Frodegatan 17A,2,47.0,2777,2500000,1984126
+Uppsalakommun,Eriksberg,Granitvägen 18E,4,99.5,4198,3750000,1984126
+Uppsalakommun,Salabacke,Fyrislundsgatan 23B,2,64.0,3946,2350000,1991525
+Uppsalakommun,Fålhagen,Fålhagsleden 2B,2,57.5,2869,2825000,2500000
+Uppsalakommun,SödraRosendal,Rosendalsvägen 12C,1,32.0,1535,2085000,1895454
+Uppsalakommun,Industristaden,Tullgarnsgatan 15,5,128.0,5573,6425000,5181451
+Uppsalakommun,Storvreta,Meteorvägen 30,3,91.0,5308,2450000,2355769
+Uppsalakommun,Årsta,"Fänkålsgatan 16, BV",3,63.0,3502,2500000,2355769
+Uppsalakommun,Fålhagen,Norrtäljegatan 15A,2,57.5,3202,2700000,2389380
+Uppsalakommun,Kungsängen,Industrigatan 21,2,53.0,2692,2700000,2389380
+Uppsalakommun,Kapellgärdet,Margit Sahlins gata 3,3,75.0,3493,3300000,2999999
+Uppsalakommun,Flogsta,Flogstavägen 5E,3,75.9,6081,1600000,1441441
+Uppsalakommun,Salabacke,Murargatan 14B,2,56.1,3423,2000000,1801801
+Uppsalakommun,Stenhagen,Stenrösvägen 3,4,101.5,7298,1710000,1499999
+Uppsalakommun,Fålhagen,Fålhagsleden 5 C,2,60.0,3583,2800000,1499999
+Uppsalakommun,Industristaden,Industrigatan 17,1,35.0,1820,2175000,2091346
+Uppsalakommun,Uppsala,Råbyvägen 41,2,58.0,3267,2225000,2225000
+Uppsalakommun,Luthagen,Geijersgatan 3,2,54.5,3303,2875000,2500000
+Uppsalakommun,Kungsängen,Kungsgatan 93F,4,109.5,4455,4400000,4190476
+Uppsalakommun,Tunabackar,Svartbäcksgatan 110C,4,87.5,6256,2950000,2892156
+Uppsalakommun,Tunabackar,Folkungagatan 12A,4,101.4,4235,3250000,3217821
+Uppsalakommun,Luthagen,Luthagsesplanaden 21B,3.5,77.0,3479,3600000,3000000
+Uppsalakommun,Luthagen,Kyrkogårdsgatan 45B,3,82.0,4535,3800000,3800000
+Uppsalakommun,Herrhagen,Milstensvägen 88,4,83.0,4646,2600000,2342342
+Uppsalakommun,Rosendal,Torgny Segerstedts allé 42,3,83.0,3702,3250000,3250000
+Uppsalakommun,Gränby,Råbyvägen 55H,2,45.0,2939,1760000,1692307
+Uppsalakommun,Norby,Stövarvägen 1 E,2,45.0,3063,1750000,1699029
+Uppsalakommun,Fålhagen,Petterslundsgatan 22 A,2,69.7,4021,2345000,2345000
+Uppsalakommun,KAPELLGÄRDET,Portalgatan 66,4,115.0,5646,4510000,4378640
+Uppsalakommun,Centrum,Kålsängsgränd 1A,2,41.8,3438,1695000,1695000
+Uppsalakommun,Höganäs,Alriksgatan 1A,2,52.5,2721,2550000,2405660
+Uppsalakommun,Stenhagen,Stenhagsvägen 174,2,70.0,4964,1280000,1142857
+Uppsalakommun,Gränby,Albert Engströmsgatan 2H,3,71.5,4375,2210000,2104761
+Uppsalakommun,Sommarro,Karlsrogatan 85b,2,59.5,3611,2500000,2104761
+Uppsalakommun,Centrum,"Vaksalagatan 20, VÅN 4",4,102.4,4571,4300000,3981481
+Uppsalakommun,Fålhagen,Norrtäljegatan 6B,3,81.4,4155,4000000,3508771
+Uppsalakommun,ÅRSTA,Kamomillgatan 8,3,78.0,4207,3060000,2528925
+Uppsalakommun,Fålhagen,Fålhagsleden 9,1.5,40.0,2616,2100000,2000000
+Uppsalakommun,FrämreSvartbäcken,Svartbäcksgatan 42 D,4,100.0,5659,4790000,4790000
+Uppsalakommun,Eriksberg,Granitvägen 22A,3,68.0,3426,2350000,2259615
+Uppsalakommun,Centrum,Hamnesplanaden 4C,3,81.5,4152,3975000,3258196
+Uppsalakommun,Salabacke,Ritargatan 1B,3,75.4,3825,2700000,2288135
+Uppsalakommun,Kungsängen,Kungsgatan 93B,4,109.5,4455,4025000,3946078
+Uppsalakommun,Fålhagen,Österängsgatan 26C,3,87.9,3922,2420000,2304761
+Uppsalakommun,Eriksberg,Lindsbergsgatan 7B,1,28.0,1770,1700000,1545454
+Uppsalakommun,Sommarro,Norbyvägen 71B,4,73.9,4806,3220000,2705882
+Uppsalakommun,Luthagen,Stabby allé 11A,2,55.0,3395,2540000,2189655
+Uppsalakommun,Sommarro,Norbyvägen 59A,2,54.0,1806,2720000,2193548
+Uppsalakommun,Gränby,Dimgatan 5,4,90.0,4641,2750000,2350427
+Uppsalakommun,Svartbäcken,Torbjörnsgatan 22,1,47.6,2242,1895000,1895000
+Uppsalakommun,Luthagen,Stabby allé 13D,1,37.7,2193,1795000,1795000
+Uppsalakommun,Tunabackar,Fjärdhundragatan 18,3,79.0,4032,2550000,2405660
+Uppsalakommun,Rickomberga,Polhemsgatan 4,3,90.0,4971,3820000,2984375
+Uppsalakommun,Nyby,Lidnersgatan 37,1,42.5,2874,1600000,1495327
+Uppsalakommun,Salabacke,Ritargatan 3,2,42.1,2317,1745000,1745000
+Uppsalakommun,Årsta,Fyrislundsgatan 44,1,24.2,1357,1320000,1294117
+Uppsalakommun,FrämreLuthagen,Götgatan 12A,1,30.4,1759,2350000,1294117
+Uppsalakommun,Salabacke,Salabacksgatan 7C,3,76.0,4594,3280000,2503816
+Uppsalakommun,Kungsängen,Kungsgatan 93E,1,36.0,1651,2230000,1991071
+Uppsalakommun,Årsta,Kamomillgatan 15,3,78.0,4280,2820000,2389830
+Uppsalakommun,Fålhagen,Frodegatan 17A,3,77.0,4053,3050000,2961165
+Uppsalakommun,Fålhagen,Torkelsgatan 19G,2,40.5,2810,2250000,1991150
+Uppsalakommun,Fullerö,Meteorvägen 26,3,82.0,4783,2360000,2185185
+Uppsalakommun,Salabacke,Kastanjegatan 7,1,39.0,2435,1830000,1591304
+Uppsalakommun,Rosendal,Prefektgatan 8,1,34.0,1953,1845000,1791262
+Uppsalakommun,FrämreLuthagen,Luthagsesplanaden 1A,3,76.7,4427,3550000,2886178
+Uppsalakommun,Svartbäcken,Egilsgatan 9 A,2,48.0,3708,2200000,2095238
+Uppsalakommun,Salabacke,Apelgatan 8,2.5,64.0,3170,2200000,2200000
+Uppsalakommun,Nyby,Viktor Rydbergsgatan 32,3,76.5,3673,2270000,1991228
+Uppsalakommun,Centrum,S:t Persgatan 18B,2,62.5,2972,2600000,2600000
+Uppsalakommun,Ekeby,Reykjaviksgatan 134,2,67.5,2737,2900000,2457627
+Uppsalakommun,Stenhagen,Stenrösvägen 1,3,79.5,5860,1595000,1490654
+Uppsalakommun,Fålhagen,Torkelsgatan 8B,2,49.0,3389,2850000,2244094
+Uppsalakommun,Rosendal,Torgny Segerstedts Allé 27,1,39.0,1908,2260000,2092592
+Uppsalakommun,TunaBackar,Väpnargatan 7A,3,70.5,3571,2600000,2000000
+Uppsalakommun,Höganäs,Höganäsgatan 6E,1,42.2,2137,2075000,2075000
+Uppsalakommun,Rickomberga,Hildur Ottelinsgatan 1A,2,55.2,3921,2050000,1990291
+Uppsalakommun,Salabacke,Källparksgatan 4,3,75.3,3282,2805000,2397435
+Uppsalakommun,Rosendal,Torgny Segerstedts allé 4,1,31.0,1590,1595000,1595000
+Uppsalakommun,Svartbäcken,Svartbäcksgatan 83B,2,53.5,3429,2410000,1991735
+Uppsalakommun,Luthagen,Ringgatan 4C,4,105.0,5715,4525000,3802521
+Uppsalakommun,SödraRosendal,Torgny Segerstedts Allé 9,3,74.0,4311,3900000,3482142
+Uppsalakommun,Kungsängen,Mältargatan 3,2,51.0,3141,2750000,2291666
+Uppsalakommun,NorraRosendal,Dekangatan 10 (2-1505),2,46.0,2697,2125000,2125000
+Uppsalakommun,Fålhagen,Torkelsgatan 8B,1.5,41.0,2843,2250000,1923076
+Uppsalakommun,Ulleråker,Ulleråkersvägen 70,2,67.0,4334,2500000,1923076
+Uppsalakommun,Rickomberga,Polhemsgatan 8,3,84.0,4740,3550000,2958333
+Uppsalakommun,NorraRosendal,Dekangatan 10 (2-1407),2,43.0,2521,1945000,1945000
+Uppsalakommun,Gränby,Dimgatan 18,3,77.0,4802,1895000,1787735
+Uppsalakommun,Norby,"Svampvägen 5B, 1tr",4,90.0,4824,2695000,2695000
+Uppsalakommun,Löten,Bellmansgatan 114,3,81.5,4132,1900000,1792452
+Uppsalakommun,Slavsta,Mariedalsgatan 20,3,79.0,5078,2530000,2258928
+Uppsalakommun,Svartbäcken,Egilsgatan 17B,3,73.5,4624,3400000,2258928
+Uppsalakommun,Eriksberg,Gnejsvägen 7 B,3,75.5,4418,2500000,2100840
+Uppsalakommun,Gränby,Råbyvägen 57C,2,57.0,3569,1895000,1895000
+Uppsalakommun,Rosendal,Torgny Segerstedts allé 48,4,98.0,4277,4100000,4019607
+Uppsalakommun,CENTRUM,Dragarbrunnsgatan 11A,2,56.2,2487,2495000,2495000
+Uppsalakommun,Eriksberg,Gnejsvägen 2K,2,62.0,4045,2000000,1694915
+Uppsalakommun,Industristaden,Kungsgatan 93 E,2,54.0,2337,2750000,2750000
+Uppsalakommun,Årsta,"Kamomillgatan 20, 1tr",2,63.0,3751,2115000,1888392
+Uppsalakommun,Salabacke,Byggmästargatan 5B,2,60.0,2884,2200000,1788617
+Uppsalakommun,Centrum,Vaksalagatan 18B,4,129.6,4980,7125000,5987394
+Uppsalakommun,Rosendal,Torgny Segerstedts Allé 4,1,31.0,1590,1680000,1600000
+Uppsalakommun,Centrum,Östra ågatan 17,5,176.0,6183,13000000,11711711
+Uppsalakommun,Kungsängen,Sågargatan 9D,3,82.0,4261,4300000,3944954
+Uppsalakommun,Fålhagen,Fålhagsleden 8C,1.5,41.0,2216,2100000,1891891
+Uppsalakommun,Luthagen,Fyrisvallsgatan 12A,1,29.0,1995,1625000,1625000
+Uppsalakommun,Kapellgärdet,Ljusbärargatan 9,3,81.0,4300,3300000,2999999
+Uppsalakommun,Kapellgärdet,Råbyvägen 32,3,89.0,4777,3140000,2683760
+Uppsalakommun,Kapellgärdet,Kapellgatan 3,1.5,47.0,2837,2200000,1999999
+Uppsalakommun,Gottsunda,Henry Wemans väg 2,3,71.0,4294,1800000,1714285
+Uppsalakommun,Fålhagen,S:t Göransgatan 29,2.5,74.0,3737,3600000,3302752
+Uppsalakommun,Luthagen,Gimogatan 4B,3,86.0,4686,3250000,2685950
+Uppsalakommun,Luthagen,Ringgatan 22 A,2.5,65.0,3675,2650000,2598039
+Uppsalakommun,Eriksberg,Gnejsvägen 4B,1,24.9,1209,1300000,2598039
+Uppsalakommun,Nyby,Leopoldsgatan 21,2,52.0,2998,1850000,1813725
+Uppsalakommun,ERIKSBERG,Granitvägen 16B,3,79.0,3459,3015000,2392857
+Uppsalakommun,Eriksberg,Gnejsvägen 5A,3,69.0,4064,2000000,2000000
+Uppsalakommun,Stabby,Tiundagatan 41,3,73.5,3564,2610000,2485714
+Uppsalakommun,Rosendal,Torgny Segerstedts Allé 28,3,81.0,4989,4000000,2485714
+Uppsalakommun,Luthagen,Geijersgatan 21A,2,72.0,3258,3450000,2485714
+Uppsalakommun,Fålhagen,Salagatan 22 C,2,67.5,4070,2820000,2587155
+Uppsalakommun,Rosendal,Rosendalsvägen 12,1,31.0,1517,2200000,2156862
+Uppsalakommun,NorraRosendal,Dekangatan 10 (2-1206),2,45.0,2638,1995000,1995000
+Uppsalakommun,Årsta,Körvelgatan 13B,3,79.7,4195,2150000,1954545
+Uppsalakommun,Sommarro,Karlsrogatan 89A,3,79.0,3421,3150000,3000000
+Uppsalakommun,Norby,Tryffelvägen 44B,5,127.0,9115,3125000,3004807
+Uppsalakommun,Gränby,Källparksgatan 10D,2,54.9,2533,2035000,2035000
+Uppsalakommun,FrämreLuthagen,S:t Johannesgatan 31A,5,131.0,4052,8000000,5797101
+Uppsalakommun,Kungsängen,Muningatan 2,2,52.5,2728,2700000,2389380
+Uppsalakommun,Luthagen,Fyrisvallsgatan 3C,4,105.0,5879,3840000,3398230
+Uppsalakommun,Luthagen,Sturegatan 18 C,2,52.0,2812,2475000,2475000
+Uppsalakommun,Luthagen,Luthagsesplanaden 18 B,2,45.0,1709,2830000,2300813
+Uppsalakommun,FRÄMRELUTHAGEN,Götgatan 14A,4,103.0,5394,4950000,4500000
+Uppsalakommun,Gränbybacke,Gränbyvägen 4A,5,152.0,7677,5000000,4464285
+Uppsalakommun,Nyby,Lidnersgatan 40,3,74.0,4682,1850000,1796116
+Uppsalakommun,Luthagen,Pelargatan 26,1,34.0,2827,1850000,1745283
+Uppsalakommun,Ulleråker,Gustaf Kjellbergs väg 8,2,56.7,4422,1807000,1789108
+Uppsalakommun,Nyby,Lidnersgatan 35,1,39.5,2735,1350000,1298076
+Uppsalakommun,Salabacke,Murargatan 8B,3,70.9,3807,2850000,2688679
+Uppsalakommun,Kvarngärdet,Råbyvägen 82,2,65.0,3645,2420000,2200000
+Uppsalakommun,Centrum,Kungsängsgatan 21A,1,24.5,1135,1700000,1588785
+Uppsalakommun,NYBY,Viktor Rydbergsgatan 22,4,87.0,4118,3200000,2990654
+Uppsalakommun,Kapellgärdet,Portalgatan 101,5,124.0,5423,4800000,2990654
+Uppsalakommun,Sävja,Ölandsresan 3 B,2,41.0,2571,1650000,1650000
+Uppsalakommun,Uppsala,Vaksalagatan 18B,5,144.2,5910,6200000,5904761
+Uppsalakommun,Kungsgärdet,S:t Johannesgatan 36A,1,33.0,2430,1595000,1595000
+Uppsalakommun,Fålhagen,Ymergatan 13C,1,39.5,2428,2075000,1700819
+Uppsalakommun,Kapellgärdet,Orgelgatan 13,4,113.0,4764,5100000,5000000
+Uppsalakommun,Gränby,Solskensgatan 3,4,101.0,4818,3460000,3392156
+Uppsalakommun,Centrum,Hamnesplanaden 4B,3,81.5,4152,3950000,3291666
+Uppsalakommun,Årsta,Kamomillgatan 29,3,78.0,4315,2340000,1902439
+Uppsalakommun,Kapellgärdet,Portalgatan 53,2,54.0,3713,2095000,2095000
+Uppsalakommun,Luthagen,Jumkilsgatan 16A,2,55.6,2365,2600000,2300884
+Uppsalakommun,Salabacke,Apelgatan 5D,3,70.5,3772,2750000,2455357
+Uppsalakommun,Fålhagen,Torkelsgatan 8A,2,50.0,3451,2725000,2500000
+Uppsalakommun,Centrum,Vretgränd 19,1.5,43.5,2250,2500000,2192982
+Uppsalakommun,Löten,Dagermansgatan 6C,4,84.0,4734,2550000,2198275
+Uppsalakommun,Centrum,S:t Persgatan 18A,2,49.0,2404,2705000,2504629
+Uppsalakommun,Gränby,Blixtgatan 13,3,82.5,4101,2060000,1889908
+Uppsalakommun,Nyby,Leopoldsgatan 19,4,90.0,4885,3150000,3150000
+Uppsalakommun,Luthagen,Norrlandsgatan 34 F,3,69.0,3409,2750000,2500000
+Uppsalakommun,Centrum,Svartbäcksgatan 41,5,130.0,5584,7700000,5703703
+Uppsalakommun,Luthagen,Götgatan 20 C,2,36.0,2171,2100000,2000000
+Uppsalakommun,Fålhagen,Hjalmar Brantingsgatan 25,1,25.0,1356,1575000,1575000
+Uppsalakommun,Rosendal,Torgny Segerstedts Allé 38,3,75.5,4276,3850000,3181818
+Uppsalakommun,NorraRosendal,Amanuensgatan 1,2,62.0,3547,2850000,2499999
+Uppsalakommun,Löten,Dagermansgatan 5 E,3,84.0,4818,2120000,2000000
+Uppsalakommun,Fålhagen,Liljegatan 6 C,2.5,65.0,3762,3250000,2600000
+Uppsalakommun,Gränby,Blixtgatan 23,2,61.5,3139,1875000,1875000
+Uppsalakommun,Luthagen,Kyrkogårdsgatan 16E,2.5,60.0,3410,2875000,2395833
+Uppsalakommun,Industristaden,Tullgarnsgatan 7,4,102.0,5071,4150000,3842592
+Uppsalakommun,NorraRosendal,Dekangatan 10 (2-1207),2,43.0,2521,1845000,1845000
+Uppsalakommun,Luthagen,Ringgatan 4A,3,85.0,4807,3214000,3003738
+Uppsalakommun,Luthagen,Luthagsesplanaden 36B,4,87.0,4705,4575000,4197247
+Uppsalakommun,Svartbäcken,Swedenborgsgatan 30B,2,44.5,3334,2000000,1801801
+Uppsalakommun,Luthagen,Ringgatan 41E,3,75.0,3997,3500000,3181818
+Uppsalakommun,Sunnersta,Dag Hammarskjölds Väg 279,1,37.0,2198,1550000,1504854
+Uppsalakommun,FrämreLuthagen,Götgatan 14B,4,103.0,5450,6200000,5391304
+Uppsalakommun,Salabacke,Salabacksgatan 3 C,2,55.0,3346,2100000,1842105
+Uppsalakommun,Svartbäcken,Folkungagatan 10A,3,70.0,3484,3200000,2689075
+Uppsalakommun,FÅLHAGEN,S:t Göransgatan 28,4,81.0,3493,4990000,4990000
+Uppsalakommun,Rosendal,Torgny Segerstedts Allé 24,2,45.0,3165,2275000,2087155
+Uppsalakommun,Stabby,Plattgatan 4,4,98.0,5111,4040000,3706422
+Uppsalakommun,Kåbo,Banérgatan 10A,3,77.0,3932,3400000,2982456
+Uppsalakommun,Kapellgärdet,Kapellgatan 2,3,80.0,4876,3110000,2990384
+Uppsalakommun,Uppsala,Götgatan 10A,1,28.4,1439,2120000,1892857
+Uppsalakommun,Centrum,Linnégatan 16A,2,61.5,4053,2250000,2083333
+Uppsalakommun,GOTTSUNDA,Cellovägen 138,5,118.0,6070,2050000,1798245
+Uppsalakommun,Höganäs,Salagatan 17B,2,49.0,1189,3300000,2999999
+Uppsalakommun,Centrum,Svartbäcksgatan 43A,1.5,34.1,2083,2250000,1991150
+Uppsalakommun,Uppsala,Kungsgatan 54A,2,51.0,2741,2400000,2201834
+Uppsalakommun,Fålhagen,Torkelsgatan 17G,2,40.0,2792,2140000,2098039
+Uppsalakommun,Löten,Dagermansgatan 1F,3,84.0,4734,2410000,2190909
+Uppsalakommun,Nyby,Topeliusgatan 4,2,60.5,4242,1800000,1800000
+Uppsalakommun,Svartbäcken,Styrbjörnsgatan 16B,3,59.0,3653,2480000,2275229
+Uppsalakommun,Salabacke,"Fyrislundsgatan 37C, VÅN 3",2,71.0,4208,2200000,2200000
+Uppsalakommun,Fålhagen,Hjalmar Brantingsgatan 11B,1,41.0,2242,2350000,2155963
+Uppsalakommun,Salabacke,Johannesbäcksgatan 95A,2,59.0,3565,2450000,2401960
+Uppsalakommun,Årsta,Gräslöksgatan 10,2,63.0,3798,2000000,1801801
+Uppsalakommun,Salabacke,Murargatan 26C,1,38.1,2079,1570000,1481132
+Uppsalakommun,Rosendal,Torgny Segerstedts Allé 94,1,34.0,1958,2100000,2000000
+Uppsalakommun,ÖvreSlotts,Åsgränd 2 A,3,84.0,4187,5650000,4484126
+Uppsalakommun,Centrum,Kungsängsgatan 36 F,1,31.9,2038,1950000,1893203
+Uppsalakommun,FrämreLuthagen,Luthagsesplanaden 9B,3,63.1,3372,3200000,2560000
+Uppsalakommun,Rosendal,Torgny Segerstedts allé 4,1,31.0,1590,2250000,1991150
+Uppsalakommun,Fålhagen,Liljegatan 6C,2.5,55.0,3528,3220000,2402985
+Uppsalakommun,Svartbäcken,Svartbäcksgatan 83A,2,47.0,2729,1850000,1850000
+Uppsalakommun,Luthagen,Tegnérgatan 15B,4,99.0,5208,5200000,4601769
+Uppsalakommun,Höganäs,Alriksgatan 1D,1,40.5,2276,1805000,1787128
+Uppsalakommun,Kungsängen,Industrigatan 37,2,72.0,3233,3355000,1787128
+Uppsalakommun,Kapellgärdet,Råbyvägen 24,2,44.5,3421,2050000,1798245
+Uppsalakommun,Kapellgärdet,Orgelgatan 15,4,89.0,3991,3995000,3995000
+Uppsalakommun,Kapellgärdet,Torngatan 18,3,79.0,4264,3450000,3194444
+Uppsalakommun,Kungsängen,Tullgarnsgatan 20,2,48.0,2942,2840000,2347107
+Uppsalakommun,Rosendal,Torgny Segerstedts allé 95A,1,29.0,2194,1800000,2347107
+Uppsalakommun,NorraRosendal,Dekangatan 10 (2-1202),4,82.0,4808,3475000,3475000
+Uppsalakommun,Salabacke,Murargatan 33,3,75.4,2449,2900000,2589285
+Uppsalakommun,Nyby,Wivalliusgatan 23,2,61.0,3144,2290000,1892561
+Uppsalakommun,Svartbäcken,"Sköldungagatan 47, 2tr",1,31.8,1224,1695000,1695000
+Uppsalakommun,Centrum,Eddagatan 1A,3,78.0,3802,4500000,3879310
+Uppsalakommun,FÅLHAGEN,Eskilsgatan 4B,2,59.0,3538,2550000,2297297
+Uppsalakommun,NorraLuthagen,Klockargatan 1,4,108.0,5688,3800000,3584905
+Uppsalakommun,Svartbäcken,Stiernhielmsgatan 15B,2,41.0,2600,2125000,2125000
+Uppsalakommun,Luthagen,Tegnérgatan 8,4,90.0,4970,6200000,5486725
+Uppsalakommun,Svartbäcken,Styrbjörnsgatan 14 A,3,80.0,4587,3200000,3200000
+Uppsalakommun,Salabacke,Kastanjegatan 5,2,53.5,3166,1820000,1801980
+Uppsalakommun,Kapellgärdet,Portalgatan 33,2,49.0,3651,2195000,2195000
+Uppsalakommun,Luthagen,Götgatan 30C,4,98.0,5246,4050000,3894230
+Uppsalakommun,Fålhagen,Vaksalagatan 55,1,21.0,2386,1095000,1095000
+Uppsalakommun,Centrum,Kungsängsgatan 36A,1,33.8,2120,1770000,1701923
+Uppsalakommun,Eriksberg,Stigbergsvägen 3,2,60.9,2546,2400000,2086956
+Uppsalakommun,Storvreta,Meteorvägen 30,3,82.0,4783,2400000,2201834
+Uppsalakommun,Årsta,Fänkålsgatan 19,3,78.0,4207,2500000,2000000
+Uppsalakommun,Valsätra,Malma backe 5L,2,64.0,4997,1670000,1546296
+Uppsalakommun,CentrumUppsala,Vretgränd 9C,3,78.1,2322,3225000,2804347
+Uppsalakommun,Luthagen,Gimogatan 5B,2,44.5,2717,1850000,1850000
+Uppsalakommun,Kapellgärdet,Portalgatan 76,3,81.0,4214,3450000,3194444
+Uppsalakommun,Tunabackar,Tunagatan 7 E,2,59.0,3037,2550000,1992187
+Uppsalakommun,Norby,Svampvägen 4A,1.5,42.5,2660,1650000,1499999
+Uppsalakommun,Gränby,Solskensgatan 11,2,49.5,3316,2100000,1891891
+Uppsalakommun,Fålhagen,Vaksalagatan 38 A,1.5,46.0,2806,2350000,2350000
+Uppsalakommun,Gottsunda,Cellovägen 52D,2,69.0,3909,1460000,1292035
+Uppsalakommun,Tunabackar,Fjärdhundragatan 16,2.5,65.5,3455,2150000,2150000
+Uppsalakommun,Centrum,Storgatan 20,2.5,67.7,3401,2700000,2500000
+Uppsalakommun,Ultuna,Bäcklösavägen 7,5,105.0,5554,4095000,4095000
+Uppsalakommun,Luthagen,Stabby Allé 13C,1,31.4,1827,1600000,1391304
+Uppsalakommun,Fålhagen,Petterslundsgatan 22B,4,86.6,4850,3310000,2853448
+Uppsalakommun,Kvarngärdet,Råbyvägen 76,3,76.0,4099,2500000,2358490
+Uppsalakommun,Slavsta,Mariedalsgatan 20,4,96.0,5727,3256000,2690909
+Uppsalakommun,Kungsängen,Mältargatan 13B,1,33.0,2404,2200000,1999999
+Uppsalakommun,Ulleråker,Gustaf Kjellbergs väg 12,3,87.3,5935,3040000,2393700
+Uppsalakommun,Kungsängen,Sållargatan 4,1,35.0,1613,1950000,1911764
+Uppsalakommun,Salabacke,Murargatan 22 B,1.5,38.1,2079,1700000,1683168
+Uppsalakommun,Kapellgärdet,Portalgatan 4J,3,84.0,4790,3350000,2991071
+Uppsalakommun,Årsta,Sparrisgatan 7 B,1,47.0,1839,1630000,1567307
+Uppsalakommun,Salabacke,Byggmästargatan 5C,1,39.0,2011,1850000,1594827
+Uppsalakommun,Fålhagen,Torkelsgatan 19G,2,41.0,2827,2270000,2203883
+Uppsalakommun,Industristaden,Kungsängsesplanaden 4b,4,94.0,4148,4775000,4775000
+Uppsalakommun,Kungsängen,Tullgarnsgatan 3,2,53.5,2773,2700000,2700000
+Uppsalakommun,Uppsala,Ritargatan 5,4,93.7,4282,3700000,2700000
+Uppsalakommun,Luthagen,Gimogatan 2A,3,85.0,4418,3500000,3500000
+Uppsalakommun,Centrum,Dragarbrunnsgatan 11A,2,53.0,2450,2450000,2401960
+Uppsalakommun,Salabacke,Johannesbäcksgatan 95A,2,59.0,3565,2410000,2190909
+Uppsalakommun,Ulleråker,Henry säldes väg 12A,3,72.5,5262,2260000,2194174
+Uppsalakommun,Nyby,Leopoldsgatan 18,2,61.0,3710,1695000,1695000
+Uppsalakommun,Eriksberg,Karlsrogatan 87B,3,69.0,3987,3100000,2792792
+Uppsalakommun,Luthagen,Hällbygatan 43,1,35.0,2414,2000000,1801801
+Uppsalakommun,Centrum,Svartbäcksgatan 43C,2,66.5,4033,2700000,1999999
+Uppsalakommun,Löten,Ferlinsgatan 43,2,63.0,3913,1750000,1682692
+Uppsalakommun,Gränby,Solskensgatan 19,2,49.5,3086,2330000,1991452
+Uppsalakommun,Fålhagen,Salagatan 49A,2.5,74.0,3540,3270000,3000000
+Uppsalakommun,Fålhagen,S:t Göransgatan 28,4,84.0,3556,5150000,5150000
+Uppsalakommun,Fålhagen,Ymergatan 13B,2,50.5,2921,2620000,2258620
+Uppsalakommun,Fålhagen,Norrtäljegatan 7 A,3,80.0,3850,4550000,4099099
+Uppsalakommun,FrämreLuthagen,Sysslomansgatan 7,1,23.0,1788,1860000,1690909
+Uppsalakommun,Luthagen,Götgatan 24A,4,98.0,5497,5190000,4185483
+Uppsalakommun,Tunabackar,Tunagatan 26B,3,77.5,3875,2450000,2401960
+Uppsalakommun,Gränby,Råbyvägen 55H,2,35.0,2543,1645000,1597087
+Uppsalakommun,Salabacke,Lästmakargatan 1B,2,57.0,3447,2100000,1590909
+Uppsalakommun,Fålhagen,Petterslundsgatan 21A,1.5,32.0,1685,2150000,1902654
+Uppsalakommun,City,Kungsgatan 52D,1,43.0,2616,2050000,1952380
+Uppsalakommun,Svartbäcken,Folkungagatan 2 B,2,48.4,2962,2100000,1794871
+Uppsalakommun,Gottsunda,Altfiolsvägen 15B,4,109.5,6157,2400000,1690140
+Uppsalakommun,Luthagen,Dalgatan 28,2,54.5,3226,2320000,2188679
+Uppsalakommun,Nyby,Viktor Rydbergsgatan 7,2,61.0,3837,1715000,1698019
+Uppsalakommun,Uppsala,Torkelsgatan 8 B,2,49.0,3389,2680000,2350877
+Uppsalakommun,Kapellgärdet,Portalgatan 79,3,79.0,4538,2795000,2795000
+Uppsalakommun,Salabacke,Murargatan 30D,3,65.0,3033,2250000,1991150
+Uppsalakommun,Rosendal,Torgny Segerstedts allé 4,2,48.0,2515,2230000,2084112
+Uppsalakommun,Svartbäcken,Timmermansgatan 3D,4,101.0,4127,3915000,3693396
+Uppsalakommun,Tunabackar,Svartbäcksgatan 94A,3,78.6,3693,3125000,2790178
+Uppsalakommun,Luthagen,Geijersgatan 56B,2,60.8,3578,2360000,2088495
+Uppsalakommun,Rosendal,Torgny Segerstedts Allé 27,1,27.0,1321,1800000,1747572
+Uppsalakommun,Svartbäcken,Svartbäcksgatan 76 B,2,51.1,3109,1750000,1732673
+Uppsalakommun,Valsätra,Bernadottestigen 1 B,2,43.5,2689,1695000,1695000
+Uppsalakommun,Centrum,Vaksalagatan 18B,4.5,124.4,5211,4500000,4090909
+Uppsalakommun,Centrum,Hamnesplanaden 2B,3,82.7,4126,3700000,3700000
+Uppsalakommun,Kungsängen,Tullgarnsgatan 16,3,84.0,4527,3575000,3279816
+Uppsalakommun,Sävja,Gotlandsresan 138,4,104.5,6829,2295000,2295000
+Uppsalakommun,Kapellgärdet,"Margit Sahlins Gata 1, VÅN 6 / 6",3,72.0,3409,3350000,2991071
+Uppsalakommun,Sommarro,Norbyvägen 46F,1.5,43.0,2051,2350000,2098214
+Uppsalakommun,Årsta,Fyrislundsgatan 46 4 tr.,1,24.2,1377,1150000,1150000
+Uppsalakommun,Luthagen,Geijersgatan 12D,3,82.0,4052,3380000,3100917
+Uppsalakommun,MalmaBacke,Malma backe 1B,2,62.9,4506,1750000,1650943
+Uppsalakommun,Centrum,Storgatan 9 C,3,77.8,3356,3580000,3284403
+Uppsalakommun,Luthagen,Luthagsesplanaden 24 B,2,73.0,3950,2830000,2747572
+Uppsalakommun,Luthagen,Götgatan 20C,2,36.0,2194,2050000,2050000
+Uppsalakommun,Höganäs,S:t Persgatan 31,3,83.0,3865,3292500,2993181
+Uppsalakommun,Kapellgärdet,Orgelgatan 7,4,99.0,4428,4295000,4295000
+Uppsalakommun,Höganäs,S:t Persgatan 40C,2,55.9,2553,2620000,2298245
+Uppsalakommun,Gränby,Råbyvägen 55H,2,45.0,2939,1735000,1700980
+Uppsalakommun,Luthagen,Luthagsesplanaden 9A,2,63.1,3134,2615000,2293859
+Uppsalakommun,Höganäs,Höganäsgatan 2 C,2,65.0,3841,3530000,3209090
+Uppsalakommun,Stenhagen,Stenrösvägen 45,4,93.5,6822,1800000,1747572
+Uppsalakommun,Rickomberga,Gösta Wahlströms väg 8,2,52.0,2611,2095000,2095000
+Uppsalakommun,Fullerö,Böljemolnsvägen 10,5,136.0,4975,4220000,3981132
+Uppsalakommun,Kungsängen,Sågargatan 13D,2,62.0,3661,3105000,2653846
+Uppsalakommun,Kapellgärdet,Djäknegatan 27B,2,45.7,2921,1800000,1800000
+Uppsalakommun,Fålhagen,Marielundsgatan 5 B,1.5,50.0,2526,2425000,2204545
+Uppsalakommun,Luthagen,Luthagsesplanaden 30c,2.5,72.0,3109,2890000,2700934
+Uppsalakommun,KÅBO,"Banérgatan 16 A, 1001",4,88.5,4056,4200000,4000000
+Uppsalakommun,Salabacke,Murargatan 18A,3,69.2,4136,2125000,2103960
+Uppsalakommun,Kungsängen,Industrigatan 37,2,72.0,3233,3300000,2999999
+Uppsalakommun,Kungsängen,Sågargatan 8A,5,115.0,4404,4895000,4895000
+Uppsalakommun,Salabacke,Ritargatan 5,2,42.5,1931,1695000,1695000
+Uppsalakommun,Salabacke,Byggmästargatan 1A,3,70.0,4500,2335000,2103603
+Uppsalakommun,Rosendal,Torgny Segerstedts allé 4,1,31.0,1590,1680000,1600000
+Uppsalakommun,FrämreLuthagen,Sturegatan 1,1,40.0,2719,2350000,2155963
+Uppsalakommun,Luthagen,Kyrkogårdsgatan 16B,2.5,60.0,3410,2625000,2343750
+Uppsalakommun,Kungsängen,Sållargatan 4,2,55.0,2377,2680000,2392857
+Uppsalakommun,Fålhagen,Vallbygatan 3,2,57.5,3651,2410000,2095652
+Uppsalakommun,Gränby,Molngatan 6,3,77.5,3958,1950000,1857142
+Uppsalakommun,Årsta,Körvelgatan 49 C,2,60.3,2825,1740000,1596330
+Uppsalakommun,Nyby,Viktor Rydbergsgatan 31,1,39.5,2980,1450000,1394230
+Uppsalakommun,Luthagen,Hällbygatan 32E,1,22.5,1424,1350000,1298076
+Uppsalakommun,Nyby,Wivalliusgatan 47,4,87.0,4157,2510000,2145299
+Uppsalakommun,Salabacke,Fyrislundsgatan 23C,4,98.0,5299,2900000,2815533
+Uppsalakommun,Gränby,Dimgatan 23,3,75.5,3982,2210000,1990990
+Uppsalakommun,Luthagen,Götgatan 20B,2,52.0,3143,2800000,2295081
+Uppsalakommun,Fålhagen,Norrtäljegatan 7B,3,80.0,3850,4515000,4383495
+Uppsalakommun,Höganäs,Salagatan 7A,2.5,66.0,3525,2900000,2685185
+Uppsalakommun,Rosendal,Torgny Segerstedts allé 32,2,48.0,3208,2200000,1999999
+Uppsalakommun,Kapellgärdet,Vattholmavägen 4C,3,85.5,4774,3340000,2982142
+Uppsalakommun,Salabacke,Murargatan 16A,4,87.3,5060,2595000,2595000
+Uppsalakommun,Kapellgärdet,Margit Sahlins gata 1,2,38.0,2435,2010000,1794642
+Uppsalakommun,FrämreLuthagen,Börjegatan 3 B,6,164.0,8731,9000000,7377049
+Uppsalakommun,Kungsängen,Tullgarnsgatan 3,2,45.5,2402,2350000,2303921
+Uppsalakommun,Rosendal,Torgny Segerstedts Allé 93A,3,74.0,4030,3375000,2986725
+Uppsalakommun,Ekeby,Reykjaviksgatan 122,3,79.0,3370,2925000,2500000
+Uppsalakommun,FulleröHage,Regnmolnsvägen 6 B,3,70.0,4021,2350000,2500000
+Uppsalakommun,Kungsängen,Kungsgatan 93 E,2,75.5,3156,3050000,2850467
+Uppsalakommun,Kapellgärdet,Portalgatan 93,2,67.0,3356,2500000,2403846
+Uppsalakommun,Salabacke,Ritargatan 1 B,2,59.4,2974,1995000,1995000
+Uppsalakommun,Luthagen,Fyrisvallsgatan 10A,1,25.0,1750,1775000,1775000
+Uppsalakommun,Gränby,Solskensgatan 17,2,41.0,2775,1800000,1698113
+Uppsalakommun,Kungsängen,Kungsängsgatan 57K,3,86.0,4793,3150000,3088235
+Uppsalakommun,Centrum,Stora torget 3,2,74.0,2389,4700000,4700000
+Uppsalakommun,Luthagen,Gimogatan 2D,5,117.0,5710,4400000,4400000
+Uppsalakommun,Fålhagen,Syréngatan 6,3,89.0,3892,3725000,3481308
+Uppsalakommun,Bellman,Bellmansgatan 86,1,32.5,2003,1470000,1400000
+Uppsalakommun,Centrum,S:t Johannesgatan 3,3,100.0,4004,7300000,6576576
+Uppsalakommun,Löten,Bellmansgatan 2,5,136.0,7684,4095000,3500000
+Uppsalakommun,Luthagen,Luthagsesplanaden 24E,2.5,73.0,3761,3400000,2857142
+Uppsalakommun,Centrum,Dragarbrunnsgatan 58,3,80.0,3449,3880000,3180327
+Uppsalakommun,Kungsängen,Tullgarnsgatan 3,1,34.0,1873,2125000,1985981
+Uppsalakommun,Luthagen,Luthagsesplanaden 12A,1,33.1,1019,2000000,1985981
+Uppsalakommun,Svartbäcken,Timmermansgatan 15,4,88.0,5940,4800000,4210526
+Uppsalakommun,Svartbäcken,Svartbäcksgatan 72A,2,57.3,3101,2125000,1897321
+Uppsalakommun,Kapellgärdet,Portalgatan 64,4,88.0,4813,3600000,3302752
+Uppsalakommun,Kapellgärdet,Portalgatan 93,3,81.0,3925,3600000,3302752
+Uppsalakommun,Salabacke,Murargatan 31,3,64.3,2301,2600000,3302752
+Uppsalakommun,Gränby,Regngatan 7,2,59.5,3800,1650000,1650000
+Uppsalakommun,Industristaden,Tullgarnsgatan 3,1,34.0,1873,2185000,2100961
+Uppsalakommun,Flogsta,Flogstavägen 5D,2,56.0,4995,1425000,1357142
+Uppsalakommun,Centrum,Hamnesplanaden 4B,3,81.5,4157,3250000,3250000
+Uppsalakommun,Årsta,Sparrisgatan 5 A,3,95.0,5651,2700000,2621359
+Uppsalakommun,Salabacke,"Johannesbäcksgatan 84B, ½ tr",2,58.1,3079,2050000,1898148
+Uppsalakommun,Stenhagen,Stenhagsvägen 251,3,82.5,4754,1920000,1573770
+Uppsalakommun,Luthagen,Hällbygatan 43,1,35.0,2414,1900000,1743119
+Uppsalakommun,Luthagen,Luthagsesplanaden 24C,3,89.0,4585,3350000,3284313
+Uppsalakommun,Årsta,Fyrislundsgatan 28,3,81.0,4581,2200000,1848739
+Uppsalakommun,Fålhagen,Väderkvarnsgatan 34B,2,61.2,2712,2600000,2500000
+Uppsalakommun,Luthagen,Luthagsesplanaden 10B,1.5,33.0,2004,2100000,1891891
+Uppsalakommun,Kungsängen,Kungsängsesplanaden 12D,1,35.0,2477,1900000,1900000
+Uppsalakommun,Centrum,Hamnesplanaden 2B,2,41.8,2264,2335000,1995726
+Uppsalakommun,Fålhagen,Norrtäljegatan 30,1,22.5,1878,1520000,1475728
+Uppsalakommun,NorraLuthagen,Hällbygatan 32 B,3,75.0,3409,3200000,2758620
+Uppsalakommun,Fålhagen,Petterslundsgatan 23C,3,76.0,3501,3015000,2599137
+Uppsalakommun,Luthagen,Geijersgatan 54B,1.5,39.0,2464,2390000,1896825
+Uppsalakommun,Fålhagen,Marielundsgatan 3 B,2.5,72.0,3319,3500000,3301886
+Uppsalakommun,Eriksberg,Glimmervägen 2B,2,59.0,2859,2400000,3301886
+Uppsalakommun,Tunabackar,Fjärdhundragatan 14 - Accepterat pris!,1,25.5,1486,1350000,1350000
+Uppsalakommun,Årsta,Sparrisgatan 7A,2,65.0,2327,1890000,1687499
+Uppsalakommun,Sommarro,Gustavsbergsgatan 3C,1,18.5,1170,1395000,1395000
+Uppsalakommun,Gränby,Molngatan 9,4,87.5,4496,2220000,1999999
+Uppsalakommun,Centrum,Drottninggatan 5,1,17.4,1334,1590000,1394736
+Uppsalakommun,Kåbo,Banérgatan 14A,5,108.5,5606,5850000,5416666
+Uppsalakommun,Luthagen,Geijersgatan 27F,3,62.5,3093,3250000,2801724
+Uppsalakommun,Svartbäcken,Svartbäcksgatan 83B,2,53.5,3429,2300000,2000000
+Uppsalakommun,FulleröHage,Regnmolnsvägen 8F,4,81.0,4651,2325000,2257281
+Uppsalakommun,Eriksberg,Granitvägen 24D,2,55.0,2816,2415000,1995867
+Uppsalakommun,Salabacke,Murargatan 20B,3,70.2,3220,2060000,2000000
+Uppsalakommun,NorraLuthagen,Rörgatan 2,3,81.0,4277,3310000,3182692
+Uppsalakommun,Fålhagen,Väderkvarnsgatan 48A,2.5,71.5,3748,3300000,2844827
+Uppsalakommun,Luthagen,Fyrisvallsgatan 12A,1,29.0,1995,1645000,1645000
+Uppsalakommun,Kapellgärdet,Portalgatan 57,3,91.0,5502,3050000,2904761
+Uppsalakommun,Årsta,Fyrislundsgatan 46,3,83.5,2830,2500000,2192982
+Uppsalakommun,Salabacke,Gröna gatan 23F,2.5,60.5,3494,2235000,1995535
+Uppsalakommun,Salabacke,Byggmästargatan 9 B,2,55.0,2659,2265000,1969565
+Uppsalakommun,Nyby,Lidnersgatan 35,3,63.5,3829,1850000,1796116
+Uppsalakommun,Kungsängen,Eldkvarnsgatan 10,2,52.0,2834,2260000,2000000
+Uppsalakommun,FrämreLuthagen,Fredsgatan 3,2,62.4,4012,3003000,2860000
+Uppsalakommun,FrämreLuthagen,Skolgatan 33 B,4,117.0,5776,7500000,5952380
+Uppsalakommun,Salabacke,Källparksgatan 12 D,3,76.5,3297,2850000,2544642
+Uppsalakommun,Fålhagen,Frodegatan 36,2,57.0,3500,2500000,2252252
+Uppsalakommun,Fålhagen,Liljegatan 4 C,2.5,61.0,3421,2595000,2595000
+Uppsalakommun,Fålhagen,Ymergatan 15B,4,88.0,4528,4560000,3507692
+Uppsalakommun,Svartbäcken,Torbjörnsgatan 22,3,85.8,3751,2910000,2694444
+Uppsalakommun,Nyby,Leopoldsgatan 32,2,63.5,3938,2100000,1794871
+Uppsalakommun,Kapellgärdet,Portalgatan 76,3,99.0,4793,3700000,1794871
+Uppsalakommun,Centrum,Vaksalagatan 18 B,2,56.4,2737,2495000,2495000
+Uppsalakommun,TunaBackar,Fjärdhundragatan 14,1,37.0,2139,1595000,1595000
+Uppsalakommun,Rosendal,Torgny Segerstedts allé 32,2,48.0,3208,1895000,1895000
+Uppsalakommun,FrämreLuthagen,Götgatan 14A,1,23.0,1329,1795000,1795000
+Uppsalakommun,Salabacke,Salabacksgatan 30,6,124.5,8421,2995000,2995000
+Uppsalakommun,Nyby,Leopoldsgatan 12,2,61.0,3677,2000000,1886792
+Uppsalakommun,NorraLuthagen,Gimogatan 5B,2,44.5,2765,2000000,1886792
+Uppsalakommun,Årsta,Fänkålsgatan 18,3,78.0,4370,2600000,2300884
+Uppsalakommun,Salabacke,Murargatan 22C,1,38.1,2039,1550000,1550000
+Uppsalakommun,Luthagen,Luthagsesplanaden 34A,3,76.0,4154,3350000,3190476
+Uppsalakommun,Gränby,Råbyvägen 53 H,1,34.0,2333,1495000,1495000
+Uppsalakommun,Kungsängen,Skyttelgatan 11,3,74.0,4003,3750000,3504672
+Uppsalakommun,FrämreLuthagen,Börjegatan 10B,1,24.5,1461,1785000,1700000
+Uppsalakommun,Salabacke,Murargatan 33,2,64.3,2221,2300000,1700000
+Uppsalakommun,Luthagen,Formgatan 3,3,84.0,4298,3200000,2807017
+Uppsalakommun,Fålhagen,S:T Persgatan 45 B,1,44.0,3334,1995000,1995000
+Uppsalakommun,Industristaden,Kungsängsgatan 57 B,2,59.0,3074,2850000,2567567
+Uppsalakommun,Eriksberg,Västertorg 5A,4,97.2,3858,3580000,3580000
+Uppsalakommun,FrämreLuthagen,Götgatan 10B,1.5,37.0,1814,2620000,2096000
+Uppsalakommun,Svartbäcken,Swedenborgsgatan 28B,2,51.0,2859,2250000,2102803
+Uppsalakommun,Svartbäcken,Swedenborgsgatan 32B,3,63.5,3988,2350000,2196261
+Uppsalakommun,Gottsunda,Henry Wemans väg 12,2,53.0,2970,1650000,1650000
+Uppsalakommun,Luthagen,Götgatan 20C,2,30.0,1830,1925000,1887254
+Uppsalakommun,Fålhagen,Väderkvarnsgatan 36,3,93.5,4789,5200000,4952380
+Uppsalakommun,NorraLuthagen,Gimogatan 5B,2,54.0,3190,1850000,1850000
+Uppsalakommun,Nyby,Leopoldsgatan 34,2,63.5,3870,1775000,1690476
+Uppsalakommun,Uppsala,Sturegatan 17A,1,39.6,2392,2000000,1923076
+Uppsalakommun,Luthagen,Luthagsesplanaden 24A,1,27.0,1391,1695000,1695000
+Uppsalakommun,Årsta,Kummingatan 27 B,3.5,79.7,3677,2725000,2500000
+Uppsalakommun,NorraLuthagen,Plattgatan 1,3,78.0,4171,3500000,2966101
+Uppsalakommun,Luthagen,Norrlandsgatan 34C,2,54.0,2719,2710000,2296610
+Uppsalakommun,Centrum,Vaksalagatan 30A,3,83.0,5005,2650000,2598039
+Uppsalakommun,Ultuna,Bäcklösavägen 1B,1.5,38.0,2674,1750000,1750000
+Uppsalakommun,Kapellgärdet,Djäknegatan 24,3,57.0,3647,2360000,2185185
+Uppsalakommun,Centrum,Muningatan 4,1.5,39.0,2052,2300000,2072072
+Uppsalakommun,NorraRosendal,Dekangatan 10 (2-1403),1,26.0,1524,1485000,1485000
+Uppsalakommun,NorraRosendal,Dekangatan 10 (2-1107),2,43.0,2521,1795000,1795000
+Uppsalakommun,Salabacke,Lästmakargatan 10A,2,51.5,3175,2125000,1985981
+Uppsalakommun,Årsta,Mistelgatan 1E,4,74.0,3400,5400000,3941605
+Uppsalakommun,Fålhagen,Salagatan 51C,2,55.5,3798,2920000,2703703
+Uppsalakommun,Uppsala,Odensgatan 16A,3,53.5,2984,3265000,2698347
+Uppsalakommun,Fålhagen,Hjalmar Brantingsgatan 5B,2,53.6,3094,2670000,2342105
+Uppsalakommun,Salabacke,Ritargatan 1 F,2,57.0,3194,2200000,1999999
+Uppsalakommun,Uppsala,Hällbygatan 34B,3,69.0,3532,3110000,2704347
+Uppsalakommun,Salabacke,Apelgatan 3B,2,52.0,2934,2000000,1801801
+Uppsalakommun,Ultuna,Bäcklösavägen 1A,4,96.0,5143,3810000,3401785
+Uppsalakommun,Sävja,Bergslagsresan 111,3.5,80.5,4606,1890000,1890000
+Uppsalakommun,Kapellgärdet,Portalgatan 105,3,84.0,4015,2995000,2995000
+Uppsalakommun,Löten,Ferlinsgatan 97,2,63.0,3971,1550000,1448598
+Uppsalakommun,NorraRosendal,Dekangatan 10 (2-1502),1,27.0,1583,1495000,1495000
+Uppsalakommun,Rosendal,Torgny Segerstedts Allé 94,1,30.0,1780,1620000,1620000
+Uppsalakommun,Gränby,Råbyvägen 55A,1,40.0,2509,1550000,1490384
+Uppsalakommun,Lindbacken,Torpvretsvägen 3,5,130.0,5224,4350000,3990825
+Uppsalakommun,Fålhagen,Österängsgatan 24C,2,69.6,3103,2295000,2295000
+Uppsalakommun,Sävja,Bergslagsresan 69,3,74.5,4613,2230000,2295000
+Uppsalakommun,Salabacke,Apelgatan 3D,2,59.5,3245,1940000,1796296
+Uppsalakommun,Årsta,Fänkålsgatan 19,3,78.0,4439,2210000,2104761
+Uppsalakommun,GOTTSUNDA,Cellovägen 7,2,69.0,4042,1160000,1054545
+Uppsalakommun,FrämreLuthagen,Luthagsesplanaden 5B,4,99.0,5935,4600000,4000000
+Uppsalakommun,Gränby,Albert Engströmsgatan 2H,2,48.5,3294,1850000,1850000
+Uppsalakommun,Herrhagen,Herrhagsvägen 403,3,83.0,4987,1700000,1588785
+Uppsalakommun,Gränby,Regngatan 15,1,35.5,2446,1560000,1500000
+Uppsalakommun,Fålhagen,Petterslundsgatan 9 B,2,62.7,2985,2520000,2495049
+Uppsalakommun,TunaBackar,Tunagatan 7A,3,75.5,3719,3075000,2795454
+Uppsalakommun,Luthagen,Norrlandsgatan 36A,3,75.0,3631,3390000,2690476
+Uppsalakommun,ÖstraSalabacke,Svärdsliljegatan 4,2,45.0,3190,1895000,1895000
+Uppsalakommun,Fålhagen,Norrtäljegatan 3A,1,36.0,2506,1975000,1975000
+Uppsalakommun,Fålhagen,Väderkvarnsgatan 40,1,45.0,2803,2800000,2692307
+Uppsalakommun,Kungsängen,Sågargatan 2B,4,99.0,5213,3890000,3601851
+Uppsalakommun,Skyttorp,Myrvägen 4,2,51.0,3421,1195000,1149038
+Uppsalakommun,Svartbäcken,Folkungagatan 22B,4,107.7,4394,4100000,3796296
+Uppsalakommun,Nyby,Lidnersgatan 20,2,61.0,3837,1650000,1601941
+Uppsalakommun,Slavsta,Mariedalsgatan 14,3,85.0,5180,2810000,2303278
+Uppsalakommun,Årsta,Kummingatan 39A,3,72.3,3472,2155000,2092233
+Uppsalakommun,Kåbo,Artillerigatan 12 B,2,43.0,2304,2425000,2204545
+Uppsalakommun,Nyby,Lidnersgatan 12,4,87.0,5057,2295000,2295000
+Uppsalakommun,Fålhagen,Salagatan 43C,2,55.0,2767,3750000,3205128
+Uppsalakommun,Luthagen,Kyrkogårdsgatan 45A,1,22.0,1419,1750000,1650943
+Uppsalakommun,Fålhagen,Petterslundsgatan 23 D,1,32.0,1721,1895000,1895000
+Uppsalakommun,Sommarro,Karlsrogatan 86C,1,20.5,1035,1315000,1301980
+Uppsalakommun,FÅLHAGEN,Petterslundsgatan 16B,4,98.3,5626,3175000,2995283
+Uppsalakommun,Uppsala,Wivalliusgatan 31,1,40.5,2247,1625000,1562500
+Uppsalakommun,Svartbäcken,Timmermansgatan 16D,2.5,76.0,3654,3400000,3300970
+Uppsalakommun,Kapellgärdet,Portalgatan 72,4,99.0,4765,3935000,3306722
+Uppsalakommun,Salabacke,Källparksgatan 12C,2,42.3,1825,1895000,1895000
+Uppsalakommun,Gränby,Albert Engströmsgatan 2H,3,71.5,4375,3300000,3113207
+Uppsalakommun,Fålhagen,Petterslundsgatan 25,4,83.6,3989,3100000,2980769
+Uppsalakommun,Centrum,Skolgatan 20 C,2,62.6,3199,3120000,2736842
+Uppsalakommun,Sävja,Bergslagsresan 126,3.5,78.5,4534,1895000,1895000
+Uppsalakommun,Gränby,"Råbyvägen 57G, 4tr",3,89.0,4638,2450000,2401960
+Uppsalakommun,Tunabackar,"Fjärdhundragatan 72, 2tr",2,60.5,3218,1820000,1750000
+Uppsalakommun,Kapellgärdet,Portalgatan 2B,3,80.0,4264,3600000,3103448
+Uppsalakommun,Rosendal,Torgny Segerstedts allé 24,4,87.0,5401,3625000,3485576
+Uppsalakommun,Luthagen,Tegnérgatan 36A,3,67.0,4156,2850000,2590909
+Uppsalakommun,TunaBackar,Tunagatan 5B,1,40.6,2025,1900000,1792452
+Uppsalakommun,Sävja,Dalaresan 38A,5,132.0,7777,2350000,2098214
+Uppsalakommun,Luthagen,Norrlandsgatan 19,4,91.5,4054,4160000,3466666
+Uppsalakommun,Kapellgärdet,Råbyvägen 70,4,124.5,5792,3550000,3287037
+Uppsalakommun,Industristaden,Muningatan 25,2,55.0,2722,3085000,2883177
+Uppsalakommun,Svartbäcken,Svartbäcksgatan 74B,2,52.0,3050,2200000,2095238
+Uppsalakommun,TunaBackar,Tunagatan 3 A,5,116.0,6485,4400000,3963963
+Uppsalakommun,Fålhagen,Vallbygatan 1,2,58.0,3788,2350000,1991525
+Uppsalakommun,Kungsängen,Sållargatan 4,1,34.0,1576,2150000,2087378
+Uppsalakommun,VALSÄTRA,Hugo Alfvéns väg 4,2,64.5,3570,1700000,1700000
+Uppsalakommun,Centrum,Munkgatan 5 B,4,113.0,5221,4350000,4350000
+Uppsalakommun,Gränby,Albert Engströmsgatan 2H,1,25.5,2123,1250000,1225490
+Uppsalakommun,Eriksberg,Gnejsvägen 7A,3,75.5,4418,2400000,1225490
+Uppsalakommun,Kapellgärdet,Torngatan 16,4,96.0,5076,3795000,3795000
+Uppsalakommun,Rickomberga,Hildur Ottelinsgatan 1C,2,55.2,3921,2375000,1799242
+Uppsalakommun,FrämreLuthagen,Börjegatan 8A,2.5,72.0,3504,4400000,3283582
+Uppsalakommun,Höganäs,Botvidsgatan 6C,2.5,64.0,4215,3000000,2970297
+Uppsalakommun,Luthagen,Norrlandsgatan 44B,3,76.5,4077,2695000,2695000
+Uppsalakommun,Storvreta,Morgonvägen 2,4,99.0,5734,2150000,1853448
+Uppsalakommun,Fålhagen,Fålhagsleden 1D,2.5,65.5,3848,2595000,2595000
+Uppsalakommun,Årsta,Fyrislundsgatan 26,3,87.0,4921,2680000,2392857
+Uppsalakommun,Ulleråker,Gustaf Kjellbergs väg 1B,4,104.0,6241,4225000,2392857
+Uppsalakommun,Fålhagen,Väderkvarnsgatan 38B,1,36.5,2520,2300000,1900826
+Uppsalakommun,ULLERÅKER,Eva Lagerwalls väg 16,2,58.5,3366,2375000,2101769
+Uppsalakommun,Kapellgärdet,Margit Sahlins gata 1,2,38.0,2435,1825000,1754807
+Uppsalakommun,Lindbacken,Vitmossvägen 16,4,109.0,3764,4310000,3591666
+Uppsalakommun,Nyby,Lidnersgatan 4,3,76.5,4454,1800000,1551724
+Uppsalakommun,Luthagen,Fyrisvallsgatan 12A,1,29.0,1995,1625000,1625000
+Uppsalakommun,Sävja,Bergslagsresan 20,3,76.0,4621,2320000,2000000
+Uppsalakommun,Luthagen,Fyrisvallsgatan 12A,2,43.0,2795,2395000,2395000
+Uppsalakommun,Luthagen,Fyrisvallsgatan 10A,1,29.0,1995,1585000,1585000
+Uppsalakommun,Björklinge,Ramsjövägen 150,4,102.1,5743,2175000,1585000
+Uppsalakommun,Sommarro,Karlsrogatan 83B,1,21.7,1752,1395000,1395000
+Uppsalakommun,Fålhagen,Petterslundsgatan 33,3,82.4,3458,3190000,2798245
+Uppsalakommun,Luthagen,Fyrisvallsgatan 10A,2,43.0,2795,2395000,2395000
+Uppsalakommun,Höganäs,S:t Persgatan 47B,1.5,38.0,2064,2400000,1889763
+Uppsalakommun,Luthagen,Rörgatan 4,4,101.0,5070,4040000,3482758
+Uppsalakommun,Luthagen,Fyrisvallsgatan 10A,1,29.0,1995,1585000,1585000
+Uppsalakommun,Luthagen,Fyrisvallsgatan 10A,1,29.0,1995,1675000,1675000
+Uppsalakommun,Luthagen,Fyrisvallsgatan 10A,1,25.0,1750,1725000,1725000
+Uppsalakommun,Luthagen,Fyrisvallsgatan 12A,2,43.0,2795,2495000,2495000
+Uppsalakommun,Luthagen,Fyrisvallsgatan 12A,1,29.0,1995,1495000,1495000
+Uppsalakommun,Luthagen,Fyrisvallsgatan 10A,1,29.0,1995,1585000,1585000
+Uppsalakommun,Fålhagen,Vaksalagatan 33 A,3,88.0,3882,4690000,4690000
+Uppsalakommun,Kungsängen,"Kungsängsesplanaden 12B, Vån 4",4,98.0,5003,4525000,4004424
+Uppsalakommun,NYBY,Wivalliusgatan 41,2,61.0,3175,1930000,1692982
+Uppsalakommun,Fålhagen,Botvidsgatan 17,3,93.0,3825,4480000,4266666
+Uppsalakommun,Höganäs,S:t Olofsgatan 56 A,2.5,66.0,3974,2495000,2495000
+Uppsalakommun,ÅRSTA,Kamomillgatan 5,3,78.0,4307,2400000,1967213
+Uppsalakommun,Luthagen,Hällbygatan 23,3,77.0,4074,3850000,3104838
+Uppsalakommun,Salabacke,Murargatan 18B,1,38.1,2440,1605000,1500000
+Uppsalakommun,Industristaden,Kungsängsesplanaden 10C,4,98.0,5035,4875000,4062500
+Uppsalakommun,Höganäs,Storgatan 22D,2,66.2,3356,3200000,2882882
+Uppsalakommun,Salabacke,Lästmakargatan 9 B,3,74.0,3800,3600000,3157894
+Uppsalakommun,Årsta,Sparrisgatan 7A,3,73.0,2728,2550000,2297297
+Uppsalakommun,Fålhagen,Norrtäljegatan 3A,1.5,40.5,2574,1980000,1903846
+Uppsalakommun,HÖGANÄS,Storgatan 9C,3,78.0,3356,3250000,2981651
+Uppsalakommun,Kapellgärdet,Portalgatan 62,2,58.5,3459,2550000,2297297
+Uppsalakommun,Kapellgärdet,Djäknegatan 27 D,2,45.7,2921,1850000,1796116
+Uppsalakommun,Herrhagen,Opalvägen 53,3,66.0,4094,2025000,1985294
+Uppsalakommun,Svartbäcken,Svartbäcksgatan 107D,2,50.5,3849,2100000,1842105
+Uppsalakommun,Rosendal,Torgny Segerstedts allé 95A,1,34.0,2374,1900000,1881188
+Uppsalakommun,Kapellgärdet,Portalgatan 64,4,88.0,4813,3600000,3302752
+Uppsalakommun,Kvarngärdet,Råbyvägen 72,2,68.0,3623,2520000,2400000
+Uppsalakommun,Slavsta,Mariedalsgatan 2,1,38.0,3180,1395000,1395000
+Uppsalakommun,Salabacke,Ritargatan 1D,2,57.0,3194,1895000,1895000
+Uppsalakommun,Rosendal,Prefektgatan 3,1,27.0,1503,1720000,1702970
+Uppsalakommun,Kungsängen,Kryddblandargatan 9,2,53.0,3058,2750000,1702970
+Uppsalakommun,Centrum,S:t Olofsgatan 28B,3,79.6,5618,3920000,3294117
+Uppsalakommun,Gränby,Bellmansgatan 150 - FAST PRIS!,3,81.5,4133,2465000,2465000
+Uppsalakommun,Fålhagen,Fålhagsleden 5B,2,46.5,2808,2510000,2201754
+Uppsalakommun,Luthagen,Luthagsesplanaden 24 C,3,91.0,4689,3560000,3266055
+Uppsalakommun,Nyby,Fredrika Bremersgatan 2,3,76.5,3360,2250000,2102803
+Uppsalakommun,Svartbäcken,Svartbäcksgatan 78B,1,37.3,2480,1900000,1652173
+Uppsalakommun,Rosendal,"Rosendalsvägen 12, ingång C",1,27.0,1321,2000000,1801801
+Uppsalakommun,Länna,Kalle Blanks väg 4,3,72.5,4036,1675000,1675000
+Uppsalakommun,Luthagen,Luthagsesplanaden 24 B,2,73.0,3761,3155000,2607438
+Uppsalakommun,Rosendal,Torgny Segerstedts Allé 21,1,32.0,1566,2075000,1852678
+Uppsalakommun,Luthagen,Geijersgatan 48B,1.5,43.5,3095,2250000,1991150
+Uppsalakommun,Gränby,Solskensgatan 17,2,38.5,2739,1750000,1699029
+Uppsalakommun,Luthagen,Geijersgatan 13C,1,26.0,1231,1595000,1595000
+Uppsalakommun,Luthagen,Götgatan 30C,2,58.0,3555,2575000,2500000
+Uppsalakommun,FrämreLuthagen,Torsgatan 8D,1,33.3,1915,2300000,2190476
+Uppsalakommun,Luthagen,Hällbygatan 19,4,111.0,5900,5550000,4784482
+Uppsalakommun,Fålhagen,Ymergatan 15 F,2,50.0,2968,2475000,2270642
+Uppsalakommun,Sävja,Dalaresan 2,2,66.0,4152,1450000,1178861
+Uppsalakommun,FrämreLuthagen,Luthagsesplanaden 11,1,28.0,1408,2010000,1844036
+Uppsalakommun,Gränby,Råbyvägen 55E,1,29.0,2179,1450000,1450000
+Uppsalakommun,Fålhagen,Liljegatan 6 A,3,71.0,4304,3200000,2962962
+Uppsalakommun,Kapellgärdet,Djäknegatan 24,3.5,71.3,4415,2950000,2565217
+Uppsalakommun,Uppsala,Gnejsvägen 4A,3,67.0,3091,2500000,2100840
+Uppsalakommun,Kapellgärdet,Torngatan 1,2,47.0,2908,2310000,2200000
+Uppsalakommun,Luthagen,Luthagsesplanaden 26C,1,39.0,2237,2225000,1986607
+Uppsalakommun,Rosendal,Torgny Segerstedts allé 21,1,32.0,1535,2200000,1999999
+Uppsalakommun,Gottsunda,Cellovägen 98,4,83.0,4532,2600000,2096774
+Uppsalakommun,Gränby,Råbyvägen 57F,2,65.0,3587,2045000,1985436
+Uppsalakommun,Fålhagen,Liljegatan 4 D,2,52.0,3007,2320000,2000000
+Uppsalakommun,Salabackar,Fyrislundsgatan 23b,2,64.0,3946,2510000,2390476
+Uppsalakommun,Årsta,"Körvelgatan 45A, BV",3,79.7,4090,3000000,2390476
+Uppsalakommun,Höganäs,Torkelsgatan 38B,1,42.0,2018,2000000,1886792
+Uppsalakommun,Salabacke,Årstagatan 45,2.5,64.0,3131,2200000,2095238
+Uppsalakommun,Nyby,"Viktor Rydbergsgatan 40, VÅN 5 / 5",3,63.5,3344,2100000,1891891
+Uppsalakommun,FrämreLuthagen,Sysslomansgatan 7,1,28.0,2003,2000000,1801801
+Uppsalakommun,Kapellgärdet,Orgelgatan 7,2,45.0,2238,2330000,2198113
+Uppsalakommun,Luthagen,Sturegatan 17 B,2,68.1,3460,2600000,2500000
+Uppsalakommun,Salabacke,Murargatan 10A,1,36.1,2087,1700000,1491228
+Uppsalakommun,Svartbäcken,Svartbäcksgatan 101C,1,38.5,2810,1900000,1696428
+Uppsalakommun,Ultuna,Ekoxvägen 8,5,116.0,5676,3995000,3995000
+Uppsalakommun,LÖTEN,Bellmansgatan 2,2,67.0,3790,1840000,1572649
+Uppsalakommun,ÅRSTA,Kummingatan 7A,3.5,79.7,3838,2100000,1842105
+Uppsalakommun,Nyby,Lidnersgatan 7,4,92.5,5257,2235000,2088785
+Uppsalakommun,Ulleråker,Henry säldes väg 12,3,82.0,5874,2810000,2284552
+Uppsalakommun,Ulleråker,Gustaf Kjellbergs väg 11,2,46.0,2540,2165000,1899122
+Uppsalakommun,Nyby,Elin Wägnersgatan 33,2,61.0,2869,1700000,1545454
+Uppsalakommun,Svartbäcken,Swedenborgsgatan 34A,2,57.0,3672,2500000,2500000
+Uppsalakommun,Luthagen,Tiundagatan 37,3,72.0,3420,3060000,2372093
+Uppsalakommun,Rickomberga,Polhemsgatan 2,1,41.0,2981,1680000,2372093
+Uppsalakommun,Fålhagen,Liljegatan 6 B,1,38.0,2696,2010000,1794642
+Uppsalakommun,Luthagen,Geijersgatan 52 B,2,57.4,2989,2625000,2100000
+Uppsalakommun,Årsta,Kamomillgatan 19,2,63.0,3775,2210000,1888888
+Uppsalakommun,Svartbäcken,Svartbäcksgatan 101D,1,27.0,2130,1255000,1195238
+Uppsalakommun,Fålhagen,Ymergatan 7A,4,124.0,7063,5900000,5900000
+Uppsalakommun,Årsta,Gräslöksgatan 28,1.5,43.0,2648,1825000,1600877
+Uppsalakommun,Höganäs,Botvidsgatan 8A,2.5,51.0,2935,2800000,2393162
+Uppsalakommun,Luthagen,Pelargatan 12,2,55.0,3124,2425000,2090517
+Uppsalakommun,Fålhagen,Salagatan 53A,1,25.0,1884,1695000,1695000
+Uppsalakommun,Luthagen,Börjegatan 58C,3,76.0,3977,2900000,2788461
+Uppsalakommun,Luthagen,Vindhemsgatan 15B,1,46.4,2761,2445000,2397058
+Uppsalakommun,Löten,Stagneliusgatan 1,5,136.0,7890,3250000,2981651
+Uppsalakommun,Ekeby,Reykjaviksgatan 38,2,60.9,2914,2760000,2486486
+Uppsalakommun,Fålhagen,Fålhagsleden 8B,1,29.5,1677,1640000,1592233
+Uppsalakommun,Årsta,Kamomillgatan 25,3,78.0,4315,2350000,2098214
+Uppsalakommun,Centrum,Sysslomansgatan 7,1,35.0,2217,2600000,2203389
+Uppsalakommun,Kungsängen,Skyttelgatan 17,4,111.0,5226,6995000,6995000
+Uppsalakommun,FrämreLuthagen,Luthagsesplanaden 3 A,1,36.0,2083,2325000,1987179
+Uppsalakommun,Sävja,"Smålandsvägen 53, BV",2,47.3,3749,1650000,1398305
+Uppsalakommun,Salabacke,Verkmästargatan 15,2,51.4,2776,2100000,2000000
+Uppsalakommun,Valsätra,Valthornsvägen 66C,3,78.0,4616,1850000,1850000
+Uppsalakommun,Luthagen,Luthagsesplanaden 28A,1,47.0,2851,2200000,1896551
+Uppsalakommun,Luthagen,Luthagsesplanaden 28 A,1,25.0,1616,1650000,1601941
+Uppsalakommun,Luthagen,Kyrkogårdsgatan 16F,1,39.0,2223,2400000,2285714
+Uppsalakommun,FrämreLuthagen,Sysslomansgatan 7,1,33.0,2146,2450000,2187500
+Uppsalakommun,Rosendal,Torgny Segerstedts allé 4,1,31.0,1590,1625000,1593137
+Uppsalakommun,Sävja,Smålandsvägen 36,4,95.0,7179,2360000,2185185
+Uppsalakommun,Höganäs,Storgatan 6,1,28.5,1564,1720000,1653846
+Uppsalakommun,Eriksberg,Gnejsvägen 10B,2,64.4,3378,2200000,1880341
+Uppsalakommun,Luthagen,Tegnérgatan 33A,2,54.0,3760,2900000,2396694
+Uppsalakommun,Kungsängen,Industrigatan 35,1,34.0,2031,2185000,1986363
+Uppsalakommun,Salabacke,Murargatan 18B,2,56.1,3203,1675000,1658415
+Uppsalakommun,Kapellgärdet,Orgelgatan 11,3,74.0,3415,3095000,3004854
+Uppsalakommun,Centrum,Vretgränd 9B,1,44.8,1511,2050000,1971153
+Uppsalakommun,Salabacke,Lästmakargatan 12A,3,76.5,4613,2730000,2600000
+Uppsalakommun,Centrum,Dragarbrunnsgatan 11B,2,59.6,2928,2200000,2156862
+Uppsalakommun,Salabacke,Apelgatan 6,2,55.0,2805,1965000,1889423
+Uppsalakommun,Höganäs,S:t Olofsgatan 60B,1,42.7,1590,2175000,1891304
+Uppsalakommun,Salabacke,Murargatan 4C,3,77.0,3733,2650000,2598039
+Uppsalakommun,Stabby,Hällbygatan 34 B,3,77.0,4077,2795000,2795000
+Uppsalakommun,Fålhagen,Vaksalagatan 55,1,30.0,2435,1350000,1350000
+Uppsalakommun,Årsta,Gräslöksgatan 18,2,63.0,3651,1850000,1796116
+Uppsalakommun,Kåbo,Soldathemsvägen 3,3,84.0,3649,3850000,3598130
+Uppsalakommun,Löten,Karin Boyegatan 2B,4,84.0,4699,2905000,2287401
+Uppsalakommun,Svartbäcken,Sköldungagatan 30A,1.5,41.0,2535,1785000,1700000
+Uppsalakommun,Luthagen,Norrlandsgatan 44 A,3,75.0,3913,3000000,2884615
+Uppsalakommun,MalmaBacke,Malma backe 1A,2,62.9,4460,1900000,1496062
+Uppsalakommun,Salabacke,Murargatan 8C,3,70.9,3807,2700000,2596153
+Uppsalakommun,Fålhagen,Torkelsgatan 2A,1,38.0,2725,2070000,1848214
+Uppsalakommun,Löten,Karin Boyegatan 2 H,6,125.0,7102,4550000,3855932
+Uppsalakommun,Rosendal,Torgny Segerstedts allé 9,2,38.0,2214,1995000,1995000
+Uppsalakommun,Kungsängen,Kungsängsgatan 57H,4,102.0,4617,4250000,4009433
+Uppsalakommun,Fålhagen,Torkelsgatan 16A,6,66.0,3318,2900000,2589285
+Uppsalakommun,Luthagen,Geijersgatan 40B,2,48.0,2946,2450000,2094017
+Uppsalakommun,Gränby,Gränbyvägen 4B,4,108.0,5620,3625000,3295454
+Uppsalakommun,Luthagen,Norrlandsgatan 36B,2,63.0,3175,2630000,2481132
+Uppsalakommun,Salabacke,Murargatan 8E,2,51.6,2786,2105000,1985849
+Uppsalakommun,Herrhagen,Stenhuggarvägen 19,4,118.0,4862,3695000,3213043
+Uppsalakommun,Löten,Lings Väg 50,2,65.0,4127,2040000,1789473
+Uppsalakommun,Årsta,Fyrislundsgatan 56,2,62.3,2919,1950000,1857142
+Uppsalakommun,Rosendal,Rosendalsvägen 12,1,32.0,1535,2100000,1842105
+Uppsalakommun,Svartbäcken,Idrottsgatan 15,4,91.8,5280,3650000,3288288
+Uppsalakommun,Centrum,S:t Johannesgatan 36  B,3,56.0,4123,2420000,2200000
+Uppsalakommun,Kungsängen,Muningatan 27,2,54.0,2691,3050000,2699115
+Uppsalakommun,Centrum,Linnégatan 16A,2,60.0,3966,2360000,2185185
+Uppsalakommun,Löten,Bellmansgatan 54,5,136.0,7840,3300000,2999999
+Uppsalakommun,Rosendal,Torgny segerstedts allé 4,1,31.0,1590,1610000,1594059
+Uppsalakommun,FrämreLuthagen,Götgatan 14B,1,23.0,1329,1900000,1792452
+Uppsalakommun,Rosendal,Torgny Segerstedts allé 4,1,31.0,1590,1680000,1600000
+Uppsalakommun,Fålhagen,Norrtäljegatan 42A,3,72.5,3950,3400000,3090909
+Uppsalakommun,Storvreta,Solstrålevägen 147,3,83.5,6031,2005000,1591269
+Uppsalakommun,Höganäs,Storgatan 6,1,28.5,1733,1760000,1599999
+Uppsalakommun,Luthagen,Stabby allé 11E,1,31.0,2409,1800000,1500000
+Uppsalakommun,Bälinge,Klockarbolsvägen 12 K,4,79.5,4380,2350000,2196261
+Uppsalakommun,Luthagen,Luthagsesplanaden 8B,5,108.0,5576,4800000,4660194
+Uppsalakommun,Centrum,Vretgränd 4A,2,58.0,2195,3170000,2881818
+Uppsalakommun,Luthagen,Luthagsesplanaden 16,2,55.0,2210,2550000,2405660
+Uppsalakommun,Luthagen,Geijersgatan 25A,1.5,44.0,2666,2375000,2101769
+Uppsalakommun,Salabacke,Apelgatan 9B,2,59.5,3220,2200000,1896551
+Uppsalakommun,Rosendal,Torgny Segerstedts allé 94,1,30.0,1780,1600000,1538461
+Uppsalakommun,Uppsala,Tegnérgatan 31A,2,48.0,2920,2700000,2288135
+Uppsalakommun,Slavsta,Stålgatan 48,2,72.0,4853,1995000,1995000
+Uppsalakommun,Höganäs,Vaksalagatan 44B,1.5,47.0,2649,2160000,1894736
+Uppsalakommun,Kapellgärdet,Ljusbärargatan 9,2,54.0,3179,2550000,2297297
+Uppsalakommun,Luthagen,Gimogatan 4 C,3,87.0,4723,3130000,3068627
+Uppsalakommun,Salabacke,Murargatan 3,1,41.5,2110,1801000,1593805
+Uppsalakommun,Kungsängen,Mältargatan 7,4,103.0,5163,4850000,4181034
+Uppsalakommun,Fålhagen,Petterslundsgatan 14 E,1,24.0,1759,1695000,1695000
+Uppsalakommun,Kåbo,Dag hammarskjölds väg 15B,2,37.0,3421,1695000,1695000
+Uppsalakommun,Svartbäcken,Svartbäcksgatan 105A,1.5,40.0,3219,2050000,1898148
+Uppsalakommun,Rosendal,Torgny Segerstedts allé 93A,4,90.0,4677,3750000,3348214
+Uppsalakommun,Fålhagen,Norrtäljegatan 1B,2,58.0,3382,3100000,2792792
+Uppsalakommun,Salabacke,Fyrislundsgatan 37C,3,71.0,4208,2860000,2486956
+Uppsalakommun,Industristaden,Sållargatan 4,1,35.0,1613,2150000,1990740
+Uppsalakommun,Ulleråker,Gustaf Kjellbergs Väg 18,2,56.7,4272,2039000,1788596
+Uppsalakommun,Luthagen,Stabby allé 11E,1,31.0,2409,1950000,1788990
+Uppsalakommun,Gunsta,Hjulaxelvägen 74,2,53.0,2951,1795000,1795000
+Uppsalakommun,Rosendal,Torgny Segerstedts allé 21,1,32.0,1535,2095000,2095000
+Uppsalakommun,Luthagen,Börjegatan 42A,3,67.1,3285,3100000,2792792
+Uppsalakommun,Gränby,Råbyvägen 53C,2,58.0,3370,2050000,1990291
+Uppsalakommun,Salabacke,Murargatan 30C,3,65.0,3033,2205000,1792682
+Uppsalakommun,Gränby,Råbyvägen 55F,1,29.0,2179,1395000,1395000
+Uppsalakommun,Svartbäcken,Svartbäcksgatan 87A,2,54.0,3330,1950000,1857142
+Uppsalakommun,Fålhagen,Hjalmar Brantingsgatan 5B,1,26.0,1508,1730000,1544642
+Uppsalakommun,Rosendal,Torgny Segerstedts allé 15,1,31.0,1806,1900000,1652173
+Uppsalakommun,Nyby,Leopoldsgatan 32,1,42.5,2824,1495000,1495000
+Uppsalakommun,Fålhagen,Torkelsgatan 18A,3,78.5,3317,3900000,2954545
+Uppsalakommun,Centrum,Svartbäcksgatan 43B,1.5,34.1,2041,2300000,1949152
+Uppsalakommun,Gränby,Dimgatan 16,3,77.0,4847,1900000,1844660
+Uppsalakommun,Centrum,Trädgårdsgatan 10,2,45.0,804,3500000,2500000
+Uppsalakommun,Fålhagen,Frodegatan 14A,1,35.0,2217,1850000,1697247
+Uppsalakommun,Rosendal,Torgny Segerstedts Allé 21,1,38.0,1859,2200000,1999999
+Uppsalakommun,Fålhagen,Frodegatan 14A,1,35.0,2217,1975000,1688034
+Uppsalakommun,Kåbo,Dekangatan 4,3,98.5,5422,3645000,3645000
+Uppsalakommun,Centrum,Torsgatan 2,3,77.8,3728,4910000,3991869
+Uppsalakommun,Ultuna,Bäcklösavägen 7,1,34.0,2537,1875000,1875000
+Uppsalakommun,Kvarngärdet,Råbyvägen 76,1,26.5,2169,1500000,1388888
+Uppsalakommun,Storvreta,Meteorvägen 30,1,35.0,2042,1500000,1388888
+Uppsalakommun,Kungsängen,Kungsängsgatan 66A,5,128.0,4800,6000000,5000000
+Uppsalakommun,Salabacke,Johannesbäcksgatan 99,2,54.0,3315,1850000,1796116
+Uppsalakommun,Kåbo,Dekangatan 4,3,75.0,4339,4195000,4195000
+Uppsalakommun,Salabacke,Murargatan 16B,1,24.5,1729,1340000,1300970
+Uppsalakommun,Luthagen,Luthagsesplanaden 36B,2,44.0,2467,2500000,2358490
+Uppsalakommun,Salabacke,Ritargatan 5,1.5,42.1,2201,1550000,1448598
+Uppsalakommun,Gottsunda,Cellovägen 133,3,83.5,4470,1600000,1495327
+Uppsalakommun,Uppsala,Götgatan 30D,2,44.0,3072,2500000,2293577
+Uppsalakommun,Kapellgärdet,Portalgatan 68,3,78.0,3987,3200000,2990654
+Uppsalakommun,Fålhagen,Eskilsgatan 3B,1.5,38.5,2645,2150000,2990654
+Uppsalakommun,Centrum,Dragarbrunnsgatan 62,1,37.5,1893,2125000,1985981
+Uppsalakommun,Luthagen,Götgatan 20A,1,19.0,1190,1525000,1399082
+Uppsalakommun,Årsta,Fyrislundsgatan 22,1,45.0,2506,1500000,1388888
+Uppsalakommun,Fålhagen,Petterslundsgatan 21B,3,67.0,3145,3000000,2586206
+Uppsalakommun,Ekeby,Köpenhamnsgatan 7,5,110.5,4605,4000000,2586206
+Uppsalakommun,Nyby,"Lidnersgatan 14, BV",2,61.0,3725,2090000,1899999
+Uppsalakommun,Kåbo,Dekangatan 4,3,98.5,5422,3745000,3745000
+Uppsalakommun,Kåbo,Dekangatan 4,2,47.5,3071,2395000,2395000
+Uppsalakommun,Sävja,Blekingevägen 23,4,102.3,5908,1800000,1451612
+Uppsalakommun,Sävja,Blekingevägen 1,2,64.5,4325,1465000,1450495
+Uppsalakommun,Fålhagen,Hjalmar Brantingsgatan 8A,1,27.0,1672,1565000,1397321
+Uppsalakommun,FrämreLuthagen,Odensgatan 4A,1,19.5,1267,1695000,1695000
+Uppsalakommun,Centrum,Dragarbrunnsgatan 9A,1,42.0,2507,2450000,2187500
+Uppsalakommun,Fålhagen,Vaksalagatan 55,1,25.0,2399,1450000,1394230
+Uppsalakommun,Kapellgärdet,Råbyvägen 76,1,38.0,2537,1595000,1595000
+Uppsalakommun,Fålhagen,Torkelsgatan 2G,2,53.5,3408,2400000,2222222
+Uppsalakommun,Centrum,Kungsängsgatan 36E,1,34.0,2145,2130000,1901785
+Uppsalakommun,Tunabackar,Fjärdhundragatan 58,1,25.5,1475,1400000,1296296
+Uppsalakommun,Stabby,Tiundagatan 51,4,89.7,4685,3625000,1296296
+Uppsalakommun,Kåbo,Dekangatan 4,2,43.5,2883,2395000,2395000
+Uppsalakommun,ERIKSBERG,Granitvägen 16 C,3,78.0,3377,2400000,2376237
+Uppsalakommun,Höganäs,Vaksalagatan 44A,1,21.0,1402,1425000,1344339
+Uppsalakommun,Gränby,Råbyvägen 57H,1,34.0,2477,1495000,1495000
+Uppsalakommun,Slavsta,Stålgatan 40,2,65.0,4033,1895000,1895000
+Uppsalakommun,Salabacke,Johannesbäcksgatan 86A,2,58.1,3243,2040000,1942857
+Uppsalakommun,Ulleråker,Eva Lagerwalls väg 26,1.5,47.5,3145,2100000,2000000
+Uppsalakommun,Salabacke,Verkmästargatan 15,2,57.5,3058,2100000,2000000
+Uppsalakommun,Kapellgärdet,Portalgatan 52,1,39.0,2627,1850000,1850000
+Uppsalakommun,Fålhagen,"Vaksalagatan 55, vån 5",1,21.0,2451,1195000,1195000
+Uppsalakommun,Årsta,Fänkålsgatan 20,2,63.0,3480,2095000,1957943
+Uppsalakommun,Luthagen,Götgatan 20C,1.5,25.0,1532,1930000,1787037
+Uppsalakommun,Kåbo,Dekangatan 4,4,98.5,5422,4145000,4145000
+Uppsalakommun,Kåbo,Dekangatan 4,3,98.5,5422,3645000,3645000
+Uppsalakommun,Kåbo,Dekangatan 4,3,98.5,5422,3695000,3695000
+Uppsalakommun,Kåbo,Dekangatan 4,2,47.5,3071,2345000,2345000
+Uppsalakommun,FrämreLuthagen,Sysslomansgatan 18,1,26.6,1360,2175000,2175000
+Uppsalakommun,Kåbo,Dekangatan 4,4,99.5,5469,3195000,3195000
+Uppsalakommun,Kapellgärdet,Orgelgatan 17,4,89.0,3991,3995000,3995000
+Uppsalakommun,Kåbo,Dekangatan 4,4,88.0,4938,3895000,3895000
+Uppsalakommun,Gränbybacke,Solskensgatan 13,2,54.0,3513,2200000,1999999
+Uppsalakommun,Svartbäcken,Svartbäcksgatan 101B,1,38.5,2880,1675000,1595238
+Uppsalakommun,Industristaden,Viragatan 7,5,110.0,5815,4850000,1595238
+Uppsalakommun,Luthagen,Luthagsesplanaden 26A,2,48.0,2490,2430000,2189189
+Uppsalakommun,Luthagen,Stabby allé 7C,2,55.7,2977,2475000,2475000
+Uppsalakommun,Kåbo,Dekangatan 4,4,98.5,5422,4195000,4195000
+Uppsalakommun,Kåbo,Dekangatan 4,3,70.5,4129,3995000,3995000
+Uppsalakommun,Höganäs,Torkelsgatan 38A,2,58.0,2711,2460000,2299065
+Uppsalakommun,Kapellgärdet,Portalgatan 93,4,111.0,4944,3800000,3762376
+Uppsalakommun,Fålhagen,Fålhagsleden 5B,2,46.5,2808,2400000,3762376
+Uppsalakommun,Svartbäcken,Gamla Uppsalagatan 11B,2,71.8,4152,2310000,1957627
+Uppsalakommun,Rosendal,Torgny segerstedts allé 32,2,40.0,2912,2095000,2095000
+Uppsalakommun,Salabacke,Johannesbäcksgatan 82a,4,101.0,4505,2960000,2930693
+Uppsalakommun,Eriksberg,Fältspatsvägen 4,2,54.0,2578,2420000,2000000
+Uppsalakommun,Fålhagen,Petterslundsgatan 14E,1,24.0,1759,1550000,1490384
+Uppsalakommun,Höganäs,Storgatan 2b,2,67.0,3807,2550000,2500000
+Uppsalakommun,Nyby,Elin Wägnersgatan 1,3,76.5,3360,2220000,2094339
+Uppsalakommun,Luthagen,Fyrisvallsgatan 8 B,5,117.0,6162,3695000,3695000
+Uppsalakommun,Svartbäcken,Idunagatan 20B,3,85.0,4248,3680000,3504761
+Uppsalakommun,Kapellgärdet,Portalgatan 63,3,91.0,5502,2975000,2806603
+Uppsalakommun,HÖGANÄS,S:t Persgatan 47 C,2,55.0,2908,2550000,2405660
+Uppsalakommun,Uppsala,Fyrislundsgatan 28,1,45.0,2506,1515000,1500000
+Uppsalakommun,Rosendal,Prefektgatan 8,2,40.0,2298,2300000,2000000
+Uppsalakommun,Fålhagen,S:t Göransgatan 22,3,68.0,3915,3015000,2599137
+Uppsalakommun,Fålhagen,Frodegatan 27A,2,40.0,3127,2150000,1990740
+Uppsalakommun,Kungsängen,Eldkvarnsgatan 4,3,83.0,3920,4450000,4009009
+Uppsalakommun,Svartbäcken,Folkungagatan 10C,2,54.0,2728,2360000,2000000
+Uppsalakommun,Höganäs,Höganäsgatan 8C,2.5,66.4,3946,2620000,2471698
+Uppsalakommun,Luthagen,Tegnérgatan 8,4,100.0,5315,4530000,4008849
+Uppsalakommun,NorraRosendal,Dekangatan 10 (2-1303),1,26.0,1524,1455000,1455000
+Uppsalakommun,Salabacke,Lästmakargatan 8 A,3,79.0,4734,2400000,2285714
+Uppsalakommun,Luthagen,Geijersgatan 25A,2.5,65.0,3682,2890000,2603603
+Uppsalakommun,Rosendal,Torgny Segerstedts allé 94,1,30.0,1780,1620000,1542857
+Uppsalakommun,Luthagen,Götgatan 24A,1,49.5,3120,2250000,2250000
+Uppsalakommun,Fålhagen,Torkelsgatan 17G,1.5,55.5,3229,2300000,2090909
+Uppsalakommun,Gränby,Tövädersgatan 14,3,75.5,3982,2200000,2115384
+Uppsalakommun,Löten,Ferlinsgatan 73,4,98.5,5916,1895000,1895000
+Uppsalakommun,Luthagen,Ringgatan 14B,1,48.2,2930,2300000,2190476
+Uppsalakommun,Nyby,Leopoldsgatan 25,1,25.0,1596,1300000,1300000
+Uppsalakommun,Luthagen,Kyrkogårdsgatan 45A,1.5,33.0,2076,2635000,1996212
+Uppsalakommun,Gottsunda,Dirigentvägen 185,2,63.2,3903,1500000,1388888
+Uppsalakommun,Salabacke,Johannesbäcksgatan 43,2,37.0,2400,1795000,1795000
+Uppsalakommun,Storvreta,Solstrålevägen 155,2,61.0,4606,1550000,1347826
+Uppsalakommun,Nyby,Lidnersgatan 9,4,92.5,5109,2500000,2500000
+Uppsalakommun,Kapellgärdet,Djäknegatan 50,3.5,71.0,4415,2800000,2641509
+Uppsalakommun,Centrum,Kungsgatan 71,4,90.0,3414,4250000,4009433
+Uppsalakommun,Salabacke,Årstagatan 31,1,27.0,1445,1290000,1290000
+Uppsalakommun,Salabacke,Apelgatan 3B,2,59.5,3405,2000000,1941747
+Uppsalakommun,Luthagen,Sibyllegatan 7 B,2,54.0,3417,2750000,1941747
+Uppsalakommun,Gränby,Molngatan 25,2,61.5,3247,1915000,1896039
+Uppsalakommun,Fålhagen,Frodegatan 5H,1,45.8,2263,2800000,1896039
+Uppsalakommun,Löten,Ferlinsgatan 57,3,83.0,4855,2050000,1952380
+Uppsalakommun,Rosendal,Torgny Segerstedts allé 4,1,31.0,1590,1800000,1592920
+Uppsalakommun,Rosendal,Torgny Segerstedts allé 4,1,31.0,1590,1600000,1495327
+Uppsalakommun,Luthagen,Luthagsesplanaden 6A,2,63.5,2383,2600000,2600000
+Uppsalakommun,Höganäs,Torkelsgatan 34 A,3,76.0,3797,2850000,2688679
+Uppsalakommun,Luthagen,Tiundagatan 47,1,45.2,2361,1995000,1995000
+Uppsalakommun,Sunnersta,Morkullevägen 72,3,90.0,4521,3400000,2982456
+Uppsalakommun,Luthagen,Gimogatan 8C,3,80.0,4432,3350000,2991071
+Uppsalakommun,Salabacke,Lästmakargatan 4B,2,55.0,3346,2100000,2991071
+Uppsalakommun,Fålhagen,Frodegatan 5G,1,45.8,2110,2650000,2453703
+Uppsalakommun,Årsta,Kummingatan 34A,3,79.7,4339,2100000,1891891
+Uppsalakommun,Industristaden,Industrigatan 27,1,35.0,1972,1925000,1905940
+Uppsalakommun,Fålhagen,Salagatan 53 A,2.5,60.5,3988,3000000,2884615
+Uppsalakommun,Fålhagen,Oxelgatan 20,2,57.0,3500,2500000,1953125
+Uppsalakommun,CentrumUppsala,Kungsgatan 52D,1.5,43.0,2583,1950000,1857142
+Uppsalakommun,Fålhagen,Torkelsgatan 10C,1,38.9,2040,2225000,1986607
+Uppsalakommun,Fålhagen,Stationsgatan 34,1,35.0,1813,2100000,2000000
+Uppsalakommun,Stenhagen,Stenhagsvägen 255,3,87.0,4999,1840000,1546218
+Uppsalakommun,Gränby,Råbyvägen 57F,2,65.0,3986,1995000,1995000
+Uppsalakommun,Uppsala,Leopoldsgatan 19,3,87.0,4458,2815000,2787128
+Uppsalakommun,Salabacke,Murargatan 23,3,75.4,2539,2850000,2499999
+Uppsalakommun,Rosendal,Torgny Segerstedts allé  27,1,27.0,1295,1950000,1911764
+Uppsalakommun,FrämreLuthagen,Luthagsesplanaden 9 A,1,25.2,1406,1580000,1580000
+Uppsalakommun,FrämreLuthagen,Luthagsesplanaden 9 A,3,74.3,3982,2975000,2975000
+Uppsalakommun,Nyby,Lidnersgatan 7,4,92.5,5109,2730000,2504587
+Uppsalakommun,Kungsängen,Siktargatan 2,3,91.5,5073,3595000,3595000
+Uppsalakommun,Nyby,Viktor Rydbergsgatan 33,3,74.0,4471,1800000,1800000
+Uppsalakommun,Uppsala,Ferlinsgatan 57,4,98.5,5781,2400000,2201834
+Uppsalakommun,Luthagen,Vindhemsgatan 15A,2,46.4,2707,2550000,2500000
+Uppsalakommun,Kapellgärdet,Råbyvägen 36A,3,87.5,4510,2795000,2687500
+Uppsalakommun,Luthagen,Luthagsesplanaden 18 A,4,108.0,3999,4500000,3982300
+Uppsalakommun,Luthagen,Tegnérgatan 33A,2,54.0,3491,2900000,2396694
+Uppsalakommun,Luthagen,Gimogatan 13A,1,34.0,2441,1750000,1682692
+Uppsalakommun,Årsta,Fyrislundsgatan 56,3,83.5,3612,2550000,2198275
+Uppsalakommun,Sommarro,Karlsrogatan 87B,3,69.0,3892,2800000,2692307
+Uppsalakommun,Fålhagen,Väderkvarnsgatan 32A,1,26.0,1494,1850000,1697247
+Uppsalakommun,Luthagen,Tegnérgatan 31C,2,48.0,2920,2700000,2195121
+Uppsalakommun,Ulleråker,Henry Säldes väg 12A,2,66.0,4768,2195000,2090476
+Uppsalakommun,Kungsängen,Siktargatan 2,2,54.5,3312,2595000,2595000
+Uppsalakommun,Uppsala,Sparrisgatan 7A,1,47.0,1821,1630000,1613861
+Uppsalakommun,Kungsängen,Industrigatan 25,1,32.0,1927,1995000,1995000
+Uppsalakommun,Stenhagen,Citrinvägen 1,4,94.0,4681,2285000,2240196
+Uppsalakommun,Centrum,Bäverns gränd 18A,6,134.5,7399,3900000,3482142
+Uppsalakommun,Fålhagen,Vaksalagatan 55,1,21.0,2386,1150000,1095238
+Uppsalakommun,FrämreLuthagen,Odensgatan 4B,3,74.2,4505,4095000,3384297
+Uppsalakommun,Salabacke,Källparksgatan 16,2,55.0,2548,1960000,1647058
+Uppsalakommun,Uppsala,Vackra birgers väg 151,4,91.5,5346,1880000,1843137
+Uppsalakommun,Luthagen,S:t Johannesgatan 36 A,1,33.0,2430,1580000,1549019
+Uppsalakommun,Salabacke,Murargatan 14 E,2,56.1,3260,2120000,1892857
+Uppsalakommun,NybyGård,Hurtigs gata 8,2,57.5,3559,1905000,1797169
+Uppsalakommun,Sävja,Smålandsvägen 80,4,95.0,7179,2410000,2077586
+Uppsalakommun,Uppsala,Dag Hammarskjöldsväg 15F,1,31.0,2658,1640000,1592233
+Uppsalakommun,Stabby,Hällbygatan 32E,1,23.5,1480,1395000,1395000
+Uppsalakommun,Salabacke,Byggmästargatan 15A,3,77.5,3889,2400000,2307692
+Uppsalakommun,Årsta,Kamomillgatan 23,3,78.0,4280,1995000,1995000
+Uppsalakommun,Stenhagen,Stenrösvägen 5,2,68.5,5120,1235000,1235000
+Uppsalakommun,Fålhagen,Petterslundsgatan 9 E,4,91.7,3967,3400000,3300970
+Uppsalakommun,Fålhagen,Hjalmar Brantingsgatan 5B,2,58.6,3306,2950000,3300970
+Uppsalakommun,Fålhagen,Väderkvarnsgatan 29B,3,84.0,3600,4400000,3963963
+Uppsalakommun,FrämreLuthagen,S:t Johannesgatan 5,1,48.0,2015,2975000,2806603
+Uppsalakommun,Kapellgärdet,Djäknegatan 24,2,55.1,3219,1910000,1752293
+Uppsalakommun,Sävja,Västgötaresan 97B,3,66.0,4662,1705000,1444915
+Uppsalakommun,Höganäs,Höganäsgatan 11A,4,112.1,4302,4350000,4350000
+Uppsalakommun,Stabby,Tiundagatan 43,4,89.0,4501,3420000,3109090
+Uppsalakommun,Tunabackar,Väpnargatan 15C,2,59.0,2909,2050000,1898148
+Uppsalakommun,Tunabackar,Fjärdhundragatan 48,3.5,76.5,3919,2700000,2500000
+Uppsalakommun,Salabacke,Apelgatan 9C,2,59.5,3220,2160000,1894736
+Uppsalakommun,Gottsunda,Cellovägen 38,2,62.5,3666,1275000,996093
+Uppsalakommun,Svartbäcken,Sköldungagatan 51,3,85.9,2669,3000000,2884615
+Uppsalakommun,Kapellgärdet,Kapellgatan 3,3,78.5,4514,3250000,3250000
+Uppsalakommun,Centrum,Övre slottsgatan 12,3,88.0,4518,5300000,5096153
+Uppsalakommun,Gränby,Regngatan 21,3,59.5,3765,1700000,1700000
+Uppsalakommun,Slavsta,Mariedalsgatan 2,2,60.0,4243,1840000,1688073
+Uppsalakommun,Salabacke,Årstagatan 20 B,2,56.0,3332,1950000,1950000
+Uppsalakommun,Luthagen,Tegnérgatan 25 B,1,24.0,1666,1975000,1975000
+Uppsalakommun,Vårdsätra,Eksätravägen 152 BV,2,62.2,4388,1695000,1599056
+Uppsalakommun,Centrum,Hamnesplanaden 4B,4,103.2,4990,4850000,3489208
+Uppsalakommun,FrämreLuthagen,Torsgatan 6 B,4,102.0,3821,5630000,4895652
+Uppsalakommun,Svartbäcken,Svartbäcksgatan 97D,1,19.0,1520,1295000,1295000
+Uppsalakommun,Rosendal,Rosendalsvägen 12,1,27.0,1295,1780000,1762376
+Uppsalakommun,Eriksberg,Stigbergsvägen 2B,4,101.5,5223,4250000,3400000
+Uppsalakommun,Kapellgärdet,Torngatan 34,3,88.0,4310,3550000,3400000
+Uppsalakommun,Kapellgärdet,Portalgatan 4 D,3,84.0,4790,3690000,3208695
+Uppsalakommun,Fålhagen,Petterslundsgatan 18B,4,100.1,5719,2995000,2995000
+Uppsalakommun,Salabacke,Lästmakargatan 3B,2,61.0,3643,2200000,1896551
+Uppsalakommun,Kungsängen,Muningatan 21,3.5,88.0,3292,4250000,3695652
+Uppsalakommun,Salabacke,Apelgatan 9 D,3,70.5,3698,2430000,2292452
+Uppsalakommun,Rosendal,Amanuensgatan 5,2,52.0,3075,2200000,2156862
+Uppsalakommun,Rosendal,Betty Petterssons gata 9,2,47.0,2499,2650000,2523809
+Uppsalakommun,KAPELLGÄRDET,Djäknegatan 25A,2.5,57.0,3357,2200000,1999999
+Uppsalakommun,Fålhagen,"Väderkvarnsgatan 52C, 1tr",1.5,48.0,2364,2140000,2000000
+Uppsalakommun,Årsta,Kummingatan 36B,2.5,60.3,3422,1950000,2000000
+Uppsalakommun,Kungsängen,Siktargatan 2,2,54.5,3312,2450000,2450000
+Uppsalakommun,Kungsängen,Kungsgatan 91B,1,35.0,2382,1950000,1950000
+Uppsalakommun,FrämreLuthagen,Luthagsesplanaden 9A,1,16.3,996,1370000,1343137
+Uppsalakommun,Kungsängen,Tullgarnsgatan 16,3,82.0,4452,3400000,3090909
+Uppsalakommun,Fålhagen,Fålhagsleden 6B,1,36.5,2032,1920000,1900990
+Uppsalakommun,Fålhagen,Österängsgatan 26B,4,86.4,3749,3100000,2897196
+Uppsalakommun,Fålhagen,Frodegatan 15A,3,65.0,3070,3500000,3097345
+Uppsalakommun,Luthagen,Sturegatan 23A,2,57.0,2998,2525000,2295454
+Uppsalakommun,Centrum,Vaksalagatan 30A,2,64.0,3707,2295000,1944915
+Uppsalakommun,Löten,Ferlinsgatan 61,3,83.0,4855,2175000,1995412
+Uppsalakommun,Salabacke,Apelgatan 9 A,1,39.0,2201,1650000,1650000
+Uppsalakommun,Årsta,Kamomillgatan 15,2,63.0,3528,1825000,1806930
+Uppsalakommun,Kungsängen,Industrigatan 19,5,127.5,5212,6150000,5913461
+Uppsalakommun,Uppsala,Sågargatan 6C,3,74.0,3509,3400000,3148148
+Uppsalakommun,Tunabackar,Väpnargatan 7C,2,59.0,2913,2000000,1886792
+Uppsalakommun,Svartbäcken,Egilsgatan 9C,2,52.5,3851,1750000,1750000
+Uppsalakommun,Kapellgärdet,Margit Sahlins gata 3,2,38.0,2435,1895000,1895000
+Uppsalakommun,Sävja,"Gotlandsresan 172, 1tr",2,68.5,4293,1315000,1289215
+Uppsalakommun,Fålhagen,Eskilsgatan 3B,1,38.5,2593,2220000,1999999
+Uppsalakommun,Fålhagen,Vaksalagatan 55,1,21.0,2828,1195000,1195000
+Uppsalakommun,Centrum,Drottninggatan 6B,2,78.4,3385,3575000,3504901
+Uppsalakommun,Fålhagen,Torkelsgatan 7B,2,50.0,3601,2200000,2200000
+Uppsalakommun,Gränby,Regngatan 3,4,96.0,5584,2650000,2387387
+Uppsalakommun,Rosendal,"Torgny Segerstedts allé 9, vån 3",4,91.0,4550,3450000,3415841
+Uppsalakommun,Fålhagen,Väderkvarnsgatan 43B,1.5,52.7,2630,2500000,2192982
+Uppsalakommun,NorraLuthagen,Gimogatan 2A,2,44.0,2800,2250000,2122641
+Uppsalakommun,Eriksberg,Granitvägen 24E,3,68.0,3115,2650000,2345132
+Uppsalakommun,Svartbäcken,Folkungagatan 6C,3,74.0,3897,2640000,2400000
+Uppsalakommun,Kapellgärdet,Portalgatan 68,4,87.0,4267,3475000,3406862
+Uppsalakommun,ROSENDAL,Torgny Segerstedts allé 15,4,97.0,4850,4160000,4118811
+Uppsalakommun,NorraLuthagen,Fyrisvallsgatan 8 B,4,91.0,4793,3320000,3102803
+Uppsalakommun,Ekeby,Flogstavägen 5 B,2.5,63.0,5493,1700000,3102803
+Uppsalakommun,Stenhagen,Stenrösvägen 5,3,79.5,5911,1395000,1395000
+Uppsalakommun,FrämreLuthagen,Vasagatan 1 A,1,35.0,2497,2800000,2800000
+Uppsalakommun,Svartbäcken,Folkungagatan 6C,3,74.3,3897,2700000,2389380
+Uppsalakommun,FrämreLuthagen,Torsgatan 8 D,4,110.3,4970,5010000,4513513
+Uppsalakommun,Årsta,Körvelgatan 49B,2,60.3,3424,1600000,1495327
+Uppsalakommun,Kåbo,Dag Hammarskjölds väg 15B,1,27.0,2315,1560000,1495327
+Uppsalakommun,Luthagen,Norrlandsgatan 44A,3,77.0,3974,2895000,2895000
+Uppsalakommun,Höganäs,S:t Olofsgatan 50A,3,84.5,4365,3320000,2656000
+Uppsalakommun,Gottsunda,Musikvägen 18,5,121.5,7084,2105000,1985849
+Uppsalakommun,Kungsängen,Kungsängsgatan 57 E,3,77.0,4677,2737500,2710396
+Uppsalakommun,Uppsala,Torbjörnsgatan 20,1.5,48.4,2263,2000000,1801801
+Uppsalakommun,Centrum,Bäverns gränd 24,4,91.0,5130,3550000,3480392
+Uppsalakommun,Salabacke,Årstagatan 27,1,41.0,2230,1670000,1653465
+Uppsalakommun,Svartbäcken,Swedenborgsgatan 30B,2,63.5,4655,2510000,2302752
+Uppsalakommun,Luthagen,Tiundagatan 45,4,89.0,4866,4160000,3586206
+Uppsalakommun,Luthagen,Blandargatan 10,3,81.0,4287,2950000,2950000
+Uppsalakommun,Centrum,Stationsgatan 24,3,85.0,4210,3800000,3800000
+Uppsalakommun,Fålhagen,Vaksalagatan 44 A,1,21.0,1402,1440000,1090909
+Uppsalakommun,Salabacke,Årstagatan 27,3.5,82.0,4064,2450000,2187500
+Uppsalakommun,Årsta,Fyrislundsgatan 50,3,83.5,2985,2290000,1789062
+Uppsalakommun,Kapellgärdet,"Orgelgatan 13, VÅN 4",2,36.0,1874,2000000,1886792
+Uppsalakommun,Svartbäcken,Svartbäcksgatan 97 C,3,63.0,4379,1995000,1995000
+Uppsalakommun,Kungsängen,Muningatan 27,2,61.0,2900,3075000,2500000
+Uppsalakommun,Centrum,Dragarbrunnsgatan 55B,1,37.0,2197,2295000,1995652
+Uppsalakommun,Kåbo,Banérgatan 10A,2,60.0,3065,2825000,2500000
+Uppsalakommun,Kungsängen,Industrigatan 35,1,34.0,1991,2200000,1999999
+Uppsalakommun,Flogsta,Flogstavägen 5D,2,63.0,5675,2400000,1791044
+Uppsalakommun,Gränby,Råbyvägen 55F,2,54.0,3187,1900000,1792452
+Uppsalakommun,Luthagen,Sturegatan 17A,1,39.6,2145,1595000,1595000
+Uppsalakommun,Luthagen,Luthagsesplanaden 8 A,2,68.0,3892,2455000,2360576
+Uppsalakommun,Nyby,Wivalliusgatan 39,2,61.0,3053,1720000,1592592
+Uppsalakommun,Salabacke,Apelgatan 9C,2,59.5,3181,2050000,1694214
+Uppsalakommun,Luthagen,Pelargatan 12,3.5,87.0,4290,3280000,2981818
+Uppsalakommun,Ekeby,Reykjaviksgatan 124,4,101.0,4478,4350000,3686440
+Uppsalakommun,Centrum,Kungsgatan 7 B,3,67.0,3867,2695000,2695000
+Uppsalakommun,Luthagen,Rörgatan 4,3,81.0,4277,3400000,2956521
+Uppsalakommun,Svartbäcken,Svartbäcksgatan 42A,5,150.0,7458,9750000,9750000
+Uppsalakommun,Kungsängen,Tullgarnsgatan 3,1,34.0,1873,2350000,2043478
+Uppsalakommun,Fålhagen,Torkelsgatan 8A,2,50.0,3415,2400000,2201834
+Uppsalakommun,Fjärdingen,S:t Johannesgatan 4 A,4,108.0,5716,4250000,3794642
+Uppsalakommun,Höganäs,S:t Persgatan 45B,2,36.0,2728,2275000,2275000
+Uppsalakommun,Svartbäcken,Folkungagatan 4 A,2,59.3,3552,2300000,2190476
+Uppsalakommun,Fålhagen,Petterslundsgatan 16A,1,32.0,1854,1565000,1397321
+Uppsalakommun,Centrum,Dragarbrunnsgatan 11A,3,80.0,3655,3095000,3095000
+Uppsalakommun,Luthagen,Gimogatan 11C,2,41.5,2512,1895000,1895000
+Uppsalakommun,Luthagen,Tegnérgatan 36C,4.5,101.0,5593,5400000,4285714
+Uppsalakommun,Centrum,Vaksalagatan 30A,2,64.0,3707,2295000,2295000
+Uppsalakommun,Kapellgärdet,Vattholmavägen 4 D,2,67.0,3856,2510000,2390476
+Uppsalakommun,Luthagen,Dalgatan 28,2,53.0,3020,2395000,2395000
+Uppsalakommun,Luthagen,Gluntens Gränd 1,3,126.0,5073,7700000,7475728
+Uppsalakommun,Salabacke,Murargatan 3,2,62.5,2849,2000000,1886792
+Uppsalakommun,SALABACKE,Johannesbäcksgatan 97,3,78.0,4464,2750000,2750000
+Uppsalakommun,Fålhagen,S:t Göransgatan 25,1,45.0,2085,2550000,1992187
+Uppsalakommun,Centrum,Kungsängsgatan 36 F,3,81.1,4682,2610000,2558823
+Uppsalakommun,Fålhagen,Vaksalagatan 32,4,114.5,6453,4700000,4392523
+Uppsalakommun,Nyby,Viktor Rydbergsgatan 31,1,42.5,2966,1500000,1388888
+Uppsalakommun,Gränby,Blixtgatan 25,2,61.5,3040,1920000,1794392
+Uppsalakommun,Fiolbacken,Valthornsvägen 6,2,64.0,4044,1300000,1092436
+Uppsalakommun,Centrum,Skolgatan 12B,3,88.8,3972,3650000,3578431
+Uppsalakommun,Årsta,Fyrislundsgatan 54,3.5,83.5,2935,2400000,2000000
+Uppsalakommun,Fålhagen,Hjalmar Brantingsgatan 7B,2,58.7,2989,2950000,2587719
+Uppsalakommun,FrämreLuthagen,Odensgatan 5 A,5,145.0,5434,7300000,5983606
+Uppsalakommun,Fålhagen,Väderkvarnsgatan 54A,2.5,63.0,3354,2600000,2600000
+Uppsalakommun,Salabacke,Årstagatan 18C,1,23.5,1596,1295000,1295000
+Uppsalakommun,Salabacke,Byggmästargatan 17 B,2.5,62.5,3282,1995000,1995000
+Uppsalakommun,FulleröHage,Meteorvägen 28,2,53.0,3092,1745000,1694174
+Uppsalakommun,Rosendal,Torgny Segerstedts allé 21,4,107.0,5132,6175000,6113861
+Uppsalakommun,Luthagen,Luthagsesplanaden 6A,1,21.0,932,1800000,1698113
+Uppsalakommun,Salabacke,Murargatan 16A,4,87.3,4819,2795000,2795000
+Uppsalakommun,Höganäs,Vaksalagatan 38B,2.5,68.0,3856,2745000,2691176
+Uppsalakommun,Löten,Bellmansgatan 26,3,67.0,3641,2025000,1985294
+Uppsalakommun,Gränbybacke,Solskensgatan 11,2,59.5,3598,1950000,1950000
+Uppsalakommun,Bellman,Bellmansgatan 2,2,67.0,3641,1850000,1796116
+Uppsalakommun,Luthagen,Klockargatan 1,4,108.0,5688,3600000,3461538
+Uppsalakommun,Svartbäcken,Svartbäcksgatan 100B,3,72.0,3796,3020000,2796296
+Uppsalakommun,Luthagen,Geijersgatan 46A,2,49.0,3177,2200000,2200000
+Uppsalakommun,Fålhagen,Fålhagsleden 13,5,116.0,5656,5150000,4768518
+Uppsalakommun,FrämreLuthagen,Götgatan 11,4,116.0,4831,5325000,4976635
+Uppsalakommun,Höganäs,"S:t Persgatan 45B, 1tr",2,36.0,2728,2250000,1991150
+Uppsalakommun,Centrum,Svartbäcksgatan 43D,2,63.8,3797,2400000,1889763
+Uppsalakommun,Uppsala,Kungsängsgatan 21,1,45.0,1870,2400000,2142857
+Uppsalakommun,Bellman,Bellmansgatan 158,3,81.5,4132,1910000,1836538
+Uppsalakommun,Rosendal,Rosendalsvägen 22,1,33.0,2122,1795000,1693396
+Uppsalakommun,Uppsala,Gimogatan 6A,4,122.0,6157,4250000,3863636
+Uppsalakommun,Höganäs,S:t persgatan 45 B,1,28.0,2123,1700000,1700000
+Uppsalakommun,Kungsängen,Siktargatan 18,1,48.0,3355,2200000,2200000
+Uppsalakommun,Sommarro,Norbyvägen 77A,3,66.7,3513,3000000,2702702
+Uppsalakommun,Lindbacken,Storstensvägen 67,4,93.5,3128,4250000,3863636
+Uppsalakommun,Nyby,Viktor Rydbergsgatan 3,3,76.5,4366,1995000,1995000
+Uppsalakommun,Årsta,Fänkålsgatan 1,3,78.0,4403,2055000,2055000
+Uppsalakommun,Årsta,Kamomillgatan 3,3,78.0,4280,2040000,1888888
+Uppsalakommun,Nyby,Viktor Rydbergsgatan 33,2,63.5,3966,1495000,1495000
+Uppsalakommun,Gränby,Råbyvägen 57A,3,78.0,4474,2300000,2300000
+Uppsalakommun,Kungsängen,Sågargatan 9A,4,115.0,4567,6000000,6000000
+Uppsalakommun,Salabacke,Årstagatan 17,2,56.5,3255,1810000,1792079
+Uppsalakommun,Salabacke,Murargatan 22C,2,56.1,2776,2200000,1896551
+Uppsalakommun,Svartbäcken,Swedenborgsgatan 34 A,2,69.0,4387,2660000,2485981
+Uppsalakommun,Svartbäcken,Egilsgatan 3A,2,45.0,3239,2120000,1796610
+Uppsalakommun,Luthagen,Prästgatan 3,3,93.0,3709,4700000,3507462
+Uppsalakommun,Luthagen,Tiundagatan 50 B,4,91.2,4751,3700000,3490566
+Uppsalakommun,Höganäs,Alriksgatan 1D,2,56.5,3015,2100000,3490566
+Uppsalakommun,Herrhagen,Herrhagsvägen 180,5,117.0,7901,1950000,1893203
+Uppsalakommun,Uppsala,Liljegatan 13B,1.5,45.0,2814,1995000,1995000
+Uppsalakommun,Ulleråker,Gustaf Kjellbergs väg 5,3,87.0,4582,3880000,2895522
+Uppsalakommun,Kungsängen,Siktargatan 7 D,2.5,106.0,6184,4050000,3785046
+Uppsalakommun,Sävja,Blekingevägen 15,4,95.4,5904,1530000,1390909
+Uppsalakommun,Luthagen,Ringgatan 16A,1.5,47.0,2528,2500000,2192982
+Uppsalakommun,Salabacke,Johannesbäcksgatan 88C,3,72.3,3892,2320000,2297029
+Uppsalakommun,CentrumUppsala,Vaksalagatan 22B,4.5,115.0,5756,5800000,5631067
+Uppsalakommun,KAPELLGÄRDET,Portalgatan 76,3.5,99.0,5035,3300000,2894736
+Uppsalakommun,Nyby,Lidnersgatan 37,1,39.5,2682,1495000,1495000
+Uppsalakommun,Kungsängen,Viragatan 3,3,81.0,4614,3350000,3316831
+Uppsalakommun,Luthagen,Gimogatan 2 A,2,44.0,2800,2170000,1990825
+Uppsalakommun,FÅLHAGEN,Petterslundsgatan 17,4,92.0,4102,3050000,2990196
+Uppsalakommun,Centrum,Dragarbrunnsgatan 11A,2,53.0,2971,2350000,2303921
+Uppsalakommun,Luthagen,Sibyllegatan 7B,2,54.0,3491,2375000,2351485
+Uppsalakommun,Gränby,Stormgatan 17,3.5,95.4,4540,2050000,1798245
+Uppsalakommun,Höganäs,S:t Olofsgatan 43C,2,61.0,3121,2100000,1891891
+Uppsalakommun,Gottsunda,Henry Wemans väg 12,4,90.0,4684,2395000,2395000
+Uppsalakommun,Kapellgärdet,Portalgatan 62,2,58.5,3459,2500000,2403846
+Uppsalakommun,Ulleråker,Ulleråkersvägen 70,2,67.0,4312,2215000,2193069
+Uppsalakommun,Salabacke,Fyrislundsgatan 21A,3,80.0,4530,2695000,2695000
+Uppsalakommun,Kapellgärdet,Portalgatan 78,2,56.0,3249,2700000,2288135
+Uppsalakommun,Fålhagen,Eskilsgatan 7A,2,54.5,2864,2300000,2288135
+Uppsalakommun,NYBY,Lidnersgatan 38,1,41.0,2916,1420000,1420000
+Uppsalakommun,Gottsunda,Cellovägen 104,2,62.5,3580,1475000,1199186
+Uppsalakommun,Salabacke,Ritargatan 3,1,42.1,2159,1550000,1550000
+Uppsalakommun,Ultuna,Bäcklösavägen 3,3,74.0,4252,2650000,2500000
+Uppsalakommun,Löten,Bellmansgatan 12,5,136.0,8006,3050000,2904761
+Uppsalakommun,Luthagen,Hällbygatan 38B,3.5,87.5,4361,3300000,2972972
+Uppsalakommun,Fålhagen,Ymergatan 26B,1.5,45.0,2903,2150000,1902654
+Uppsalakommun,Gränby,Molngatan 4,3,77.5,3958,1995000,1995000
+Uppsalakommun,Salabacke,Lästmakargatan 3 A,1,44.0,2868,1700000,1574074
+Uppsalakommun,ÖvreSlotts,Övre Slottsgatan 12,3,99.0,4916,5850000,5467289
+Uppsalakommun,Kåbo,Banérgatan 5 B,3,65.0,3658,2800000,2745098
+Uppsalakommun,Luthagen,Bredmansgatan 4B,1,18.5,984,1780000,1589285
+Uppsalakommun,Centrum,Botvidsgatan 16 B,2,62.0,3923,2975000,2888349
+Uppsalakommun,Kapellgärdet,Torngatan 32,1,39.0,2509,1950000,1788990
+Uppsalakommun,Salabacke,Murargatan 1,2,62.5,2849,2100000,1891891
+Uppsalakommun,Fålhagen,Fålhagsleden 2C,2,57.5,2869,2750000,2500000
+Uppsalakommun,Svartbäcken,Sköldungagatan 35,3,82.4,2502,2900000,2500000
+Uppsalakommun,Norby,Svampvägen 4A,3,76.0,4007,1820000,1669724
+Uppsalakommun,Centrum,Kungsängsgatan 36B,1,30.6,1955,2150000,1902654
+Uppsalakommun,Höganäs,Väderkvarnsgatan 8B,1.5,44.0,2341,2470000,1991935
+Uppsalakommun,Kapellgärdet,Portalgatan 65,3,73.5,4262,2600000,2500000
+Uppsalakommun,Fålhagen,Torkelsgatan 10B,3,74.2,3783,3425000,3200934
+Uppsalakommun,Årsta,Kamomillgatan 5,2,63.0,3771,1875000,1689189
+Uppsalakommun,Sommarro,Lindsbergsgatan 5B,4.5,90.0,4961,3940000,3486725
+Uppsalakommun,Gränby,Regngatan 13,2,59.5,3725,1900000,1844660
+Uppsalakommun,Kungsängen,Sågargatan 13D,2,62.0,3661,3100000,2695652
+Uppsalakommun,NorraRosendal,Dekangatan 10 (2-1103),1,26.0,1524,1395000,1395000
+Uppsalakommun,Centrum,Svartbäcksgatan 43D,2,63.8,3835,2310000,1991379
+Uppsalakommun,Kungsängen,Kungsgatan 93D,2,54.0,2597,2740000,2740000
+Uppsalakommun,Rosendal,Grindstugegatan 2,3,91.0,3894,4275000,4071428
+Uppsalakommun,Salabacke,Apelgatan 7A-FAST PRIS!,1,25.5,1467,1395000,1395000
+Uppsalakommun,Svartbäcken,Torbjörnsgatan 40,3,85.9,3752,2650000,2500000
+Uppsalakommun,Gåvsta,Gåvstavägen 76,3,78.5,4148,2350000,2303921
+Uppsalakommun,Norby,Malma stenväg 2,3,63.5,3798,2000000,1694915
+Uppsalakommun,FrämreLuthagen,Fredsgatan 3,3,74.7,4585,3350000,2791666
+Uppsalakommun,Sommarro,Norbyvägen 46 C,3,90.0,3748,4550000,3991228
+Uppsalakommun,Luthagen,Gimogatan 8A,3,83.0,4545,3200000,2882882
+Uppsalakommun,Bellman,Bellmansgatan 166,5,113.0,5429,3100000,2296296
+Uppsalakommun,Ling,Lings väg 83,2,69.0,4236,1950000,1893203
+Uppsalakommun,Kungsängen,Tullgarnsgatan 23,2,72.0,3394,2800000,2745098
+Uppsalakommun,Luthagen,Tegnérgatan 15B,1,43.5,2283,2350000,2745098
+Uppsalakommun,Nyby,Munters gata 17,2,57.5,3441,1780000,1495798
+Uppsalakommun,Årsta,Fyrislundsgatan 52,3,83.5,2736,2170000,1695312
+Uppsalakommun,Fålhagen,Torkelsgatan 17G,2,40.0,2792,2100000,1981132
+Uppsalakommun,Salabacke,Gröna gatan 23E,2,60.5,3534,2260000,2000000
+Uppsalakommun,Nyby,Viktor Rydbergsgatan 31,1.5,41.0,2887,1530000,1485436
+Uppsalakommun,Salabacke,Lästmakargatan 9A - FAST PRIS,2,28.0,2159,1450000,1450000
+Uppsalakommun,Rosendal,"Prefektgatan 1, 4tr",2,42.0,2004,2350000,2259615
+Uppsalakommun,Centrum,Svartbäcksgatan 42 A,1.5,36.0,2738,2200000,1999999
+Uppsalakommun,Luthagen,Luthagsesplanaden 6A,1,35.5,1361,2150000,1791666
+Uppsalakommun,Salabacke,Gröna gatan 31 C,4,96.0,5406,2900000,2685185
+Uppsalakommun,Luthagen,Gimogatan 8B,3,85.0,4618,3000000,3000000
+Uppsalakommun,Herrhagen,Herrhagsvägen 409A,3,74.0,5597,1425000,1397058
+Uppsalakommun,Luthagen,Tiundagatan 38,1,21.0,1680,1360000,1192982
+Uppsalakommun,Höganäs,Vaksalagatan 44A,2,47.0,2628,2655000,2288793
+Uppsalakommun,Luthagen,Götgatan 20C,1,19.0,1190,1550000,1550000
+Uppsalakommun,Fålhagen,Fålhagsleden 3C,1,39.0,2377,2100000,2000000
+Uppsalakommun,CentrumUppsala,Svartbäcksgatan 43A,1.5,34.0,1959,2050000,1846846
+Uppsalakommun,Årsta,Fålhagsleden 103,2,60.0,3725,1895000,1895000
+Uppsalakommun,Nyby,Lidnersgatan 29,3,76.5,4248,2200000,2178217
+Uppsalakommun,Höganäs,S:t Olofsgatan 62A,2,60.0,2838,2910000,2598214
+Uppsalakommun,Nyby,Leopoldsgatan 21,2,61.0,3314,2120000,1892857
+Uppsalakommun,Gränby,Stormgatan 12,3,77.5,3833,2375000,2305825
+Uppsalakommun,Sävja,Västgötaresan 46,2,64.0,4559,1395000,1395000
+Uppsalakommun,Kapellgärdet,Portalgatan 86,2,56.0,3190,2400000,2285714
+Uppsalakommun,Kapellgärdet,Portalgatan 86,3,81.0,3842,3550000,2983193
+Uppsalakommun,Ultuna,Bäcklösavägen 7,2,56.0,3463,2295000,2295000
+Uppsalakommun,Tunabackar,Fjärdhundragatan 58,1,37.0,2139,1575000,1575000
+Uppsalakommun,Rosendal,Torgny Segerstedts allé 4,1,31.0,1590,1650000,1542056
+Uppsalakommun,Kapellgärdet,Råbyvägen 42B,3,77.0,4181,2495000,2495000
+Uppsalakommun,Kungsängen,Kungsängsgatan 57K,4,102.0,5487,3800000,3584905
+Uppsalakommun,Kungsängen,Viragatan 5,4,89.0,5003,3950000,3798076
+Uppsalakommun,Årsta,Sparrisgatan 5A,1,39.0,1525,1565000,1534313
+Uppsalakommun,Höganäs,S:t Olofsgatan 64 A,4,82.0,4735,3295000,3295000
+Uppsalakommun,Fålhagen,Hjalmar Brantingsgatan 8B,2,51.0,3172,2525000,2404761
+Uppsalakommun,Salabacke,Gröna gatan 3C,1,40.5,2515,1650000,1601941
+Uppsalakommun,Fålhagen,Fålhagsleden 5B,2,42.0,2550,2195000,2195000
+Uppsalakommun,Salabacke,Ritargatan 10A,4,96.2,4181,2825000,2690476
+Uppsalakommun,Uppsala,Körvelgatan 13B,4,92.1,4777,2500000,2690476
+Uppsalakommun,Fålhagen,Petterslundsgatan 24B,2,69.7,4020,2240000,2093457
+Uppsalakommun,Centrum,Kungsgatan 54A,2,67.0,3274,2350000,2259615
+Uppsalakommun,Eriksberg,Stigbergsvägen 4B,3,85.0,4561,2925000,2588495
+Uppsalakommun,Kungsängen,Skyttelgatan 10C,2,61.0,3419,3065000,2761261
+Uppsalakommun,Fålhagen,Ymergatan 6B,1,43.0,2118,2500000,2403846
+Uppsalakommun,Kapellgärdet,Torngatan 12,4,102.0,5147,4200000,3888888
+Uppsalakommun,Gränby,Bruno Liljeforsgatan 36,1,46.0,2801,1550000,1550000
+Uppsalakommun,Fålhagen,Vaksalagatan 43,1.5,42.2,2110,2300000,2090909
+Uppsalakommun,Centrum,Kungsängsgatan 36A,1,33.6,2123,1900000,1696428
+Uppsalakommun,Vädergatorna,Blixtgatan 1,3,82.5,4101,2200000,2095238
+Uppsalakommun,Norby,Tryffelvägen 9,3,72.5,5537,1695000,1599056
+Uppsalakommun,Luthagen,Gimogatan 6B,4,94.0,5033,4100000,3504273
+Uppsalakommun,Salabacke,Murargatan 5,2,54.0,2673,1805000,1597345
+Uppsalakommun,Kungsängen,Ångkvarnsgatan 18,2,54.0,2691,2850000,2850000
+Uppsalakommun,Luthagen,Geijersgatan 15A,1,30.0,1577,2250000,1991150
+Uppsalakommun,Eriksberg,Gnejsvägen 12A,3,73.9,3918,2310000,1790697
+Uppsalakommun,Kapellgärdet,Orgelgatan 10,2,46.0,2911,2200000,1999999
+Uppsalakommun,Stabby,Stabby allé 13 B,2,74.9,4357,2360000,2185185
+Uppsalakommun,Ultuna,Ekoxvägen 10,1,35.0,2461,1395000,1395000
+Uppsalakommun,NorraLuthagen,Pålgatan 3,2,54.0,3171,2710000,2258333
+Uppsalakommun,Luthagen,Tiundagatan 51,4,89.7,4685,3450000,3415841
+Uppsalakommun,Sävja,Smålandsvägen 1,3,78.7,5756,1310000,1297029
+Uppsalakommun,Rosendal,Torgny Segerstedts Allé 17B,3,74.0,4311,3600000,1297029
+Uppsalakommun,Gottsunda,Valthornsvägen 18,2,64.0,3920,1195000,1195000
+Uppsalakommun,Centrum,Trädgårdsgatan 3,3,146.0,6867,8500000,7522123
+Uppsalakommun,Kungsängen,Kungsängsgatan 59E,3,85.0,4770,3690000,3208695
+Uppsalakommun,Centrum,Kungsgatan 66 A,2.5,85.0,4272,3850000,3850000
+Uppsalakommun,Luthagen,Hällbygatan 32E,2,54.5,2778,2300000,2072072
+Uppsalakommun,Kapellgärdet,Portalgatan 93,4,111.0,4944,4150000,3705357
+Uppsalakommun,Kungsängen,Kungsängsesplanaden 4B,2,42.5,2228,2355000,1995762
+Uppsalakommun,FÅLHAGEN,Salagatan 53A,3,76.5,5322,4325000,3967889
+Uppsalakommun,Industristaden,Sågargatan 13A,3,81.0,4483,3200000,3967889
+Uppsalakommun,Gränby,Råbyvägen 55H,2,35.0,2543,1595000,1595000
+Uppsalakommun,Fiolbacken,Valthornsvägen 10,2,52.0,3206,1225000,1093750
+Uppsalakommun,Fålhagen,S:t Göransgatan 24A,2,44.5,2767,2400000,2000000
+Uppsalakommun,Tunabackar,Tunagatan 24c,2,54.5,2874,1820000,1801980
+Uppsalakommun,Uppsala,Gränbyvägen 2 C,2,63.0,3335,2395000,2395000
+Uppsalakommun,Kvarngärdet,Råbyvägen 70,3,81.0,4139,2500000,2500000
+Uppsalakommun,Luthagen,Ringgatan 18 A,3,78.4,3029,3725000,3481308
+Uppsalakommun,Fålhagen,Frodegatan 13A,1,46.4,3082,1995000,1995000
+Uppsalakommun,Luthagen,Gimogatan 4C,4,107.0,5550,4200000,4000000
+Uppsalakommun,Gränby,Regngatan 21,2,59.5,3797,1822500,1804455
+Uppsalakommun,Nyby,Lidnersgatan 15,2,61.0,3637,1725000,1691176
+Uppsalakommun,Salabacke,Gränby tvärgata 4,3,75.3,3136,2670000,2188524
+Uppsalakommun,Kungsängen,Ångkvarnsgatan 16,2,54.0,2691,3000000,2500000
+Uppsalakommun,Salabacke,Årstagatan 13,3,71.5,4240,2295000,2295000
+Uppsalakommun,Luthagen,Pelargatan 24,5,111.0,5665,4610000,4475728
+Uppsalakommun,Årsta,Kamomillgatan 18,3,78.0,4403,2055000,1957142
+Uppsalakommun,Luthagen,Hällbygatan 32D,2,55.5,2526,2420000,2200000
+Uppsalakommun,Svartbäcken,Svartbäcksgatan 105D,2,50.5,3849,2200000,1999999
+Uppsalakommun,Kapellgärdet,Vattholmavägen 6 B,4,99.0,4812,3900000,3482142
+Uppsalakommun,Stenhagen,Herrhagsvägen 190,3,72.4,4846,1815000,1649999
+Uppsalakommun,Kapellgärdet,Portalgatan 4C,4,99.0,5427,3770000,1649999
+Uppsalakommun,KÅBO,Villavägen 37,3,71.0,4968,3200000,3200000
+Uppsalakommun,Luthagen,Geijersgatan 15 A,1,30.0,1577,2275000,1791338
+Uppsalakommun,Storvreta,Solstrålevägen 129,4,104.5,6074,3250000,1791338
+Uppsalakommun,Vädergatorna,Blixtgatan 15,2,61.5,3192,1900000,1792452
+Uppsalakommun,Luthagen,Geijersgatan 15A,3,74.0,3311,3600000,1792452
+Uppsalakommun,Svartbäcken,Idrottsgatan 12,2,52.6,2277,2315000,2204761
+Uppsalakommun,Salabacke,Fyrislundsgatan 21A,1,33.0,2166,1600000,2204761
+Uppsalakommun,Luthagen,Hällbygatan 32c,1,22.5,1393,1295000,1295000
+Uppsalakommun,Kungsängen,Sågargatan 13 C,3,85.0,4620,4150000,3807339
+Uppsalakommun,Fålhagen,Ymergatan 36C,2,48.5,3219,2025000,1985294
+Uppsalakommun,Stenhagen,Stenrösvägen 1,2,67.0,5116,1150000,1095238
+Uppsalakommun,Fålhagen,Hjalmar Brantingsgatan 12A,2,54.1,2851,2490000,2305555
+Uppsalakommun,Luthagen,Jumkilsgatan 7C,3,78.0,4023,4000000,2305555
+Uppsalakommun,Gottsunda,Vackra Birgers Väg 69,4,91.5,5285,1680000,1499999
+Uppsalakommun,Stabby,Stabby allé 5,3,75.5,4038,2750000,2750000
+Uppsalakommun,Svartbäcken,Sköldungagatan 35,3,86.0,2669,3490000,2982905
+Uppsalakommun,Kungsängen,Kungsgatan 66B,3,84.0,4238,4000000,2982905
+Uppsalakommun,Svartbäcken,Auroragatan 3C,4,102.0,7552,4700000,3983050
+Uppsalakommun,Svartbäcken,Gamla uppsalagatan 9A,3,83.4,5112,2500000,2293577
+Uppsalakommun,Svartbäcken,Svartbäcksgatan 97B,2,42.0,3039,1910000,1801886
+Uppsalakommun,Sommarro,Lindsbergsgatan 8C,2,54.0,2721,2250000,2250000
+Uppsalakommun,Svartbäcken,Svartbäcksgatan 42B,1.5,44.0,3026,2350000,1991525
+Uppsalakommun,Ulleråker,Gustaf Kjellbergs väg 34,4,108.5,5442,4300000,3909090
+Uppsalakommun,Kapellgärdet,Portalgatan 60,5,110.0,5773,3795000,3795000
+Uppsalakommun,Salabacke,Byggmästargatan 13 E,2,56.0,3265,1700000,1634615
+Uppsalakommun,Kapellgärdet,Råbyvägen 20,5,122.5,7132,4950000,4805825
+Uppsalakommun,Luthagen,Tegnérgatan 5 C,2,67.0,3970,2745000,2691176
+Uppsalakommun,Salabacke,Apelgatan 3 D,3,70.5,3698,2025000,1874999
+Uppsalakommun,Höganäs,S:t Olofsgatan 58B,1,18.2,1126,1495000,1495000
+Uppsalakommun,Eriksberg,Fältspatsvägen 6,3,73.0,3456,2800000,2592592
+Uppsalakommun,Gränby,Gränby bilgata 10,3,82.5,4156,2250000,2184466
+Uppsalakommun,Svartbäcken,Vikingagatan 20A,2,44.0,2633,2200000,2095238
+Uppsalakommun,Svartbäcken,Folkungagatan 2A,2,48.4,2963,2055000,1902777
+Uppsalakommun,Kapellgärdet,Portalgatan 78,1,46.0,2767,2095000,2095000
+Uppsalakommun,Rosendal,Torgny Segerstedts Allé 9,2,40.0,2330,2300000,2211538
+Uppsalakommun,Salabacke,Ritargatan 6B,1,51.4,2377,1740000,1689320
+Uppsalakommun,Norby,Svampvägen 8A,2,59.5,3267,1900000,1792452
+Uppsalakommun,Salabacke,Verkmästargatan 1D,2,58.5,3375,1675000,1658415
+Uppsalakommun,Kungsängen,Sågargatan 4B,3,87.0,4571,3200000,2807017
+Uppsalakommun,Sunnersta,Åkervägen 7M,4,90.0,4494,4400000,3793103
+Uppsalakommun,Gottsunda,Cellovägen 124Y,2,69.0,3909,1450000,1394230
+Uppsalakommun,Årsta,Kamomillgatan 20,2,63.0,3505,1850000,1831683
+Uppsalakommun,Rosendal,Torgny Segerstedts allé 4,1,31.0,1590,1765000,1730392
+Uppsalakommun,Luthagen,Plattgatan 3,5,114.0,5608,4870000,4509259
+Uppsalakommun,Årsta,Körvelgatan 1 A,4,92.1,4892,2570000,2294642
+Uppsalakommun,Kapellgärdet,Margit Sahlins Gata 3,3,82.0,3872,3520000,3199999
+Uppsalakommun,Centrum,Drottninggatan 6A,1,32.2,1527,2175000,1995412
+Uppsalakommun,Centrum,Trädgårdsgatan 3,5,122.0,5738,8100000,6923076
+Uppsalakommun,Kungsängen,Sågargatan 8B,3.5,82.0,3291,3500000,6923076
+Uppsalakommun,Centrum,Dag hammarskjölds väg 15c,1,27.0,2315,1570000,1539215
+Uppsalakommun,Kungsängen,Östra Ågatan 113,1.5,34.5,2018,2150000,2150000
+Uppsalakommun,Eriksberg,Fältspatsvägen 4,2,54.0,2577,2325000,1845238
+Uppsalakommun,Kungsängen,Mältargatan 1,2,69.0,3789,3040000,2788990
+Uppsalakommun,Salabacke,Verkmästargatan 11 Lgh 1001,2,57.0,3029,2100000,1891891
+Uppsalakommun,Luthagen,Tiundagatan 49,3,76.5,3669,3125000,2648305
+Uppsalakommun,Stabby,Rörgatan 12,4,100.0,4931,3850000,3598130
+Uppsalakommun,Löten,Heidenstamsgatan 19,2,65.5,3619,1860000,1690909
+Uppsalakommun,Löten,Stagneliusgatan 15,2,65.5,3627,1750000,1750000
+Uppsalakommun,Rackarberget,S:t Johannesgatan 36A,3,56.0,4123,2350000,1991525
+Uppsalakommun,Salabacke,Byggmästargatan 13C,2,55.8,3265,1950000,1950000
+Uppsalakommun,Fålhagen,Torkelsgatan 19C,2,41.0,2827,2100000,2000000
+Uppsalakommun,FrämreLuthagen,Luthagsesplanaden 28b,1,34.0,2091,2100000,1891891
+Uppsalakommun,Industristaden,Kungsängsesplanaden 12 B,2,55.0,3227,2750000,2500000
+Uppsalakommun,Fålhagen,"Frodegatan 13A, 1tr",1.5,38.8,2565,2100000,2000000
+Uppsalakommun,Ultuna,Bäcklösavägen 3,2,57.0,3497,2120000,2000000
+Uppsalakommun,Kapellgärdet,Råbyvägen 82,2.5,65.0,3645,2290000,2180952
+Uppsalakommun,Svartbäcken,Svartbäcksgatan 108D,4,89.0,6279,3300000,2180952
+Uppsalakommun,Valsätra,Bernadottestigen 1B,1,31.0,2044,1550000,2180952
+Uppsalakommun,Stabby,Stabby allé 11C,2,53.5,3232,1995000,1995000
+Uppsalakommun,Kungsängen,Tullgarnsgatan 3,2,53.5,2773,2600000,2500000
+Uppsalakommun,Luthagen,Formgatan 3,4,93.0,4684,3750000,3605769
+Uppsalakommun,Slavsta,Mariedalsgatan 18,2,60.0,4043,1750000,1699029
+Uppsalakommun,Luthagen,Tegnérgatan 31C,2,48.0,2792,2450000,2187500
+Uppsalakommun,Gränby,Råbyvägen 53E,2,45.0,2855,1750000,1699029
+Uppsalakommun,NorraLuthagen,Gimogatan 15A,4,100.0,4360,3800000,3584905
+Uppsalakommun,Höganäs,S:t Olofsgatan 56B,1.5,44.0,2656,1950000,1950000
+Uppsalakommun,Industristaden,Skyttelgatan 7,3,82.0,3567,3900000,1950000
+Uppsalakommun,Löten,Bellmansgatan 74 BV,1,41.5,2503,1425000,1397058
+Uppsalakommun,FrämreLuthagen,Gluntens Gränd 4B,2.5,61.0,3670,3400000,1397058
+Uppsalakommun,Kungsängen,Kungsgatan 91B,1,35.0,2382,2095000,2095000
+Uppsalakommun,Kungsängen,Kungsgatan 91B,1,35.0,2382,2250000,2250000
+Uppsalakommun,Luthagen,Tegnérgatan 27B,3,58.0,2637,2850000,2250000
+Uppsalakommun,Sävja,Gotlandsresan 214,5,121.0,7422,2550000,2198275
+Uppsalakommun,Löten,Dagermansgatan 13 C,3.5,84.0,4734,2250000,2184466
+Uppsalakommun,Ulleråker,Gustaf Kjellbergs Väg 1B,2,63.0,3953,2675000,2346491
+Uppsalakommun,Kungsängen,Östra Ågatan 113,1,34.5,2018,2100000,2000000
+Uppsalakommun,Slavsta,Mariedalsgatan 2,3,79.0,5173,2430000,2405940
+Uppsalakommun,Fålhagen,Ymergatan 26 C,2,79.0,4587,2400000,2307692
+Uppsalakommun,Salabacke,Johannesbäcksgatan 43,4,44.0,2750,1795000,1795000
+Uppsalakommun,Salabacke,Johannesbäcksgatan 43,2,37.0,2400,1795000,1795000
+Uppsalakommun,Luthagen,Götgatan 20 C,2,63.0,3774,2675000,2500000
+Uppsalakommun,Sävja,Bergslagsresan 103,4,96.0,5344,1895000,1895000
+Uppsalakommun,Svartbäcken,"Svartbäcksgatan 101D, VÅN 3 / 3",1,27.0,2213,1370000,1343137
+Uppsalakommun,Fålhagen,Petterslundsgatan 20A,3,83.6,4745,3030000,2805555
+Uppsalakommun,Svartbäcken,Idrottsgatan 19,3,73.7,4185,2550000,2383177
+Uppsalakommun,Sävja,Bergslagsresan 84,3,76.0,4465,2330000,2157407
+Uppsalakommun,Herrhagen,Stenhuggarvägen 49,4,118.0,4862,3660000,3182608
+Uppsalakommun,Centrum,Höganäsgatan 2C,2,69.0,4023,3230000,2990740
+Uppsalakommun,Centrum,Kungsgatan 63A,1,34.0,2345,2100000,2000000
+Uppsalakommun,Luthagen,Tiundagatan 54A,2,51.1,2871,2100000,2058823
+Uppsalakommun,Eriksberg,Västertorg 5 A,4,97.2,3858,3000000,2912621
+Uppsalakommun,Nyby,Orvars väg 27,3,81.0,5492,2095000,2095000
+Uppsalakommun,Nyby,Leopoldsgatan 23,1,25.0,1596,1250000,1250000
+Uppsalakommun,Centrum,Kålsängsgränd 1C,2,41.8,3438,1725000,1725000
+Uppsalakommun,Svartbäcken,Svartbäcksgatan 107B,1,38.5,3097,1760000,1599999
+Uppsalakommun,Kungsgärdet,S:t Johannesgatan 36A,1,33.0,2430,1650000,1650000
+Uppsalakommun,Luthagen,Fredsgatan 3,1,27.7,1759,2000000,2000000
+Uppsalakommun,Centrum,Bäverns gränd 15B,3,77.0,2950,5300000,5300000
+Uppsalakommun,Uppsala,Eskilsgatan 3A - accepterat pris!,2,59.0,3974,2295000,2206730
+Uppsalakommun,Fålhagen,Vaksalagatan 36D,1,41.0,2315,2000000,1801801
+Uppsalakommun,Uppsala,Dimgatan 20,3,77.0,4659,2050000,1990291
+Uppsalakommun,GamlaGottsunda.,Källbovägen 2 F,7,122.0,3885,5320000,4707964
+Uppsalakommun,Luthagen,Geijersgatan 50A,3,56.3,4283,2270000,1991228
+Uppsalakommun,Kapellgärdet,Portalgatan 72,2,56.0,3305,2470000,2352380
+Uppsalakommun,Svartbäcken,Stiernhielmsgatan 13A,2,65.4,3694,2270000,1991228
+Uppsalakommun,Fålhagen,Ymergatan 17 A,3,75.0,4834,3350000,3101851
+Uppsalakommun,Luthagen,Prästgårdsgatan 8 A,3,66.5,3888,2700000,2596153
+Uppsalakommun,Vänge,Vangsbyvägen 56,3,81.5,5734,1250000,1250000
+Uppsalakommun,Luthagen,Ringgatan 2E,2,65.5,3500,2685000,2685000
+Uppsalakommun,ÅRSTA,Fyrislundsgatan 60,3,77.9,2685,2425000,2204545
+Uppsalakommun,Salabacke,Fyrislundsgatan 37 C,5,92.0,5422,3400000,3207547
+Uppsalakommun,Svartbäcken,Sandgropsgatan 1,3,83.5,4999,2820000,2685714
+Uppsalakommun,Fålhagen,Vaksalagatan 33B,3.5,88.0,3931,4300000,4257425
+Uppsalakommun,Ulleråker,Gustaf Kjellbergs väg 22,3,79.6,5444,2800000,2499999
+Uppsalakommun,Nyby,Lidnersgatan 30,4,92.5,5242,2710000,2398230
+Uppsalakommun,Uppsala,Stationsgatan 34,3,101.0,3698,4695000,4602941
+Uppsalakommun,CentralaUppsala,Trädgårdsgatan 12B,3,86.3,3385,6060000,4734375
+Uppsalakommun,CentrumUppsala,Svartbäcksgatan 21B,2,44.0,2018,2490000,2490000
+Uppsalakommun,Kapellgärdet,Djäknegatan 24,3,71.3,4415,2900000,2685185
+Uppsalakommun,Nyby,Viktor Rydbergsgatan 1,3,76.5,4366,1950000,1893203
+Uppsalakommun,Luthagen,Norrlandsgatan 34A,3,66.0,3292,2910000,2694444
+Uppsalakommun,Luthagen,Tiundagatan 49,3,76.5,3565,3075000,2584033
+Uppsalakommun,Ling,Lings Väg 92,3,79.5,5016,2130000,1990654
+Uppsalakommun,Fålhagen,Frodegatan 5C,1,43.0,2072,2475000,2402912
+Uppsalakommun,Gottsunda,Valthornsvägen 46B,2,68.0,3927,1600000,1290322
+Uppsalakommun,Kungsängen,Sågargatan 15 A,3,81.0,3545,3200000,3168316
+Uppsalakommun,Nyby,Fredrika Bremersgatan 22,2,61.0,2842,1810000,1774509
+Uppsalakommun,Kungsängen,Sågargatan 6D,4,101.0,4647,4350000,4065420
+Uppsalakommun,Fålhagen,Eskilsgatan 7B,1.5,37.5,2148,2040000,1942857
+Uppsalakommun,Nyby,Leopoldsgatan 23,1,25.0,1596,1295000,1295000
+Uppsalakommun,Kungsgärdet,S:t Johannesgatan 36A,1,33.0,2430,1710000,1644230
+Uppsalakommun,Luthagen,Götgatan 30 D,4,91.0,5004,4215000,3797297
+Uppsalakommun,Uppsala,Hjulaxelvägen 104,3,70.0,3896,2200000,1999999
+Uppsalakommun,Storvreta,Himmelsvägen 19,3,87.0,5096,1710000,1568807
+Uppsalakommun,Sävja,Gotlandsresan 174,4,93.0,5682,1700000,1588785
+Uppsalakommun,CENTRUM,Stora Torget 3,6,158.0,3793,5760000,5592233
+Uppsalakommun,Svartbäcken,Vaksalagatan 40A,2,65.9,3516,2900000,5592233
+Uppsalakommun,Fålhagen,Hjalmar Brantingsgatan 8A,2,51.0,3417,2550000,2405660
+Uppsalakommun,Årsta,"Fyrislundsgatan 42, 1 tr.",4,83.5,3545,2500000,2403846
+Uppsalakommun,Fålhagen,"S:t Göransgatan 23, 2 tr",2.5,68.0,3152,3040000,2763636
+Uppsalakommun,Luthagen,Tiundagatan 47,2,127.5,5990,3550000,3349056
+Uppsalakommun,Centrum,Storgatan 18B,3.5,103.1,5532,5020000,4290598
+Uppsalakommun,Luthagen,Kyrkogårdsgatan 45A,4,82.0,4426,3350000,3101851
+Uppsalakommun,Luthagen,Tegnérgatan 13,3,80.0,4184,4600000,3898305
+Uppsalakommun,Luthagen,Tiundagatan 45,3,76.0,4180,2650000,2623762
+Uppsalakommun,Gunsta,Hjulaxelvägen 96,3,70.0,3896,2230000,1991071
+Uppsalakommun,Kapellgärdet,Orgelgatan 9,2,45.0,2238,2450000,2401960
+Uppsalakommun,Storvreta,Solstrålevägen 155,3,83.5,6031,1775000,1491596
+Uppsalakommun,Luthagen,Tiundagatan 39,2,65.0,2995,2500000,2000000
+Uppsalakommun,Salabacke,Johannesbäcksgatan 80B,1,36.0,1850,1565000,1534313
+Uppsalakommun,Svartbäcken,Svartbäcksgatan 68A,2,52.3,2822,2000000,1904761
+Uppsalakommun,Fålhagen,Hjalmar Brantingsgatan 5B,1,24.0,1438,1550000,1504854
+Uppsalakommun,Nyby,Viktor Rydbergsgatan 38 - FAST PRIS!,3,74.0,3636,1995000,1995000
+Uppsalakommun,Höganäs,Höganäsgatan 2C,1,46.0,2802,2250000,1995000
+Uppsalakommun,Salabacke,Gröna gatan 3C,2,54.0,3184,1740000,1722772
+Uppsalakommun,Årsta,"Fyrislundsgatan 60, Vån 6",3,78.0,2862,2600000,2500000
+Uppsalakommun,Fålhagen,Oxelgatan 15,1,37.0,2075,1920000,1699115
+Uppsalakommun,Industristaden,Tullgarnsgatan 3,1,34.0,0,1995000,1699115
+Uppsalakommun,Gränby,Råbyvägen 57H,4,85.0,4959,2395000,2395000
+Uppsalakommun,Gränby,Albert Engströmsgatan 2H,2,48.5,3294,1650000,1499999
+Uppsalakommun,Fålhagen,S:t Göransgatan 25,2.5,68.0,3152,3395000,3395000
+Uppsalakommun,Svartbäcken,Svartbäcksgatan 110B,2,59.0,4401,1995000,1995000
+Uppsalakommun,Nyby,Wivalliusgatan 7,3,76.5,3566,2000000,1980198
+Uppsalakommun,Kungsängen,Skyttelgatan 9,2.5,62.0,3454,3160000,2796460
+Uppsalakommun,Uppsala,S:t Olofsgatan 41A,2,50.0,2546,2060000,2000000
+Uppsalakommun,Fålhagen,Stationsgatan 28,4,101.0,4666,4365000,4237864
+Uppsalakommun,Gottsunda,Dirigentvägen 147,2,63.7,4102,1425000,1425000
+Uppsalakommun,SVARTBÄCKEN,Svartbäcksgatan 103D,2,50.5,3466,2250000,2102803
+Uppsalakommun,Salabacke,Murargatan 4 D,3,68.5,3304,2295000,2295000
+Uppsalakommun,SVARTBÄCKEN,Svartbäcksgatan 42A,4,129.0,6701,8250000,7499999
+Uppsalakommun,Gåvsta,Gåvstavägen 88,3,78.5,4147,1800000,1698113
+Uppsalakommun,Fålhagen,Norrtäljegatan 20B,2,55.5,2931,2675000,2388392
+Uppsalakommun,Uppsala,Norrtäljegatan 28,1,35.5,2447,2070000,1881818
+Uppsalakommun,Fålhagen,Petterslundsgatan 16B,4,100.1,5272,3375000,2986725
+Uppsalakommun,FrämreLuthagen,Sysslomansgatan 7,1,34.0,2217,2400000,2201834
+Uppsalakommun,Uppsala,Västgötaresan 42A,3,83.0,5718,1500000,1500000
+Uppsalakommun,Luthagen,"Luthagsesplanaden 30B, VÅN 4 / 4",3.5,72.0,3109,3900000,1500000
+Uppsalakommun,Ulleråker,Ulleråkersvägen 70,2,67.0,4334,2200000,2095238
+Uppsalakommun,Centrum,Östra ågatan 73D,3,64.5,5121,2550000,2500000
+Uppsalakommun,Tunabackar,Väpnargatan 3C,3,77.5,3875,2500000,2450980
+Uppsalakommun,Luthagen,Götgatan 30C,3,98.0,5266,4050000,3749999
+Uppsalakommun,Svartbäcken,S:t Persgatan 45B,1,21.0,1592,1455000,1412621
+Uppsalakommun,Gränby,Råbyvägen 53E,2,45.0,2942,1850000,1697247
+Uppsalakommun,Vädergatorna,Molngatan 23,3,82.5,4156,2020000,2000000
+Uppsalakommun,Höganäs,Väderkvarnsgatan 15E,2,42.0,1844,2220000,1999999
+Uppsalakommun,Ulleråker,Ulleråkersvägen 54,4,96.0,5335,3600000,3185840
+Uppsalakommun,Luthagen,Prästgårdsgatan 8B,2,53.5,3232,2230000,2186274
+Uppsalakommun,Rickomberga,Polhemsgatan 2,1,41.0,2981,1710000,1693069
+Uppsalakommun,Löten,Ferlinsgatan 55,2,63.0,3913,1600000,1553398
+Uppsalakommun,Kåbo,Artillerigatan 10 B,3,84.0,4340,3600000,3185840
+Uppsalakommun,Årsta,Kummingatan 45C,4,92.0,4247,3000000,3185840
+Uppsalakommun,Luthagen,Jumkilsgatan 14B,3,70.6,2902,2950000,2783018
+Uppsalakommun,Luthagen,Stabby Allé 9B,2,53.5,3288,2325000,2193396
+Uppsalakommun,Kungsängen,Kungsängsgatan 57M,5,124.0,6443,5525000,4889380
+Uppsalakommun,LÖTEN,Heidenstamsgatan 1,2,65.5,3591,1695000,1645631
+Uppsalakommun,Svartbäcken,Styrbjörnsgatan 9,4,115.0,5190,4775000,4504716
+Uppsalakommun,Salabacke,Johannelundsgatan 8,2,54.0,3102,1875000,1875000
+Uppsalakommun,Årsta,Kamomillgatan 18,4,78.0,4281,2725000,2390350
+Uppsalakommun,Sävja,Västgötaresan 44,3,87.5,6020,1300000,1214953
+Uppsalakommun,Salabacke,Murargatan 26A,3,69.2,3337,2100000,2000000
+Uppsalakommun,Höganäs,Vaksalagatan 36B,2,51.0,2893,2200000,2095238
+Uppsalakommun,Stabby,Hällbygatan 17,3,86.0,4850,3250000,2981651
+Uppsalakommun,Luthagen,Tegnérgatan 15A,1,43.5,2283,2300000,2053571
+Uppsalakommun,Ulleråker,Gustaf Kjellbergs väg 1A,2,66.0,4124,2450000,2289719
+Uppsalakommun,Fålhagen,Torkelsgatan 10C,2,58.5,2838,2820000,2350000
+Uppsalakommun,Centrum,Dragarbrunnsgatan 53,1,21.5,1330,1510000,1495049
+Uppsalakommun,Heidenstam,Heidenstamsgatan 29,3,84.5,4432,2110000,1788135
+Uppsalakommun,Luthagen,Geijersgatan 11A,3,93.6,2944,4300000,3981481
+Uppsalakommun,Luthagen,Sturegatan 23  A,4,102.0,5078,4625000,3700000
+Uppsalakommun,Höganäs,S:t Olofsgatan 43A,3,78.5,4046,3200000,3700000
+Uppsalakommun,Valsätra,Bernadottestigen 1B,1,31.0,2044,1410000,1396039
+Uppsalakommun,Gränby,Molngatan 17,2,62.5,3061,1700000,1491228
+Uppsalakommun,Fålhagen,Marielundsgatan 5C,2,76.0,3305,2700000,2596153
+Uppsalakommun,Rosendal,Torgny Segerstedts Allé 89,2,38.0,1813,2225000,1986607
+Uppsalakommun,Årsta,Kummingatan 10A,3.5,79.7,4342,2700000,2195121
+Uppsalakommun,Luthagen,Hällbygatan 39,2,63.0,3560,2600000,2300884
+Uppsalakommun,Kungsängen,Muningatan 4,1,39.0,2133,2060000,1980769
+Uppsalakommun,Luthagen,Ringgatan 39B,2,57.0,3444,2400000,2201834
+Uppsalakommun,Svartbäcken,Swedenborgsgatan 30B,3,63.5,4655,2410000,1991735
+Uppsalakommun,Fålhagen,S:t Göransgatan 31 C,1.5,47.0,2748,2210000,1990990
+Uppsalakommun,NYBY,Lidnersgatan 35,1,39.5,2682,1450000,1394230
+Uppsalakommun,Centrum,Linnégatan 16 A,3,66.0,4340,2575000,2575000
+Uppsalakommun,Luthagen,Luthagsesplanaden 25,2,46.0,2169,2500000,2000000
+Uppsalakommun,Kapellgärdet,Portalgatan 4D,4,100.0,5469,3885000,3184426
+Uppsalakommun,FrämreLuthagen,Sysslomansgatan 7,1,28.0,2003,1695000,1695000
+Uppsalakommun,Svartbäcken,Folkungagatan 8A,2,63.0,3304,2500000,2500000
+Uppsalakommun,CentrumUppsala,Kungsgatan 71,1,36.0,1447,2220000,2198019
+Uppsalakommun,Luthagen,Tiundagatan 47,1,45.2,2292,1950000,1893203
+Uppsalakommun,Luthagen,Gimogatan 11 A,2,43.0,2574,2050000,1798245
+Uppsalakommun,Centrum,Svartbäcksgatan 43E,2,63.8,3835,2500000,2293577
+Uppsalakommun,Sommarro,Karlsrogatan 86 D,3,64.0,3062,3025000,2585470
+Uppsalakommun,FrämreLuthagen,Sysslomansgatan 16,4,106.4,4206,6405000,5474358
+Uppsalakommun,Fålhagen,Vaksalagatan 55,1,21.0,2386,1195000,1195000
+Uppsalakommun,Björklinge,Varggropsvägen 32,4,115.0,4194,3100000,1195000
+Uppsalakommun,Gränby,Råbyvägen 57G,2,49.0,3208,1850000,1831683
+Uppsalakommun,FrämreLuthagen,Götgatan 14B,2,58.0,3135,2500000,2500000
+Uppsalakommun,FrämreLuthagen,Börjegatan 1B,1,15.0,1192,1260000,1223300
+Uppsalakommun,Löten,Heidenstamsgatan 61,4.5,102.5,5310,2275000,2275000
+Uppsalakommun,Nyby,Leopoldsgatan 32,3,74.0,4364,1950000,1893203
+Uppsalakommun,Centrum,S:t Olofsgatan 28A,1,40.0,3208,2100000,2100000
+Uppsalakommun,Valsätra,Hugo Alfvéns väg 12,2,64.5,3389,1481000,1466336
+Uppsalakommun,Kapellgärdet,Portalgatan 27,4,97.0,5001,3050000,2990196
+Uppsalakommun,Luthagen,Gimogatan 4C - Fast pris,3,82.0,4535,2895000,2895000
+Uppsalakommun,Kåbo,Grindstugegatan 2,3.5,106.0,4536,4150000,4150000
+Uppsalakommun,Uppsala,Murargatan 1,2,62.5,2849,1760000,1725490
+Uppsalakommun,Kungsängen,Tullgarnsgatan 3,1,34.0,1873,2015000,1995049
+Uppsalakommun,Fålhagen,Petterslundsgatan 11C,3,75.7,3429,2650000,2387387
+Uppsalakommun,Kungsängen,Sågargatan 11B,3.5,85.0,3648,4150000,3705357
+Uppsalakommun,Salabacke,Gröna gatan 3B,1,40.5,2515,1495000,1495000
+Uppsalakommun,Kungsängen,Kungsängsgatan 59B,3,81.0,4341,3350000,2991071
+Uppsalakommun,Kungsängen,Kryddblandargatan 5 - Accepterat Pris -,1,33.0,2233,1945000,1945000
+Uppsalakommun,Ekeby,Reykjaviksgatan 124,4,101.0,4478,3905000,3395652
+Uppsalakommun,Centrum,Storgatan 18 B,3,74.0,3978,3510000,3407766
+Uppsalakommun,Höganäs,Botvidsgatan 8 B,2,53.0,2974,2505000,2341121
+Uppsalakommun,Fålhagen,Väderkvarnsgatan 52 A,2,48.0,2364,2500000,2192982
+Uppsalakommun,Höganäs,Storgatan 2 D,2,59.0,3410,2800000,2499999
+Uppsalakommun,Luthagen,Geijersgatan 27 B,2,48.5,2438,2800000,2187500
+Uppsalakommun,Fålhagen,Norrtäljegatan 9 C,1,37.0,2415,2225000,2202970
+Uppsalakommun,Löten,Heidenstamsgatan 41,4,102.5,5310,2530000,2181034
+Uppsalakommun,Höganäs,Botvidsgatan 4 C,3,64.0,3536,2850000,2688679
+Uppsalakommun,Fålhagen,Fålhagsleden 3C,1,38.5,2466,2150000,1902654
+Uppsalakommun,Tunabackar,Fjärdhundragatan 36,1,25.5,1475,1340000,1300970
+Uppsalakommun,Luthagen,Tiundagatan 38,1,39.0,2120,1950000,1695652
+Uppsalakommun,Salabacke,Lästmakargatan 4A,2.5,64.5,3807,2195000,1995454
+Uppsalakommun,Salabacke,Årstagatan 33,2,54.0,2766,1995000,1900000
+Uppsalakommun,Gunsta,Hjulaxelvägen 108,3,70.0,3896,2240000,2093457
+Uppsalakommun,Luthagen,Tiundagatan 54 A,2.5,60.4,3283,2350000,2196261
+Uppsalakommun,Höganäs,S:t Persgatan 47,1,20.0,1083,1600000,1495327
+Uppsalakommun,Rosendal,Amanuensgatan 5,3,83.0,4326,3825000,3608490
+Uppsalakommun,Centrum,Svartbäcksgatan 41,5,130.0,5878,6700000,5677966
+Uppsalakommun,Luthagen,Vindhemsgatan 18C,2,63.0,4480,3100000,2695652
+Uppsalakommun,Salabacke,Apelgatan 6,2.5,64.0,3170,2375000,2695652
+Uppsalakommun,Fålhagen,Oxelgatan 21,6,121.0,5994,5200000,5000000
+Uppsalakommun,Kungsängen,Ångkvarnsgatan 12,3,86.0,3239,3750000,3205128
+Uppsalakommun,Svartbäcken,Svartbäcksgatan 70 B,1,35.8,1860,1780000,1589285
+Uppsalakommun,Gottsunda,Altfiolsvägen 15,4,122.5,6513,2505000,2298165
+Uppsalakommun,Centrum,Storgatan 18B,3,74.0,3918,3400000,3090909
+Uppsalakommun,Salabacke,Verkmästargatan 1B,2,61.0,3581,1950000,1950000
+Uppsalakommun,Sävja,Ölandsresan 3B,4,94.0,5099,2860000,2860000
+Uppsalakommun,Luthagen,Ringgatan 4A,3,85.0,4807,3300000,2796610
+Uppsalakommun,Luthagen,Ringgatan 47C,3,70.5,3427,3200000,2689075
+Uppsalakommun,Sävja,Stenbrohultsvägen 111,3,80.1,6177,1695000,1695000
+Uppsalakommun,Rosendal,Torgny Segerstedts allé 4,2,48.0,2923,2095000,1995238
+Uppsalakommun,Luthagen,Fredsgatan 2B,3,74.0,3719,4450000,3503937
+Uppsalakommun,Gränby,Råbyvägen 55G,2,53.0,3153,1630000,1495412
+Uppsalakommun,FrämreLuthagen,Götgatan 14A,1,39.5,2247,2195000,2195000
+Uppsalakommun,Fålhagen,Österängsgatan 22C,4,101.6,4349,3650000,3258928
+Uppsalakommun,Centrum,S:t Persgatan 19 E,3,126.0,5167,6460000,5295081
+Uppsalakommun,Salabacke,Apelgatan 3D,1,38.0,2174,1700000,1650485
+Uppsalakommun,Salabacke,Salabacksgatan 5B,2,61.0,3643,2030000,1897196
+Uppsalakommun,FulleröHage,Regnmolnsvägen 6D,2,53.0,3045,1750000,1699029
+Uppsalakommun,Uppsala,Råbyvägen 57G,3,89.0,5154,2375000,2261904
+Uppsalakommun,ERIKSBERG,Stigbergsvägen 2B,1,19.0,1151,1100000,1089108
+Uppsalakommun,Salabacke,Byggmästargatan 9 B,2,63.0,2947,2050000,1898148
+Uppsalakommun,Centrum,Östra Ågatan 73 B,4,109.0,7592,4295000,4295000
+Uppsalakommun,Luthagen,Tiundagatan 49,1,45.2,2395,1925000,1799065
+Uppsalakommun,Salabacke,Gränby Tvärgata 4,3,75.3,3204,2300000,2254901
+Uppsalakommun,Luthagen,Tiundagatan 55,4,90.0,4685,3600000,3495145
+Uppsalakommun,Kapellgärdet,Torngatan 18,2,53.0,3149,2575000,2575000
+Uppsalakommun,Fålhagen,Hjalmar Brantingsgatan 33,2,52.0,2728,2200000,2115384
+Uppsalakommun,Gränby,Gränbyvägen 4B,4,123.0,6351,3805000,3589622
+Uppsalakommun,Luthagen,Tegnérgatan 36A,3,67.0,3959,2250000,2122641
+Uppsalakommun,Fålhagen,Vaksalagatan 55,1,21.0,2386,1250000,1146788
+Uppsalakommun,Centrum,Stationsgatan 34,2,40.0,2601,2450000,2450000
+Uppsalakommun,Fålhagen,Fålhagsleden 3 A,1,38.0,2376,1895000,1895000
+Uppsalakommun,Svartbäcken,Svartbäcksgatan 125,3,73.0,4771,3310000,2758333
+Uppsalakommun,Gottsunda,Cellovägen 28,3,83.0,4443,1650000,1499999
+Uppsalakommun,Stabby,Hällbygatan 32 c,2,55.0,2558,2100000,1891891
+Uppsalakommun,Centrum,Salagatan 39A,2,60.0,3464,3400000,3400000
+Uppsalakommun,Centrum,Dragarbrunnsgatan 31,1,23.0,1486,1720000,1592592
+Uppsalakommun,FrämreLuthagen,Vasagatan 5A,2.5,68.0,3706,3120000,2689655
+Uppsalakommun,Luthagen,Hällbygatan 32B,2,55.0,2776,2250000,2689655
+Uppsalakommun,Tunabackar,Väpnargatan 3C,3,77.5,3875,2555000,2480582
+Uppsalakommun,Uppsala,Norrlandsgatan 20,1.5,35.5,2926,2005000,1985148
+Uppsalakommun,FrämreLuthagen,Luthagsesplanaden 9A - FAST PRIS,1,16.3,1054,1290000,1240384
+Uppsalakommun,Höganäs,Storgatan 2D,2,59.0,3543,2620000,2201680
+Uppsalakommun,Valsätra,Bernadottestigen 1B,1,31.0,2044,1550000,1550000
+Uppsalakommun,Fålhagen,Hjalmar Brantingsgatan 31,2,52.0,2728,2250000,2184466
+Uppsalakommun,FrämreLuthagen,Sysslomansgatan 7,1,25.0,1932,1875000,1802884
+Uppsalakommun,Luthagen,Pålgatan 14,4,99.0,5145,4050000,3584070
+Uppsalakommun,FrämreLuthagen,Götgatan 14B,2,59.0,3240,3150000,2787610
+Uppsalakommun,Kvarngärdet,Kvarntorget 11,2.5,86.0,3060,3100000,3009708
+Uppsalakommun,Rickomberga,Gösta wahlströms väg 20,2.5,79.0,3524,3500000,2892561
+Uppsalakommun,Nyby,Viktor Rydbergsgatan 38,3,74.0,3531,2100000,1794871
+Uppsalakommun,LÖTEN,Bellmansgatan 108,3,81.5,4132,2275000,2187500
+Uppsalakommun,Luthagen,Luthagsesplanaden 6A,1,21.0,932,1610000,1490740
+Uppsalakommun,Salabacke,Gröna gatan 27B,1,41.5,2529,1480000,1298245
+Uppsalakommun,Stabby,Tiundagatan 47,2,59.0,3112,2505000,2298165
+Uppsalakommun,Kvarngärdet,"Råbyvägen 20, VÅN 3",2,41.5,3381,1675000,1595238
+Uppsalakommun,Löten,Heidenstamsgatan 49,2,65.5,3619,1700000,1700000
+Uppsalakommun,Salabacke,Ritargatan 1A,2,59.4,2932,1995000,1995000
+Uppsalakommun,Salabacke,Lästmakargatan 2A,1,38.0,2503,1760000,1491525
+Uppsalakommun,Löten,Karin Boyegatan 8A,3.5,84.0,4873,2710000,2398230
+Uppsalakommun,Luthagen,Floragatan 12,2,60.5,3374,2300000,2090909
+Uppsalakommun,Luthagen,Geijersgatan 15B,1,23.0,1340,1710000,1187500
+Uppsalakommun,Fålhagen,Salagatan 55B,1,39.5,2898,1925000,1850961
+Uppsalakommun,Kapellgärdet,Portalgatan 93,3,81.0,3925,4125000,3197674
+Uppsalakommun,Årsta,Kummingatan 8B,4,92.1,5049,2850000,2499999
+Uppsalakommun,Svartbäcken,Idrottsgatan 14,2,52.6,2136,2295000,2086363
+Uppsalakommun,Uppsala,Hällbygatan 34B,3,77.0,4075,2850000,2590909
+Uppsalakommun,Luthagen,Tiundagatan 49,1.5,44.8,2277,2000000,2000000
+Uppsalakommun,NorraLuthagen,Gimogatan 8 B,4,94.0,5033,3590000,3293577
+Uppsalakommun,Luthagen,Ringgatan 22 A,1,23.5,1550,1680000,1600000
+Uppsalakommun,Sommarro,Lindsbergsgatan 10B,2,58.0,3113,2100000,2000000
+Uppsalakommun,Kåbo,Banérgatan 6 B,4,92.5,4723,4400000,4271844
+Uppsalakommun,Fålhagen,Torkelsgatan 16A,2,66.0,3318,2800000,2499999
+Uppsalakommun,Höganäs,Alriksgatan 1 E,3,73.5,3521,3125000,2790178
+Uppsalakommun,Eriksberg,Fältspatsvägen 10,3,73.9,3692,2075000,2075000
+Uppsalakommun,Luthagen,Sturegatan 15 B,3,57.5,3467,2850000,2850000
+Uppsalakommun,Salabacke,Apelgatan 5A,1,25.5,1467,1400000,1346153
+Uppsalakommun,Löten,Heidenstamsgatan 63,3,84.5,4432,1950000,1911764
+Uppsalakommun,Fålhagen,Väderkvarnsgatan 36,4,112.0,5275,7300000,5887096
+Uppsalakommun,FrämreLuthagen,Sysslomansgatan 20A,3,90.0,3445,4650000,3496240
+Uppsalakommun,Kungsängen,Kryddblandargatan 7,2,68.0,3573,2750000,2500000
+Uppsalakommun,Kungsängen,Tullgarnsgatan 25,4,101.0,4534,4350000,3686440
+Uppsalakommun,Löten,Karin Boyegatan 12F,3.5,84.0,4873,2580000,2345454
+Uppsalakommun,Svartbäcken,Svartbäcksgatan 87B,2,54.0,3482,2375000,2047413
+Uppsalakommun,Valsätra,Bernadottestigen 1A,1,31.0,2044,1570000,1389380
+Uppsalakommun,Ulleråker,Eva Lagerwalls väg 26,1.5,47.5,3145,2200000,1999999
+Uppsalakommun,Kapellgärdet,Råbyvägen 74,2,58.5,3351,2190000,2190000
+Uppsalakommun,Höganäs,S:t Olofsgatan 52B,1,40.0,2610,1950000,1893203
+Uppsalakommun,Svartbäcken,Svartbäcksgatan 74B,2,52.0,3050,2320000,1901639
+Uppsalakommun,Luthagen,Klockargatan 1,2,50.0,2791,2280000,1900000
+Uppsalakommun,Kåbo,Artillerigatan 14A,4,79.1,4567,4100000,3796296
+Uppsalakommun,Årsta,Kamomillgatan 26,3,78.0,4175,2500000,2293577
+Uppsalakommun,Centrum,Linnégatan 2F,3,68.0,4123,3750000,3177966
+Uppsalakommun,Löten,Dagermansgatan 4F,3.5,84.0,4818,2000000,1886792
+Uppsalakommun,Centrum,Linnégatan 2B,5,130.0,6844,6600000,6470588
+Uppsalakommun,Valsätra,Hugo alfvéns väg 16,2,58.0,2858,1450000,1450000
+Uppsalakommun,Sävja,Västgötaresan 93,2,65.5,4615,1450000,1450000
+Uppsalakommun,Kungsängen,Kungsgatan 91B,1,35.0,2382,2195000,2195000
+Uppsalakommun,NorraLuthagen,Gimogatan 5B,2,44.5,2664,1950000,1950000
+Uppsalakommun,Bergsbrunna,Ölandsresan 3A,3,62.0,3572,1960000,1921568
+Uppsalakommun,Centrum,Portalgatan 35,1,36.0,2952,1700000,1588785
+Uppsalakommun,Salabacke,Verkmästargatan 5B,4,87.0,4618,2300000,2211538
+Uppsalakommun,Sävja,Västgötaresan 44,2,71.5,4988,1295000,1295000
+Uppsalakommun,Fålhagen,Ymergatan 15B,2,50.5,2921,2650000,2103174
+Uppsalakommun,Luthagen,S:t Johannesgatan 36C OBS! FAST PRIS,1,33.0,2430,1575000,1559405
+Uppsalakommun,Centrum,Bangårdsgatan 1B,1,37.0,1778,2300000,1900826
+Uppsalakommun,FrämreLuthagen,Fredsgatan 3,2,62.4,4028,2590000,2590000
+Uppsalakommun,Vänge,Fibyvägen 6C,4,96.6,6000,2050000,1990291
+Uppsalakommun,Årsta,Fyrislundsgatan 52,3,83.5,3546,2550000,2198275
+Uppsalakommun,Salabacke,Johannesbäcksgatan 43,2,37.0,2472,1650000,1601941
+Uppsalakommun,Nyby,Viktor Rydbergsgatan 31,3,74.0,4471,1820000,1596491
+Uppsalakommun,Centrum,Linnégatan 3,2,61.0,2792,3600000,2790697
+Uppsalakommun,GränbyBacke,Gränbyvägen 4 A,6,152.0,7677,4500000,4368932
+Uppsalakommun,Nyby,Lidnersgatan 40,2,63.5,3928,1600000,1600000
+Uppsalakommun,FrämreLuthagen,Luthagsesplanaden 3B,2,60.0,3190,3250000,2500000
+Uppsalakommun,Fålhagen,Fålhagsleden 8C,2,41.5,2255,2450000,2401960
+Uppsalakommun,Ultuna,Bäcklösavägen 42,5,132.0,4353,4700000,2401960
+Uppsalakommun,Vänge,Vangsbyvägen 102,3,81.5,5734,1250000,1213592
+Uppsalakommun,Kapellgärdet,Portalgatan 78,2,56.0,3249,2475000,2190265
+Uppsalakommun,Luthagen,Geijersgatan 1,3,61.0,3690,3210000,2588709
+Uppsalakommun,Fålhagen,Petterslundsgatan 13,3,77.4,3476,2500000,2000000
+Uppsalakommun,Salabacke,Fyrislundsgatan 21A,3,80.0,4530,2795000,2795000
+Uppsalakommun,Centrum,Hamnesplanaden 4A,4,104.1,5034,3500000,3181818
+Uppsalakommun,Gränby,Albert Engströmsgatan 2h,3,71.5,4375,2720000,2590476
+Uppsalakommun,GamlaUppsala,Viktor Rydbergsgatan 6,3,76.5,3566,2275000,2252475
+Uppsalakommun,Luthagen,Tegnérgatan 15A,1,43.5,2283,2300000,2252475
+Uppsalakommun,Fålhagen,Petterslundsgatan 11B,1,32.0,1691,1925000,1688596
+Uppsalakommun,Svartbäcken,Folkungagatan 8B,1,38.0,1994,1740000,1596330
+Uppsalakommun,Svartbäcken,Folkungagatan 2B,2,48.4,2963,2050000,1898148
+Uppsalakommun,Gränby,Murargatan 10C,1.5,36.1,2087,1650000,1499999
+Uppsalakommun,Höganäs,S:t Olofsgatan 48,3,81.4,3575,3300000,3203883
+Uppsalakommun,Bellman,Bellmansgatan 26,2,67.0,3790,1850000,1697247
+Uppsalakommun,Årsta,Kummingatan 40B,3,79.7,4249,2900000,1697247
+Uppsalakommun,Centrum,Storgatan 6,1,28.5,1726,1700000,1588785
+Uppsalakommun,Luthagen,Prästgårdsgatan 13D,1,41.5,2237,1950000,1788990
+Uppsalakommun,FulleröHage,Stackmolnsvägen 91D,2,53.0,3045,1725000,1691176
+Uppsalakommun,FrämreLuthagen,Fredsgatan 3,2,62.4,4018,2550000,2428571
+Uppsalakommun,Luthagen,Geijersgatan 46A,1,37.0,2400,1800000,1747572
+Uppsalakommun,Rosendal,Torgny Segerstedts allé 11D,2,50.0,2913,1995000,1995000
+Uppsalakommun,Industristaden,Sågargatan 13D,2,62.0,3661,2700000,1995000
+Uppsalakommun,Höganäs,S:t Olofsgatan 58B,2,44.8,2177,2195000,2195000

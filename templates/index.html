@@ -1,18 +1,25 @@
 {% extends 'base.html' %}
 
 {% block content %}
-    <h1>{% block title %} Welcome to Hemnets data {% endblock %}</h1>
+    <h1>{% block title %} Hemnet-data {% endblock %}</h1>
     <div class="row">
-
      <div class="col-md-6">
-       <h2>Picture 1</h2>
-       <img src="/plot.png" alt="my plot" style="width:100%">
+       <h2>Comparison of city-areas</h2>
+       <img src="/plot_bar.png" alt="my plot" style="width:100%">
      </div>
-
      <div class="col-md-6">
-       <h2>Picture 2</h2>
+       <h2>Cost-dependen on #rooms</h2>
        <img src="/plot_scatter.png" alt="my plot" style="width:100%">
      </div>
-
     </div>
+    <div class="row">
+      <div class="col-md-6">
+        <h1>Hello Plotly (but not Dash)</h1>
+        <div id='chart' class='chart'”></div>
+      </div>
+    </div>
+    <script type='text/javascript'>
+      var graphs = {{graphJSON | safe}};
+      Plotly.plot('chart',graphs,{});
+    </script>
 {% endblock %}

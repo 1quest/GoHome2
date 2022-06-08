@@ -11,14 +11,17 @@ API_KEY = ScraperConfig.GOOGLE_MAPS_API_KEY
 # Hemnet search result page will only show 50 pages.
 # Attempting to access page 51 or higher will return an error
 MAX_NUM_OF_PAGES = 50
+County = "Uppsala"
 
 
 class SlutPriserScraper:
     # Search URL for Stockholm, Nacka, Sundbyberg and Sollentuna counties
-    base_url = "https://www.hemnet.se/salda/bostader?location_ids%5B%5D=18031&location_ids%5B%5D=17853&location_ids%5B%5D=18028&location_ids%5B%5D=18027&location_ids%5B%5D=18042&item_types%5B%5D=bostadsratt"
+    base_url_sthlm = "https://www.hemnet.se/salda/bostader?location_ids%5B%5D=18031&location_ids%5B%5D=17853&location_ids%5B%5D=18028&location_ids%5B%5D=18027&location_ids%5B%5D=18042&item_types%5B%5D=bostadsratt"
+    base_url_uppsala = "https://www.hemnet.se/salda/bostader?location_ids%5B%5D=17800&item_types%5B%5D=bostadsratt"
 
-    def __init__(self, start_page=1, num_of_pages=1, use_google_maps_api=False):
+    def __init__(self, start_page=1, num_of_pages=1, use_google_maps_api=True):
         self.listings = []
+        print(API_KEY)
         # Normalized location names used to "clean up" location data
         self.norm_locations = [
             "Bromma",
@@ -40,7 +43,7 @@ class SlutPriserScraper:
         num_of_pages = min(num_of_pages, MAX_NUM_OF_PAGES)
 
         for page in range(start_page, num_of_pages+start_page):
-            url = self.base_url
+            url = self.base_url_uppsala
             if page > 1:
                 url += "&page=%d" % page
             # More DOokie
@@ -100,6 +103,7 @@ class SlutPriserScraper:
                     listing['street_address'] = street_address
 
                     if use_google_maps_api:
+                        print("Im here!!")
                         dist_to_central_st = SlutPriserScraper._calculate_distance_to_central_station(
                             street_address)
                         listing['dist_to_central_st'] = dist_to_central_st
@@ -121,8 +125,6 @@ class SlutPriserScraper:
                     listing['num_of_rooms'] = num_of_rooms
                     size = size_and_rooms.split('m²')[0].split('+')[0].replace(
                         ',', '.').replace(' ', '')
-                    print(len(size))
-                    print(size)
                     listing['size'] = float(size)
 
                     if not num_of_rooms or not size:
@@ -183,9 +185,11 @@ class SlutPriserScraper:
     @staticmethod
     def _calculate_distance_to_central_station(street_address):
         origin = street_address.split(',')[0].replace(' ', '+')
+        print(origin)
 
         URL = "https://maps.googleapis.com/maps/api/distancematrix/json?origins=%s+Stockholm&destinations=T-Centralen+Stockholm&mode=transit&key=%s" % (
             origin, API_KEY)
+        print(URL)
         response = get(URL)
         json_data = json.loads(response.text)
 
@@ -208,8 +212,8 @@ class SlutPriserScraper:
     def to_csv(self):
         now = datetime.now()
         dt_string = now. strftime("%Y%m%d")
-        csv_filepath = "./csv/Hemnet-" + dt_string + ".csv"
-        print("WAGAWAGA number of listings: "+str(len(self.listings)))
+        csv_filepath = "./csv/Hemnet-" + County + dt_string + ".csv"
+        print("Number of listings: "+str(len(self.listings)))
         keys = self.listings[0].keys()
 
         with open(csv_filepath, 'w') as output_file:
@@ -220,4 +224,4 @@ class SlutPriserScraper:
 
 if __name__ == "__main__":
     SlutPriserScraper(start_page=1, num_of_pages=50,
-                      use_google_maps_api=False).to_csv()
+                      use_google_maps_api=True).to_csv()

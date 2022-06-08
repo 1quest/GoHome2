@@ -4,6 +4,9 @@ h1 {
     text-align: center;
     padding: 10px;
 }
+body{
+  height:100%
+}
 .column {
   float: left;
   width: 50%;
@@ -13,4 +16,12 @@ h1 {
   content: "";
   clear: both;
   display: table;
+  height: 100%;
+}
+.row {
+  height:100%;
+  overflow: hidden;
+}
+.container{
+  height:100%
 }

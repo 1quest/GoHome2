@@ -1,4 +1,4 @@
 class ScraperConfig:
     """ Scraper Configuration """
 
-    GOOGLE_MAPS_API_KEY = "YOUR_API_KEY"
+    GOOGLE_MAPS_API_KEY = "AIzaSyBmNHxltCa3Q2Qce6_fSXSkuijYm1e0BqE"
