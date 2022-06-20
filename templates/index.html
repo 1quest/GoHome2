@@ -10,20 +10,19 @@
        <img src="/plot_bar.png" alt="my plot" style="width:100%">
      </div>
      <div class="col-md-6">
-       <h2>Cost-dependen on #rooms</h2>
+       <h2>Cost-dependencu on # rooms</h2>
        <img src="/plot_scatter.png" alt="my plot" style="width:100%">
      </div>
     </div>
     <div class="row">
       <div class="col-md-6">
-        <h1>Hello Plotly (but not Dash)</h1>
-        <div id='chart' class='chart'”></div>
+        <h1>Fuck plotly</h1>
+        <div class="chart" id="bargraph">
+          <script type='text/javascript'>
+            var graphs = {{plot | safe}};
+            Plotly.plot('bargraph',graphs,{});
+          </script>
+        </div>>
       </div>
-    </div>
-    <div class="chart" id="bargraph">
-      <script type='text/javascript'>
-        var graphs = {{plot | safe}};
-        Plotly.plot('chart',graphs,{});
-      </script>
     </div>
 {% endblock %}

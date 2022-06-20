@@ -8,9 +8,9 @@ from flask import Flask, render_template
 from flask import Response
 import io
 from datetime import datetime
-from plotly import graph_objs as go
-import pandas as pd
 import plotly
+import plotly.graph_objs as go
+import pandas as pd
 import json
 
 app = Flask(__name__)
@@ -119,7 +119,6 @@ def plot_bar(dataframe):
 
 
 def notdash():
-
     N = 40
     x = np.linspace(0, 1, N)
     y = np.random.randn(N)
