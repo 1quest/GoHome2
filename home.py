@@ -11,10 +11,7 @@ from datetime import datetime
 from plotly import graph_objs as go
 import pandas as pd
 import plotly
-import plotly.express as px
 import json
-from flask import send_from_directory
-import os
 
 app = Flask(__name__)
 County = "Uppsala"
