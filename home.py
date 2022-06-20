@@ -8,20 +8,28 @@ from flask import Flask, render_template
 from flask import Response
 import io
 from datetime import datetime
+from plotly import graph_objs as go
 import pandas as pd
 import plotly
 import plotly.express as px
 import json
+from flask import send_from_directory
+import os
 
 app = Flask(__name__)
 County = "Uppsala"
+matplotlib.use('Agg')
+
+
+@app.route('/favicon.ico')
+def favicon():
+    return app.send_static_file('favicon.ico')
 
 
 @app.route('/')
 def index():
-    matplotlib.use('Agg')
-    JSON = notdash()
-    return render_template('index.html', GraphJSON=JSON)
+    bar = notdash()
+    return render_template('index.html', plot=bar)
 
 
 @app.route('/plot.png')
@@ -114,13 +122,19 @@ def plot_bar(dataframe):
 
 
 def notdash():
-    df = pd.DataFrame({
-      'Fruit': ['Apples', 'Oranges', 'Bananas', 'Apples', 'Oranges',
-                'Bananas'],
-      'Amount': [4, 1, 2, 2, 4, 5],
-      'City': ['SF', 'SF', 'SF', 'Montreal', 'Montreal', 'Montreal']
-                    })
-    fig = px.bar(df, x='Fruit', y='Amount', color='City',
-                 barmode='group')
-    graphJSON = json.dumps(fig, cls=plotly.utils.PlotlyJSONEncoder)
+
+    N = 40
+    x = np.linspace(0, 1, N)
+    y = np.random.randn(N)
+    df = pd.DataFrame({'x': x, 'y': y})  # creating a sample dataframe
+
+    data = [
+        go.Bar(
+            x=df['x'],  # assign x as the dataframe column 'x'
+            y=df['y']
+        )
+    ]
+
+    graphJSON = json.dumps(data, cls=plotly.utils.PlotlyJSONEncoder)
+
     return graphJSON
