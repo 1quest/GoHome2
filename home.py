@@ -25,8 +25,10 @@ def favicon():
 
 @app.route('/')
 def index():
-    bar = notdash()
-    return render_template('index.html', plot=bar)
+    df = load_data()
+    bar_plot = notdash_bar(df)
+    scatter_plot = notdash_scatter(df)
+    return render_template('index.html', plot=bar_plot, scatter=scatter_plot)
 
 
 @app.route('/plot.png')
@@ -83,7 +85,7 @@ def load_data():
 
 def plot_scatter(dataframe):
     N = len(dataframe)
-    fig, ax = plt.subplots(figsize=(12, 12))
+    fig, ax = plt.subplots(figsize=(8, 8))
     dataframe[['size']] = dataframe[['size']].apply(
         pd.to_numeric, errors='coerce')
     x = dataframe[['size']]
@@ -118,19 +120,58 @@ def plot_bar(dataframe):
     return fig
 
 
-def notdash():
-    N = 40
-    x = np.linspace(0, 1, N)
-    y = np.random.randn(N)
-    df = pd.DataFrame({'x': x, 'y': y})  # creating a sample dataframe
+def notdash_bar(dataframe):
+    dataframe[["final_price"]] = dataframe[["final_price"]]/1000000
+    dataframe["location"] = dataframe["location"].str.title()
+    data = dataframe.groupby(["location"])["final_price"].mean()
+    data = data.sort_values(ascending=True)
+    fig, ax = plt.subplots(figsize=(12, 15))
+    x_lab = data.index.values
+    y = data
+    df = pd.DataFrame({'x': x_lab, 'y': y})  # creating a sample dataframe
 
     data = [
         go.Bar(
-            x=df['x'],  # assign x as the dataframe column 'x'
-            y=df['y']
-        )
+            x=df['y'],  # assign x as the dataframe column 'x'
+            y=df['x'], orientation='h')
     ]
+    data = go.Figure(data).update_layout(title="City Area vs Cost",
+                                         autosize=True,
+                                         height=800,)
+    data = data.update_xaxes(title="Cost [Mkr]")
+    data = data.update_yaxes(title="City Area")
 
     graphJSON = json.dumps(data, cls=plotly.utils.PlotlyJSONEncoder)
 
+    return graphJSON
+
+
+def notdash_scatter(dataframe):
+    dataframe[['size']] = dataframe[['size']].apply(
+        pd.to_numeric, errors='coerce')
+    data = go.Figure()
+    room_types = dataframe.drop_duplicates(subset=['num_of_rooms'])
+    room_types = room_types['num_of_rooms'].sort_values()
+    # loop over number of rooms
+
+    # add dots and name sequence
+    for x in room_types:
+        dataframe_filtered = dataframe.loc[dataframe['num_of_rooms']
+                                           == x]
+        data = data.add_trace(go.Scatter(x=dataframe_filtered['final_price'],
+                                         y=dataframe_filtered['size'],
+                                         mode='markers',
+                                         customdata=dataframe_filtered['num_of_rooms'],
+                                         name="Rooms: " + str(round(x, 1))))
+    data = data.update_layout(title="Size vs Cost", showlegend=True,
+                              autosize=True, height=800,)
+    data = data.update_xaxes(
+        title="Log. Cost [Mkr]").update_yaxes(title="Size[m²]")
+    data = data.update_traces(hovertemplate="<br>".join(
+        ["Size: %{y}m²", "Cost: %{x} Mkr", "Rooms: %{customdata}"]))
+    data = data.update_xaxes(type="log")
+
+    # data = [data]
+    graphJSON = json.dumps(
+                             data, cls=plotly.utils.PlotlyJSONEncoder)
     return graphJSON
