@@ -76,7 +76,7 @@ def load_data():
     dir = '/home/toidface/Documents/GoHome/csv'
     now = datetime.now()
     dt_string = now.strftime("%Y%m%d")
-    csv_filepath = "/Hemnet-" + County + dt_string + ".csv"
+    csv_filepath = "/Hemnet_sold-" + County + dt_string + ".csv"
     filename = dir + csv_filepath
     df = pd.read_csv(filename)
     # print(df[['size','final_price']].dtypes)

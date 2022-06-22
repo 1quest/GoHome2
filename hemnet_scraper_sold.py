@@ -19,7 +19,7 @@ class SlutPriserScraper:
     base_url_sthlm = "https://www.hemnet.se/salda/bostader?location_ids%5B%5D=18031&location_ids%5B%5D=17853&location_ids%5B%5D=18028&location_ids%5B%5D=18027&location_ids%5B%5D=18042&item_types%5B%5D=bostadsratt"
     base_url_uppsala = "https://www.hemnet.se/salda/bostader?location_ids%5B%5D=17800&item_types%5B%5D=bostadsratt"
 
-    def __init__(self, start_page=1, num_of_pages=1, use_google_maps_api=True):
+    def __init__(self, start_page=1, num_of_pages=1, use_google_maps_api=False):
         self.listings = []
         print(API_KEY)
         # Normalized location names used to "clean up" location data
@@ -212,7 +212,7 @@ class SlutPriserScraper:
     def to_csv(self):
         now = datetime.now()
         dt_string = now. strftime("%Y%m%d")
-        csv_filepath = "./csv/Hemnet-" + County + dt_string + ".csv"
+        csv_filepath = "./csv/Hemnet_sold-" + County + dt_string + ".csv"
         print("Number of listings: "+str(len(self.listings)))
         keys = self.listings[0].keys()
 
@@ -224,4 +224,4 @@ class SlutPriserScraper:
 
 if __name__ == "__main__":
     SlutPriserScraper(start_page=1, num_of_pages=50,
-                      use_google_maps_api=True).to_csv()
+                      use_google_maps_api=False).to_csv()
