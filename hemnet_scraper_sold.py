@@ -165,6 +165,7 @@ class SlutPriserScraper:
                             '\t', '').replace(' ', '').replace('\xa0', '').replace('%', '').replace('±', '').replace('-', '').replace('+', '')
                         initial_price = int(
                             int(final_price)/(1+int(initial_price)/100))
+                        listing['percentage_change'] = percentage_change
                     if not initial_price:
                         print(
                             "Skipping property as initial_price parameter not found")

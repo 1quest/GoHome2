@@ -17,7 +17,7 @@ County = "Uppsala"
 class SlutPriserScraper:
     # Search URL for Stockholm, Nacka, Sundbyberg and Sollentuna counties
     base_url_sthlm = "https://www.hemnet.se/salda/bostader?location_ids%5B%5D=18031&location_ids%5B%5D=17853&location_ids%5B%5D=18028&location_ids%5B%5D=18027&location_ids%5B%5D=18042&item_types%5B%5D=bostadsratt"
-    base_url_uppsala = "https://www.hemnet.se/salda/bostader?location_ids%5B%5D=17800&item_types%5B%5D=bostadsratt"
+    base_url_uppsala = "https://www.hemnet.se/bostader?housing_form_groups%5B%5D=apartments&location_ids%5B%5D=17800"
 
     def __init__(self, start_page=1, num_of_pages=1, use_google_maps_api=False):
         self.listings = []
@@ -55,31 +55,18 @@ class SlutPriserScraper:
             # End of DOokiE
             soup = BeautifulSoup(response.text, 'html.parser')
 
-            for property_row in soup.findAll('li', attrs={'class': 'sold-results__normal-hit'}):
+            for property_row in soup.findAll('li', attrs={'class': 'normal-results__hit js-normal-list-item'}):
                 listing = {}
-
-                # ME TESTING SHIT
-                # test = soup.findAll(
-                #     'li', attrs={'class': 'sold-results__normal-hit'})
-                # print(str(test[1].a['href']))
-                location_div = property_row.find(
-                    'div', attrs={'class': 'sold-property-listing__location'})
-                # street_address = location_div.h2.findAll(
-                # 'span', attrs={'class': 'sold-property-listing__heading qa-selling-price-title'})[0].text
-                # print("2222 --- IM RIGHT HERE BBY")
-                # print(location_div.h2.text)
-                # MY SHIT ENDS HERE
                 try:
                     location_div = property_row.find(
-                        'div', attrs={'class': 'sold-property-listing__location'})
+                        'span', attrs={'class': 'listing-card__location-name'})
 
-                    # print(location_div)
-                    street_address = location_div.h2.text.strip()  # .findAll(
+                    street_address = property_row.find(
+                        'h2', attrs={'class': 'listing-card__street-address qa-listing-title'}).text  # .findAll(
                     # 'span', attrs={'class': 'sold-property-listing__heading qa-selling-price-title'})[0].text
 
-                    # print(
                     # re.sub(r"[\n\t\s]*", "", location_div.div.text.replace('Lägenhet', '').strip()))
-                    location = location_div.div.text.strip().replace('Lägenhet', '')
+                    location = location_div.text.strip().replace(', Uppsala kommun', '')
                     region = location.split(',')[-1].replace('\n', '').replace('\t', '').replace(
                         'Bostadsrättslägenhet', '').replace('\xa0', '').strip().replace('Bostadsrätt', '').replace(' ', '')
                     # Location normalization
@@ -88,7 +75,6 @@ class SlutPriserScraper:
                     for norm_loc in self.norm_locations:
                         if norm_loc in location:
                             location = norm_loc
-                            # print("Normalized location to", norm_loc)
                             normalized = True
                             break
 
@@ -103,7 +89,6 @@ class SlutPriserScraper:
                     listing['street_address'] = street_address
 
                     if use_google_maps_api:
-                        print("Im here!!")
                         dist_to_central_st = SlutPriserScraper._calculate_distance_to_central_station(
                             street_address)
                         listing['dist_to_central_st'] = dist_to_central_st
@@ -112,26 +97,19 @@ class SlutPriserScraper:
                         print(
                             "Skipping property as region or location parameter not found")
                         continue
-                    size_div = property_row.find(
-                        'div', attrs={'class': 'sold-property-listing__size'})
+                    size_div = property_row.findAll(
+                        'div', attrs={'class': 'listing-card__attribute listing-card__attribute--primary'})
 
-                    size_and_rooms = size_div.div.text
-                    size_and_rooms = size_and_rooms.replace(
-                        '\n', '').replace('\t', '').replace(' ', '')
-                    if size_and_rooms[-6] == ",":
-                        num_of_rooms = size_and_rooms[-7:-4].replace(',', '.')
-                    else:
-                        num_of_rooms = size_and_rooms[-5]
-                    listing['num_of_rooms'] = num_of_rooms
-                    size = size_and_rooms.split('m²')[0].split('+')[0].replace(
-                        ',', '.').replace(' ', '')
+                    listing['num_of_rooms'] = size_div[2].text.split(' rum')[0]
+                    size = size_div[1].text.replace('\n', '').split('m²')[0].split('+')[0].replace(
+                        ',', '.').replace(' ', '').split('–')[0]
                     listing['size'] = float(size)
 
-                    if not num_of_rooms or not size:
+                    if not size_div[2].text or not size_div[1].text:
                         print("Skipping property as num_of_rooms parameter not found")
                         continue
                     fee = property_row.find(
-                        'div', attrs={'class': 'sold-property-listing__fee'})
+                        'div', attrs={'class': 'listing-card__attribute listing-card__attribute--secondary listing-card__attribute--fee'})
                     if hasattr(fee, 'text'):
                         fee = fee.text
                         fee = fee.replace('\n', '').replace('\t', '').replace(
@@ -144,33 +122,14 @@ class SlutPriserScraper:
                         print("Skipping property as fee parameter not found")
                         continue
 
-                    final_price_div = property_row.find(
-                        'div', attrs={'class': 'sold-property-listing__price'})
-                    final_price = final_price_div.div.text
-                    final_price = final_price.replace('\n', '').replace('\t', '').replace(
+                    final_price_div = size_div[0].text
+                    final_price = final_price_div.replace('\n', '').replace('\t', '').replace(
                         ' ', '').split('kr')[0].split('Slutpris')[-1].replace('\xa0', '')
-                    listing['final_price'] = final_price
+                    listing['price'] = final_price
 
                     if not final_price:
                         print("Skipping property as final_price parameter not found")
                         continue
-
-                    # Fetch the initial price from property page
-
-                    percentage_change = str(property_row.find(
-                        'div', attrs={'class': 'sold-property-listing__price-change-and-price-per-m2'}).div.text)
-                    if "%" in percentage_change:
-                        initial_price = percentage_change
-                        initial_price = initial_price.replace('\n', '').replace(
-                            '\t', '').replace(' ', '').replace('\xa0', '').replace('%', '').replace('±', '').replace('-', '').replace('+', '')
-                        initial_price = int(
-                            int(final_price)/(1+int(initial_price)/100))
-                    if not initial_price:
-                        print(
-                            "Skipping property as initial_price parameter not found")
-                        continue
-
-                    listing['initial_price'] = initial_price
 
                 except ValueError as ve:
                     print(ve)
@@ -212,7 +171,7 @@ class SlutPriserScraper:
     def to_csv(self):
         now = datetime.now()
         dt_string = now. strftime("%Y%m%d")
-        csv_filepath = "./csv/Hemnet-" + County + dt_string + ".csv"
+        csv_filepath = "./csv/Hemnet_future-" + County + dt_string + ".csv"
         print("Number of listings: "+str(len(self.listings)))
         keys = self.listings[0].keys()
 
