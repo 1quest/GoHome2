@@ -68,7 +68,7 @@ class SlutPriserScraper:
                     # re.sub(r"[\n\t\s]*", "", location_div.div.text.replace('Lägenhet', '').strip()))
                     location = location_div.text.strip().replace(', Uppsala kommun', '')
                     region = location.split(',')[-1].replace('\n', '').replace('\t', '').replace(
-                        'Bostadsrättslägenhet', '').replace('\xa0', '').strip().replace('Bostadsrätt', '').replace(' ', '')
+                        'Bostadsrättslägenhet', '').replace('\xa0', '').strip().replace('Bostadsrätt', '')
                     # Location normalization
                     normalized = False
 
@@ -100,7 +100,8 @@ class SlutPriserScraper:
                     size_div = property_row.findAll(
                         'div', attrs={'class': 'listing-card__attribute listing-card__attribute--primary'})
 
-                    listing['num_of_rooms'] = size_div[2].text.split(' rum')[0]
+                    listing['num_of_rooms'] = size_div[2].text.split(
+                        ' rum')[0].replace('\n', '').replace(' ', '').replace(',', '.').split('–')[0]
                     size = size_div[1].text.replace('\n', '').split('m²')[0].split('+')[0].replace(
                         ',', '.').replace(' ', '').split('–')[0]
                     listing['size'] = float(size)
@@ -124,7 +125,7 @@ class SlutPriserScraper:
 
                     final_price_div = size_div[0].text
                     final_price = final_price_div.replace('\n', '').replace('\t', '').replace(
-                        ' ', '').split('kr')[0].split('Slutpris')[-1].replace('\xa0', '')
+                        ' ', '').split('kr')[0].split('Slutpris')[-1].replace('\xa0', '').replace('fr.', '')
                     listing['price'] = final_price
 
                     if not final_price:
