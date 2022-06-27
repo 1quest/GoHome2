@@ -43,12 +43,9 @@ def future():
 @app.route('/callback', methods=['POST', 'GET'])
 def cb():
     print("HELLO")
-    return ass(request.args.get('data'))
-
-
-def ass(data):
-    print("HELLO")
-    print(data)
+    df = load_future_data()
+    # ass(request.args.get('data'))
+    return ass_notdash_future_scatter_widget(df)
 
 
 def create_figure():
