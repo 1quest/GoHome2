@@ -3,6 +3,7 @@
 {% block content %}
     <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.6/d3.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
     <h1>{% block title %} Hemnet future-data {% endblock %}</h1>
     <div class="row">
      <div class="col-md-6">
@@ -13,11 +14,15 @@
            </script>
        </div>
      </div>
-     <div class="chart" id="scatterplot">
-       <script type='text/javascript'>
-         var graphs = {{scatter | safe}};
-         Plotly.plot('scatterplot',graphs,{});
-       </script>
-   </div>
+    <div class="chart" id="scatterplot">
     </div>
-{% endblock %}
+    <script type='text/javascript'>
+      var graphs = {{scatter | safe}};
+      Plotly.plot('scatterplot',graphs,{});
+      var scatter = document.getElementById('scatterplot');
+      scatter.on('plotly_click', function(data){
+        alert('You clicked this Plotly chart!');
+      });
+    </script>
+    </div>
+{% endblock %} 

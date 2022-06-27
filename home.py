@@ -5,13 +5,14 @@ import matplotlib.pyplot as plt
 import matplotlib
 from matplotlib.backends.backend_agg import FigureCanvasAgg as FigureCanvas
 from flask import Flask, render_template
-from flask import Response
+from flask import Response, request
 import io
 from datetime import datetime
 import plotly
 import plotly.graph_objs as go
 import pandas as pd
 import json
+import ipywidgets
 
 app = Flask(__name__)
 County = "Uppsala"
@@ -31,12 +32,23 @@ def index():
     return render_template('index.html', plot=bar_plot, scatter=scatter_plot)
 
 
-@app.route('/future')
+@app.route('/future', methods=['POST', 'GET'])
 def future():
     df = load_future_data()
     bar_plot = notdash_future_bar(df)
-    scatter_plot = notdash_future_scatter(df)
+    scatter_plot = ass_notdash_future_scatter_widget(df)
     return render_template('future.html', plot=bar_plot, scatter=scatter_plot)
+
+
+@app.route('/callback', methods=['POST', 'GET'])
+def cb():
+    print("HELLO")
+    return ass(request.args.get('data'))
+
+
+def ass(data):
+    print("HELLO")
+    print(data)
 
 
 def create_figure():
@@ -186,4 +198,88 @@ def notdash_future_scatter(dataframe):
     # data = [data]
     graphJSON = json.dumps(
                              data, cls=plotly.utils.PlotlyJSONEncoder)
+    return graphJSON
+
+
+def notdash_future_scatter_widget(dataframe):
+    dataframe[['size']] = dataframe[['size']].apply(
+        pd.to_numeric, errors='coerce')
+    data = go.Figure()
+    room_types = dataframe.drop_duplicates(subset=['num_of_rooms'])
+    room_types = room_types['num_of_rooms'].sort_values()
+    # loop over number of rooms
+
+    # add dots and name sequence
+    for x in [1]:  # room_types:
+        dataframe_filtered = dataframe.loc[dataframe['num_of_rooms']
+                                           == x]
+        data = data.add_trace(go.Scatter(x=dataframe_filtered['price'],
+                                         y=dataframe_filtered['size'],
+                                         mode='markers',
+                                         customdata=dataframe_filtered['num_of_rooms'],
+                                         name="Rooms: " + str(round(float(x), 1))))
+    # data = data.update_layout(title="Size vs Cost", showlegend=True,
+    #                           autosize=True, height=800,)
+    # data = data.update_xaxes(
+    #     title="Log. Cost [Mkr]").update_yaxes(title="Size[m²]")
+    # data = data.update_traces(hovertemplate="<br>".join(
+    #     ["Size: %{y}m²", "Cost: %{x} Mkr", "Rooms: %{customdata}"]))
+    # data = data.update_xaxes(type="log")
+
+    data = go.FigureWidget(data)
+    scatter = data.data[0]
+    colors = ['#a3a7e4'] * 100
+
+    scatter.marker.color = colors
+    scatter.marker.size = [10] * 100
+    data.layout.hovermode = 'closest'
+
+    def update_point(trace, points, selector):
+        c = list(scatter.marker.color)
+        s = list(scatter.marker.size)
+        for i in points.point_inds:
+            c[i] = '#bae2be'
+            s[i] = 20
+            with data.batch_update():
+                scatter.marker.color = c
+                scatter.marker.size = s
+
+    scatter.on_click(update_point)
+
+    # data = [data]
+    graphJSON = json.dumps(
+                             data, cls=plotly.utils.PlotlyJSONEncoder)
+    return graphJSON
+
+
+def ass_notdash_future_scatter_widget(dataframe):
+    np.random.seed(1)
+
+    x = np.random.rand(100)
+    y = np.random.rand(100)
+
+    f = go.FigureWidget([go.Scatter(x=x, y=y, mode='markers')])
+
+    scatter = f.data[0]
+    colors = ['#a3a7e4'] * 100
+    scatter.marker.color = colors
+    scatter.marker.size = [10] * 100
+    f.layout.hovermode = 'closest'
+
+    # create our callback function
+    def update_point(trace, points, selector):
+        c = list(scatter.marker.color)
+        print("*ASADAs")
+        s = list(scatter.marker.size)
+        for i in points.point_inds:
+            c[i] = '#bae2be'
+            s[i] = 20
+            with f.batch_update():
+                scatter.marker.color = c
+                scatter.marker.size = s
+
+    scatter.on_click(update_point)
+    # data = [data]
+    graphJSON = json.dumps(
+                             f, cls=plotly.utils.PlotlyJSONEncoder)
     return graphJSON
