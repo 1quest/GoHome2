@@ -24,11 +24,10 @@
           update_graph(data)
       });
       function update_graph(selection) {
-        alert('pooooo oooooo');
-        $.getJSON({
-            url: "/callback", data: { 'data': selection }, success: function (result) {
-                Plotly.newPlot('scatterplot', result, {});
-            }
+        $.get( "/callback", function( result ) {
+          var graphs = {{result | safe}}
+          Plotly.newPlot('scatterplot', result);
+          console.log(graphs)
         });
       }
     </script>

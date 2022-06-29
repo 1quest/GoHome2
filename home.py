@@ -13,6 +13,7 @@ import plotly.graph_objs as go
 import pandas as pd
 import json
 import ipywidgets
+import json
 
 app = Flask(__name__)
 County = "Uppsala"
@@ -36,16 +37,15 @@ def index():
 def future():
     df = load_future_data()
     bar_plot = notdash_future_bar(df)
-    scatter_plot = ass_notdash_future_scatter_widget(df)
+    scatter_plot = notdash_future_scatter(df)
     return render_template('future.html', plot=bar_plot, scatter=scatter_plot)
 
 
 @app.route('/callback', methods=['POST', 'GET'])
 def cb():
-    print("HELLO")
     df = load_future_data()
-    # ass(request.args.get('data'))
-    return ass_notdash_future_scatter_widget(df)
+    print(request.args.get('data'))
+    return {"data": ass_notdash_future_scatter_widget(df)}
 
 
 def create_figure():
@@ -257,26 +257,50 @@ def ass_notdash_future_scatter_widget(dataframe):
 
     f = go.FigureWidget([go.Scatter(x=x, y=y, mode='markers')])
 
+    trace1 = {
+
+      "x": [1, 2, 3, 4],
+
+      "y": [10, 15, 13, 17],
+
+      "mode": 'markers',
+
+      "type": 'scatter'
+
+    }
+
+    trace2 = {
+
+      "x": [2, 3, 4, 5],
+
+      "y": [16, 5, 11, 9],
+
+      "mode": 'lines',
+
+      "type": 'scatter'
+
+    }
+
+    trace3 = {
+
+      "x": [1, 2, 3, 4],
+
+      "y": [12, 9, 15, 12],
+
+      "mode": 'lines+markers',
+
+      "type": 'scatter'
+
+    }
+
+    data = [trace1, trace2, trace3]
+
     scatter = f.data[0]
     colors = ['#a3a7e4'] * 100
     scatter.marker.color = colors
     scatter.marker.size = [10] * 100
     f.layout.hovermode = 'closest'
-
-    # create our callback function
-    def update_point(trace, points, selector):
-        c = list(scatter.marker.color)
-        print("*ASADAs")
-        s = list(scatter.marker.size)
-        for i in points.point_inds:
-            c[i] = '#bae2be'
-            s[i] = 20
-            with f.batch_update():
-                scatter.marker.color = c
-                scatter.marker.size = s
-
-    scatter.on_click(update_point)
     # data = [data]
     graphJSON = json.dumps(
                              f, cls=plotly.utils.PlotlyJSONEncoder)
-    return graphJSON
+    return data
