@@ -3,17 +3,14 @@
 import numpy as np
 import matplotlib.pyplot as plt
 import matplotlib
-from matplotlib.backends.backend_agg import FigureCanvasAgg as FigureCanvas
 from flask import Flask, render_template
-from flask import Response, request
-import io
+from flask import request
 from datetime import datetime
 import plotly
 import plotly.graph_objs as go
 import pandas as pd
 import json
 import ipywidgets
-import json
 
 app = Flask(__name__)
 County = "Uppsala"
@@ -38,7 +35,9 @@ def future():
     df = load_future_data()
     bar_plot = notdash_future_bar(df)
     scatter_plot = notdash_future_scatter(df)
-    return render_template('future.html', plot=bar_plot, scatter=scatter_plot)
+    table_apts = table_of_future_apts(df)
+    return render_template('future.html', plot=bar_plot, scatter=scatter_plot,
+                           table=table_apts)
 
 
 @app.route('/callback', methods=['POST', 'GET'])
@@ -100,7 +99,7 @@ def notdash_bar(dataframe):
     ]
     data = go.Figure(data).update_layout(title="City Area vs Cost",
                                          autosize=True,
-                                         height=800,)
+                                         height=500)
     data = data.update_xaxes(title="Cost [Mkr]")
     data = data.update_yaxes(title="City Area")
 
@@ -127,7 +126,7 @@ def notdash_scatter(dataframe):
                                          customdata=dataframe_filtered['num_of_rooms'],
                                          name="Rooms: " + str(round(x, 1))))
     data = data.update_layout(title="Size vs Cost", showlegend=True,
-                              autosize=True, height=800,)
+                              autosize=True, height=500,)
     data = data.update_xaxes(
         title="Log. Cost [Mkr]").update_yaxes(title="Size[m²]")
     data = data.update_traces(hovertemplate="<br>".join(
@@ -158,7 +157,7 @@ def notdash_future_bar(dataframe):
     ]
     data = go.Figure(data).update_layout(title="City Area vs Cost",
                                          autosize=True,
-                                         height=800,)
+                                         height=500,)
     data = data.update_xaxes(title="Cost [Mkr]")
     data = data.update_yaxes(title="City Area")
 
@@ -183,9 +182,10 @@ def notdash_future_scatter(dataframe):
                                          y=dataframe_filtered['size'],
                                          mode='markers',
                                          customdata=dataframe_filtered['num_of_rooms'],
-                                         name="Rooms: " + str(round(float(x), 1))))
+                                         name="Rooms: " + str(round(float(x),
+                                                                    1))))
     data = data.update_layout(title="Size vs Cost", showlegend=True,
-                              autosize=True, height=800,)
+                              autosize=True, height=500)
     data = data.update_xaxes(
         title="Log. Cost [Mkr]").update_yaxes(title="Size[m²]")
     data = data.update_traces(hovertemplate="<br>".join(
@@ -215,13 +215,6 @@ def notdash_future_scatter_widget(dataframe):
                                          mode='markers',
                                          customdata=dataframe_filtered['num_of_rooms'],
                                          name="Rooms: " + str(round(float(x), 1))))
-    # data = data.update_layout(title="Size vs Cost", showlegend=True,
-    #                           autosize=True, height=800,)
-    # data = data.update_xaxes(
-    #     title="Log. Cost [Mkr]").update_yaxes(title="Size[m²]")
-    # data = data.update_traces(hovertemplate="<br>".join(
-    #     ["Size: %{y}m²", "Cost: %{x} Mkr", "Rooms: %{customdata}"]))
-    # data = data.update_xaxes(type="log")
 
     data = go.FigureWidget(data)
     scatter = data.data[0]
@@ -231,76 +224,34 @@ def notdash_future_scatter_widget(dataframe):
     scatter.marker.size = [10] * 100
     data.layout.hovermode = 'closest'
 
-    def update_point(trace, points, selector):
-        c = list(scatter.marker.color)
-        s = list(scatter.marker.size)
-        for i in points.point_inds:
-            c[i] = '#bae2be'
-            s[i] = 20
-            with data.batch_update():
-                scatter.marker.color = c
-                scatter.marker.size = s
-
-    scatter.on_click(update_point)
-
-    # data = [data]
     graphJSON = json.dumps(
                              data, cls=plotly.utils.PlotlyJSONEncoder)
     return graphJSON
 
 
-def ass_notdash_future_scatter_widget(dataframe):
-    np.random.seed(1)
+def make_clickable(val):
+    return '<a href="{}">{}</a>'.format(val, val)
 
-    x = np.random.rand(100)
-    y = np.random.rand(100)
 
-    f = go.FigureWidget([go.Scatter(x=x, y=y, mode='markers')])
+def table_of_future_apts(dataframe):
 
-    trace1 = {
+    dataframe.link = "<a href='" + dataframe.link + \
+        "'>[Länk]</a>"
+    #dataframe.link = dataframe.link.add_prefix('[Link](')
+    print(dataframe.link[1])
 
-      "x": [1, 2, 3, 4],
-
-      "y": [10, 15, 13, 17],
-
-      "mode": 'markers',
-
-      "type": 'scatter'
-
-    }
-
-    trace2 = {
-
-      "x": [2, 3, 4, 5],
-
-      "y": [16, 5, 11, 9],
-
-      "mode": 'lines',
-
-      "type": 'scatter'
-
-    }
-
-    trace3 = {
-
-      "x": [1, 2, 3, 4],
-
-      "y": [12, 9, 15, 12],
-
-      "mode": 'lines+markers',
-
-      "type": 'scatter'
-
-    }
-
-    data = [trace1, trace2, trace3]
-
-    scatter = f.data[0]
-    colors = ['#a3a7e4'] * 100
-    scatter.marker.color = colors
-    scatter.marker.size = [10] * 100
-    f.layout.hovermode = 'closest'
-    # data = [data]
+    fig = go.Figure(data=[go.Table(header=dict(values=list(dataframe.columns)),
+                                   cells=dict(values=[dataframe.link,
+                                                      dataframe.region,
+                                                      dataframe.location,
+                                                      dataframe.street_address,
+                                                      dataframe.num_of_rooms,
+                                                      dataframe.size,
+                                                      dataframe.fee,
+                                                      dataframe.price]))
+                          ])
+    fig = fig.update_layout(title="Apartment listings showing",
+                            autosize=True, height=500)
     graphJSON = json.dumps(
-                             f, cls=plotly.utils.PlotlyJSONEncoder)
-    return data
+            fig, cls=plotly.utils.PlotlyJSONEncoder)
+    return graphJSON
