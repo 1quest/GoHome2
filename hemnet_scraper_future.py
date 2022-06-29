@@ -72,6 +72,8 @@ class SlutPriserScraper:
                     # Location normalization
                     normalized = False
 
+                    listing['link'] = property_row.a['href']
+
                     for norm_loc in self.norm_locations:
                         if norm_loc in location:
                             location = norm_loc

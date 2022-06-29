@@ -45,7 +45,7 @@ def future():
 def cb():
     df = load_future_data()
     print(request.args.get('data'))
-    return {"data": ass_notdash_future_scatter_widget(df)}
+    return notdash_future_scatter_widget(df).replace('"', "'")
 
 
 def create_figure():

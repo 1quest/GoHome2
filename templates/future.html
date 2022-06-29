@@ -24,10 +24,10 @@
           update_graph(data)
       });
       function update_graph(selection) {
-        $.get( "/callback", function( result ) {
+        console.log(selection.points)
+        $.getJSON( "/callback", {data: "selection.points"}, function (result) {
           var graphs = {{result | safe}}
           Plotly.newPlot('scatterplot', result);
-          console.log(graphs)
         });
       }
     </script>

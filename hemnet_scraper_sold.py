@@ -98,6 +98,8 @@ class SlutPriserScraper:
                     listing['region'] = region
                     listing['location'] = location
 
+                    listing['link'] = property_row.a['href']
+
                     # Not really used in the ML model,
                     # but adding this data anyways as extra information
                     listing['street_address'] = street_address
