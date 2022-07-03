@@ -160,7 +160,7 @@ class SlutPriserScraper:
                     # Fetch the initial price from property page
 
                     percentage_change = str(property_row.find(
-                        'div', attrs={'class': 'sold-property-listing__price-change-and-price-per-m2'}).div.text)
+                        'div', attrs={'class': 'sold-property-listing__price-change-and-price-per-m2'}).div.text).replace('\n', '').replace('\t', '')
                     if "%" in percentage_change:
                         initial_price = percentage_change
                         initial_price = initial_price.replace('\n', '').replace(

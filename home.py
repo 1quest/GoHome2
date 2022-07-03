@@ -27,7 +27,8 @@ def index():
     df = load_data()
     bar_plot = notdash_bar(df)
     scatter_plot = notdash_scatter(df)
-    return render_template('index.html', plot=bar_plot, scatter=scatter_plot)
+    table_apts = table_of_sold_apts(df)
+    return render_template('index.html', plot=bar_plot, scatter=scatter_plot, table=table_apts)
 
 
 @app.route('/future', methods=['POST', 'GET'])
@@ -44,17 +45,28 @@ def future():
 def callback():
     df = load_future_data()
     data = request.args.getlist('data')
-    print(data)
     df = df[df["num_of_rooms"] == 1.0]
     return notdash_future_scatter(df)
 
 
 @app.route('/scatter_update_table', methods=['POST', 'GET'])
-def cb():
+def cb_future_table():
     df = load_future_data()
+    df = df.sort_values(by=['index_col'])
     data = request.args.getlist('data')
     # df = df[df["num_of_rooms"] == 1.0]
-    print(data)
+    df = df.iloc[data]
+    # return notdash_future_scatter(df)
+    return table_of_future_apts(df)
+# .replace('"', "'")
+
+
+@app.route('/scatter_update_sold_table', methods=['POST', 'GET'])
+def cb_sold_table():
+    df = load_data()
+    df = df.sort_values(by=['index_col'])
+    data = request.args.getlist('data')
+    # df = df[df["num_of_rooms"] == 1.0]
     df = df.iloc[data]
     # return notdash_future_scatter(df)
     return table_of_future_apts(df)
@@ -81,8 +93,8 @@ def load_data():
     csv_filepath = "/Hemnet_sold-" + County + dt_string + ".csv"
     filename = dir + csv_filepath
     df = pd.read_csv(filename)
-    # print(df[['size','final_price']].dtypes)
-    return df
+    df['index_col'] = df.index
+    return df.sort_values(by=['num_of_rooms', 'size'])
 
 
 def load_future_data():
@@ -92,8 +104,8 @@ def load_future_data():
     csv_filepath = "/Hemnet_future-" + County + dt_string + ".csv"
     filename = dir + csv_filepath
     df = pd.read_csv(filename)
-    # print(df[['size','final_price']].dtypes)
-    return df.sort_values(by=['price'])
+    df['index_col'] = df.index
+    return df.sort_values(by=['num_of_rooms', 'size'])
 
 
 def notdash_bar(dataframe):
@@ -137,14 +149,15 @@ def notdash_scatter(dataframe):
         data = data.add_trace(go.Scatter(x=dataframe_filtered['final_price'],
                                          y=dataframe_filtered['size'],
                                          mode='markers',
-                                         customdata=dataframe_filtered['num_of_rooms'],
+                                         customdata=dataframe_filtered['index_col'],
                                          name="Rooms: " + str(round(x, 1))))
     data = data.update_layout(title="Size vs Cost", showlegend=True,
                               autosize=True, height=500,)
     data = data.update_xaxes(
         title="Log. Cost [Mkr]").update_yaxes(title="Size[m²]")
     data = data.update_traces(hovertemplate="<br>".join(
-        ["Size: %{y}m²", "Cost: %{x} Mkr", "Rooms: %{customdata}"]))
+        ["Size: %{y}m²", "Cost: %{x} Mkr"]))
+    # "Rooms: %{customdata}
     data = data.update_xaxes(type="log")
 
     # data = [data]
@@ -195,7 +208,7 @@ def notdash_future_scatter(dataframe):
         data = data.add_trace(go.Scatter(x=dataframe_filtered['price'],
                                          y=dataframe_filtered['size'],
                                          mode='markers',
-                                         customdata=dataframe_filtered['num_of_rooms'],
+                                         customdata=dataframe_filtered['index_col'],
                                          name="Rooms: " + str(round(float(x),
                                                                     1))))
     data = data.update_layout(title="Size vs Cost", showlegend=True,
@@ -203,7 +216,8 @@ def notdash_future_scatter(dataframe):
     data = data.update_xaxes(
         title="Log. Cost [Mkr]").update_yaxes(title="Size[m²]")
     data = data.update_traces(hovertemplate="<br>".join(
-        ["Size: %{y}m²", "Cost: %{x} Mkr", "Rooms: %{customdata}"]))
+        ["Size: %{y}m²", "Cost: %{x} Mkr"]))
+    # "Rooms: %{customdata}
     data = data.update_xaxes(type="log")
 
     # data = [data]
@@ -265,5 +279,31 @@ def table_of_future_apts(dataframe):
     fig = fig.update_layout(title="Apartment listings showing",
                             autosize=True, height=400)
     graphJSON = json.dumps(
+            fig, cls=plotly.utils.PlotlyJSONEncoder)
+    return graphJSON
+
+
+def table_of_sold_apts(dataframe):
+
+    dataframe.link = "<a href='" + dataframe.link + \
+        "'>[Länk]</a>"
+
+    fig = go.Figure(data=[go.Table(header=dict(values=list(dataframe.columns)),
+                                   cells=dict(values=[dataframe.region,
+                                                      dataframe.location,
+                                                      dataframe.link,
+                                                      dataframe.street_address,
+                                                      dataframe.num_of_rooms,
+                                                      dataframe.size,
+                                                      dataframe.fee,
+                                                      dataframe.final_price,
+                                                      dataframe.percentage_change,
+                                                      dataframe.price]))
+                          ])
+    fig = fig.update_layout(title="Apartment listings showing",
+                            autosize=True, height=400)
+    graphJSON = json.dumps(
+            fig, cls=plotly.utils.PlotlyJSONEncoder)
+    return graphJSON
             fig, cls=plotly.utils.PlotlyJSONEncoder)
     return graphJSON
