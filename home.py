@@ -41,10 +41,24 @@ def future():
 
 
 @app.route('/callback', methods=['POST', 'GET'])
+def callback():
+    df = load_future_data()
+    data = request.args.getlist('data')
+    print(data)
+    df = df[df["num_of_rooms"] == 1.0]
+    return notdash_future_scatter(df)
+
+
+@app.route('/scatter_update_table', methods=['POST', 'GET'])
 def cb():
     df = load_future_data()
-    print(request.args.get('data'))
-    return notdash_future_scatter_widget(df).replace('"', "'")
+    data = request.args.getlist('data')
+    # df = df[df["num_of_rooms"] == 1.0]
+    print(data)
+    df = df.iloc[data]
+    # return notdash_future_scatter(df)
+    return table_of_future_apts(df)
+# .replace('"', "'")
 
 
 def create_figure():
@@ -79,7 +93,7 @@ def load_future_data():
     filename = dir + csv_filepath
     df = pd.read_csv(filename)
     # print(df[['size','final_price']].dtypes)
-    return df
+    return df.sort_values(by=['price'])
 
 
 def notdash_bar(dataframe):
@@ -237,8 +251,6 @@ def table_of_future_apts(dataframe):
 
     dataframe.link = "<a href='" + dataframe.link + \
         "'>[Länk]</a>"
-    #dataframe.link = dataframe.link.add_prefix('[Link](')
-    print(dataframe.link[1])
 
     fig = go.Figure(data=[go.Table(header=dict(values=list(dataframe.columns)),
                                    cells=dict(values=[dataframe.link,
@@ -251,7 +263,7 @@ def table_of_future_apts(dataframe):
                                                       dataframe.price]))
                           ])
     fig = fig.update_layout(title="Apartment listings showing",
-                            autosize=True, height=500)
+                            autosize=True, height=400)
     graphJSON = json.dumps(
             fig, cls=plotly.utils.PlotlyJSONEncoder)
     return graphJSON

@@ -173,7 +173,7 @@ class SlutPriserScraper:
                             "Skipping property as initial_price parameter not found")
                         continue
 
-                    listing['initial_price'] = initial_price
+                    listing['price'] = initial_price
 
                 except ValueError as ve:
                     print(ve)

@@ -3,14 +3,11 @@
 {% block content %}
     <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.6/d3.min.js"></script>
-    <h1>{% block title %} Hemnet future-data {% endblock %}</h1>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <h1>{% block title %} {% endblock %}</h1>
     <div class="row">
      <div class="col-md-6">
          <div class="chart" id="bargraph">
-           <script type='text/javascript'>
-             var graphs = {{plot | safe}};
-             Plotly.plot('bargraph',graphs,{});
-           </script>
        </div>
      </div>
     <div class="chart" id="scatterplot">
@@ -19,26 +16,45 @@
     <div class="row" id="WHAHAWAH">
       <div class="col-md-12">
          <div class="chart" id="table">
-           <script type='text/javascript'>
-             var graphs = {{table | safe}};
-             Plotly.plot('table',graphs,{});
-           </script>
            </div>
      </div>
     </div>
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
     <script type='text/javascript'>
-      var graphs = {{scatter | safe}};
-      Plotly.plot('scatterplot',graphs,{});
+      <!-- Scatter plot -->
+      var scatter_data = {{scatter | safe}};
+      Plotly.plot('scatterplot',scatter_data,{});
       var scatter = document.getElementById('scatterplot');
-      scatter.on('plotly_click', function(data){
-          update_graph(data)
+      scatter.on('plotly_click', function(selection){
+        update_table(selection)
       });
-      function update_graph(selection) {
-        console.log(selection.points)
-        $.getJSON( "/callback", {data: "selection.points"}, function (result) {
-          var graphs = {{result | safe}}
-          Plotly.newPlot('scatterplot', result);
+      <!-- Bar-chart -->
+        var graphs = {{plot | safe}};
+        Plotly.plot('bargraph',graphs,{});
+      <!-- Table -->
+        var graphs = {{table | safe}};
+        Plotly.plot('table',graphs,{});
+        var points = [];
+      function update_table(selection) {
+        points.push(selection.points[0].pointIndex)
+        $.getJSON({ url: "/scatter_update_table", data: {'data': points} , traditional: true, success: function (response) {
+          Plotly.newPlot('table', response, {});
+          var table_div = document.getElementById('table');
+          table_div.on('plotly_click', function(scatter_data){
+              update_table(scatter_data)
+          });
+        }
+        });
+      }
+      function update_scatter_plot(selection) {
+        points.push(selection.points[0].pointIndex)
+        console.log(points)
+        $.getJSON({ url: "/callback", data: {'data': points} , traditional: true, success: function (response) {
+          Plotly.newPlot('scatterplot', response, {});
+          var scatter = document.getElementById('scatterplot');
+          scatter.on('plotly_click', function(scatter_data){
+              update_scatter_plot(scatter_data)
+          });
+        }
         });
       }
     </script>
