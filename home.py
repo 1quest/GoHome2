@@ -82,7 +82,7 @@ def create_figure():
 
 
 def load_data():
-    dir = '/home/toidface/Documents/GoHome/csv'
+    dir = './csv'
     now = datetime.now()
     dt_string = now.strftime("%Y%m%d")
     csv_filepath = "/Hemnet_sold-" + County + dt_string + ".csv"
@@ -93,7 +93,7 @@ def load_data():
 
 
 def load_future_data():
-    dir = '/home/toidface/Documents/GoHome/csv'
+    dir = './csv'
     now = datetime.now()
     dt_string = now.strftime("%Y%m%d")
     csv_filepath = "/Hemnet_future-" + County + dt_string + ".csv"
