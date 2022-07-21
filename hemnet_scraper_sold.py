@@ -174,6 +174,12 @@ class SlutPriserScraper:
                         continue
 
                     listing['price'] = initial_price
+                    # Fetch date of sales
+                    sold_date = final_price_div.find(
+                        'div', attrs={
+                            'class': 'sold-property-listing__sold-date'}).text.replace(
+                        '\n', '').replace('\t', '').replace(' ', '')
+                    listing['sold_date'] = sold_date
 
                 except ValueError as ve:
                     print(ve)

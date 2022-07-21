@@ -41,6 +41,13 @@ def future():
                            table=table_apts)
 
 
+@app.route('/get_areas', methods=['POST', 'GET'])
+def areas():
+    df = load_data()
+    locations = df["location"].str.title()
+    return json.dumps(dict(locations.drop_duplicates()))
+
+
 @app.route('/callback', methods=['POST', 'GET'])
 def callback():
     df = load_future_data()
@@ -54,7 +61,7 @@ def cb_future_table():
     df = df.sort_values(by=['index_col'])
     data = request.args.getlist('data')
     df = df.iloc[data]
-    return table_of_future_apts(df) 
+    return table_of_future_apts(df)
 
 
 @app.route('/scatter_update_sold_table', methods=['POST', 'GET'])
@@ -228,7 +235,7 @@ def table_of_future_apts(dataframe):
     dataframe.link = "<a href='" + dataframe.link + \
         "'>[Länk]</a>"
 
-    fig = go.Figure(data=[go.Table(header=dict(values=["Region", "Location", "Link", "Street Address", "# Rooms", "Size m2", "Fee", "Final Price"]),
+    fig = go.Figure(data=[go.Table(header=dict(values=["Region", "Location", "Link", "Street Address", "# Rooms", "Size m²", "Fee", "Final Price"]),
                                    cells=dict(values=[dataframe.link,
                                                       dataframe.region,
                                                       dataframe.location,
@@ -250,7 +257,7 @@ def table_of_sold_apts(dataframe):
     dataframe.link = "<a href='" + dataframe.link + \
         "'>[Länk]</a>"
 
-    fig = go.Figure(data=[go.Table(header=dict(values=["Region", "Location", "Link", "Street Address", "# Rooms", "Size m2", "Fee", "Final Price", "Percentage change", "Initial Price"]),
+    fig = go.Figure(data=[go.Table(header=dict(values=["Region", "Location", "Link", "Street Address", "# Rooms", "Size m²", "Fee", "Final Price", "Percentage change", "Initial Price"]),
                                    cells=dict(values=[dataframe.region,
                                                       dataframe.location,
                                                       dataframe.link,
