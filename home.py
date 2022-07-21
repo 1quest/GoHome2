@@ -25,8 +25,8 @@ def favicon():
 @app.route('/')
 def index():
     df = load_data()
-    bar_plot = notdash_bar(df)
-    scatter_plot = notdash_scatter(df)
+    bar_plot = bar(df)
+    scatter_plot = sold_scatter(df)
     table_apts = table_of_sold_apts(df)
     return render_template('index.html', plot=bar_plot, scatter=scatter_plot, table=table_apts)
 
@@ -34,8 +34,8 @@ def index():
 @app.route('/future', methods=['POST', 'GET'])
 def future():
     df = load_future_data()
-    bar_plot = notdash_future_bar(df)
-    scatter_plot = notdash_future_scatter(df)
+    bar_plot = future_bar(df)
+    scatter_plot = future_scatter(df)
     table_apts = table_of_future_apts(df)
     return render_template('future.html', plot=bar_plot, scatter=scatter_plot,
                            table=table_apts)
@@ -44,9 +44,8 @@ def future():
 @app.route('/callback', methods=['POST', 'GET'])
 def callback():
     df = load_future_data()
-    data = request.args.getlist('data')
     df = df[df["num_of_rooms"] == 1.0]
-    return notdash_future_scatter(df)
+    return future_scatter(df)
 
 
 @app.route('/scatter_update_table', methods=['POST', 'GET'])
@@ -54,9 +53,7 @@ def cb_future_table():
     df = load_future_data()
     df = df.sort_values(by=['index_col'])
     data = request.args.getlist('data')
-    # df = df[df["num_of_rooms"] == 1.0]
     df = df.iloc[data]
-    # return notdash_future_scatter(df)
     return table_of_future_apts(df)
 # .replace('"', "'")
 
@@ -66,10 +63,8 @@ def cb_sold_table():
     df = load_data()
     df = df.sort_values(by=['index_col'])
     data = request.args.getlist('data')
-    # df = df[df["num_of_rooms"] == 1.0]
     df = df.iloc[data]
-    # return notdash_future_scatter(df)
-    return table_of_future_apts(df)
+    return table_of_sold_apts(df)
 # .replace('"', "'")
 
 
@@ -108,7 +103,7 @@ def load_future_data():
     return df.sort_values(by=['num_of_rooms', 'size'])
 
 
-def notdash_bar(dataframe):
+def bar(dataframe):
     dataframe[["final_price"]] = dataframe[["final_price"]]/1000000
     dataframe["location"] = dataframe["location"].str.title()
     data = dataframe.groupby(["location"])["final_price"].mean()
@@ -134,7 +129,7 @@ def notdash_bar(dataframe):
     return graphJSON
 
 
-def notdash_scatter(dataframe):
+def sold_scatter(dataframe):
     dataframe[['size']] = dataframe[['size']].apply(
         pd.to_numeric, errors='coerce')
     data = go.Figure()
@@ -166,7 +161,7 @@ def notdash_scatter(dataframe):
     return graphJSON
 
 
-def notdash_future_bar(dataframe):
+def future_bar(dataframe):
     dataframe[["price"]] = dataframe[["price"]].apply(
         pd.to_numeric, errors='coerce')/1000000
     dataframe["location"] = dataframe["location"].str.title()
@@ -193,7 +188,7 @@ def notdash_future_bar(dataframe):
     return graphJSON
 
 
-def notdash_future_scatter(dataframe):
+def future_scatter(dataframe):
     dataframe[['size']] = dataframe[['size']].apply(
         pd.to_numeric, errors='coerce')
     data = go.Figure()
@@ -226,37 +221,6 @@ def notdash_future_scatter(dataframe):
     return graphJSON
 
 
-def notdash_future_scatter_widget(dataframe):
-    dataframe[['size']] = dataframe[['size']].apply(
-        pd.to_numeric, errors='coerce')
-    data = go.Figure()
-    room_types = dataframe.drop_duplicates(subset=['num_of_rooms'])
-    room_types = room_types['num_of_rooms'].sort_values()
-    # loop over number of rooms
-
-    # add dots and name sequence
-    for x in [1]:  # room_types:
-        dataframe_filtered = dataframe.loc[dataframe['num_of_rooms']
-                                           == x]
-        data = data.add_trace(go.Scatter(x=dataframe_filtered['price'],
-                                         y=dataframe_filtered['size'],
-                                         mode='markers',
-                                         customdata=dataframe_filtered['num_of_rooms'],
-                                         name="Rooms: " + str(round(float(x), 1))))
-
-    data = go.FigureWidget(data)
-    scatter = data.data[0]
-    colors = ['#a3a7e4'] * 100
-
-    scatter.marker.color = colors
-    scatter.marker.size = [10] * 100
-    data.layout.hovermode = 'closest'
-
-    graphJSON = json.dumps(
-                             data, cls=plotly.utils.PlotlyJSONEncoder)
-    return graphJSON
-
-
 def make_clickable(val):
     return '<a href="{}">{}</a>'.format(val, val)
 
@@ -266,13 +230,13 @@ def table_of_future_apts(dataframe):
     dataframe.link = "<a href='" + dataframe.link + \
         "'>[Länk]</a>"
 
-    fig = go.Figure(data=[go.Table(header=dict(values=list(dataframe.columns)),
+    fig = go.Figure(data=[go.Table(header=dict(values=["Region", "Location", "Link", "Street Address", "# Rooms", "Size m2", "Fee", "Final Price"]),
                                    cells=dict(values=[dataframe.link,
                                                       dataframe.region,
                                                       dataframe.location,
                                                       dataframe.street_address,
                                                       dataframe.num_of_rooms,
-                                                      dataframe.size,
+                                                      dataframe['size'],
                                                       dataframe.fee,
                                                       dataframe.price]))
                           ])
@@ -288,22 +252,21 @@ def table_of_sold_apts(dataframe):
     dataframe.link = "<a href='" + dataframe.link + \
         "'>[Länk]</a>"
 
-    fig = go.Figure(data=[go.Table(header=dict(values=list(dataframe.columns)),
+    fig = go.Figure(data=[go.Table(header=dict(values=["Region", "Location", "Link", "Street Address", "# Rooms", "Size m2", "Fee", "Final Price", "Percentage change", "Initial Price"]),
                                    cells=dict(values=[dataframe.region,
                                                       dataframe.location,
                                                       dataframe.link,
                                                       dataframe.street_address,
                                                       dataframe.num_of_rooms,
-                                                      dataframe.size,
+                                                      dataframe['size'],
                                                       dataframe.fee,
                                                       dataframe.final_price,
-                                                      dataframe.percentage_change,
-                                                      dataframe.price]))
+                                                      list(
+                                                          map(str, dataframe.percentage_change)),
+                                                      np.round(dataframe.price/1000000, 2)]))
                           ])
     fig = fig.update_layout(title="Apartment listings showing",
                             autosize=True, height=400)
     graphJSON = json.dumps(
-            fig, cls=plotly.utils.PlotlyJSONEncoder)
-    return graphJSON
             fig, cls=plotly.utils.PlotlyJSONEncoder)
     return graphJSON
