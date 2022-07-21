@@ -206,7 +206,7 @@ def future_scatter(dataframe):
                                          customdata=dataframe_filtered['index_col'],
                                          name="Rooms: " + str(round(float(x),
                                                                     1))))
-    data = data.update_layout(title="Size vs Cost", showlegend=True,
+    data = data.update_layout(title="# Rooms vs Cost", showlegend=True,
                               autosize=True, height=500)
     data = data.update_xaxes(
         title="Log. Cost [Mkr]").update_yaxes(title="Size[m²]")
@@ -240,7 +240,7 @@ def table_of_future_apts(dataframe):
                                                       dataframe.fee,
                                                       dataframe.price]))
                           ])
-    fig = fig.update_layout(title="Apartment listings showing",
+    fig = fig.update_layout(title="Apartment listings higlighted in scatterplot",
                             autosize=True, height=400)
     graphJSON = json.dumps(
             fig, cls=plotly.utils.PlotlyJSONEncoder)
