@@ -54,8 +54,7 @@ def cb_future_table():
     df = df.sort_values(by=['index_col'])
     data = request.args.getlist('data')
     df = df.iloc[data]
-    return table_of_future_apts(df)
-# .replace('"', "'")
+    return table_of_future_apts(df) 
 
 
 @app.route('/scatter_update_sold_table', methods=['POST', 'GET'])
@@ -65,7 +64,6 @@ def cb_sold_table():
     data = request.args.getlist('data')
     df = df.iloc[data]
     return table_of_sold_apts(df)
-# .replace('"', "'")
 
 
 def create_figure():
