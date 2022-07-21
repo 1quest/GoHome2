@@ -240,7 +240,7 @@ def table_of_future_apts(dataframe):
                                                       dataframe.fee,
                                                       dataframe.price]))
                           ])
-    fig = fig.update_layout(title="Apartment listings higlighted in scatterplot",
+    fig = fig.update_layout(title="Listings clicked in scatterplot",
                             autosize=True, height=400)
     graphJSON = json.dumps(
             fig, cls=plotly.utils.PlotlyJSONEncoder)
@@ -265,7 +265,7 @@ def table_of_sold_apts(dataframe):
                                                           map(str, dataframe.percentage_change)),
                                                       np.round(dataframe.price/1000000, 2)]))
                           ])
-    fig = fig.update_layout(title="Apartment listings showing",
+    fig = fig.update_layout(title="Listings clicked in scatterplot",
                             autosize=True, height=400)
     graphJSON = json.dumps(
             fig, cls=plotly.utils.PlotlyJSONEncoder)
