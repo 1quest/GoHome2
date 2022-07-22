@@ -68,13 +68,12 @@
         console.log("Im here dad!");
         $.getJSON({ url: "/get_areas", success: function (response) {
           var length = 0;
-          for ( var resp in response ) {
-            $.each(response, function () {
-                $("#multisel").append($("<option></option>").val(this).html(this));
-            });
-            $("#multisel").val(this);
-            length = length + 1;
-          }
+          console.log(response)
+          $.each(response, function (index, value) {
+              $("#multisel").append($("<option></option>").val(value).html(value));
+          });
+          $("#multisel").val(this);
+          length = length + 1; 
           if (length = 0) {
               $("#multisel").empty().append('<option selected="selected" value="0">Not available<option>');
           }
