@@ -12,8 +12,11 @@ import pandas as pd
 import json
 import re
 import os
+import logging
 
 app = Flask(__name__)
+logging.basicConfig(filename='record.log', level=logging.DEBUG,
+                    format=f'%(asctime)s %(levelname)s %(name)s %(threadName)s : %(message)s')
 County = "Uppsala"
 if os.getlogin() == 'toidface':
     server_code = True
@@ -33,6 +36,8 @@ def favicon():
 
 @app.route('/')
 def index():
+    app.logger.info('Info level log')
+    app.logger.warning('Warning level log')
     df = load_data()
     bar_plot = bar(df)
     scatter_plot = sold_scatter(df)
