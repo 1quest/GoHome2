@@ -10,11 +10,20 @@ import plotly
 import plotly.graph_objs as go
 import pandas as pd
 import json
-import ipywidgets
+import re
+import os
 
 app = Flask(__name__)
 County = "Uppsala"
+if os.getlogin() == 'toidface':
+    server_code = True
+else:
+    server_code = False
 matplotlib.use('Agg')
+if server_code:
+    path_to_csv = "/home/toidface/Documents/GoHome/csv"
+else:
+    path_to_csv = "/home/ubuntu/GoHome2/csv"
 
 
 @app.route('/favicon.ico')
@@ -28,7 +37,8 @@ def index():
     bar_plot = bar(df)
     scatter_plot = sold_scatter(df)
     table_apts = table_of_sold_apts(df)
-    return render_template('index.html', plot=bar_plot, scatter=scatter_plot, table=table_apts)
+    return render_template('index.html', plot=bar_plot, scatter=scatter_plot,
+                           table=table_apts)
 
 
 @app.route('/future', methods=['POST', 'GET'])
@@ -87,25 +97,30 @@ def create_figure():
 
 
 def load_data():
-    dir = './csv'
-    now = datetime.now()
-    dt_string = now.strftime("%Y%m%d")
-    csv_filepath = "/Hemnet_sold-" + County + dt_string + ".csv"
-    filename = dir + csv_filepath
+    filename = getlatestfilename('sold')
     df = pd.read_csv(filename)
     df['index_col'] = df.index
     return df.sort_values(by=['num_of_rooms', 'size'])
 
 
 def load_future_data():
-    dir = './csv'
-    now = datetime.now()
-    dt_string = now.strftime("%Y%m%d")
-    csv_filepath = "/Hemnet_future-" + County + dt_string + ".csv"
-    filename = dir + csv_filepath
+    filename = getlatestfilename('future')
     df = pd.read_csv(filename)
     df['index_col'] = df.index
     return df.sort_values(by=['num_of_rooms', 'size'])
+
+
+def getlatestfilename(time):
+    file_names = os.listdir(path_to_csv)
+    ok_list = [time]
+    files = [url for url in file_names if any(sub in url for sub in ok_list)]
+    file_name_string = "".join(files)
+    numbers = re.compile(r'\d+(?:\.\d+)?')
+    numbers_list = numbers.findall(file_name_string)
+    latest = sorted(numbers_list, key=lambda d: datetime.strptime(
+        d, '%Y%m%d'), reverse=True)[0]
+    csv_filepath = path_to_csv + "/Hemnet_" + time + "-" + County + latest + ".csv"
+    return csv_filepath
 
 
 def bar(dataframe):
@@ -235,7 +250,13 @@ def table_of_future_apts(dataframe):
     dataframe.link = "<a href='" + dataframe.link + \
         "'>[Länk]</a>"
 
-    fig = go.Figure(data=[go.Table(header=dict(values=["Region", "Location", "Link", "Street Address", "# Rooms", "Size m²", "Fee", "Final Price"]),
+    fig = go.Figure(data=[go.Table(header=dict(values=["Region", "Location",
+                                                       "Link",
+                                                       "Street Address",
+                                                       "# Rooms",
+                                                       "Size m²",
+                                                       "Fee",
+                                                       "Final Price"]),
                                    cells=dict(values=[dataframe.link,
                                                       dataframe.region,
                                                       dataframe.location,
@@ -257,7 +278,14 @@ def table_of_sold_apts(dataframe):
     dataframe.link = "<a href='" + dataframe.link + \
         "'>[Länk]</a>"
 
-    fig = go.Figure(data=[go.Table(header=dict(values=["Region", "Location", "Link", "Street Address", "# Rooms", "Size m²", "Fee", "Final Price", "Percentage change", "Initial Price"]),
+    fig = go.Figure(data=[go.Table(header=dict(values=["Region", "Location",
+                                                       "Link",
+                                                       "Street Address",
+                                                       "# Rooms",
+                                                       "Size m²", "Fee",
+                                                       "Final Price",
+                                                       "Percentage change",
+                                                       "Initial Price"]),
                                    cells=dict(values=[dataframe.region,
                                                       dataframe.location,
                                                       dataframe.link,
