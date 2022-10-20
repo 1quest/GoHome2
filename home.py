@@ -13,20 +13,25 @@ import json
 import re
 import os
 import logging
+import pwd
 
-app = Flask(__name__)
 logging.basicConfig(filename='record.log', level=logging.DEBUG,
                     format=f'%(asctime)s %(levelname)s %(name)s %(threadName)s : %(message)s')
 County = "Uppsala"
-if os.getlogin() == 'toidface':
-    server_code = True
-else:
-    server_code = False
+logger = logging.getLogger('werkzeug')  # grabs underlying WSGI logger
+user_name = pwd.getpwuid(os.getuid())[0]
 matplotlib.use('Agg')
-if server_code:
+if user_name == 'toidface':
     path_to_csv = "/home/toidface/Documents/GoHome/csv"
-else:
+    template_dir = "/home/toidface/Documents/GoHome/templates"
+elif user_name == 'ubuntu':
     path_to_csv = "/home/ubuntu/GoHome2/csv"
+    template_dir = "home/ubuntu/templates"
+else:
+    template_dir = '/home/GoHome2/GoHome2/templates/'
+    path_to_csv = '/home/GoHome2/GoHome2/csv'
+
+app = Flask(__name__, template_folder=template_dir)
 
 
 @app.route('/favicon.ico')
@@ -42,6 +47,9 @@ def index():
     bar_plot = bar(df)
     scatter_plot = sold_scatter(df)
     table_apts = table_of_sold_apts(df)
+    if request.method == "GET":
+        logger.info("TEST")
+
     return render_template('index.html', plot=bar_plot, scatter=scatter_plot,
                            table=table_apts)
 
@@ -60,7 +68,8 @@ def future():
 def areas():
     df = load_data()
     locations = df["location"].str.title()
-    return json.dumps(dict(locations.drop_duplicates()))
+    print(locations.drop_duplicates())
+    return json.dumps(sorted(dict(locations.drop_duplicates()).values()))
 
 
 @app.route('/callback', methods=['POST', 'GET'])
@@ -68,6 +77,18 @@ def callback():
     df = load_future_data()
     df = df[df["num_of_rooms"] == 1.0]
     return future_scatter(df)
+
+
+@app.route('/sold_filterplots', methods=['POST', 'GET'])
+def areafilter():
+    df = load_data()
+    data = request.args.getlist('areas') 
+    df = df[df['location'].isin(data)]
+    bar_plot = bar(df)
+    scatter_plot = sold_scatter(df)
+    plots = {"bar_plot": bar_plot, "scatter_plot": scatter_plot}
+    plotsJSON = json.dumps(plots, cls=plotly.utils.PlotlyJSONEncoder)
+    return plotsJSON
 
 
 @app.route('/scatter_update_table', methods=['POST', 'GET'])
@@ -105,12 +126,14 @@ def load_data():
     filename = getlatestfilename('sold')
     df = pd.read_csv(filename)
     df['index_col'] = df.index
+    df["location"] = df["location"].str.title()
     return df.sort_values(by=['num_of_rooms', 'size'])
 
 
 def load_future_data():
     filename = getlatestfilename('future')
     df = pd.read_csv(filename)
+    df["location"] = df["location"].str.title()
     df['index_col'] = df.index
     return df.sort_values(by=['num_of_rooms', 'size'])
 
@@ -130,7 +153,6 @@ def getlatestfilename(time):
 
 def bar(dataframe):
     dataframe[["final_price"]] = dataframe[["final_price"]]/1000000
-    dataframe["location"] = dataframe["location"].str.title()
     data = dataframe.groupby(["location"])["final_price"].mean()
     data = data.sort_values(ascending=True)
     fig, ax = plt.subplots(figsize=(12, 15))
@@ -189,7 +211,6 @@ def sold_scatter(dataframe):
 def future_bar(dataframe):
     dataframe[["price"]] = dataframe[["price"]].apply(
         pd.to_numeric, errors='coerce')/1000000
-    dataframe["location"] = dataframe["location"].str.title()
     data = dataframe.groupby(["location"])["price"].mean()
     data = data.sort_values(ascending=True)
     fig, ax = plt.subplots(figsize=(12, 15))
