@@ -46,7 +46,7 @@
   <!-- Bar-chart -->
   var graphs = {{plot | safe}};
   Plotly.plot('bargraph',graphs,{});
-  <!-- Table -->
+  <!-- Table Update -->
   var graphs = {{table | safe}};
   Plotly.plot('table',graphs,{});
   var points = [];
@@ -74,7 +74,12 @@ function update_scatter_plot(selection) {
 }
 <!-- Update plots on changes -->
 function re_filter_plots(response){
-  Plotly.newPlot('bargraph', response, {});
+  Plotly.newPlot('bargraph', JSON.parse(response.bar_plot), {});
+  Plotly.newPlot('scatterplot', JSON.parse(response.scatter_plot), {});
+  var scatter = document.getElementById('scatterplot');
+  scatter.on('plotly_click', function(selection){
+    update_table(selection)
+  });
 }
 <!-- Onchange for max/min rooms -->
 $(document).ready(function(){
@@ -84,61 +89,59 @@ $(document).ready(function(){
   console.log("Im here dad!");
   <!-- OnChange for the min/max rooms -->
   document.getElementById("max_rooms").onchange = function() {onChangeRooms("max")};
-  document.getElementById("min_rooms").onchange = function() {onChangeRooms("min")};
+  document.getElementById("min_rooms").onchange = function() {onChangeRooms("max")};
   function onChangeRooms(name) {
-    var x = document.getElementById(name+"_rooms");
+    var max_rooms_req = document.getElementById("max"+"_rooms").value;
+    var min_rooms_req = document.getElementById("min"+"_rooms").value;
     if(name == "max"){
-      max_rooms = x.value;
+      max_rooms = max_rooms_req;
+      min_rooms = min_rooms_req
       $.getJSON({ url: "/sold_filterplots", data: {'areas': selected_areas,
-      'max_rooms':max_rooms,
-      'min_rooms':min_rooms},
-      traditional: true,
-      success: function (response) {
-        console.log(JSON.parse(response.bar_plot))
-        re_filter_plots(JSON.parse(response.bar_plot));
+       'max_rooms':max_rooms,
+        'min_rooms':min_rooms} ,
+         traditional: true, success: function (response) {
+        re_filter_plots(response);
       }
     });
-  }
-  else {
-    min_rooms = x.value;
-  }
-}
-<!-- OnChange for the Multiselect -->
-$.getJSON({ url: "/get_areas", success: function (response) {
-  var length = 0;
-  $.each(response, function (index, value) {
-    $("#multisel_area").append($("<option></option>").val(value).html(value));
-  });
-  $("#multisel_area").val(this);
-  length = length + 1;
-  if (length = 0) {
-    $("#multisel_area").empty().append('<option selected="selected" value="0">Not available<option>');
     }
-    $('#multisel_area').multiselect({buttonWidth: window.screen.availWidth + 'px',
-    enableFiltering: true,
-    enableCaseInsensitiveFiltering: true,
-    includeSelectAllOption: false,
-    filterPlaceholder:'Search Here..',
-    maxHeight: 800,
-    onChange: function(option, checked, select) {
-      var opselected = $(option).val();
-      if(checked == true) {
-        selected_areas.indexOf(opselected) === -1 ? selected_areas.push(opselected) : console.log("This item already exists");
-      } else if(checked == false){
-        selected_areas.splice(selected_areas.indexOf(opselected),1);
-      }
-      console.log(selected_areas);
-      $.getJSON({ url: "/sold_filterplots", data: {'areas': selected_areas,
-      'max_rooms':max_rooms,
-      'min_rooms':min_rooms},
-      traditional: true,
-      success: function (response) {
-        console.log(JSON.parse(response.bar_plot))
-        re_filter_plots(JSON.parse(response.bar_plot));
-      }
-    });
+    else {
+      min_rooms = x.value;
+    }
   }
-});
+  <!-- OnChange for the Area Multiselect -->
+  $.getJSON({ url: "/get_areas", success: function (response) {
+    var length = 0;
+    $.each(response, function (index, value) {
+      $("#multisel_area").append($("<option></option>").val(value).html(value));
+    });
+    $("#multisel_area").val(this);
+    length = length + 1;
+    if (length = 0) {
+      $("#multisel_area").empty().append('<option selected="selected" value="0">Not available<option>');
+      }
+      $('#multisel_area').multiselect({buttonWidth: window.screen.availWidth + 'px',
+      enableFiltering: true,
+      enableCaseInsensitiveFiltering: true,
+      includeSelectAllOption: false,
+      filterPlaceholder:'Search Here..',
+      maxHeight: 800,
+      onChange: function(option, checked, select) {
+        var opselected = $(option).val();
+        if(checked == true) {
+          selected_areas.indexOf(opselected) === -1 ? selected_areas.push(opselected) : console.log("This item already exists");
+        } else if(checked == false){
+          selected_areas.splice(selected_areas.indexOf(opselected),1);
+        }
+        console.log(selected_areas);
+        $.getJSON({ url: "/sold_filterplots", data: {'areas': selected_areas,
+         'max_rooms':max_rooms,
+          'min_rooms':min_rooms} , traditional: true, success: function (response) {
+          console.log(JSON.parse(response.bar_plot))
+          re_filter_plots(response);
+        }
+      });
+    }
+  });
 }
 });
 

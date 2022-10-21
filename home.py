@@ -68,7 +68,6 @@ def future():
 def areas():
     df = load_data()
     locations = df["location"].str.title()
-    print(locations.drop_duplicates())
     return json.dumps(sorted(dict(locations.drop_duplicates()).values()))
 
 
@@ -82,10 +81,45 @@ def callback():
 @app.route('/sold_filterplots', methods=['POST', 'GET'])
 def areafilter():
     df = load_data()
-    data = request.args.getlist('areas') 
-    df = df[df['location'].isin(data)]
+    areas_data = request.args.getlist('areas')
+    if(len(request.args.getlist('min_rooms')) > 0):
+        min_rooms_req = float(request.args.getlist('min_rooms')[0])
+    else:
+        min_rooms_req = 1
+    if(len(request.args.getlist('min_rooms')) > 0):
+        max_rooms_req = float(request.args.getlist('max_rooms')[0])
+    else:
+        max_rooms_req = 10
+    if len(areas_data) > 0:
+        df = df[df['location'].isin(areas_data)]
+    df = df[(df['num_of_rooms'] <= max_rooms_req)
+            & (df['num_of_rooms'] >= min_rooms_req)]
     bar_plot = bar(df)
     scatter_plot = sold_scatter(df)
+    plots = {"bar_plot": bar_plot, "scatter_plot": scatter_plot}
+    plotsJSON = json.dumps(plots, cls=plotly.utils.PlotlyJSONEncoder)
+    return plotsJSON
+
+
+@app.route('/upforsale_filterplots', methods=['POST', 'GET'])
+def filter_upforsale():
+    df = load_future_data()
+    areas_data = request.args.getlist('areas')
+    print(request.args)
+    if(len(request.args.getlist('min_rooms')) > 0 and request.args.getlist('min_rooms')[0] != ''):
+        min_rooms_req = float(request.args.getlist('min_rooms')[0])
+    else:
+        min_rooms_req = 1
+    if(len(request.args.getlist('min_rooms')) > 0 and request.args.getlist('max_rooms')[0] != ''):
+        max_rooms_req = float(request.args.getlist('max_rooms')[0])
+    else:
+        max_rooms_req = 10
+    if len(areas_data) > 0:
+        df = df[df['location'].isin(areas_data)]
+    df = df[(df['num_of_rooms'] <= max_rooms_req)
+            & (df['num_of_rooms'] >= min_rooms_req)]
+    bar_plot = future_bar(df)
+    scatter_plot = future_scatter(df)
     plots = {"bar_plot": bar_plot, "scatter_plot": scatter_plot}
     plotsJSON = json.dumps(plots, cls=plotly.utils.PlotlyJSONEncoder)
     return plotsJSON
@@ -152,7 +186,8 @@ def getlatestfilename(time):
 
 
 def bar(dataframe):
-    dataframe[["final_price"]] = dataframe[["final_price"]]/1000000
+    print(dataframe[['final_price']])
+    dataframe[['final_price']] = dataframe[['final_price']]/1000000
     data = dataframe.groupby(["location"])["final_price"].mean()
     data = data.sort_values(ascending=True)
     fig, ax = plt.subplots(figsize=(12, 15))

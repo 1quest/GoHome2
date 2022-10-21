@@ -1,64 +1,150 @@
 {% extends 'base.html' %}
 
 {% block content %}
-    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.6/d3.min.js"></script>
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
-    <h1>{% block title %} {% endblock %}</h1>
-    <div class="row">
-     <div class="col-md-6">
-         <div class="chart" id="bargraph">
-       </div>
-     </div>
-      <div class="col-md-6">
-        <div class="chart" id="scatterplot">
-        </div>
-      </div>
+<script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.6/d3.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+<script src="https://unpkg.com/bootstrap-multiselect@1.1.0/dist/js/bootstrap-multiselect.js"></script>
+<h1>{% block title %} {% endblock %}</h1>
+<div class="row">
+  <div id="multisel_area" class="select" multiple="multiple" style="display: none;" size='100'></div>
+</div>
+<div class="row">
+  <div class="input-group mb-3">
+    <span class="input-group-text">Min. rooms</span>
+    <input id="min_rooms" type="text" class="form-control" placeholder="0" aria-label="min_rooms">
+    <span class="input-group-text">Max. rooms</span>
+    <input id="max_rooms" type="text" class="form-control" placeholder="10" aria-label="max_rooms">
+  </div>
+</div>
+<div class="row">
+  <div class="col-md-6">
+    <div class="chart" id="bargraph">
     </div>
-    <div class="row" id="WHAHAWAH">
-      <div class="col-md-12">
-         <div class="chart" id="table">
-           </div>
-     </div>
+  </div>
+  <div class="col-md-6">
+    <div class="chart" id="scatterplot">
     </div>
-    <script type='text/javascript'>
-      <!-- Set title to sold stuff -->
-      document.getElementById("HEADER").innerHTML = "Hemnet data - FOR SALE"
-      <!-- Scatter plot -->
-      var scatter_data = {{scatter | safe}};
-      Plotly.plot('scatterplot',scatter_data,{});
-      var scatter = document.getElementById('scatterplot');
-      scatter.on('plotly_click', function(selection){
-        update_table(selection)
+  </div>
+</div>
+<div class="row" id="WHAHAWAH">
+  <div class="col-md-12">
+    <div class="chart" id="table">
+    </div>
+  </div>
+</div>
+<script type='text/javascript'>
+  <!-- Set title to sold stuff -->
+  document.getElementById("HEADER").innerHTML = "Hemnet data - Up for sale"
+  <!-- Scatter plot -->
+  var scatter_data = {{scatter | safe}};
+  Plotly.plot('scatterplot',scatter_data,{});
+  var scatter = document.getElementById('scatterplot');
+  scatter.on('plotly_click', function(selection){
+    update_table(selection)
+  });
+  <!-- Bar-chart -->
+  var graphs = {{plot | safe}};
+  Plotly.plot('bargraph',graphs,{});
+  <!-- Table Update -->
+  var graphs = {{table | safe}};
+  Plotly.plot('table',graphs,{});
+  var points = [];
+  function update_table(selection) {
+    points.indexOf(selection.points[0].customdata) === -1 ? points.push(selection.points[0].customdata) : console.log("This item already exists");
+    $.getJSON({ url: "/scatter_update_table", data: {'data': points} , traditional: true, success: function (response) {
+      Plotly.newPlot('table', response, {});
+      var table_div = document.getElementById('table');
+      table_div.on('plotly_click', function(scatter_data){
+        update_table(scatter_data)
       });
-      <!-- Bar-chart -->
-        var graphs = {{plot | safe}};
-        Plotly.plot('bargraph',graphs,{});
-      <!-- Table -->
-        var graphs = {{table | safe}};
-        Plotly.plot('table',graphs,{});
-        var points = [];
-      function update_table(selection) {
-        points.indexOf(selection.points[0].customdata) === -1 ? points.push(selection.points[0].customdata) : console.log("This item already exists");
-        $.getJSON({ url: "/scatter_update_table", data: {'data': points} , traditional: true, success: function (response) {
-          Plotly.newPlot('table', response, {});
-          var table_div = document.getElementById('table');
-          table_div.on('plotly_click', function(scatter_data){
-              update_table(scatter_data)
-          });
-        }
-        });
+    }
+  });
+}
+function update_scatter_plot(selection) {
+  points.indexOf(selection.points[0].customdata) === -1 ? points.push(selection.points[0].customdata) : console.log("This item already exists");
+  $.getJSON({ url: "/callback", data: {'data': points} , traditional: true, success: function (response) {
+    Plotly.newPlot('scatterplot', response, {});
+    var scatter = document.getElementById('scatterplot');
+    scatter.on('plotly_click', function(scatter_data){
+      update_scatter_plot(scatter_data)
+    });
+  }
+});
+}
+<!-- Update plots on changes -->
+function re_filter_plots(response){
+  Plotly.newPlot('bargraph', JSON.parse(response.bar_plot), {});
+  Plotly.newPlot('scatterplot', JSON.parse(response.scatter_plot), {});
+  var scatter = document.getElementById('scatterplot');
+  scatter.on('plotly_click', function(selection){
+    update_table(selection)
+  });
+}
+<!-- Onchange for max/min rooms -->
+$(document).ready(function(){
+  var selected_areas = [];
+  var max_rooms = 10;
+  var min_rooms = 0;
+  console.log("Im here dad!");
+  <!-- OnChange for the min/max rooms -->
+  document.getElementById("max_rooms").onchange = function() {onChangeRooms("max")};
+  document.getElementById("min_rooms").onchange = function() {onChangeRooms("max")};
+  function onChangeRooms(name) {
+    var max_rooms_req = document.getElementById("max"+"_rooms").value;
+    var min_rooms_req = document.getElementById("min"+"_rooms").value;
+    if(name == "max"){
+      max_rooms = max_rooms_req;
+      min_rooms = min_rooms_req
+      $.getJSON({ url: "/upforsale_filterplots", data: {'areas': selected_areas,
+       'max_rooms':max_rooms,
+        'min_rooms':min_rooms} ,
+         traditional: true, success: function (response) {
+        re_filter_plots(response);
       }
-      function update_scatter_plot(selection) {
-        points.indexOf(selection.points[0].customdata) === -1 ? points.push(selection.points[0].customdata) : console.log("This item already exists");
-        $.getJSON({ url: "/callback", data: {'data': points} , traditional: true, success: function (response) {
-          Plotly.newPlot('scatterplot', response, {});
-          var scatter = document.getElementById('scatterplot');
-          scatter.on('plotly_click', function(scatter_data){
-              update_scatter_plot(scatter_data)
-          });
-        }
-        });
+    });
+    }
+    else {
+      min_rooms = x.value;
+    }
+  }
+  <!-- OnChange for the Area Multiselect -->
+  $.getJSON({ url: "/get_areas", success: function (response) {
+    var length = 0;
+    $.each(response, function (index, value) {
+      $("#multisel_area").append($("<option></option>").val(value).html(value));
+    });
+    $("#multisel_area").val(this);
+    length = length + 1;
+    if (length = 0) {
+      $("#multisel_area").empty().append('<option selected="selected" value="0">Not available<option>');
       }
-    </script>
+      $('#multisel_area').multiselect({buttonWidth: window.screen.availWidth + 'px',
+      enableFiltering: true,
+      enableCaseInsensitiveFiltering: true,
+      includeSelectAllOption: false,
+      filterPlaceholder:'Search Here..',
+      maxHeight: 800,
+      onChange: function(option, checked, select) {
+        var opselected = $(option).val();
+        if(checked == true) {
+          selected_areas.indexOf(opselected) === -1 ? selected_areas.push(opselected) : console.log("This item already exists");
+        } else if(checked == false){
+          selected_areas.splice(selected_areas.indexOf(opselected),1);
+        }
+        console.log(selected_areas);
+        $.getJSON({ url: "/upforsale_filterplots", data: {'areas': selected_areas,
+         'max_rooms':max_rooms,
+          'min_rooms':min_rooms} , traditional: true, success: function (response) {
+          console.log(JSON.parse(response.bar_plot))
+          re_filter_plots(response);
+        }
+      });
+    }
+  });
+}
+});
+
+});
+</script>
 {% endblock %}
