@@ -109,7 +109,7 @@ $(document).ready(function(){
     }
   }
   <!-- OnChange for the Area Multiselect -->
-  $.getJSON({ url: "/get_futureareas", success: function (response) {
+  $.getJSON({ url: "/get_future_areas", success: function (response) {
     var length = 0;
     $.each(response, function (index, value) {
       $("#multisel_area").append($("<option></option>").val(value).html(value));
