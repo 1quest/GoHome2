@@ -71,6 +71,13 @@ def areas():
     return json.dumps(sorted(dict(locations.drop_duplicates()).values()))
 
 
+@app.route('/get_futureareas', methods=['POST', 'GET'])
+def future_areas():
+    df = load_future_data()
+    locations = df["location"].str.title()
+    return json.dumps(sorted(dict(locations.drop_duplicates()).values()))
+
+
 @app.route('/callback', methods=['POST', 'GET'])
 def callback():
     df = load_future_data()
