@@ -26,7 +26,7 @@ if user_name == 'toidface':
     template_dir = "/home/toidface/Documents/GoHome/templates"
 elif user_name == 'ubuntu':
     path_to_csv = "/home/ubuntu/GoHome2/csv"
-    template_dir = "home/ubuntu/GoHome2/templates"
+    template_dir = "/home/ubuntu/GoHome2/templates"
 else:
     template_dir = '/home/GoHome2/GoHome2/templates/'
     path_to_csv = '/home/GoHome2/GoHome2/csv'
