@@ -29,6 +29,9 @@ else:
 
 app = Flask(__name__, template_folder=template_dir)
 
+@app.route('/test')
+def test():
+    return "test"
 
 @app.route('/')
 def index():
@@ -50,9 +53,6 @@ def future():
                            table=table_apts)
 
 
-@app.route('/test')
-def test():
-    return "test"
 
 
 @app.route('/get_areasfuture', methods=['POST', 'GET'])
