@@ -81,11 +81,11 @@ def callback():
 def areafilter():
     df = load_data()
     areas_data = request.args.getlist('areas')
-    if(len(request.args.getlist('min_rooms')) > 0):
+    if(len(request.args.getlist('min_rooms')) > 0 and request.args.getlist('min_rooms')[0] != ''):
         min_rooms_req = float(request.args.getlist('min_rooms')[0])
     else:
         min_rooms_req = 1
-    if(len(request.args.getlist('min_rooms')) > 0):
+    if(len(request.args.getlist('min_rooms')) > 0 and request.args.getlist('max_rooms')[0] != ''):
         max_rooms_req = float(request.args.getlist('max_rooms')[0])
     else:
         max_rooms_req = 10
