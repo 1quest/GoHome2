@@ -37,7 +37,7 @@ def index():
     scatter_plot = sold_scatter(df)
     table_apts = table_of_sold_apts(df)
     return render_template('index.html', plot=bar_plot, scatter=scatter_plot,
-                           table=table_apts)
+                           table=table_apts, title='Home')
 
 
 @app.route('/future', methods=['POST', 'GET'])
