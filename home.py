@@ -50,7 +50,7 @@ def future():
                            table=table_apts)
 
 
-@app.route('/test', methods=['POST', 'GET'])
+@app.route('/test')
 def test():
     return "test"
 
