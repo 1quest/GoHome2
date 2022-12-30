@@ -56,7 +56,7 @@ def future():
                            table=table_apts)
 
 
-@app.route('/get_futureareas', methods=['POST', 'GET'])
+@app.route('/get_futureareas/', methods=['POST', 'GET'])
 def future_areas():
     #df = load_future_data()
     #locations = df["location"].str.title()
