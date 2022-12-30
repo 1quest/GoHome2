@@ -29,9 +29,11 @@ else:
 
 app = Flask(__name__, template_folder=template_dir)
 
-@app.route('/test')
-def test():
-    return "test"
+
+@app.route('/favicon.ico')
+def favicon():
+    return app.send_static_file('favicon.ico')
+
 
 @app.route('/')
 def index():
@@ -39,8 +41,9 @@ def index():
     bar_plot = bar(df)
     scatter_plot = sold_scatter(df)
     table_apts = table_of_sold_apts(df)
+
     return render_template('index.html', plot=bar_plot, scatter=scatter_plot,
-                           table=table_apts, title='Home')
+                           table=table_apts)
 
 
 @app.route('/future', methods=['POST', 'GET'])
@@ -53,11 +56,9 @@ def future():
                            table=table_apts)
 
 
-
-
-@app.route('/get_areasfuture', methods=['POST', 'GET'])
-def areas2():
-    df = load_data()
+@app.route('/get_futureareas', methods=['POST', 'GET'])
+def future_areas():
+    df = load_future_data()
     locations = df["location"].str.title()
     return json.dumps(sorted(dict(locations.drop_duplicates()).values()))
 
