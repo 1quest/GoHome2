@@ -12,13 +12,9 @@ import pandas as pd
 import json
 import re
 import os
-import logging
 import pwd
 
-logging.basicConfig(filename='record.log', level=logging.DEBUG,
-                    format=f'%(asctime)s %(levelname)s %(name)s %(threadName)s : %(message)s')
 County = "Uppsala"
-logger = logging.getLogger('werkzeug')  # grabs underlying WSGI logger
 user_name = pwd.getpwuid(os.getuid())[0]
 matplotlib.use('Agg')
 if user_name == 'toidface':
@@ -41,14 +37,10 @@ def favicon():
 
 @app.route('/')
 def index():
-    app.logger.info('Info level log')
-    app.logger.warning('Warning level log')
     df = load_data()
     bar_plot = bar(df)
     scatter_plot = sold_scatter(df)
     table_apts = table_of_sold_apts(df)
-    if request.method == "GET":
-        logger.info("TEST")
 
     return render_template('index.html', plot=bar_plot, scatter=scatter_plot,
                            table=table_apts)
@@ -324,7 +316,7 @@ def table_of_future_apts(dataframe):
                                                        "# Rooms",
                                                        "Size m²",
                                                        "Fee",
-                                                       "Final Price"]),
+                                                       "Sales Price"]),
                                    cells=dict(values=[dataframe.link,
                                                       dataframe.region,
                                                       dataframe.location,

@@ -1,0 +1,402 @@
+link,region,location,street_address,num_of_rooms,size,fee,price
+https://www.hemnet.se/bostad/lagenhet-2rum-stenhagen-uppsala-kommun-milstensvagen-104-19418675,STENHAGEN,STENHAGEN,Milstensvägen104,2,54.0,3693,1650000
+https://www.hemnet.se/bostad/lagenhet-3rum-svartbacken-uppsala-kommun-torbjornsgatan-14-19466879,Svartbäcken,Svartbäcken,Torbjörnsgatan14,3,85.1,3804,2495000
+https://www.hemnet.se/bostad/lagenhet-3rum-industristaden-kungsangen-uppsala-kommun-sagargatan-9-b-19425215,Industristaden/Kungsängen,Industristaden,Sågargatan9B,3,84.0,4325,3695000
+https://www.hemnet.se/bostad/lagenhet-2rum-kapellgardet-uppsala-kommun-rabyvagen-39-b-14824656,Kapellgärdet,Kapellgärdet,Råbyvägen39B,2,49.0,3624,1850000
+https://www.hemnet.se/bostad/lagenhet-2rum-kapellgardet-uppsala-kommun-orgelgatan-16-19467396,Kapellgärdet,Kapellgärdet,Orgelgatan16,2,41.0,2643,1995000
+https://www.hemnet.se/bostad/lagenhet-1rum-kapellgardet-uppsala-kommun-torngatan-5-19466819,Kapellgärdet,Kapellgärdet,Torngatan5,1,35.0,2345,1795000
+https://www.hemnet.se/bostad/lagenhet-4rum-gunsta-uppsala-kommun-hjulaxelvagen-164-lgh-1104-18535015,Gunsta,Gunsta,Hjulaxelvägen164lgh1104,4,85.0,4600,2495000
+https://www.hemnet.se/bostad/lagenhet-2rum-arsta-uppsala-kommun-fyrislundsgatan-56-19466640,Årsta,Årsta,Fyrislundsgatan56,2,62.5,3110,1850000
+https://www.hemnet.se/bostad/lagenhet-2rum-kapellgardet-uppsala-kommun-orgelgatan-9-19366137,Kapellgärdet,Kapellgärdet,Orgelgatan9,2,45.0,2795,2090000
+https://www.hemnet.se/bostad/lagenhet-4rum-salabacke-uppsala-kommun-ritargatan-4b-19447156,Salabacke,Salabacke,Ritargatan4b,4,96.3,4217,2995000
+https://www.hemnet.se/bostad/lagenhet-3rum-arsta-uppsala-kommun-fyrislundsgatan-30-19466875,Årsta,Årsta,Fyrislundsgatan30,3,85.5,4913,1985000
+https://www.hemnet.se/bostad/lagenhet-2rum-kungsangen-industristaden-uppsala-kommun-skyttelgatan-6-19377415,Kungsängen/Industristaden,Kungsängen,Skyttelgatan6,2,52.0,3161,2575000
+https://www.hemnet.se/bostad/lagenhet-2rum-salabacke-uppsala-kommun-murargatan-18c-18963082,Salabacke,Salabacke,Murargatan18C,2,56.1,3423,1695000
+https://www.hemnet.se/bostad/lagenhet-1rum-framre-luthagen-uppsala-kommun-fredsgatan-3-18851657,Främre Luthagen,FrämreLuthagen,Fredsgatan3,1,27.7,1748,1745000
+https://www.hemnet.se/nybyggnadsprojekt/rickomberga-rickomberga-backe-3-17583677,Rickomberga,Rickomberga,Rickombergabacke3,2,34.0,fr.3067,1995000
+"https://www.hemnet.se/bostad/lagenhet-2,5rum-sommarro-uppsala-kommun-norbyvagen-75-a-19278703",Sommarro,Sommarro,Norbyvägen75A,2.5,64.0,3488,2350000
+"https://www.hemnet.se/bostad/lagenhet-5rum-flogsta-uppsala-kommun-flogstavagen-156,-van-5-av-5-19351376",Flogsta,Flogsta,Flogstavägen156,5,119.5,6131,4195000
+https://www.hemnet.se/bostad/lagenhet-1rum-salabacke-uppsala-kommun-murargatan-3-19463919,Salabacke,Salabacke,Murargatan3,1,41.5,2110,1775000
+https://www.hemnet.se/bostad/lagenhet-1rum-falhagen-uppsala-kommun-falhagsleden-3b-19465435,Fålhagen,Fålhagen,Fålhagsleden3B,1,37.5,2414,1895000
+"https://www.hemnet.se/bostad/lagenhet-4,5rum-luthagen-uppsala-kommun-geijersgatan-3-19463976",Luthagen,Luthagen,Geijersgatan3,4.5,94.5,5886,4290000
+https://www.hemnet.se/bostad/lagenhet-1rum-nyby-uppsala-kommun-viktor-rydbergsgatan-38-19464137,Nyby,Nyby,ViktorRydbergsgatan38,1,42.5,2437,1595000
+https://www.hemnet.se/bostad/lagenhet-2rum-hoganas-falhagen-uppsala-kommun-torkelsgatan-38-c-19464376,Höganäs/Fålhagen,Höganäs,Torkelsgatan38C,2,59.0,3035,2395000
+https://www.hemnet.se/bostad/lagenhet-2rum-granby-uppsala-kommun-blixtgatan-23-18927716,Gränby,Gränby,Blixtgatan23,2,62.5,3253,1695000
+"https://www.hemnet.se/bostad/lagenhet-3,5rum-rosendal-uppsala-kommun-torgny-segerstedts-alle-85-19465795",Rosendal,Rosendal,TorgnySegerstedtsallé85,3.5,81.0,3736,2995000
+https://www.hemnet.se/bostad/lagenhet-1rum-luthagen-uppsala-kommun-kyrkogardsgatan-16f-19465015,Luthagen,Luthagen,Kyrkogårdsgatan16F,1,27.0,1541,1795000
+https://www.hemnet.se/bostad/lagenhet-1rum-falhagen-hoganas-uppsala-kommun-torkelsgatan-24-c-19436895,Fålhagen/Höganäs,Fålhagen,Torkelsgatan24C,1,40.0,2575,1795000
+https://www.hemnet.se/bostad/lagenhet-2rum-salabacke-uppsala-kommun-verkmastargatan-9-19464375,Salabacke,Salabacke,Verkmästargatan9,2,52.6,2836,1895000
+https://www.hemnet.se/bostad/lagenhet-2rum-rosendal-uppsala-kommun-betty-petterssons-gata-9-19464295,Rosendal,Rosendal,BettyPetterssonsgata9,2,59.0,3068,2850000
+https://www.hemnet.se/nybyggnadsprojekt/kapellgardet-brf-moblera-17749056,Kapellgärdet,Kapellgärdet,BrfMöblera,1,35.0,fr.2811,1750000
+https://www.hemnet.se/bostad/lagenhet-3rum-kungsangen-uppsala-kommun-skyttelgatan-7-19268675,Kungsängen,Kungsängen,Skyttelgatan7,3,82.0,3239,3195000
+https://www.hemnet.se/bostad/lagenhet-3rum-storvreta-uppsala-kommun-meteorvagen-30-19301737,Storvreta,Storvreta,Meteorvägen30,3,82.0,5775,1995000
+https://www.hemnet.se/bostad/lagenhet-1rum-sala-backe-uppsala-kommun-fyrislundsgatan-23b-19351226,Sala Backe,SalaBacke,Fyrislundsgatan23B,1,34.0,2752,1375000
+"https://www.hemnet.se/bostad/lagenhet-1rum-kungsangen-uppsala-kommun-tullgarnsgatan-11,-van-8-19422075",Kungsängen,Kungsängen,Tullgarnsgatan11,1,26.0,2013,1695000
+https://www.hemnet.se/bostad/lagenhet-3rum-ekeby-uppsala-kommun-kopenhamnsgatan-13-19433375,Ekeby,Ekeby,Köpenhamnsgatan13,3,78.5,3424,2495000
+https://www.hemnet.se/bostad/lagenhet-2rum-arsta-uppsala-kommun-kamomillgatan-16-19462977,Årsta,Årsta,Kamomillgatan16,2,63.0,3798,1449000
+https://www.hemnet.se/bostad/lagenhet-2rum-kapellgardet-uppsala-kommun-portalgatan-4g-19462521,Kapellgärdet,Kapellgärdet,Portalgatan4G,2,67.0,4069,2495000
+https://www.hemnet.se/bostad/lagenhet-1rum-uppsala-uppsala-kommun-swedenborgsgatan-34b-19462302,Uppsala,Uppsala,Swedenborgsgatan34B,1,36.0,2531,1675000
+https://www.hemnet.se/bostad/lagenhet-3rum-loten-uppsala-kommun-bellmansgatan-72-19462345,LÖTEN,LÖTEN,Bellmansgatan72,3,81.5,4469,2175000
+"https://www.hemnet.se/bostad/lagenhet-1,5rum-framre-luthagen-uppsala-kommun-gluntens-grand-4b-19461982",Främre Luthagen,FrämreLuthagen,GluntensGränd4B,1.5,34.0,1918,1895000
+https://www.hemnet.se/bostad/lagenhet-1rum-sommarro-uppsala-kommun-lindsbergsgatan-13-c-19462795,Sommarro,Sommarro,Lindsbergsgatan13C,1,24.2,1541,1295000
+https://www.hemnet.se/bostad/lagenhet-1rum-nyby-uppsala-kommun-viktor-rydbergsgatan-38-19463336,Nyby,Nyby,ViktorRydbergsgatan38,1,41.0,2374,1450000
+https://www.hemnet.se/bostad/lagenhet-1rum-lanna-bruk-uppsala-kommun-lanna-bruksgata-8-18922622,Länna Bruk,LännaBruk,LännaBruksgata8,1,36.0,1868,950000
+https://www.hemnet.se/bostad/lagenhet-1rum-rosendal-uppsala-kommun-rosendalsvagen-12-19404196,Rosendal,Rosendal,Rosendalsvägen12,1,27.0,1413,1795000
+https://www.hemnet.se/bostad/lagenhet-2rum-centrum-uppsala-uppsala-kommun-kungsgatan-65a-19418697,Centrum Uppsala,CentrumUppsala,Kungsgatan65A,2,45.5,2866,2195000
+https://www.hemnet.se/bostad/lagenhet-1rum-salabacke-uppsala-kommun-apelgatan-9a-19428515,Salabacke,Salabacke,Apelgatan9A,1,39.0,2335,1495000
+https://www.hemnet.se/bostad/lagenhet-2rum-sommarro-uppsala-kommun-lindsbergsgatan-11b-19461977,Sommarro,Sommarro,Lindsbergsgatan11B,2,53.3,3220,2095000
+https://www.hemnet.se/bostad/lagenhet-3rum-kapellgardet-uppsala-kommun-portalgatan-68-19419757,Kapellgärdet,Kapellgärdet,Portalgatan68,3,77.0,3955,2995000
+https://www.hemnet.se/bostad/lagenhet-4rum-falhagen-uppsala-kommun-osterangsgatan-22-d-19063997,Fålhagen,Fålhagen,Österängsgatan22D,4,86.6,4250,3195000
+"https://www.hemnet.se/bostad/lagenhet-2rum-sala-backe-uppsala-kommun-ritargatan-1a,-2tr-19462138",Sala Backe,SalaBacke,Ritargatan1A,2,59.4,2923,1695000
+"https://www.hemnet.se/bostad/lagenhet-1,5rum-luthagen-uppsala-kommun-tiundagatan-49-19461765",Luthagen,Luthagen,Tiundagatan49,1.5,45.2,2776,1795000
+https://www.hemnet.se/bostad/lagenhet-1rum-sodra-rosendal-uppsala-kommun-torgny-segerstedts-alle-27-19427655,Södra Rosendal,SödraRosendal,TorgnySegerstedtsAllé27,1,32.0,1675,1795000
+"https://www.hemnet.se/bostad/lagenhet-1rum-framre-luthagen-uppsala-kommun-luthagsesplanaden-17a,-van-4-4-18905057",Främre Luthagen,FrämreLuthagen,Luthagsesplanaden17A,1,30.0,1345,1895000
+https://www.hemnet.se/bostad/lagenhet-2rum-sunnersta-uppsala-kommun-rodhakevagen-16-19439335,Sunnersta,Sunnersta,Rödhakevägen16,2,50.2,3413,1895000
+https://www.hemnet.se/bostad/lagenhet-1rum-falhagen-uppsala-kommun-vaderkvarnsgatan-42c-19461777,Fålhagen,Fålhagen,Väderkvarnsgatan42C,1,44.0,2061,2095000
+"https://www.hemnet.se/bostad/lagenhet-1rum-falhagen-uppsala-kommun-norrtaljegatan-1a,-2tr-19462083",Fålhagen,Fålhagen,Norrtäljegatan1A,1,36.0,2685,1995000
+https://www.hemnet.se/bostad/lagenhet-2rum-almunge-uppsala-kommun-lillsjovagen-6c-19461645,Almunge,Almunge,Lillsjövägen6C,2,66.0,3702,1420000
+https://www.hemnet.se/bostad/lagenhet-1rum-framre-luthagen-uppsala-kommun-gotgatan-10-b-19462380,Främre Luthagen,FrämreLuthagen,Götgatan10B,1,21.0,1069,1695000
+https://www.hemnet.se/bostad/lagenhet-1rum-sala-backe-uppsala-kommun-murargatan-30a-19462398,Sala Backe,SalaBacke,Murargatan30A,1,40.0,2046,1650000
+"https://www.hemnet.se/bostad/lagenhet-2rum-kapellgardet-uppsala-kommun-portalgatan-25,-van-6-19462498",Kapellgärdet,Kapellgärdet,Portalgatan25,2,67.0,3710,2195000
+https://www.hemnet.se/bostad/lagenhet-2rum-granby-uppsala-kommun-rabyvagen-55a-19217235,Gränby,Gränby,Råbyvägen55A,2,54.0,3446,1795000
+https://www.hemnet.se/bostad/lagenhet-1rum-luthagen-uppsala-kommun-jumkilsgatan-7a-19429776,Luthagen,Luthagen,Jumkilsgatan7A,1,41.0,2664,1995000
+https://www.hemnet.se/bostad/lagenhet-2rum-centrum-uppsala-kommun-slottsgrand-2d-18589535,Centrum,Centrum,Slottsgränd2D,2,44.8,2885,2695000
+https://www.hemnet.se/bostad/lagenhet-2rum-falhagen-uppsala-kommun-petterslundsgatan-25-19462137,Fålhagen,Fålhagen,Petterslundsgatan25,2,45.0,2291,1600000
+https://www.hemnet.se/bostad/lagenhet-3rum-centrum-uppsala-kommun-skolgatan-20c-19462335,Centrum,Centrum,Skolgatan20C,3,76.5,3698,2995000
+https://www.hemnet.se/bostad/lagenhet-1rum-kapellgardet-uppsala-kommun-rabyvagen-82-19431715,Kapellgärdet,Kapellgärdet,Råbyvägen82,1,33.5,2462,1650000
+https://www.hemnet.se/bostad/lagenhet-3rum-kapellgardet-uppsala-kommun-kantorsgatan-7-19461678,Kapellgärdet,Kapellgärdet,Kantorsgatan7,3,71.0,4847,2695000
+https://www.hemnet.se/nybyggnadsprojekt/centrala-uppsala-kungsgatan-66-fyra-18040315,Centrala Uppsala,CentralaUppsala,Kungsgatan66fyra,1,33.0,fr.3300,2050000
+"https://www.hemnet.se/bostad/lagenhet-1,5rum-uppsala-uppsala-kommun-fankalsgatan-15-19062315",Uppsala,Uppsala,Fänkålsgatan15,1.5,43.0,2648,1495000
+https://www.hemnet.se/bostad/lagenhet-4rum-slavsta-uppsala-kommun-stalgatan-44-19460718,Slavsta,Slavsta,Stålgatan44,4,94.0,6241,2495000
+https://www.hemnet.se/bostad/lagenhet-4rum-framre-luthagen-uppsala-kommun-luthagsesplanaden-23-a-19460561,FRÄMRE LUTHAGEN,FRÄMRELUTHAGEN,Luthagsesplanaden23A,4,111.0,4718,4395000
+https://www.hemnet.se/bostad/lagenhet-1rum-kungsangen-uppsala-kommun-ostra-agatan-105-19305835,Kungsängen,Kungsängen,ÖstraÅgatan105,1,34.5,2018,1895000
+https://www.hemnet.se/bostad/lagenhet-2rum-slavsta-uppsala-kommun-mariedalsgatan-8-19460175,Slavsta,Slavsta,Mariedalsgatan8,2,60.0,4243,1750000
+https://www.hemnet.se/bostad/lagenhet-3rum-norby-uppsala-kommun-malma-stenvag-2-19460795,Norby,Norby,Malmastenväg2,3,63.5,4118,2100000
+https://www.hemnet.se/bostad/lagenhet-2rum-hoganas-uppsala-kommun-vaksalagatan-40-a-19461336,Höganäs,Höganäs,Vaksalagatan40A,2,65.9,3516,2495000
+https://www.hemnet.se/bostad/lagenhet-2rum-arsta-uppsala-kommun-fankalsgatan-6-19460763,Årsta,Årsta,Fänkålsgatan6,2,63.0,3915,1675000
+https://www.hemnet.se/bostad/lagenhet-3rum-uppsala-kommun-kantorsgatan-5-18298355,Uppsala,Uppsala,Kantorsgatan5,3,71.0,4778,2650000
+https://www.hemnet.se/bostad/lagenhet-3rum-uppsala-kommun-kantorsgatan-5-18298655,Uppsala,Uppsala,Kantorsgatan5,3,73.0,4887,2795000
+https://www.hemnet.se/bostad/lagenhet-2rum-uppsala-kommun-kantorsgatan-5-18298098,Uppsala,Uppsala,Kantorsgatan5,2,56.0,3958,2195000
+https://www.hemnet.se/bostad/lagenhet-1rum-uppsala-kommun-kantorsgatan-5-18298995,Uppsala,Uppsala,Kantorsgatan5,1,35.0,2811,1750000
+https://www.hemnet.se/bostad/lagenhet-1rum-luthagen-uppsala-kommun-dalgatan-5c-19461178,Luthagen,Luthagen,Dalgatan5C,1,33.6,2224,2195000
+https://www.hemnet.se/bostad/lagenhet-3rum-ekeby-flogsta-uppsala-kommun-flogstavagen-5-d-19461239,Ekeby/ Flogsta,Ekeby,Flogstavägen5D,3,76.3,6402,1995000
+https://www.hemnet.se/bostad/lagenhet-1rum-ovre-slotts-uppsala-kommun-s-t-olofsgatan-12-19460135,Övre Slotts,ÖvreSlotts,S:tOlofsgatan12,1,39.0,2211,1995000
+https://www.hemnet.se/bostad/lagenhet-2rum-luthagen-uppsala-kommun-geijersgatan-44-b-19324259,Luthagen,Luthagen,Geijersgatan44B,2,49.0,3177,1995000
+"https://www.hemnet.se/nybyggnadsprojekt/kvarntorget-skiffertornet,-uppsala-17490295",Kvarntorget,Kvarntorget,Skiffertornet,2,46.0,fr.3775,1950000
+https://www.hemnet.se/bostad/lagenhet-2rum-tunabackar-uppsala-kommun-tunagatan-7f-19411975,Tunabackar,Tunabackar,Tunagatan7F,2,57.0,2961,1995000
+"https://www.hemnet.se/bostad/lagenhet-1,5rum-luthagen-uppsala-kommun-geijersgatan-25c-19454196",Luthagen,Luthagen,Geijersgatan25C,1.5,44.0,3082,2195000
+https://www.hemnet.se/bostad/lagenhet-2rum-framre-luthagen-centrum-uppsala-kommun-gotgatan-2-19445136,Främre Luthagen/Centrum,FrämreLuthagen,Götgatan2,2,46.0,2846,2595000
+https://www.hemnet.se/bostad/lagenhet-3rum-gottsunda-uppsala-kommun-altfiolsvagen-15-19036423,Gottsunda,Gottsunda,Altfiolsvägen15,3,101.0,5504,1495000
+https://www.hemnet.se/bostad/lagenhet-1rum-uppsala-uppsala-kommun-eskilsgatan-3a-19235915,Uppsala,Uppsala,Eskilsgatan3A,1,20.0,1614,1400000
+"https://www.hemnet.se/bostad/lagenhet-1,5rum-centrum-uppsala-kommun-baverns-grand-15a-19331396",Centrum,Centrum,Bävernsgränd15A,1.5,41.0,1613,2150000
+https://www.hemnet.se/bostad/lagenhet-3rum-svartbacken-uppsala-kommun-svartbacksgatan-96a-19457637,Svartbäcken,Svartbäcken,Svartbäcksgatan96A,3,73.0,4207,2495000
+"https://www.hemnet.se/bostad/lagenhet-1,5rum-rosendal-uppsala-kommun-vardsatravagen-3f-19457956",Rosendal,Rosendal,Vårdsätravägen3F,1.5,35.0,2039,1895000
+"https://www.hemnet.se/bostad/lagenhet-1,5rum-falhagen-uppsala-kommun-vaksalagatan-38b-19457758",Fålhagen,Fålhagen,Vaksalagatan38B,1.5,48.0,2822,1950000
+https://www.hemnet.se/bostad/lagenhet-3rum-uppsala-uppsala-kommun-rabyvagen-55c-19457359,Uppsala,Uppsala,Råbyvägen55C,3,73.0,4289,2195000
+https://www.hemnet.se/bostad/lagenhet-3rum-uppsala-uppsala-kommun-fyrisvallsgatan-3a-19458035,Uppsala,Uppsala,Fyrisvallsgatan3A,3,76.0,5094,2495000
+https://www.hemnet.se/bostad/lagenhet-2rum-uppsala-uppsala-kommun-st-olofsgatan-28c-19457338,Uppsala,Uppsala,St:Olofsgatan28C,2,64.7,4711,2195000
+https://www.hemnet.se/bostad/lagenhet-2rum-kungsangen-industristaden-uppsala-kommun-sallargatan-4-19457517,Kungsängen/Industristaden,Kungsängen,Sållargatan4,2,55.0,3209,2795000
+https://www.hemnet.se/bostad/lagenhet-3rum-uppsala-uppsala-kommun-dimgatan-25-19457935,Uppsala,Uppsala,Dimgatan25,3,75.5,4182,1995000
+https://www.hemnet.se/bostad/lagenhet-4rum-uppsala-uppsala-kommun-tovadersgatan-22-19457857,Uppsala,Uppsala,Tövädersgatan22,4,89.0,4658,2095000
+https://www.hemnet.se/bostad/lagenhet-3rum-uppsala-uppsala-kommun-karlsrogatan-85a-19457777,Uppsala,Uppsala,Karlsrogatan85a,3,77.6,4804,2395000
+https://www.hemnet.se/bostad/lagenhet-4rum-uppsala-uppsala-kommun-korvelgatan-18c-19457757,Uppsala,Uppsala,Körvelgatan18C,4,91.1,4332,2550000
+https://www.hemnet.se/bostad/lagenhet-1rum-uppsala-uppsala-kommun-osterangsgatan-14e-19457915,Uppsala,Uppsala,Österängsgatan14E,1,32.0,1581,1295000
+https://www.hemnet.se/bostad/lagenhet-3rum-uppsala-uppsala-kommun-osterangsgatan-14e-19457895,Uppsala,Uppsala,Österängsgatan14E,3,67.0,2933,2295000
+https://www.hemnet.se/bostad/lagenhet-3rum-uppsala-uppsala-kommun-tryffelvagen-13-19457280,Uppsala,Uppsala,Tryffelvägen13,3,75.0,5679,2295000
+https://www.hemnet.se/bostad/lagenhet-3rum-arsta-uppsala-kommun-korvelgatan-29a-19457756,Årsta,Årsta,Körvelgatan29A,3,79.7,4433,2195000
+"https://www.hemnet.se/bostad/lagenhet-2,5rum-uppsala-uppsala-kommun-rabyvagen-84-19457796",Uppsala,Uppsala,Råbyvägen84,2.5,64.5,3834,2395000
+https://www.hemnet.se/bostad/lagenhet-2rum-uppsala-uppsala-kommun-bellmansgatan-2-19185136,Uppsala,Uppsala,Bellmansgatan2,2,67.0,3678,1725000
+https://www.hemnet.se/nybyggnadsprojekt/granby-backe-meteorologen-13793615,Gränby backe,Gränbybacke,Meteorologen,1,31.0,fr.3000,1395000
+"https://www.hemnet.se/bostad/lagenhet-1,5rum-rickomberga-uppsala-kommun-polhemsgatan-2-19277901",Rickomberga,Rickomberga,Polhemsgatan2,1.5,46.0,3109,1795000
+https://www.hemnet.se/bostad/lagenhet-3rum-centrum-uppsala-kommun-skolgatan-43c-19456956,Centrum,Centrum,Skolgatan43C,3,93.0,4215,4495000
+https://www.hemnet.se/bostad/lagenhet-4rum-arsta-uppsala-kommun-kummingatan-5c-19456616,Årsta,Årsta,Kummingatan5C,4,92.1,4369,2395000
+https://www.hemnet.se/bostad/lagenhet-1rum-falhagen-uppsala-kommun-torkelsgatan-2c-19456835,Fålhagen,Fålhagen,Torkelsgatan2C,1,38.0,2670,1990000
+https://www.hemnet.se/bostad/lagenhet-1rum-granby-uppsala-kommun-rabyvagen-53d-19456935,Gränby,Gränby,Råbyvägen53D,1,36.0,2398,1495000
+"https://www.hemnet.se/bostad/lagenhet-1,5rum-falhagen-uppsala-kommun-vaderkvarnsgatan-52c-19456736",Fålhagen,Fålhagen,Väderkvarnsgatan52C,1.5,63.0,3133,1995000
+https://www.hemnet.se/bostad/lagenhet-2rum-sala-backe-uppsala-kommun-arstagatan-20a-19456915,Sala backe,Salabacke,Årstagatan20A,2,52.0,2953,1595000
+https://www.hemnet.se/bostad/lagenhet-2rum-industristaden-uppsala-kommun-siktargatan-15-19456716,Industristaden,Industristaden,Siktargatan15,2,61.0,2900,1895000
+"https://www.hemnet.se/bostad/lagenhet-1,5rum-falhagen-uppsala-kommun-salagatan-42b-19456856",Fålhagen,Fålhagen,Salagatan42B,1.5,46.0,2498,1895000
+"https://www.hemnet.se/bostad/lagenhet-1,5rum-svartbacken-uppsala-kommun-svartbacksgatan-101a-19456597",Svartbäcken,Svartbäcken,Svartbäcksgatan101A,1.5,40.0,3056,1495000
+https://www.hemnet.se/bostad/lagenhet-1rum-bellman-uppsala-kommun-bellmansgatan-108-19456815,Bellman,Bellman,Bellmansgatan108,1,41.5,2338,995000
+https://www.hemnet.se/bostad/lagenhet-2rum-centrum-uppsala-kommun-skolgatan-20c-19375676,Centrum,Centrum,Skolgatan20C,2,62.6,3002,2395000
+"https://www.hemnet.se/bostad/lagenhet-2,5rum-sala-backe-uppsala-kommun-arstagatan-45-19457055",Sala backe,Salabacke,Årstagatan45,2.5,64.0,3131,1795000
+https://www.hemnet.se/bostad/lagenhet-3rum-luthagen-uppsala-kommun-klockargatan-18-19457035,Luthagen,Luthagen,Klockargatan18,3,79.0,5273,2295000
+https://www.hemnet.se/bostad/lagenhet-2rum-arsta-uppsala-kommun-fyrislundsgatan-46-19456995,Årsta,Årsta,Fyrislundsgatan46,2,62.3,2303,1695000
+https://www.hemnet.se/bostad/lagenhet-4rum-granby-uppsala-kommun-rabyvagen-53h-19456957,Gränby,Gränby,Råbyvägen53H,4,85.0,4756,2495000
+https://www.hemnet.se/bostad/lagenhet-2rum-framre-luthagen-uppsala-kommun-gluntens-grand-4a-19456895,Främre Luthagen,FrämreLuthagen,GluntensGränd4A,2,40.0,2340,1995000
+https://www.hemnet.se/bostad/lagenhet-1rum-luthagen-uppsala-kommun-geijersgatan-50b-19456975,Luthagen,Luthagen,Geijersgatan50B,1,28.7,2169,1495000
+"https://www.hemnet.se/bostad/lagenhet-3,5rum-luthagen-uppsala-kommun-luthagsesplanaden-21b-19456875",Luthagen,Luthagen,Luthagsesplanaden21B,3.5,78.0,3711,2995000
+https://www.hemnet.se/bostad/lagenhet-1rum-granby-uppsala-kommun-rabyvagen-53h-19456795,Gränby,Gränby,Råbyvägen53H,1,34.0,2402,995000
+https://www.hemnet.se/bostad/lagenhet-1rum-rosendal-uppsala-kommun-rosendalsvagen-12-19456715,Rosendal,Rosendal,Rosendalsvägen12,1,27.0,1413,1795000
+https://www.hemnet.se/nybyggnadsprojekt/rosendal-kvadratum-17513683,Rosendal,Rosendal,Kvadratum,1,35.0,fr.3300,1795000
+https://www.hemnet.se/bostad/lagenhet-2rum-nyby-uppsala-kommun-fredrika-bremersgatan-22-18966159,Nyby,Nyby,FredrikaBremersgatan22,2,61.0,2869,1595000
+https://www.hemnet.se/bostad/lagenhet-3rum-salabacke-uppsala-kommun-murargatan-22d-19039436,Salabacke,Salabacke,Murargatan22D,3,69.0,3444,1995000
+https://www.hemnet.se/bostad/lagenhet-3rum-gottsunda-uppsala-kommun-cellovagen-5r-19455461,Gottsunda,Gottsunda,Cellovägen5R,3,82.0,4510,1495000
+https://www.hemnet.se/bostad/lagenhet-2rum-rosendal-uppsala-kommun-soldathemsvagen-5-19456060,Rosendal,Rosendal,Soldathemsvägen5,2,39.0,1948,2295000
+https://www.hemnet.se/bostad/lagenhet-3rum-kungsangen-industristaden-uppsala-kommun-industrigatan-35-19455919,Kungsängen/industristaden,Kungsängen,Industrigatan35,3,84.0,4510,3495000
+https://www.hemnet.se/bostad/lagenhet-2rum-tunabackar-uppsala-kommun-fjardhundragatan-38-19456355,Tunabackar,Tunabackar,Fjärdhundragatan38,2,60.5,3411,1895000
+https://www.hemnet.se/bostad/lagenhet-5rum-lindbacken-uppsala-kommun-vitmossvagen-199-19455920,Lindbacken,Lindbacken,Vitmossvägen199,5,124.0,4497,3895000
+https://www.hemnet.se/bostad/lagenhet-2rum-granby-uppsala-kommun-granby-bilgata-18-19455520,Gränby,Gränby,Gränbybilgata18,2,59.5,3800,1695000
+https://www.hemnet.se/bostad/lagenhet-3rum-uppsala-kommun-salabacksgatan-7a-19455427,Uppsala,Uppsala,Salabacksgatan7A,3,76.0,4593,2395000
+https://www.hemnet.se/nybyggnadsprojekt/norra-luthagen-normann-13548900,Norra Luthagen,NorraLuthagen,Normann,2,43.0,fr.2444,2095000
+https://www.hemnet.se/bostad/lagenhet-4rum-uppsala-kommun-orgelgatan-4-18762456,Uppsala,Uppsala,Orgelgatan4,4,93.0,5570,3645000
+https://www.hemnet.se/bostad/lagenhet-1rum-uppsala-kommun-orgelgatan-8-18853915,Uppsala,Uppsala,Orgelgatan8,1,34.0,2804,1640000
+https://www.hemnet.se/bostad/lagenhet-5rum-uppsala-kommun-orgelgatan-8-18853935,Uppsala,Uppsala,Orgelgatan8,5,113.0,6441,4395000
+https://www.hemnet.se/bostad/lagenhet-3rum-uppsala-kommun-orgelgatan-4-19160735,Uppsala,Uppsala,Orgelgatan4,3,72.0,4623,3045000
+https://www.hemnet.se/bostad/lagenhet-2rum-uppsala-kommun-orgelgatan-8-18656476,Uppsala,Uppsala,Orgelgatan8,2,42.0,3296,1995000
+https://www.hemnet.se/bostad/lagenhet-3rum-gunsta-uppsala-kommun-hjulaxelvagen-186-19255539,Gunsta,Gunsta,Hjulaxelvägen186,3,72.0,4013,2310000
+https://www.hemnet.se/bostad/lagenhet-6rum-ostra-salabacke-uppsala-kommun-johannesbacksgatan-15e-19450855,Östra Salabacke,ÖstraSalabacke,Johannesbäcksgatan15E,6,137.0,7215,4995000
+https://www.hemnet.se/bostad/lagenhet-3rum-centrala-uppsala-uppsala-kommun-linnegatan-5b-19379136,Centrala Uppsala,CentralaUppsala,Linnégatan5B,3,74.0,3618,3550000
+https://www.hemnet.se/bostad/lagenhet-1rum-rosendal-uppsala-kommun-rosendalsvagen-12-19445035,Rosendal,Rosendal,Rosendalsvägen12,1,27.0,1321,1690000
+https://www.hemnet.se/bostad/lagenhet-1rum-hoganas-uppsala-kommun-s-t-olofsgatan-62a-19443995,Höganäs,Höganäs,S:tOlofsgatan62A,1,40.0,1896,2095000
+https://www.hemnet.se/bostad/lagenhet-4rum-rosendal-uppsala-kommun-lydia-wahlstroms-gata-18228295,Rosendal,Rosendal,LydiaWahlströmsGata,4,93.0,5225,3998000
+https://www.hemnet.se/bostad/lagenhet-3rum-rosendal-uppsala-kommun-lydia-wahlstroms-gata-18451163,Rosendal,Rosendal,LydiaWahlströmsGata,3,86.0,4950,3798000
+https://www.hemnet.se/bostad/lagenhet-2rum-rosendal-uppsala-kommun-lydia-wahlstroms-gata-19347795,Rosendal,Rosendal,LydiaWahlströmsGata,2,54.0,3536,2098000
+"https://www.hemnet.se/bostad/lagenhet-1,5rum-rosendal-uppsala-kommun-lydia-wahlstroms-gata-19347655",Rosendal,Rosendal,LydiaWahlströmsGata,1.5,34.0,2226,1798000
+https://www.hemnet.se/bostad/lagenhet-4rum-gunsta-uppsala-kommun-hjulaxelvagen-194-lgh-1101-18867195,Gunsta,Gunsta,Hjulaxelvägen194lgh1101,4,85.0,4600,2550000
+https://www.hemnet.se/bostad/lagenhet-1rum-kungsgardet-uppsala-kommun-s-t-johannesgatan-36c-19432516,Kungsgärdet,Kungsgärdet,S:tJohannesgatan36C,1,33.0,2430,1495000
+https://www.hemnet.se/bostad/lagenhet-2rum-uppsala-kommun-granby-bilgata-28-17609718,Uppsala,Uppsala,GränbyBilgata28,2,48.0,3850,1995000
+https://www.hemnet.se/bostad/lagenhet-3rum-uppsala-kommun-granby-bilgata-28-17609779,Uppsala,Uppsala,GränbyBilgata28,3,55.0,4150,2395000
+https://www.hemnet.se/bostad/lagenhet-1rum-centrum-uppsala-kommun-slottsgrand-2e-18922297,Centrum,Centrum,Slottsgränd2E,1,29.6,2233,1995000
+https://www.hemnet.se/bostad/lagenhet-1rum-centrum-uppsala-kommun-slottsgrand-2d-19000437,Centrum,Centrum,Slottsgränd2D,1,47.9,3133,2495000
+https://www.hemnet.se/bostad/lagenhet-3rum-uppsala-kommun-amanuensgatan-9-18321400,Uppsala,Uppsala,Amanuensgatan9,3,68.0,5050,2995000
+https://www.hemnet.se/bostad/lagenhet-3rum-uppsala-kommun-amanuensgatan-9-18321517,Uppsala,Uppsala,Amanuensgatan9,3,60.0,4700,2595000
+https://www.hemnet.se/bostad/lagenhet-2rum-uppsala-kommun-amanuensgatan-9-18321401,Uppsala,Uppsala,Amanuensgatan9,2,44.0,3900,2295000
+https://www.hemnet.se/bostad/lagenhet-1rum-uppsala-kommun-amanuensgatan-9-18321717,Uppsala,Uppsala,Amanuensgatan9,1,35.0,3300,1795000
+https://www.hemnet.se/bostad/lagenhet-5rum-uppsala-kommun-gosta-wahlstroms-vag-2-b-19427155,Uppsala,Uppsala,GöstaWahlströmsväg2B,5,110.0,6584,5545000
+https://www.hemnet.se/bostad/lagenhet-2rum-uppsala-kommun-gosta-wahlstroms-vag-2-d-18796396,Uppsala,Uppsala,GöstaWahlströmsväg2D,2,35.0,3109,2045000
+https://www.hemnet.se/bostad/lagenhet-2rum-uppsala-kommun-gosta-wahlstroms-vag-2-d-19179895,Uppsala,Uppsala,GöstaWahlströmsväg2D,2,55.0,3945,2495000
+https://www.hemnet.se/bostad/lagenhet-2rum-uppsala-kommun-gosta-wahlstroms-vag-2-e-17583601,Uppsala,Uppsala,GöstaWahlströmsväg2E,2,34.0,3067,1995000
+https://www.hemnet.se/bostad/lagenhet-2rum-rosendal-uppsala-kommun-grindstugegatan-5-19426375,Rosendal,Rosendal,Grindstugegatan5,2,45.5,2977,2295000
+https://www.hemnet.se/bostad/lagenhet-2rum-centrum-uppsala-kommun-slottsgrand-2d-19261937,Centrum,Centrum,Slottsgränd2D,2,45.0,2885,2645000
+https://www.hemnet.se/bostad/lagenhet-2rum-centrum-uppsala-kommun-slottsgrand-2d-18757701,Centrum,Centrum,Slottsgränd2D,2,43.6,2872,2795000
+https://www.hemnet.se/bostad/lagenhet-4rum-rosendal-uppsala-kommun-prefektgatan-3-19039060,Rosendal,Rosendal,Prefektgatan3,4,83.0,3828,3495000
+https://www.hemnet.se/bostad/lagenhet-1rum-falhagen-uppsala-kommun-vaksalagatan-55-19256377,Fålhagen,Fålhagen,Vaksalagatan55,1,21.0,2828,1200000
+https://www.hemnet.se/bostad/lagenhet-2rum-stenhagen-uppsala-kommun-milstensvagen-104-19418675,STENHAGEN,STENHAGEN,Milstensvägen104,2,54.0,3693,1650000
+https://www.hemnet.se/bostad/lagenhet-2rum-rosendal-uppsala-kommun-torgny-segerstedts-alle-30-19418016,Rosendal,Rosendal,TorgnySegerstedtsallé30,2,52.0,3411,1995000
+https://www.hemnet.se/bostad/lagenhet-4rum-stenhagen-uppsala-kommun-kullerstensvagen-7b-19418678,Stenhagen,Stenhagen,Kullerstensvägen7B,4,105.0,6767,2595000
+https://www.hemnet.se/bostad/lagenhet-2rum-uppsala-uppsala-kommun-siktargatan-28-19419196,Uppsala,Uppsala,Siktargatan28,2,60.0,3614,2195000
+https://www.hemnet.se/bostad/lagenhet-2rum-norra-luthagen-uppsala-kommun-fyrisvallsgatan-18-b-17382199,Norra Luthagen,NorraLuthagen,Fyrisvallsgatan18B,2,63.0,3346,2695000
+https://www.hemnet.se/bostad/lagenhet-4rum-norra-luthagen-uppsala-kommun-fyrisvallsgatan-18-b-18500457,Norra Luthagen,NorraLuthagen,Fyrisvallsgatan18B,4,91.0,4648,3495000
+https://www.hemnet.se/bostad/lagenhet-4rum-norra-luthagen-uppsala-kommun-gimogatan-3c-18625336,Norra Luthagen,NorraLuthagen,Gimogatan3C,4,109.0,5494,4250000
+https://www.hemnet.se/bostad/lagenhet-5rum-norra-luthagen-uppsala-kommun-gimogatan-3b-18500495,Norra Luthagen,NorraLuthagen,Gimogatan3B,5,110.0,5484,4195000
+"https://www.hemnet.se/bostad/lagenhet-1,5rum-falhagen-uppsala-kommun-hjalmar-brantingsgatan-5b-19418855",Fålhagen,Fålhagen,HjalmarBrantingsgatan5B,1.5,26.0,1508,1695000
+https://www.hemnet.se/bostad/lagenhet-3rum-kungsangen-uppsala-kommun-sagargatan-11b-19417995,Kungsängen,Kungsängen,Sågargatan11B,3,85.0,3312,3750000
+https://www.hemnet.se/bostad/lagenhet-2rum-gunsta-uppsala-kommun-hjulaxelvagen-204-lgh-1101-18553955,Gunsta,Gunsta,Hjulaxelvägen204lgh1101,2,55.0,3246,1685000
+https://www.hemnet.se/bostad/lagenhet-3rum-savja-uppsala-kommun-bergslagsresan-111-19407575,Sävja,Sävja,Bergslagsresan111,3,80.5,4606,1890000
+https://www.hemnet.se/bostad/lagenhet-2rum-kapellgardet-uppsala-kommun-vattholmavagen-8c-19407436,Kapellgärdet,Kapellgärdet,Vattholmavägen8C,2,46.0,3344,2095000
+https://www.hemnet.se/bostad/lagenhet-3rum-savja-uppsala-kommun-stenbrohultsvagen-111-19408498,Sävja,Sävja,Stenbrohultsvägen111,3,80.1,6300,1650000
+https://www.hemnet.se/bostad/lagenhet-5rum-kvarntorget-uppsala-kommun-kvarntorgsgatan-2c-17492355,Kvarntorget,Kvarntorget,Kvarntorgsgatan2C,5,133.0,9721,7500000
+https://www.hemnet.se/bostad/lagenhet-4rum-kvarntorget-uppsala-kommun-kvarntorget-1b-17942399,Kvarntorget,Kvarntorget,Kvarntorget1B,4,93.0,6892,3950000
+https://www.hemnet.se/bostad/lagenhet-2rum-kvarntorget-uppsala-kommun-kvarntorgsgatan-2c-18451518,Kvarntorget,Kvarntorget,Kvarntorgsgatan2C,2,52.5,4171,2850000
+https://www.hemnet.se/bostad/lagenhet-2rum-kvarntorget-uppsala-kommun-kvarntorgsgatan-2b-18003296,Kvarntorget,Kvarntorget,Kvarntorgsgatan2B,2,47.0,3839,1950000
+https://www.hemnet.se/bostad/lagenhet-2rum-falhagen-uppsala-kommun-petterslundsgatan-14a-19403335,Fålhagen,Fålhagen,Petterslundsgatan14A,2,40.0,2818,1795000
+https://www.hemnet.se/bostad/lagenhet-1rum-hoganas-uppsala-kommun-torkelsgatan-28-c-18916296,Höganäs,Höganäs,Torkelsgatan28C,1,40.7,1927,1695000
+https://www.hemnet.se/bostad/lagenhet-1rum-centrum-hoganas-uppsala-kommun-storgatan-6-18905318,Centrum/Höganäs,Centrum,Storgatan6,1,28.5,1726,1650000
+https://www.hemnet.se/bostad/lagenhet-3rum-loten-uppsala-kommun-stagneliusgatan-23-19156018,Löten,Löten,Stagneliusgatan23,3,84.5,5071,1900000
+https://www.hemnet.se/bostad/lagenhet-1rum-framre-luthagen-uppsala-kommun-sysslomansgatan-7-18943955,Främre Luthagen,FrämreLuthagen,Sysslomansgatan7,1,25.0,2646,1800000
+https://www.hemnet.se/bostad/lagenhet-2rum-granby-uppsala-kommun-rabyvagen-53b-19381455,Gränby,Gränby,Råbyvägen53B,2,53.0,3227,1750000
+https://www.hemnet.se/bostad/lagenhet-1rum-rosendal-uppsala-kommun-torgny-segerstedts-alle-27-19395055,Rosendal,Rosendal,TorgnySegerstedtsallé27,1,33.0,1614,1750000
+https://www.hemnet.se/bostad/lagenhet-2rum-luthagen-uppsala-kommun-geijersgatan-50b-19396376,Luthagen,Luthagen,Geijersgatan50B,2,43.0,3257,1895000
+https://www.hemnet.se/bostad/lagenhet-2rum-slavsta-uppsala-kommun-klarbarsgatan-96-19392356,Slavsta,Slavsta,Klarbärsgatan96,2,58.4,4312,1595000
+https://www.hemnet.se/bostad/lagenhet-1rum-salabacke-uppsala-kommun-arstagatan-18b-19396577,Salabacke,Salabacke,Årstagatan18B,1,18.0,1192,1095000
+https://www.hemnet.se/bostad/lagenhet-1rum-kapellgardet-uppsala-kommun-kantorsgatan-9-19399675,Kapellgärdet,Kapellgärdet,Kantorsgatan9,1,33.0,2667,1495000
+"https://www.hemnet.se/bostad/lagenhet-3,5rum-granby-uppsala-kommun-granby-bilgata-12-19398735",Gränby,Gränby,Gränbybilgata12,3.5,82.5,4401,2290000
+https://www.hemnet.se/bostad/lagenhet-2rum-falhagen-uppsala-kommun-marielundsgatan-5-a-19398075,Fålhagen,Fålhagen,Marielundsgatan5A,2,50.0,2526,2395000
+https://www.hemnet.se/bostad/lagenhet-3rum-falhagen-uppsala-kommun-torkelsgatan-8c-19399077,Fålhagen,Fålhagen,Torkelsgatan8C,3,62.0,4625,2395000
+https://www.hemnet.se/bostad/lagenhet-4rum-kungsangen-industristaden-uppsala-kommun-muningatan-27-19398980,Kungsängen - Industristaden,Kungsängen,Muningatan27,4,104.0,4305,3495000
+https://www.hemnet.se/bostad/lagenhet-1rum-luthagen-uppsala-kommun-luthagsesplanaden-34a-19396357,Luthagen,Luthagen,Luthagsesplanaden34A,1,28.0,1611,1795000
+https://www.hemnet.se/bostad/lagenhet-2rum-loten-uppsala-kommun-stagneliusgatan-11-19396816,Löten,Löten,Stagneliusgatan11,2,65.5,4175,1875000
+https://www.hemnet.se/bostad/lagenhet-2rum-arsta-uppsala-kommun-grasloksgatan-18-19396318,Årsta,Årsta,Gräslöksgatan18,2,63.0,3528,2095000
+"https://www.hemnet.se/bostad/lagenhet-2,5rum-falhagen-uppsala-kommun-falhagsleden-5-a-19395917",Fålhagen,Fålhagen,Fålhagsleden5A,2.5,60.0,3546,2695000
+https://www.hemnet.se/bostad/lagenhet-3rum-norra-luthagen-uppsala-kommun-fyrisvallsgatan-18-e-18625455,Norra Luthagen,NorraLuthagen,Fyrisvallsgatan18E,3,77.0,3888,2695000
+"https://www.hemnet.se/bostad/lagenhet-1,5rum-kapellgardet-uppsala-kommun-torngatan-34-19302480",KAPELLGÄRDET,KAPELLGÄRDET,Torngatan34,1.5,39.0,2720,1850000
+https://www.hemnet.se/bostad/lagenhet-1rum-kungsangen-uppsala-kommun-tullgarnsgatan-3-19390335,Kungsängen,Kungsängen,Tullgarnsgatan3,1,34.0,1873,1995000
+https://www.hemnet.se/bostad/lagenhet-1rum-luthagen-uppsala-kommun-gimogatan-13a-19391258,Luthagen,Luthagen,Gimogatan13A,1,34.0,2441,1595000
+https://www.hemnet.se/bostad/lagenhet-1rum-svartbacken-uppsala-kommun-svartbacksgatan-80a-18869815,Svartbäcken,Svartbäcken,Svartbäcksgatan80A,1,25.7,1896,1395000
+https://www.hemnet.se/bostad/lagenhet-4rum-gottsunda-uppsala-kommun-vackra-birgers-vag-141-19374998,Gottsunda,Gottsunda,Vackrabirgersväg141,4,91.5,5400,1495000
+https://www.hemnet.se/bostad/lagenhet-3rum-valsatra-uppsala-kommun-hugo-alfvens-vag-16-19385598,Valsätra,Valsätra,HugoAlfvénsväg16,3,77.8,3946,1950000
+https://www.hemnet.se/bostad/lagenhet-2rum-svartbacken-uppsala-kommun-svartbacksgatan-74-a-19153330,Svartbäcken,Svartbäcken,Svartbäcksgatan74A,2,52.0,2907,1895000
+https://www.hemnet.se/bostad/lagenhet-1rum-kapellgardet-uppsala-kommun-vattholmavagen-8-b-19376275,Kapellgärdet,Kapellgärdet,Vattholmavägen8B,1,29.0,2536,1495000
+https://www.hemnet.se/bostad/lagenhet-4rum-kapellgardet-uppsala-kommun-vattholmavagen-8c-19376595,Kapellgärdet,Kapellgärdet,Vattholmavägen8C,4,130.0,6763,5500000
+https://www.hemnet.se/bostad/lagenhet-1rum-falhagen-uppsala-kommun-vaksalagatan-38b-19374757,Fålhagen,Fålhagen,Vaksalagatan38B,1,30.0,1839,1650000
+https://www.hemnet.se/bostad/lagenhet-2rum-rosendal-uppsala-kommun-prefektgatan-8-19374456,Rosendal,Rosendal,Prefektgatan8,2,40.0,2298,2195000
+https://www.hemnet.se/bostad/lagenhet-4rum-kapellgardet-uppsala-kommun-orgelgatan-7-19374066,Kapellgärdet,Kapellgärdet,Orgelgatan7,4,94.0,5260,3650000
+https://www.hemnet.se/bostad/lagenhet-3rum-falhagen-uppsala-kommun-petterslundsgatan-21a-19374915,Fålhagen,Fålhagen,Petterslundsgatan21A,3,67.0,3145,2850000
+https://www.hemnet.se/bostad/lagenhet-2rum-rosendal-uppsala-kommun-prefektgatan-1-19157824,Rosendal,Rosendal,Prefektgatan1,2,40.0,1908,1795000
+https://www.hemnet.se/bostad/lagenhet-3rum-sala-backe-uppsala-kommun-murargatan-14b-18880935,Sala backe,Salabacke,Murargatan14B,3,70.1,4103,2100000
+https://www.hemnet.se/bostad/lagenhet-2rum-uppsala-uppsala-kommun-fyrislundsgatan-37c-19373046,Uppsala,Uppsala,Fyrislundsgatan37C,2,35.0,2301,1450000
+https://www.hemnet.se/bostad/lagenhet-5rum-bellman-uppsala-kommun-bellmansgatan-18-19373438,Bellman,Bellman,Bellmansgatan18,5,136.0,7799,3100000
+https://www.hemnet.se/bostad/lagenhet-2rum-lanna-uppsala-kommun-almungevagen-137-b-19371855,Länna,Länna,Almungevägen137B,2,49.0,2514,1495000
+"https://www.hemnet.se/bostad/lagenhet-4rum-savja-uppsala-kommun-blekingevagen-15,-fast-pris-19374239",Sävja,Sävja,Blekingevägen15,4,95.4,5609,1750000
+https://www.hemnet.se/bostad/lagenhet-2rum-hoganas-uppsala-kommun-s-t-olofsgatan-62a-19062800,Höganäs,Höganäs,S:tOlofsgatan62A,2,60.0,3184,2495000
+"https://www.hemnet.se/bostad/lagenhet-1,5rum-kungsangen-industristaden-uppsala-kommun-kryddblandargatan-13-18881096",Kungsängen - Industristaden,Kungsängen,Kryddblandargatan13,1.5,34.0,2401,1900000
+https://www.hemnet.se/bostad/lagenhet-2rum-salabacke-uppsala-kommun-arstagatan-15-19374001,Salabacke,Salabacke,Årstagatan15,2,54.0,3235,1989000
+https://www.hemnet.se/bostad/lagenhet-2rum-kapellgardet-uppsala-kommun-kantorsgatan-5-19373920,Kapellgärdet,Kapellgärdet,Kantorsgatan5,2,56.0,3838,2350000
+https://www.hemnet.se/bostad/lagenhet-1rum-granby-uppsala-kommun-rabyvagen-55a-12251719,GRÄNBY,GRÄNBY,Råbyvägen55A,1,29.0,2179,1295000
+https://www.hemnet.se/bostad/lagenhet-1rum-ultuna-uppsala-kommun-ekoxvagen-20-18939755,Ultuna,Ultuna,Ekoxvägen20,1,35.0,2432,1295000
+https://www.hemnet.se/bostad/lagenhet-2rum-falhagen-uppsala-kommun-salagatan-39-c-19217955,Fålhagen,Fålhagen,Salagatan39C,2,60.0,3746,2995000
+https://www.hemnet.se/bostad/lagenhet-1rum-kapellgardet-uppsala-kommun-kapellgatan-2-19153640,Kapellgärdet,Kapellgärdet,Kapellgatan2,1,36.0,2851,1650000
+https://www.hemnet.se/bostad/lagenhet-3rum-fullero-hage-uppsala-kommun-stackmolnsvagen-85e-19359717,Fullerö Hage,FulleröHage,Stackmolnsvägen85E,3,70.0,4222,1850000
+https://www.hemnet.se/bostad/lagenhet-3rum-salabacke-uppsala-kommun-johannesbacksgatan-93-19352743,Salabacke,Salabacke,Johannesbäcksgatan93,3,70.0,4185,2350000
+https://www.hemnet.se/bostad/lagenhet-2rum-luthagen-uppsala-kommun-luthagsesplanaden-18a-19196175,LUTHAGEN,LUTHAGEN,Luthagsesplanaden18A,2,45.0,1791,2690000
+https://www.hemnet.se/bostad/lagenhet-3rum-stenhagen-uppsala-kommun-opalvagen-47-19348638,Stenhagen,Stenhagen,Opalvägen47,3,66.0,4127,1995000
+https://www.hemnet.se/bostad/lagenhet-1rum-valsatra-uppsala-kommun-bernadottestigen-1a-19351563,Valsätra,Valsätra,Bernadottestigen1A,1,31.0,2095,1295000
+https://www.hemnet.se/bostad/lagenhet-1rum-arsta-uppsala-kommun-korvelgatan-10-c-19350704,Årsta,Årsta,Körvelgatan10C,1,28.0,1855,995000
+https://www.hemnet.se/bostad/lagenhet-1rum-kapellgardet-uppsala-kommun-kapellgatan-3-19351000,Kapellgärdet,Kapellgärdet,Kapellgatan3,1,47.0,2837,1995000
+https://www.hemnet.se/bostad/lagenhet-3rum-salabacke-uppsala-kommun-murargatan-14-d-19351118,Salabacke,Salabacke,Murargatan14D,3,70.1,4103,1995000
+https://www.hemnet.se/bostad/lagenhet-1rum-salabacke-uppsala-kommun-murargatan-14-d-19351135,Salabacke,Salabacke,Murargatan14D,1,24.5,1815,1295000
+https://www.hemnet.se/bostad/lagenhet-4rum-skyttorp-uppsala-kommun-snickar-anders-vag-hus-11-19348236,Skyttorp,Skyttorp,Snickar,4,112.0,5996,2950000
+https://www.hemnet.se/bostad/lagenhet-3rum-rosendal-uppsala-kommun-gerd-enequists-gata-14-19107299,Rosendal,Rosendal,GerdEnequistsGata14,3,81.0,4618,3345000
+https://www.hemnet.se/bostad/lagenhet-4rum-rosendal-uppsala-kommun-gerd-enequists-gata-14-19076677,Rosendal,Rosendal,GerdEnequistsGata14,4,89.5,5008,3595000
+https://www.hemnet.se/bostad/lagenhet-2rum-svartbacken-uppsala-kommun-gamla-uppsalagatan-22-19346297,Svartbäcken,Svartbäcken,Gamlauppsalagatan22,2,53.0,2605,2095000
+https://www.hemnet.se/bostad/lagenhet-4rum-uppsala-kommun-amanuensgatan-9-19262256,Uppsala,Uppsala,Amanuensgatan9,4,82.0,5800,4095000
+https://www.hemnet.se/bostad/lagenhet-2rum-centrum-uppsala-kommun-stationsgatan-24-19153587,Centrum,Centrum,Stationsgatan24,2,40.0,2602,2295000
+https://www.hemnet.se/bostad/lagenhet-1rum-arsta-uppsala-kommun-falhagsleden-103-19330958,ÅRSTA,ÅRSTA,Fålhagsleden103,1,31.4,1950,1550000
+https://www.hemnet.se/bostad/lagenhet-1rum-rosendal-uppsala-kommun-torgny-segerstedts-alle-93b-19330457,Rosendal,Rosendal,TorgnySegerstedtsallé93B,1,32.0,2303,1595000
+"https://www.hemnet.se/bostad/lagenhet-4rum-kabo-uppsala-kommun-banergatan-16-c,-1201-18332022",KÅBO,KÅBO,Banérgatan16C,4,89.0,5854,3690000
+https://www.hemnet.se/bostad/lagenhet-1rum-sodra-rosendal-uppsala-kommun-torgny-segerstedts-alle-4-19325339,Södra Rosendal,SödraRosendal,TorgnySegerstedtsAllé4,1,31.0,1590,1550000
+https://www.hemnet.se/bostad/lagenhet-1rum-svartbacken-uppsala-kommun-folkungagatan-22b-19325360,Svartbäcken,Svartbäcken,Folkungagatan22B,1,31.7,1723,1595000
+https://www.hemnet.se/bostad/lagenhet-2rum-ekeby-uppsala-kommun-reykjaviksgatan-134-19325483,Ekeby,Ekeby,Reykjaviksgatan134,2,67.5,2916,2495000
+https://www.hemnet.se/bostad/lagenhet-1rum-uppsala-uppsala-kommun-prefektgatan-1-19325879,Uppsala,Uppsala,Prefektgatan1,1,27.0,1503,1495000
+https://www.hemnet.se/bostad/lagenhet-2rum-luthagen-uppsala-kommun-sturegatan-18c-19325048,Luthagen,Luthagen,Sturegatan18C,2,51.2,3050,2125000
+https://www.hemnet.se/bostad/lagenhet-3rum-luthagen-uppsala-kommun-pelargatan-8-19324022,LUTHAGEN,LUTHAGEN,Pelargatan8,3,80.0,4051,2900000
+https://www.hemnet.se/bostad/lagenhet-1rum-salabacke-uppsala-kommun-byggmastargatan-1c-18663875,Salabacke,Salabacke,Byggmästargatan1C,1,25.5,1933,1295000
+https://www.hemnet.se/bostad/lagenhet-4rum-rickomberga-uppsala-kommun-polhemsgatan-2-19322737,Rickomberga,Rickomberga,Polhemsgatan2,4,105.0,5632,3750000
+https://www.hemnet.se/bostad/lagenhet-4rum-herrhagen-uppsala-kommun-milstensvagen-72-19322015,Herrhagen,Herrhagen,Milstensvägen72,4,83.0,4533,2195000
+https://www.hemnet.se/bostad/lagenhet-2rum-kapellgardet-uppsala-kommun-rabyvagen-80-19220497,Kapellgärdet,Kapellgärdet,Råbyvägen80,2,52.0,3250,1995000
+https://www.hemnet.se/bostad/lagenhet-3rum-rosendal-uppsala-kommun-torgny-segerstedts-alle-17b-19300655,Rosendal,Rosendal,TorgnySegerstedtsAllé17B,3,74.0,4311,3195000
+https://www.hemnet.se/bostad/lagenhet-1rum-salabacke-uppsala-kommun-fyrislundsgatan-37a-18995458,SALABACKE,SALABACKE,Fyrislundsgatan37A,1,30.0,2217,1370000
+https://www.hemnet.se/bostad/lagenhet-3rum-granby-uppsala-kommun-dimgatan-11-19306109,Gränby,Gränby,Dimgatan11,3,75.5,3982,1995000
+https://www.hemnet.se/bostad/lagenhet-2rum-norby-uppsala-kommun-svampvagen-7-a-19306541,Norby,Norby,Svampvägen7A,2,60.0,3438,1695000
+https://www.hemnet.se/bostad/lagenhet-3rum-rosendal-uppsala-kommun-torgny-segerstedts-alle-89-19305405,Rosendal,Rosendal,TorgnySegerstedtsallé89,3,86.0,3966,3295000
+https://www.hemnet.se/bostad/lagenhet-2rum-loten-uppsala-kommun-lings-vag-85-19303078,Löten,Löten,Lingsväg85,2,69.0,4202,1995000
+https://www.hemnet.se/bostad/lagenhet-2rum-arsta-uppsala-kommun-fyrislundsgatan-48-19306102,Årsta,Årsta,Fyrislundsgatan48,2,62.3,2303,1875000
+"https://www.hemnet.se/bostad/lagenhet-1,5rum-falhagen-uppsala-kommun-falhagsleden-8d-19305221",Fålhagen,Fålhagen,Fålhagsleden8D,1.5,41.5,2255,1795000
+https://www.hemnet.se/bostad/lagenhet-3rum-kapellgardet-uppsala-kommun-kantorsgatan-3b-19304458,KAPELLGÄRDET,KAPELLGÄRDET,Kantorsgatan3B,3,64.0,4395,2450000
+https://www.hemnet.se/bostad/lagenhet-3rum-uppsala-kommun-kungsgatan-66-d-19274976,Uppsala,Uppsala,Kungsgatan66D,3,84.0,6000,4095000
+https://www.hemnet.se/bostad/lagenhet-4rum-uppsala-kommun-sockergatan-4-18040395,Uppsala,Uppsala,Sockergatan4,4,80.0,5900,3995000
+https://www.hemnet.se/bostad/lagenhet-5rum-uppsala-kommun-sockergatan-2-19274677,Uppsala,Uppsala,Sockergatan2,5,114.0,7600,6495000
+https://www.hemnet.se/bostad/lagenhet-2rum-salabacke-uppsala-kommun-lastmakargatan-10-a-19297597,Salabacke,Salabacke,Lästmakargatan10A,2,51.5,3175,1895000
+https://www.hemnet.se/bostad/lagenhet-3rum-rickomberga-uppsala-kommun-otto-myrbergs-vag-4a-19296815,Rickomberga,Rickomberga,OttoMyrbergsväg4A,3,81.0,4853,2995000
+"https://www.hemnet.se/bostad/lagenhet-1,5rum-uppsala-uppsala-kommun-gustaf-kjellbergs-vag-8-19297815",Uppsala,Uppsala,GustafKjellbergsväg8,1.5,48.9,3818,1415000
+https://www.hemnet.se/bostad/lagenhet-1rum-kungsgardet-uppsala-kommun-s-t-johannesgatan-36b-19298676,Kungsgärdet,Kungsgärdet,S:tJohannesgatan36B,1,33.0,2430,1695000
+https://www.hemnet.se/bostad/lagenhet-1rum-uppsala-kommun-kungsgatan-66-d-18433738,Uppsala,Uppsala,Kungsgatan66D,1,33.0,3300,2595000
+https://www.hemnet.se/bostad/lagenhet-2rum-rosendal-uppsala-kommun-gerd-enequists-gata-12b-19295440,Rosendal,Rosendal,GerdEnequistsGata12B,2,50.0,3184,2345000
+https://www.hemnet.se/bostad/lagenhet-1rum-nyby-uppsala-kommun-leopoldsgatan-32-19295938,Nyby,Nyby,Leopoldsgatan32,1,39.5,2760,1445000
+https://www.hemnet.se/bostad/lagenhet-1rum-rickomberga-uppsala-kommun-polhemsgatan-8-19292917,Rickomberga,Rickomberga,Polhemsgatan8,1,41.0,2916,1690000
+"https://www.hemnet.se/bostad/lagenhet-2,5rum-salabacke-uppsala-kommun-arstagatan-43-19277297",Salabacke,Salabacke,Årstagatan43,2.5,64.0,3170,2095000
+https://www.hemnet.se/bostad/lagenhet-3rum-kapellgardet-uppsala-kommun-orgelgatan-14-19278807,Kapellgärdet,Kapellgärdet,Orgelgatan14,3,75.0,3955,3095000
+https://www.hemnet.se/bostad/lagenhet-2rum-uppsala-kommun-hjalmar-brantingsgatan-5b-19279719,Uppsala,Uppsala,HjalmarBrantingsgatan5B,2,58.6,3372,2750000
+https://www.hemnet.se/bostad/lagenhet-3rum-kapellgardet-uppsala-kommun-portalgatan-37-16850897,Kapellgärdet,Kapellgärdet,Portalgatan37,3,86.0,5283,2850000
+"https://www.hemnet.se/bostad/lagenhet-3,5rum-vange-uppsala-kommun-vangsbyvagen-78-19277615",Vänge,Vänge,Vangsbyvägen78,3.5,83.5,5970,1875000
+https://www.hemnet.se/bostad/lagenhet-2rum-uppsala-kommun-kungsgatan-66-d-18433638,Uppsala,Uppsala,Kungsgatan66D,2,54.0,4390,2795000
+https://www.hemnet.se/bostad/lagenhet-3rum-ulleraker-uppsala-kommun-eva-lagerwalls-vag-22-19194675,Ulleråker,Ulleråker,EvaLagerwallsVäg22,3,68.0,4143,2700000
+https://www.hemnet.se/bostad/lagenhet-1rum-falhagen-uppsala-kommun-s-t-goransgatan-24b-18891475,Fålhagen,Fålhagen,S:tGöransgatan24B,1,22.5,1675,1295000
+https://www.hemnet.se/bostad/lagenhet-1rum-granby-uppsala-kommun-rabyvagen-53d-18608975,Gränby,Gränby,Råbyvägen53D,1,36.0,2484,1450000
+https://www.hemnet.se/bostad/lagenhet-2rum-loten-uppsala-kommun-bellmansgatan-4-16916156,LÖTEN,LÖTEN,Bellmansgatan4,2,67.0,3790,1750000
+https://www.hemnet.se/bostad/lagenhet-3rum-svartbacken-uppsala-kommun-egilsgatan-15-b-19252716,Svartbäcken,Svartbäcken,Egilsgatan15B,3,73.5,4570,2975000
+https://www.hemnet.se/bostad/lagenhet-3rum-uppsala-kommun-bergslagsresan-74-19253416,Uppsala,Uppsala,Bergslagsresan74,3,78.5,4533,1795000
+"https://www.hemnet.se/bostad/lagenhet-2,5rum-kvarngardet-uppsala-kommun-rabyvagen-41-19258379",Kvarngärdet,Kvarngärdet,Råbyvägen41,2.5,54.5,3218,1650000
+https://www.hemnet.se/bostad/lagenhet-4rum-vadergatorna-uppsala-kommun-regngatan-19-19258277,Vädergatorna,Vädergatorna,Regngatan19,4,96.0,5750,2350000
+https://www.hemnet.se/bostad/lagenhet-1rum-kapellgardet-uppsala-kommun-orgelgatan-2-19256465,KAPELLGÄRDET,KAPELLGÄRDET,Orgelgatan2,1,36.0,2793,1750000
+https://www.hemnet.se/bostad/lagenhet-4rum-rosendal-uppsala-kommun-gerd-enequists-gata-12a-19256315,Rosendal,Rosendal,GerdEnequistsGata12A,4,91.5,5102,3745000
+https://www.hemnet.se/bostad/lagenhet-2rum-ultuna-uppsala-kommun-gote-turessons-vag-7a-19037910,Ultuna,Ultuna,GöteTuressonsväg7A,2,49.0,3543,2385000
+https://www.hemnet.se/bostad/lagenhet-2rum-centrum-uppsala-kommun-storgatan-22-b-19241455,Centrum,Centrum,Storgatan22B,2,66.0,3405,2295000
+https://www.hemnet.se/bostad/lagenhet-3rum-granbystaden-uppsala-kommun-marknadsgatan-44-18423195,Gränbystaden,Gränbystaden,Marknadsgatan44,3,78.5,4579,2800000
+"https://www.hemnet.se/bostad/lagenhet-2,5rum-granbystaden-uppsala-kommun-marknadsgatan-44-17732018",Gränbystaden,Gränbystaden,Marknadsgatan44,2.5,55.0,3369,2100000
+https://www.hemnet.se/bostad/lagenhet-2rum-granbystaden-uppsala-kommun-marknadsgatan-30a-17759256,Gränbystaden,Gränbystaden,Marknadsgatan30A,2,43.0,2709,1775000
+https://www.hemnet.se/bostad/lagenhet-3rum-granbystaden-uppsala-kommun-marknadsgatan-30a-18691037,Gränbystaden,Gränbystaden,Marknadsgatan30A,3,54.5,3338,2100000
+https://www.hemnet.se/bostad/lagenhet-5rum-kapellgardet-uppsala-kommun-vattholmavagen-8b-19226895,Kapellgärdet,Kapellgärdet,Vattholmavägen8B,5,121.0,6542,5150000
+https://www.hemnet.se/bostad/lagenhet-2rum-granby-uppsala-kommun-rabyvagen-53f-19218437,Gränby,Gränby,Råbyvägen53F,2,57.0,3512,2050000
+https://www.hemnet.se/bostad/lagenhet-1rum-centrum-uppsala-kommun-linnegatan-7a-18881257,Centrum,Centrum,Linnégatan7A,1,36.0,3033,1950000
+https://www.hemnet.se/bostad/lagenhet-2rum-kapellgardet-uppsala-kommun-torngatan-7-19221157,Kapellgärdet,Kapellgärdet,Torngatan7,2,52.0,3011,2195000
+https://www.hemnet.se/bostad/lagenhet-3rum-luthagen-uppsala-kommun-rorgatan-2-18907588,LUTHAGEN,LUTHAGEN,Rörgatan2,3,85.0,4762,2790000
+https://www.hemnet.se/bostad/lagenhet-3rum-kapellgardet-uppsala-kommun-orgelgatan-13-19226085,Kapellgärdet,Kapellgärdet,Orgelgatan13,3,79.0,4525,3475000
+https://www.hemnet.se/bostad/lagenhet-2rum-centrum-falhagen-uppsala-kommun-vaderkvarnsgatan-19-a-19223556,Centrum/Fålhagen,Centrum,Väderkvarnsgatan19A,2,52.5,3266,2095000
+https://www.hemnet.se/bostad/lagenhet-2rum-centrum-falhagen-uppsala-kommun-vaderkvarnsgatan-21-b-19223455,Centrum/Fålhagen,Centrum,Väderkvarnsgatan21B,2,59.0,3657,1895000
+https://www.hemnet.se/bostad/lagenhet-2rum-ultuna-uppsala-kommun-gote-turessons-vag-7a-19218635,Ultuna,Ultuna,GöteTuressonsväg7A,2,42.0,3279,1750000
+https://www.hemnet.se/bostad/lagenhet-1rum-falhagen-uppsala-kommun-vaksalagatan-55-19210619,Fålhagen,Fålhagen,Vaksalagatan55,1,21.0,2270,1145000
+https://www.hemnet.se/bostad/lagenhet-2rum-bellman-uppsala-kommun-bellmansgatan-26-18910956,Bellman,Bellman,Bellmansgatan26,2,67.0,3790,1795000
+https://www.hemnet.se/bostad/lagenhet-2rum-uppsala-kommun-kantorsgatan-3b-19193796,UPPSALA,UPPSALA,Kantorsgatan3B,2,42.0,3193,1795000
+"https://www.hemnet.se/bostad/lagenhet-2,5rum-falhagen-uppsala-kommun-liljegatan-4a-19189923",FÅLHAGEN,FÅLHAGEN,Liljegatan4A,2.5,60.0,3666,2595000
+https://www.hemnet.se/bostad/lagenhet-1rum-kabo-uppsala-kommun-banergatan-16-c-19186439,Kåbo,Kåbo,Banérgatan16C,1,18.0,1624,1295000
+https://www.hemnet.se/bostad/lagenhet-2rum-hoganas-uppsala-kommun-kvarntorget-11-19183096,Höganäs,Höganäs,Kvarntorget11,2,49.0,2504,2250000
+https://www.hemnet.se/bostad/lagenhet-2rum-gunsta-uppsala-kommun-hjulaxelvagen-136-19180100,Gunsta,Gunsta,Hjulaxelvägen136,2,55.0,2903,1595000
+https://www.hemnet.se/bostad/lagenhet-1rum-hoganas-uppsala-kommun-alriksgatan-1d-19180317,Höganäs,Höganäs,Alriksgatan1D,1,42.0,2374,1850000
+https://www.hemnet.se/bostad/lagenhet-4rum-salabacke-uppsala-kommun-ritargatan-5-19176635,Salabacke,Salabacke,Ritargatan5,4,93.7,4003,3095000
+https://www.hemnet.se/bostad/lagenhet-2rum-hoganas-uppsala-kommun-s-t-olofsgatan-56b-19159295,Höganäs,Höganäs,S:tOlofsgatan56B,2,44.0,2656,2095000
+https://www.hemnet.se/bostad/lagenhet-2rum-granby-uppsala-kommun-rabyvagen-55f-19153326,Gränby,Gränby,Råbyvägen55F,2,54.0,3251,1900000
+https://www.hemnet.se/bostad/lagenhet-5rum-centrum-uppsala-kommun-sockergatan-6-19157516,CENTRUM,CENTRUM,Sockergatan6,5,114.0,5676,5895000
+https://www.hemnet.se/bostad/lagenhet-2rum-arsta-uppsala-kommun-kamomillgatan-26-19138615,Årsta,Årsta,Kamomillgatan26,2,63.0,3528,2150000
+https://www.hemnet.se/bostad/lagenhet-3rum-granby-uppsala-kommun-albert-engstromsgatan-2h-18713782,GRÄNBY,GRÄNBY,Albertengströmsgatan2H,3,75.5,4563,2495000
+"https://www.hemnet.se/bostad/lagenhet-1,5rum-sala-backe-uppsala-kommun-johannesbacksgatan-34b-19123517",Sala Backe,SalaBacke,Johannesbäcksgatan34B,1.5,48.0,2354,1695000
+https://www.hemnet.se/bostad/lagenhet-4rum-centrum-uppsala-kommun-tradgardsgatan-16b-18429880,CENTRUM,CENTRUM,Trädgårdsgatan16B,4,145.0,6423,10000000
+https://www.hemnet.se/bostad/lagenhet-2rum-gottsunda-uppsala-kommun-henry-wemans-vag-12-19117155,Gottsunda,Gottsunda,HenryWemansväg12,2,53.0,3119,1695000
+https://www.hemnet.se/bostad/lagenhet-4rum-svartbacken-uppsala-kommun-svartbacksgatan-99a-19106377,SVARTBÄCKEN,SVARTBÄCKEN,Svartbäcksgatan99A,4,121.0,7043,3695000
+https://www.hemnet.se/bostad/lagenhet-2rum-kabo-uppsala-kommun-banergatan-10-a-16612477,Kåbo,Kåbo,Banérgatan10A,2,60.0,3456,2600000
+https://www.hemnet.se/bostad/lagenhet-1rum-falhagen-uppsala-kommun-frodegatan-10c-19025815,Fålhagen,Fålhagen,Frodegatan10C,1,37.0,2536,2195000
+https://www.hemnet.se/bostad/lagenhet-2rum-granby-uppsala-kommun-rabyvagen-57-f-19076717,Gränby,Gränby,Råbyvägen57F,2,59.0,3325,1895000
+"https://www.hemnet.se/bostad/lagenhet-1rum-granby-uppsala-kommun-albert-engstromsgatan-2h,-van-13-19069257",Gränby,Gränby,AlbertEngströmsgatan2H,1,25.5,2123,1295000
+https://www.hemnet.se/bostad/lagenhet-2rum-granby-uppsala-kommun-rabyvagen-53c-19067031,Gränby,Gränby,Råbyvägen53C,2,52.0,3178,1825000
+https://www.hemnet.se/bostad/lagenhet-1rum-falhagen-uppsala-kommun-vaksalagatan-55-18739495,Fålhagen,Fålhagen,Vaksalagatan55,1,21.0,2271,1145000
+https://www.hemnet.se/bostad/lagenhet-2rum-kapellgardet-uppsala-kommun-rabyvagen-20-19057838,Kapellgärdet,Kapellgärdet,Råbyvägen20,2,41.5,3215,1695000
+https://www.hemnet.se/bostad/lagenhet-1rum-sommarro-uppsala-kommun-lindsbergsgatan-12a-18965820,Sommarro,Sommarro,Lindsbergsgatan12A,1,26.0,1834,1390000
+https://www.hemnet.se/bostad/lagenhet-1rum-kapellgardet-uppsala-kommun-portalgatan-56-19035697,Kapellgärdet,Kapellgärdet,Portalgatan56,1,39.0,2500,1750000
+https://www.hemnet.se/bostad/lagenhet-2rum-rosendal-uppsala-kommun-prefektgatan-1-19025755,Rosendal,Rosendal,Prefektgatan1,2,40.0,1908,1990000
+https://www.hemnet.se/bostad/lagenhet-3rum-falhagen-uppsala-kommun-s-t-goransgatan-26d-16673379,FÅLHAGEN,FÅLHAGEN,S:tGöransgatan26D,3,76.0,3622,4490000
+https://www.hemnet.se/bostad/lagenhet-1rum-sala-backe-uppsala-kommun-murargatan-16b-19013697,Sala Backe,SalaBacke,Murargatan16B,1,24.5,1815,1395000
+https://www.hemnet.se/bostad/lagenhet-1rum-centrum-uppsala-kommun-vretgrand-12a-19017237,Centrum,Centrum,Vretgränd12A,1,30.5,1808,1695000
+https://www.hemnet.se/bostad/lagenhet-2rum-falhagen-uppsala-kommun-falhagsleden-4-a-19004557,Fålhagen,Fålhagen,Fålhagsleden4A,2,57.5,2922,2595000
+https://www.hemnet.se/bostad/lagenhet-2rum-salabacke-uppsala-kommun-murargatan-18c-18971736,Salabacke,Salabacke,Murargatan18C,2,56.1,3423,1675000
+https://www.hemnet.se/bostad/lagenhet-1rum-hoganas-uppsala-kommun-salagatan-15b-18829596,Höganäs,Höganäs,Salagatan15B,1,36.0,2724,1895000
+https://www.hemnet.se/bostad/lagenhet-2rum-rosendal-uppsala-kommun-torgny-segerstedts-alle-11d-18615918,Rosendal,Rosendal,TorgnySegerstedtsallé11D,2,50.0,2913,1895000
+https://www.hemnet.se/bostad/lagenhet-1rum-rosendal-uppsala-kommun-rosendalsvagen-12-18966976,Rosendal,Rosendal,Rosendalsvägen12,1,32.0,1566,1795000
+https://www.hemnet.se/bostad/lagenhet-2rum-uppsala-kommun-granby-bilgata-26-17609383,Uppsala,Uppsala,GränbyBilgata26,2,48.0,3850,1950000
+https://www.hemnet.se/bostad/lagenhet-4rum-falhagen-uppsala-kommun-s-t-goransgatan-26d-18190863,FÅLHAGEN,FÅLHAGEN,S:tGöransgatan26D,4,88.0,4211,4990000
+https://www.hemnet.se/bostad/lagenhet-2rum-luthagen-uppsala-kommun-gimogatan-2-b-18960843,Luthagen,Luthagen,Gimogatan2B,2,68.0,3735,2850000
+https://www.hemnet.se/bostad/lagenhet-3rum-rackarberget-uppsala-kommun-s-t-johannesgatan-36c-18552477,Rackarberget,Rackarberget,S:tJohannesgatan36C,3,56.0,4123,2200000
+https://www.hemnet.se/bostad/lagenhet-1rum-ultuna-uppsala-kommun-ekoxvagen-22-18955355,Ultuna,Ultuna,Ekoxvägen22,1,35.0,2432,1450000
+https://www.hemnet.se/bostad/lagenhet-1rum-ulleraker-uppsala-kommun-eklundshovsvagen-4d-18947049,Ulleråker,Ulleråker,Eklundshovsvägen4D,1,29.6,2375,1595000
+"https://www.hemnet.se/bostad/lagenhet-1,5rum-hoganas-uppsala-kommun-s-t-olofsgatan-66a-18940297",Höganäs,Höganäs,S:tOlofsgatan66A,1.5,41.5,2262,1895000
+https://www.hemnet.se/bostad/lagenhet-1rum-framre-luthagen-uppsala-kommun-borjegatan-10b-18936057,Främre Luthagen,FrämreLuthagen,Börjegatan10B,1,39.0,2494,2295000
+https://www.hemnet.se/bostad/lagenhet-1rum-kungsgardet-rackarberget-luthagen-uppsala-kommun-s-t-johannesgatan-36b-18527635,Kungsgärdet/Rackarberget/Luthagen,Kungsgärdet,S:tJohannesgatan36B,1,33.0,2673,1495000
+https://www.hemnet.se/bostad/lagenhet-1rum-kungsangen-uppsala-kommun-ostra-agatan-105-18932148,Kungsängen,Kungsängen,ÖstraÅgatan105,1,34.5,2018,2000000
+"https://www.hemnet.se/bostad/lagenhet-1,5rum-hoganas-uppsala-kommun-vaksalagatan-44-b-18927775",Höganäs,Höganäs,Vaksalagatan44B,1.5,47.0,2649,2095000
+https://www.hemnet.se/nybyggnadsprojekt/rosendal-rosendals-port-18162616,Rosendal,Rosendal,RosendalsPort,2,45.5,fr.2977,2295000
+https://www.hemnet.se/bostad/lagenhet-1rum-sala-backe-uppsala-kommun-grona-gatan-3c-18911417,Sala Backe,SalaBacke,Grönagatan3C,1,40.5,2429,1650000
+"https://www.hemnet.se/bostad/lagenhet-1,5rum-falhagen-uppsala-kommun-ymergatan-17d-18904180",Fålhagen,Fålhagen,Ymergatan17D,1.5,32.0,2227,1750000
+https://www.hemnet.se/bostad/lagenhet-1rum-luthagen-uppsala-kommun-luthagsesplanaden-21b-18848096,Luthagen,Luthagen,Luthagsesplanaden21B,1,17.0,1023,1435000
+https://www.hemnet.se/bostad/lagenhet-1rum-valsatra-uppsala-kommun-bernadottestigen-1-b-18894575,Valsätra,Valsätra,Bernadottestigen1B,1,31.0,2095,1495000
+https://www.hemnet.se/bostad/lagenhet-3rum-rosendal-uppsala-kommun-gerd-enequists-gata-12-b-18555395,Rosendal,Rosendal,GerdEnequistsgata12B,3,78.0,4477,3395000
+https://www.hemnet.se/bostad/lagenhet-1rum-rosendal-uppsala-kommun-gerd-enequists-gata-14-18877075,Rosendal,Rosendal,GerdEnequistsgata14,1,34.0,2446,1995000
+https://www.hemnet.se/bostad/lagenhet-4rum-rosendal-uppsala-kommun-gerd-enequists-gata-14-18877035,Rosendal,Rosendal,GerdEnequistsgata14,4,97.5,5375,3845000
+https://www.hemnet.se/bostad/lagenhet-2rum-rosendal-uppsala-kommun-gerd-enequists-gata-12-b-18679176,Rosendal,Rosendal,GerdEnequistsgata12B,2,50.0,3184,2345000
+https://www.hemnet.se/bostad/lagenhet-4rum-uppsala-kommun-gosta-wahlstroms-vag-2-d-18302595,Uppsala,Uppsala,GöstaWahlströmsväg2D,4,99.0,6040,4195000
+https://www.hemnet.se/bostad/lagenhet-4rum-uppsala-uppsala-kommun-hjulaxelvagen-110-18869675,Uppsala,Uppsala,Hjulaxelvägen110,4,81.0,4509,2695000
+https://www.hemnet.se/bostad/lagenhet-2rum-falhagen-uppsala-kommun-norrtaljegatan-32-18816676,FÅLHAGEN,FÅLHAGEN,Norrtäljegatan32,2,53.0,3949,2290000
+https://www.hemnet.se/bostad/lagenhet-1rum-centrum-uppsala-kommun-skolgatan-45c-18855156,CENTRUM,CENTRUM,Skolgatan45C,1,16.5,1656,1095000
+https://www.hemnet.se/bostad/lagenhet-2rum-uppsala-kommun-granby-bilgata-28-17609387,Uppsala,Uppsala,GränbyBilgata28,2,44.0,3650,2050000
+https://www.hemnet.se/bostad/lagenhet-1rum-uppsala-kommun-granby-bilgata-28-17609279,Uppsala,Uppsala,GränbyBilgata28,1,31.0,3000,1395000
+https://www.hemnet.se/bostad/lagenhet-2rum-stenhagen-uppsala-kommun-herrhagsvagen-195-18814555,STENHAGEN,STENHAGEN,Herrhagsvägen195,2,55.0,3160,1750000
+https://www.hemnet.se/bostad/lagenhet-2rum-rosendal-uppsala-kommun-arne-tiselius-gata-lydia-wahlstroms-gata-18037296,Rosendal,Rosendal,ArneTiseliusgata,2,49.1,2915,1845000
+https://www.hemnet.se/bostad/lagenhet-3rum-loten-uppsala-kommun-bellmansgatan-88-18769940,Löten,Löten,Bellmansgatan88,3,81.5,4132,2200000
+https://www.hemnet.se/bostad/lagenhet-1rum-norra-rosendal-uppsala-kommun-dekangatan-10-2-1003-18750559,Norra Rosendal,NorraRosendal,Dekangatan10(2,1,30.0,1759,1645000
+https://www.hemnet.se/bostad/lagenhet-3rum-loten-uppsala-kommun-bellmansgatan-160-18725255,LÖTEN,LÖTEN,Bellmansgatan160,3,81.5,4132,2295000
+https://www.hemnet.se/bostad/lagenhet-2rum-uppsala-kommun-cellovagen-5c-18724198,UPPSALA,UPPSALA,Cellovägen5C,2,69.0,4026,1390000
+"https://www.hemnet.se/nybyggnadsprojekt/ostra-sala-backe,-uppsala-salabacke-entre,-uppsala-18704704",Uppsala,ÖstraSalaBacke,SalabackeEntré,1,25.5,fr.1841,1350000
+https://www.hemnet.se/bostad/lagenhet-4rum-norra-rosendal-uppsala-kommun-dekangatan-10-2-1501-18221735,Norra Rosendal,NorraRosendal,Dekangatan10(2,4,83.0,4867,3595000
+https://www.hemnet.se/bostad/lagenhet-1rum-uppsala-uppsala-kommun-lings-vag-83-18685919,Uppsala,Uppsala,Lingsväg83,1,46.5,3062,1495000
+https://www.hemnet.se/bostad/lagenhet-1rum-ultuna-uppsala-kommun-gote-turessons-vag-7b-18677317,ULTUNA,ULTUNA,GöteTuressonsväg7B,1,29.0,2365,1325000
+https://www.hemnet.se/nybyggnadsprojekt/kapellgardet-arena-v-18651755,Uppsala kommun,Uppsalakommun,KapellgärdetArenaV,1,34.0,fr.2804,1640000
+https://www.hemnet.se/bostad/lagenhet-3rum-savja-uppsala-kommun-stenbrohultsvagen-103-18649899,SÄVJA,SÄVJA,Stenbrohultsvägen103,3,81.0,6300,1195000
+https://www.hemnet.se/bostad/lagenhet-1rum-hoganas-uppsala-kommun-vaksalagatan-36a-18619696,HÖGANÄS,HÖGANÄS,Vaksalagatan36A,1,30.0,1721,1795000
+https://www.hemnet.se/nybyggnadsprojekt/slottsgrand-18588522,Uppsala kommun,Uppsalakommun,Slottsgränd,1,29.6,fr.2233,1995000
+https://www.hemnet.se/bostad/lagenhet-2rum-falhagen-uppsala-kommun-vaksalagatan-55-18091998,Fålhagen,Fålhagen,Vaksalagatan55,2,46.0,3568,1695000
+https://www.hemnet.se/nybyggnadsprojekt/gunsta-boklok-ryttaren-18534835,Gunsta,Gunsta,BoKlokRyttaren,2,55.0,fr.3246,1685000
+https://www.hemnet.se/bostad/lagenhet-1rum-luthagen-stabby-uppsala-kommun-stabby-alle-11-e-18497920,Luthagen / Stabby,Luthagen,Stabbyallé11E,1,31.0,2309,1650000
+https://www.hemnet.se/bostad/lagenhet-3rum-nyby-uppsala-kommun-lidnersgatan-35-18312235,Nyby,Nyby,Lidnersgatan35,3,74.0,4362,2350000
+https://www.hemnet.se/nybyggnadsprojekt/rosendal-valkommen-till-rosendals-port-18233726,Rosendal,Rosendal,VälkommentillRosendalsPort!,1,34.0,fr.2446,1995000
+https://www.hemnet.se/nybyggnadsprojekt/bostadsrattslagenheter-i-norra-rosendal-verket-18008702,er i Norra Rosendal,eriNorraRosendal,Verket,1,30.0,fr.1759,1645000
+https://www.hemnet.se/nybyggnadsprojekt/granbystaden-parkhusen-kv2-17664697,Gränbystaden,Gränbystaden,ParkhusenKv2,2,43.0,fr.2709,1775000
+https://www.hemnet.se/nybyggnadsprojekt/linnea-garden-17571536,Uppsala kommun,Uppsalakommun,LinnéaGarden,2,49.1,fr.2915,1845000
