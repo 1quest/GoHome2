@@ -60,7 +60,7 @@ def future():
 def future_areas():
     df = load_future_data()
     locations = df["location"].str.title()
-    return json.dumps(sorted(dict(locations.drop_duplicates()).values()))
+    return "WHAAAGGAGA"# json.dumps(sorted(dict(locations.drop_duplicates()).values()))
 
 
 @app.route('/get_areas', methods=['POST', 'GET'])
