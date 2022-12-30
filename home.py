@@ -30,18 +30,12 @@ else:
 app = Flask(__name__, template_folder=template_dir)
 
 
-@app.route('/favicon.ico')
-def favicon():
-    return app.send_static_file('favicon.ico')
-
-
 @app.route('/')
 def index():
     df = load_data()
     bar_plot = bar(df)
     scatter_plot = sold_scatter(df)
     table_apts = table_of_sold_apts(df)
-
     return render_template('index.html', plot=bar_plot, scatter=scatter_plot,
                            table=table_apts)
 
@@ -54,6 +48,11 @@ def future():
     table_apts = table_of_future_apts(df)
     return render_template('future.html', plot=bar_plot, scatter=scatter_plot,
                            table=table_apts)
+
+
+@app.route('/test', methods=['POST', 'GET'])
+def test():
+    return "test"
 
 
 @app.route('/get_areasfuture', methods=['POST', 'GET'])
