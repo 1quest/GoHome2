@@ -89,7 +89,7 @@ class SlutPriserScraper:
                     street_address = street_address.split(',')[0].replace('\n', '').replace('\t', '').replace('Bostadsrättslägenhet', '').replace('\xa0', '').strip(
                     ).replace(' ', '').replace('Andelibostadsförening', '').replace(' ', '').split('/')[0].split('-')[0].split('\\')[0].replace('Lägenhet', '')
                     # Not really used in the ML model,
-                    # but adding this data anyways as extra information
+                    # but adding this data anyway as extra information
                     listing['street_address'] = street_address
 
                     if use_google_maps_api:

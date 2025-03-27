@@ -5,6 +5,7 @@ import re
 from IPython.core.oinspect import object_info
 from bs4 import BeautifulSoup
 
+url_booli_uppsala_kommun = 'https://www.booli.se/sok/till-salu?areaIds=1116&objectType=Villa&maxListPrice=7000000&minRooms=3.5'
 
 def Booli_ScrapeObjects(page, object_info):
     request = requests.get(page)
@@ -46,7 +47,7 @@ def Booli_ScrapeObjects(page, object_info):
     return object_info
 
 
-def Booli_ScrapeLinks_wip(url):
+def Booli_ScrapeLinks(url):
     try:
         # Send a GET request to the URL
         response = requests.get(url)
@@ -86,37 +87,6 @@ def Booli_findNumberOfPagesData(url):
         print("No matches found")
         last_number = 0
     return last_number
-
-
-#   Loop through regions
-
-
-def loop_through_regions(data_url,
-                         m2_max,
-                         m2_min,
-                         max_list_price,
-                         min_list_price):
-    object_info = []
-    region = []
-    length = [0]
-    for index, row in data_url.iterrows():
-        # Base URL
-        url = "https://www.booli.se/{}/{}/?maxListPrice={}&maxLivingArea={}&minListPrice={}&minLivingArea={}&objectType=L%C3%A4genhet&page=1&upcomingSale=".format(
-            row["Region"],
-            row["RegionID"],
-            max_list_price,
-            m2_max,
-            min_list_price,
-            m2_min)
-        object_info = Booli_ScrapeObjects(url, object_info)
-        numberOfPages, numberOfObjects = Booli_findNumberOfPagesData(url)
-        for page in range(2, numberOfPages):
-            object_info = Booli_ScrapeObjects(url, object_info)
-            length.append(len(object_info))
-            # Creating a simple vector containing duplicates of regions up to number of object stored for each region
-            for i in range(0, length[len(length) - 1] - length[len(length) - 2]):
-                region.append(row["Region"])
-    return object_info, region
 
 # Clean data
 def cleaning_data(object_info):
@@ -197,5 +167,4 @@ def mssql_connect(server, database, driver):
 
 
 if __name__ == "__main__":
-    url_booli_uppsala_kommun = 'https://www.booli.se/sok/till-salu?areaIds=1116&objectType=Villa&maxListPrice=7000000&minRooms=3.5'
     print(Booli_findNumberOfPagesData(url_booli_uppsala_kommun))

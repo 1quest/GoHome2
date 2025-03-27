@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ETL Button</title>
+</head>
+<body>
+    <h1>Run ETL Process</h1>
+    <form action="{{ url_for('run_etl') }}" method="get">
+        <button type="submit">Refresh data</button>
+    </form>
+</body>
+</html>
